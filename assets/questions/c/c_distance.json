@@ -1,0 +1,301 @@
+[
+  {
+    "id": 53,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "სატვირთო ავტომობილის მოწყობილი ძარით გადასაყვან მგზავრთა რაოდენობა:",
+    "answers": [
+      "განისაზღვრება მძოლის მიერ",
+      "არ უნდა აღემატებოდეს დასასხდომად მოწყობილი ადგილების რიცხვს"
+    ]
+  },
+  {
+    "id": 54,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "თუ ავტომობილი ბორტების დონეზე დაბლა განლაგებული დასაჯდომი ადგილით არის უზრუნველყოფილი, სატვირთო ავტომობილის მოუწყობელი ძარით მგზავრობის უფლება აქვს:",
+    "answers": [
+      "ნებისმიერ სრულწლოვან პირს, გარდა ხანდაზმული პირებისა და ორსული ქალებისა",
+      "მხოლოდ ეკიპაჟის წევრს (სათადარიგო მძღოლს)",
+      "მხოლოდ ტვირთის თანმხლებ ან მის მიმღებ პირს"
+    ]
+  },
+  {
+    "id": 55,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მგზავრთა გადასაყვანი ბორტის პლატფორმიანი სატვირთო ავტომობილით ბავშვთა ჯგუფის გადაყვანისას ბორტების სიმაღლე იატაკიდან არ უნდა იყოს:",
+    "answers": [
+      "0,8 მეტრზე მეტი",
+      "0,8 მეტრზე ნაკლები",
+      "0,3 მეტრზე ნაკლები და 0,5 მეტრზე მეტი",
+      "0,4 მეტრზე ნაკლები და 0,7 მეტრზე მეტი"
+    ]
+  },
+  {
+    "id": 56,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "სატვირთო ავტომობილის მოწყობილი ძარით მგზავრთა გადაყვანა ნებადართულია:",
+    "answers": [
+      "მხოლოდ დგომით მდგომარეობაში",
+      "მხოლოდ ჯდომით მდგომარეობაში",
+      "როგორც დგომით, ასევე ჯდომით მდგომარეობაში"
+    ]
+  },
+  {
+    "id": 57,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "სატვირთო ავტომობილის მოწყობილი ძარით ბავშვთა ჯგუფის გადაყვანისას, მათ უნდა ახლდეთ სრულწლოვანი გამცილებელი არანაკლებ:",
+    "answers": [
+      "ორისა",
+      "სამისა",
+      "ოთხისა"
+    ]
+  },
+  {
+    "id": 58,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "დასახლებულ პუნქტში, ნორმალური მოძრაობის პირობებში ერთმანეთის მიყოლებით მოძრავი სატრანსპორტო საშუალებათა შორის არსებული დისტანციის დასაფარად საჭირო დრო უნდა იყოს:",
+    "answers": [
+      "არა უმეტეს 2 წამისა",
+      "არანაკლებ 2 წამისა",
+      "არა უმეტეს 5 წამისა",
+      "არანაკლებ 7 წამისა"
+    ]
+  },
+  {
+    "id": 59,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "დასახლებულ პუნქტში, მოყინულ გზაზე, ერთმანეთის მიყოლებით მოძრავი სატრანსპორტო საშუალებათა შორის არსებული დისტანციის დასაფარად საჭირო დრო უნდა იყოს:",
+    "answers": [
+      "არა უმეტეს 2 წამისა",
+      "არანაკლებ 4 წამისა",
+      "არანაკლებ 6 წამისა",
+      "არანაკლებ 9 წამისა"
+    ]
+  },
+  {
+    "id": 60,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "დაუსახლებულ პუნქტში, მოყინულ გზაზე, ერთმანეთის მიყოლებით მოძრავი სატრანსპორტო საშუალებათა შორის არსებული დისტანციის დასაფარად საჭირო დრო უნდა იყოს:",
+    "answers": [
+      "არა უმეტეს 4 წამისა",
+      "არანაკლებ 6 წამისა",
+      "არანაკლებ 9 წამისა",
+      "12 წამზე ნაკლები"
+    ]
+  },
+  {
+    "id": 61,
+    "correctAnswer": 3,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "ჩამოთვლილიდან, რომელი შეიძლება გახდეს სატრანსპორტო საშუალებაზე უკნიდან შეჯახების მიზეზი?",
+    "answers": [
+      "მხოლოდ წინ მიმავალი სატრანსპორტო საშუალების უეცარი და მკვეთრი დამუხრუჭება",
+      "მხოლოდ წინ მიმავალ სატრანსპორტო საშუალებასთან არსათანადოდ დაცული დისტანცია",
+      "მხოლოდ მძღოლის უყურადღებობა",
+      "ამ ბილეთში ჩამოთვლილი ნებისმიერი გარემოება"
+    ]
+  },
+  {
+    "id": 62,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "„სამუხრუჭო მანძილი“ არის:",
+    "answers": [
+      "გზაზე მოძრაობის შენელების ზოლის სიგრძე",
+      "კანონმდებლობით დადგენილი მაქსიმალური მანძილი, რომლის ფარგლებშიც სავალდებულოა განხორციელდეს სატრანსპორტო საშუალების გაჩერება",
+      "მანძილი, რომელსაც გადის სატრანსპორტო საშუალება მუხრუჭების ამოქმედებიდან სრულ გაჩერებამდე"
+    ]
+  },
+  {
+    "id": 63,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "ჩართული ლურჯი მოელვარე სპეციალური ციმციმა და ხმოვანი სიგნალებით მოძრავ სპეციალური სამსახურის სატრანსპორტო საშუალების მძღოლს მინიჭებული პრიორიტეთით სარგებლობის უფლება აქვს:",
+    "answers": [
+      "ამ ბილეთში ჩამოთვლილ არცერთ შემთხვევაში",
+      "ნებისმიერ შემთხვევაში, მიუხედავად იმისა უთმობენ, თუ არა მას გზას სხვა საგზაო მოძრაობის მონაწილეები",
+      "მხოლოდ მაშინ, როცა იგი დარწმუნდება, რომ მას გზას უთმობენ"
+    ]
+  },
+  {
+    "id": 64,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "რომელი ავტომობილის მძღოლს წარმოექმნება გზის დათმობის ვალდებულება ისრის მიმართულებით მოძრაობის შემთხვევაში, თუ სასწრაფო სამედიცინო დახმარების ავტომობილს ჩართული არა აქვს ლურჯი მოელვარე სპეციალური ციმციმა სიგნალი?",
+    "answers": [
+      "სატვირთო ავტომობილის მძღოლს",
+      "სასწრაფო სამედიცინო დახმარების მძღოლს"
+    ]
+  },
+  {
+    "id": 65,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მკვეთრი დამუხრუჭებით სატრანსპორტო საშუალების გაჩერება დასაშვებია:",
+    "answers": [
+      "მხოლოდ მარეგულირებლის მიერ სატრანსპორტო საშუალების გაჩერების მოთხოვნის შემთხვევაში",
+      "მხოლოდ შუქნიშნის წითელი და ყვითელი მაშუქი სიგნალების ერთობლივად ჩართვის შემთხვევაში",
+      "მხოლოდ საგზაო-სატრანსპორტო შემთხვევის თავიდან აცილების მიზნით",
+      "ამ ბილეთში ჩამოთვლილ ნებისმიერ შემთხვევაში"
+    ]
+  },
+  {
+    "id": 66,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მექანიკური გადაცემათა კოლოფის მქონე სატრანსპორტო საშუალების ციცაბო დაღმართზე მოძრაობისას დამუხრუჭების ეფექტური ხერხია:",
+    "answers": [
+      "პერიოდული მკვეთრი დამუხრუჭება გამორთული გადაბმულობით",
+      "პერიოდული მდორე დამუხრუჭება ჩართული გადაბმულობითა და გადაცემათა კოლოფით",
+      "დამუხუჭება ძრავით"
+    ]
+  },
+  {
+    "id": 67,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მექანიკური გადაცემათა კოლოფის მქონე ავტომობილის მკვეთრ დაღმართზე ძრავით დამუხრუჭებისას მძღოლმა გადაცემის შერჩევისას უნდა გაითვალისწინოს რომ:",
+    "answers": [
+      "რაც უფრო მკვეთრია დაღმართი, მით უფრო მაღალი უნდა იყოს გადაცემა",
+      "რაც უფრო მკვეთრია დაღმართი, მით უფრო დაბალი უნდა იყოს გადაცემა",
+      "გადაცემის შერჩევა დამოკიდებული არ არის დაღმართის სიმკვეთრეზე"
+    ]
+  },
+  {
+    "id": 68,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "ექსტრემალურ სიტუაციაში სატრანსპორტო საშუალების გაჩერებისას სამუხრუჭე მანძილის შემცირება მძღოლმა უნდა მოახდინოს:",
+    "answers": [
+      "ერთჯერადი მკვეთრი დამუხრუჭებით თვლების სრულ ბლოკირებამდე",
+      "თვლების ბლოკირების ზღვარზე მრავალჯერადი მკვეთრი ზემოქმედებით მუხრუჭის სატერფულზე"
+    ]
+  },
+  {
+    "id": 69,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "სატრანსპორტო საშუალების მოძრაობის სიჩქარის გაზრდისას საბურავის გზასთან ჩაჭიდების ძალა:",
+    "answers": [
+      "იზრდება",
+      "მცირდება",
+      "არ იცვლება"
+    ]
+  },
+  {
+    "id": 70,
+    "correctAnswer": 3,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "რაზეა დამოკიდებული სატრანსპორტო საშუალების სამუხრუჭო მანძილი?",
+    "answers": [
+      "მხოლოდ სატრანსპორტო საშუალების სიჩქარეზე",
+      "მხოლოდ გზის საფარის მდგომარეობაზე",
+      "მხოლოდ სატრანსპორტო საშუალების საბურავების ცვეთაზე",
+      "ამ ბილეთში ჩამოთვლილ ნებისმიერ გარემოებაზე"
+    ]
+  },
+  {
+    "id": 71,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "ციცაბო დაღმართზე მოძრაობისას, მექანიკური გადაცემათა კოლოფის მქონე სატრანსპორტო საშუალების ხანგრძლივმა დამუხრუჭებამ გამორთული გადაბმულობით შეიძლება გამოიწვიოს:",
+    "answers": [
+      "საჭით მართვის მექანიზმის მწყობრიდან გამოსვლა",
+      "სამუხრუჭე სისტემის გადახურება და დამუხრუჭების ეფექტურობის შემცირება",
+      "სამუხრუჭო მანძილის შემცირება",
+      "ამ ბილეთში ჩამოთვლილი ნებისმიერი გარემოება"
+    ]
+  },
+  {
+    "id": 72,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "თუ ავტომობილის მარჯვენა თვლები გადავიდა არამდგრადი და სველი საფარის მქონე გვერდულზე, მიზანშეწონილია:",
+    "answers": [
+      "ავტომობილის მკვეთრი დამუხრუჭება მის სრულ გაჩერებამდე",
+      "დამუხრუჭების გარეშე ავტომობილის მდორედ დაბრუნება გზის სავალ ნაწილზე",
+      "სიჩქარის გაზრდა და ავტომობილის მიმართვა მარცხენა მხარეს"
+    ]
+  },
+  {
+    "id": 73,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "თუ ავტომობილი აღჭურვილია მუხრუჭების ბლოკირების საწინააღმდეგო სისტემით (ABS):",
+    "answers": [
+      "მძღოლს შეუძლია დამუხრუჭება დაიწყოს მოგვიანებით, რადგან სამუხრუჭო მანძილი მცირდება",
+      "მატულობს სამუხრუჭო სისტემის სიმძლავრე",
+      "ასეთი ავტომობილი დამუხრუჭებისას უკეთ მართვადია"
+    ]
+  }
+]

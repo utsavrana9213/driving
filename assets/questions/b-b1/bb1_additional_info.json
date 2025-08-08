@@ -1,0 +1,271 @@
+[
+  {
+    "id": 1,
+    "correctAnswer": 1,
+    "imageUrl": "assets/Qimages/B/q2.png",
+    "correctVideo": "assets/videos/correct_1.mp4",
+    "wrongVideo": "assets/videos/wrong_1.mp4",
+    "previewVideo": "assets/videos/preview_1.mp4",
+    "question": "მოცემული დაფებიდან რომელი მიუთითებს მანძილს ნიშნიდან სახიფათო მონაკვეთის დასაწყისამდე, სათანადო შეზღუდვის შემოტანის ადგილამდე ან წინ, მოძრაობის მიმართულებით არსებულ გარკვეულ ობიექტამდე (ადგილამდე)?",
+    "answers": [
+      "1\nII",
+      "2\nI",
+      "3\nIV",
+      "4\nIII"
+    ]
+  },
+  {
+    "id": 2,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_2.mp4",
+    "wrongVideo": "assets/videos/wrong_2.mp4",
+    "previewVideo": "assets/videos/preview_2.mp4",
+    "question": "მოცემული დამატებითი ინფორმაციის ნიშნები (დაფები) მიუთითებენ:",
+    "answers": [
+      "1\nგზაჯვარედინის წინ დადგმული ნიშნის მოქმედების მიმართულებას",
+      "2\nმანძილს ნიშნიდან სახიფათო მონაკვეთის დასაწყისამდე",
+      "3\nმანძილს გზის მიღმა (მოშორებით) მდებარე ობიექტამდე"
+    ]
+  },
+  {
+    "id": 3,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_3.mp4",
+    "wrongVideo": "assets/videos/wrong_3.mp4",
+    "previewVideo": "assets/videos/preview_3.mp4",
+    "question": "მოცემული დამატებითი ინფორმაციის ნიშანი (დაფა) მიუთითებს:",
+    "answers": [
+      "1\nმანძილს ნიშნიდან სახიფათო მონაკვეთის დასაწყისამდე",
+      "2\nგამაფრთხილებელი ნიშნებით აღნიშნული გზის სახიფათო მონაკვეთის სიგრძეს, ან ამკრძალავი და საინფორმაციო–მაჩვენებელი ნიშნების მოქმედების ზონას",
+      "3\nგზაჯვარედინის წინ დადგმული ნიშნის მოქმედების მიმართულებას"
+    ]
+  },
+  {
+    "id": 4,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_4.mp4",
+    "wrongVideo": "assets/videos/wrong_4.mp4",
+    "previewVideo": "assets/videos/preview_4.mp4",
+    "question": "მოცემული დამატებითი ინფორმაციის ნიშნებიდან (დაფებიდან) რომელი მიუთითებს დგომა-გაჩერების ამკრძალავი ნიშნების მოქმედების ზონას?",
+    "answers": [
+      "1\nმხოლოდ I და III",
+      "2\nმხოლოდ I",
+      "3\nმხოლოდ II",
+      "4\nმხოლოდ III"
+    ]
+  },
+  {
+    "id": 5,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_5.mp4",
+    "wrongVideo": "assets/videos/wrong_5.mp4",
+    "previewVideo": "assets/videos/preview_5.mp4",
+    "question": "მოცემული დამატებითი ინფორმაციის ნიშანი (დაფა) მიუთითებს:",
+    "answers": [
+      "1\nმანძილს ნიშნიდან სახიფათო მონაკვეთის დასაწყისამდე",
+      "2\nგაჩერების ამკრძალავი ნიშნის მოქმედების ზონის დასასრულზე",
+      "3\nმანძილს გზის სხვა მხარეს მდებარე ობიექტამდე"
+    ]
+  },
+  {
+    "id": 6,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_6.mp4",
+    "wrongVideo": "assets/videos/wrong_6.mp4",
+    "previewVideo": "assets/videos/preview_6.mp4",
+    "question": "მოცემული დამატებითი ინფორმაციის ნიშნებიდან (დაფებიდან) რომელი მიუთითებს დგომა-გაჩერების ამკრძალავი ნიშნების მოქმედების ზონას მოედნის, შენობის, ფასადისა და ა. შ. ერთი მხარის გასწვრივ?",
+    "answers": [
+      "1\nმხოლოდ II და IV",
+      "2\nმხოლოდ I და III",
+      "3\nმხოლოდ II",
+      "4\nმხოლოდ IV"
+    ]
+  },
+  {
+    "id": 7,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_7.mp4",
+    "wrongVideo": "assets/videos/wrong_7.mp4",
+    "previewVideo": "assets/videos/preview_7.mp4",
+    "question": "მოცემული დამატებითი ინფორმაციის ნიშნებიდან (დაფებიდან) რომელი მიუთითებს გზაჯვარედინის წინ დადგმული ნიშნის მოქმედების მიმართულებას ან მოძრაობის მიმართულებას უშუალოდ გზასთან მდებარე აღნიშნული ობიექტისაკენ?",
+    "answers": [
+      "1\nმხოლოდ I",
+      "2\nმხოლოდ I და III",
+      "3\nმხოლოდ II",
+      "4\nმხოლოდ II და III"
+    ]
+  },
+  {
+    "id": 8,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_8.mp4",
+    "wrongVideo": "assets/videos/wrong_8.mp4",
+    "previewVideo": "assets/videos/preview_8.mp4",
+    "question": "მოცემული საგზაო ნიშნების კომბინაციიდან, რომლის მოქმედება ვრცელდება მხოლოდ მსუბუქ ავტომობილზე?",
+    "answers": [
+      "1\nმხოლოდ IV",
+      "2\nმხოლოდ I და III",
+      "3\nმხოლოდ II და IV",
+      "4\nმხოლოდ I"
+    ]
+  },
+  {
+    "id": 9,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_9.mp4",
+    "wrongVideo": "assets/videos/wrong_9.mp4",
+    "previewVideo": "assets/videos/preview_9.mp4",
+    "question": "მოცემული საგზაო ნიშნების კომბინაციიდან, რომლის მოქმედება ვრცელდება სამუშაო დღეებში?",
+    "answers": [
+      "1\nმხოლოდ III",
+      "2\nმხოლოდ I და IV",
+      "3\nმხოლოდ II და III",
+      "4\nმხოლოდ I"
+    ]
+  },
+  {
+    "id": 10,
+    "correctAnswer": 3,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_10.mp4",
+    "wrongVideo": "assets/videos/wrong_10.mp4",
+    "previewVideo": "assets/videos/preview_10.mp4",
+    "question": "მოცემული საგზაო ნიშნების კომბინაციიდან, რომელი მიუთითებს კვირის დღეებზე, როცა მოქმედებს ნიშანი?",
+    "answers": [
+      "1\nმხოლოდ III და IV",
+      "2\nმხოლოდ I",
+      "3\nმხოლოდ II და III",
+      "4\nყველა"
+    ]
+  },
+  {
+    "id": 11,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_11.mp4",
+    "wrongVideo": "assets/videos/wrong_11.mp4",
+    "previewVideo": "assets/videos/preview_11.mp4",
+    "question": "მოცემული საგზაო ნიშნების კომბინაციიდან, რომლის მოქმედება არ ვრცელდება სატრანსპორტო საშუალებებზე, რომლებზედაც დადგმულია საცნობი ნიშანი „შეზღუდული შესაძლებლობის მქონე პირი”?",
+    "answers": [
+      "1\nმხოლოდ I",
+      "2\nმხოლოდ II",
+      "3\nორივეს"
+    ]
+  },
+  {
+    "id": 12,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_12.mp4",
+    "wrongVideo": "assets/videos/wrong_12.mp4",
+    "previewVideo": "assets/videos/preview_12.mp4",
+    "question": "მოცემული საგზაო ნიშნების კომბინაცია მძღოლს მიუთითებს, რომ გასწრება აკრძალულია:",
+    "answers": [
+      "1\nდღე-ღამის ბნელ დროს",
+      "2\nღრუბლიან ამინდში",
+      "3\nროცა გზის სავალი ნაწილის საფარი სველია"
+    ]
+  },
+  {
+    "id": 13,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_13.mp4",
+    "wrongVideo": "assets/videos/wrong_13.mp4",
+    "previewVideo": "assets/videos/preview_13.mp4",
+    "question": "მოცემული საგზაო ნიშანი:",
+    "answers": [
+      "1\nავალდებულებს მძღოლს გზა დაუთმოს გადასაკვეთ გზაზე მოძრავ სატრანსპორტო საშუალებას",
+      "2\nუკრძალავს მძღოლს მოძრაობის გაგრძელებას გაუჩერებლად",
+      "3\nმიუთითებს სატრანსპორტო საშუალების გაჩერების ადგილს, რეგულირებად გზაჯვარედინებსა და არარეგულირებად სარკინიგზო გადასასვლელებზე"
+    ]
+  },
+  {
+    "id": 14,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_14.mp4",
+    "wrongVideo": "assets/videos/wrong_14.mp4",
+    "previewVideo": "assets/videos/preview_14.mp4",
+    "question": "მოცემული საგზაო ნიშნების კომბინაცია მძღოლს მიუთითებს, რომ:",
+    "answers": [
+      "1\nნიშნიდან 300 მეტრის მანძილზე მძღოლი ვალდებულია გზა დაუთმოს შემხვედრ სატრანსპორტო საშუალებას",
+      "2\nნიშნიდან 300 მეტრის შემდეგ მდებარეობს გზის ვიწრო მონაკვეთი, სადაც მძღოლი ვალდებულია, გზა დაუთმოს შემხვედრ სატრანსპორტო საშუალებას",
+      "3\nიწყება ორმხრივმოძრაობიანი გზის მონაკვეთი და 300 მეტრის მანძილზე მძღოლი ვალდებულია, გზა დაუთმოს შემხვედრ სატრანსპორტო საშუალებას"
+    ]
+  },
+  {
+    "id": 15,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_15.mp4",
+    "wrongVideo": "assets/videos/wrong_15.mp4",
+    "previewVideo": "assets/videos/preview_15.mp4",
+    "question": "მოცემული საგზაო ნიშნები მძღოლს აწვდის ინფორმაციას, რომ ნიშნის დადგმის ადგილიდან წინ:",
+    "answers": [
+      "1\n400 მეტრის მანძილზე უსწორმასწორო გზაა, სადაც რეკომენდებულია მოძრაობა 30 კმ/სთ-ში სიჩქარით",
+      "2\n400 მეტრის შემდეგ იწყება უსწორმასწორო გზა, სადაც რეკომენდებულია მოძრაობა 30 კმ/სთ-ში სიჩქარით",
+      "3\n150-300 მეტრის შემდეგ იწყება 400 მეტრის სიგრძის უსწორმასწორო გზა, სადაც რეკომენდებულია მოძრაობა 30 კმ/სთ-ში სიჩქარით"
+    ]
+  },
+  {
+    "id": 16,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემულ სიტუაციაში, ეკრძალება თუ არა თეთრი ავტომობილის მძღოლს ისრის მიმართულებით მოძრაობა?",
+    "answers": [
+      "1\nეკრძალება",
+      "2\nარ ეკრძალება"
+    ]
+  },
+  {
+    "id": 17,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემულ სიტუაციაში, ეკრძალება თუ არა ყვითელი ავტომობილის მძღოლს ისრის მიმართულებით მოძრაობა?",
+    "answers": [
+      "1\nეკრძალება",
+      "2\nარ ეკრძალება"
+    ]
+  },
+  {
+    "id": 18,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემული საგზაო ნიშანი მძღოლს მიუთითებს, რომ ნიშნების დადგმის ადგილიდან წინ:",
+    "answers": [
+      "1\n300 მეტრის მანძილზე მოძრაობა აკრძალულია 50 კმ/სთ მეტი სიჩქარით",
+      "2\n300 მეტრის შემდეგ მოძრაობა აკრძალულია 50 კმ/სთ მეტი სიჩქარით"
+    ]
+  },
+  {
+    "id": 19,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემული საგზაო ნიშნების კომბინაცია მძღოლს მიუთითებს, რომ ნიშნების დადგმის ადგილიდან წინ:",
+    "answers": [
+      "1\n300 მეტრის მანძილზე მოძრაობა ნებადართულია, არაუმეტეს 50 კმ/სთ სიჩქარით",
+      "2\n300 მეტრის შემდეგ მოძრაობა ნებადართულია, არაუმეტეს 50 კმ/სთ სიჩქარით"
+    ]
+  }
+]

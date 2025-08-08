@@ -1,0 +1,127 @@
+[
+  {
+    "id": 495,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct.mp4",
+    "wrongVideo": "assets/videos/wrong.mp4",
+    "previewVideo": "assets/videos/preview.mp4",
+    "question": "რომელი საგზაო მოძრაობის მონაწილეს მიმართ წარმოექმნება გზის დათმობის ვალდებულება მსუბუქი ავტომობილის მძღოლს ისრის მიმართულებით მოძრაობის შემთხვევაში:",
+    "answers": [
+      "მხოლოდ მოტოციკლის მძღოლის მიმართ",
+      "მხოლოდ ქვეითის მიმართ",
+      "როგორც მოტოციკლის მძღოლის, ასევე ქვეითის მიმართ"
+    ]
+  },
+  {
+    "id": 496,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct.mp4",
+    "wrongVideo": "assets/videos/wrong.mp4",
+    "previewVideo": "assets/videos/preview.mp4",
+    "question": "თუ ხილვადობის ზონაში არ არის ქვეითთა გადასასვლელი ან გზაჯვარედინი, ქვეითის გზაზე გადასვლა ნებადართულია გზის სავალი ნაწილის ღერძის პერპენდიკულარულად, იმ მონაკვეთში, სადაც:",
+    "answers": [
+      "გამყოფი ზოლია და გზა ორივე მხრიდან კარგად ჩანს",
+      "არ არის გამყოფი ზოლი ან ღობურა და გზა ორივე მხრიდან კარგად ჩანს"
+    ]
+  },
+  {
+    "id": 497,
+    "correctAnswer": 3,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct.mp4",
+    "wrongVideo": "assets/videos/wrong.mp4",
+    "previewVideo": "assets/videos/preview.mp4",
+    "question": "რომელი საგზაო მოძრაობის მონაწილეს მიმართ წარმოექმნება გზის დათმობის ვალდებულება მსუბუქი ავტომობის მძღოლს ისრის მიმართულებით მოძრაობის შემთხვევაში?",
+    "answers": [
+      "მხოლოდ ქვეითების მიმართ",
+      "მხოლოდ ველოსიპედის მძღოლის მიმართ",
+      "მხოლოდ სატვირთო ავტომობილის მძღოლის მიმართ",
+      "როგორც ქვეითების, ასევე ველოსიპედისა და სატვირთო ავტომობილის მძღოლების მიმართ"
+    ]
+  },
+  {
+    "id": 498,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct.mp4",
+    "wrongVideo": "assets/videos/wrong.mp4",
+    "previewVideo": "assets/videos/preview.mp4",
+    "question": "აქვთ თუ არა უფლება საცხოვრებელ ზონაში მოძრავ ქვეითებს უსაფუძვლოდ შეაფერხონ თეთრი ავტომობილის მოძრაობა?",
+    "answers": [
+      "აქვთ უფლება, ვინაიდან საცხოვრებელ ზონაში ქვეითს უპირატესობა აქვს სხვა საგზაო მოძრაობის მონაწილეების მიმართ",
+      "არ აქვთ უფლება"
+    ]
+  },
+  {
+    "id": 499,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct.mp4",
+    "wrongVideo": "assets/videos/wrong.mp4",
+    "previewVideo": "assets/videos/preview.mp4",
+    "question": "საცხოვრებელ ზონაში მსუბუქი ავტომობილის მძღოლს უფლება აქვს იმოძრაოს არაუმეტეს:",
+    "answers": [
+      "20 კმ/სთ სიჩქარით",
+      "40 კმ/სთ სიჩქარით",
+      "60 კმ/სთ სიჩქარით"
+    ]
+  },
+  {
+    "id": 500,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct.mp4",
+    "wrongVideo": "assets/videos/wrong.mp4",
+    "previewVideo": "assets/videos/preview.mp4",
+    "question": "რომელი ავტომობილს მძღოლს წარმოექმნება გზის დათმობის ვალდებულება ისრის მიმართულებით მოძრაობის შემთხვევაში?",
+    "answers": [
+      "მსუბუქი ავტომობილის მძღოლს",
+      "ავტობუსის მძღოლს"
+    ]
+  },
+  {
+    "id": 501,
+    "correctAnswer": 3,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct.mp4",
+    "wrongVideo": "assets/videos/wrong.mp4",
+    "previewVideo": "assets/videos/preview.mp4",
+    "question": "რომელი საგზაო მოძრაობის მონაწილეს მიმართ წარმოექმნება გზის დათმობის ვალდებულება მსუბუქი ავტომობის მძღოლს ისრის მიმართულებით მოძრაობის შემთხვევაში?",
+    "answers": [
+      "მხოლოდ ქვეითების მიმართ",
+      "მხოლოდ ველოსიპედის მძღოლის მიმართ",
+      "მხოლოდ მოპედის მძღოლის მიმართ",
+      "როგორც ქვეითების, ასევე ველოსიპედისა და მოპედის მძღოლების მიმართ"
+    ]
+  },
+  {
+    "id": 502,
+    "correctAnswer": 3,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct.mp4",
+    "wrongVideo": "assets/videos/wrong.mp4",
+    "previewVideo": "assets/videos/preview.mp4",
+    "question": "ქვემოთ ჩამოთვლილი რომელი ქმედების განხორციელება არ არის აკრძალული ქვეითთა ზონებად გამოცხადებულ ადგილებში და საცხოვრებელ ზონებში?",
+    "answers": [
+      "ავტოსატრანსპორტო საშუალებათა გამჭოლი მოძრაობა",
+      "სასწავლო სვლა",
+      "ჩართული ძრავით სატრანსპორტო საშუალების დგომა",
+      "იმ ავტომობილით გადაადგილება, რომლის კონსტრუქციული სიჩქარე აღემატება 120 კმ/სთ"
+    ]
+  },
+  {
+    "id": 503,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct.mp4",
+    "wrongVideo": "assets/videos/wrong.mp4",
+    "previewVideo": "assets/videos/preview.mp4",
+    "question": "ქვეითთა ზონებად გამოცხადებულ ადგილებში და საცხოვრებელ ზონებში სხვა საგზაო მოძრაობის მონაწილეთა მიმართ მოძრაობის უპირატესობა ენიჭებათ:",
+    "answers": [
+      "მძღოლებს",
+      "ქვეითებს"
+    ]
+  }
+]

@@ -1,0 +1,201 @@
+[
+  {
+    "id": 574,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "question": "სურათზე მითითებულ ადგილას ავტომობილის იძულებით გაჩერების შემთხვევაში მძღოლმა:",
+    "answers": [
+      "1\nმხოლოდ უნდა ჩართოს საავარიო შუქსიგნალიზაცია",
+      "2\nმხოლოდ შესაბამისი ნიშნით უნდა მონიშნოს ავტომობილი საკმარის მანძილზე",
+      "3\nუნდა ჩართოს საავარიო შუქსიგნალიზაცია და შესაბამისი ნიშნით მონიშნოს ავტომობილი საკმარის მანძილზე"
+    ],
+    "correctVideo": "assets/videos/correct_588.mp4",
+    "wrongVideo": "assets/videos/wrong_588.mp4",
+    "previewVideo": "assets/videos/preview_588.mp4"
+  },
+  {
+    "id": 575,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "question": "გზაზე გასასვლელ ადგილზე გაქანების ზოლის არსებობის შემთხვევაში, მსუბუქი ავტომობილის მძღოლს უფლება აქვს იმოძრაოს:",
+    "answers": [
+      "1\nმხოლოდ A მიმართულებით",
+      "2\nმხოლოდ B მიმართულებით",
+      "3\nროგორც A, ასევე B მიმართულებით"
+    ],
+    "correctVideo": "assets/videos/correct_589.mp4",
+    "wrongVideo": "assets/videos/wrong_589.mp4",
+    "previewVideo": "assets/videos/preview_589.mp4"
+  },
+  {
+    "id": 576,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "question": "წითელი ავტომობილის მძღოლი გასცდა მარჯვნივ მოსახვევს. ეკრძალება თუ არა მას მოსახვევში შესასვლელად ისრის მიმართულებით უკუსვლით მოძრაობა?",
+    "answers": [
+      "1\nეკრძალება",
+      "2\nარ ეკრძალება"
+    ],
+    "correctVideo": "assets/videos/correct_590.mp4",
+    "wrongVideo": "assets/videos/wrong_590.mp4",
+    "previewVideo": "assets/videos/preview_590.mp4"
+  },
+  {
+    "id": 577,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "question": "მსუბუქი ავტომობილის მძღოლი გასცდა სავალი ნაწილების განივი შეერთების ადგილს. ეკრძალება თუ არა მას ისრის მიმართულებით უკუსვლით მოძრაობა?",
+    "answers": [
+      "1\nეკრძალება",
+      "2\nარ ეკრძალება"
+    ],
+    "correctVideo": "assets/videos/correct_591.mp4",
+    "wrongVideo": "assets/videos/wrong_591.mp4",
+    "previewVideo": "assets/videos/preview_591.mp4"
+  },
+  {
+    "id": 578,
+    "correctAnswer": 3,
+    "imageUrl": "assets/images/image.png",
+    "question": "ქვემოთ ჩამოთვლილი, რომელი საგზაო მოძრაობის მონაწილეებს არ ეკრძალებათ ავტომაგისტრალებზე, აგრეთვე ავტომაგისტრალების შესასვლელებზე და გამოსასვლელებზე მოძრაობა?",
+    "answers": [
+      "1\nმოპედის მძღოლებს",
+      "2\nქვეითებს",
+      "3\nორბორბლიანი ელექტროთვითმგორავების მძღოლებს",
+      "4\nავტომატარებლების მძღოლებს"
+    ],
+    "correctVideo": "assets/videos/correct_592.mp4",
+    "wrongVideo": "assets/videos/wrong_592.mp4",
+    "previewVideo": "assets/videos/preview_592.mp4"
+  },
+  {
+    "id": 579,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "question": "ავტომაგისტრალზე შესასვლელად მსუბუქი ავტომობილის მძღოლს უფლება აქვს იმოძრაოს:",
+    "answers": [
+      "1\nმხოლოდ A მიმართულებით",
+      "2\nმხოლოდ B მიმართულებით",
+      "3\nროგორც A, ასევე B მიმართულებით"
+    ],
+    "correctVideo": "assets/videos/correct_593.mp4",
+    "wrongVideo": "assets/videos/wrong_593.mp4",
+    "previewVideo": "assets/videos/preview_593.mp4"
+  },
+  {
+    "id": 580,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "question": "არღვევს თუ არა საგზაო მოძრაობის წესებს მსუბუქი ავტომობილის მძღოლი ავტომაგისტრალზე მითითებულ ადგილას იძულებით გაჩერების შემთხვევაში?",
+    "answers": [
+      "1\nარ არღვევს",
+      "2\nარღვევს"
+    ],
+    "correctVideo": "assets/videos/correct_594.mp4",
+    "wrongVideo": "assets/videos/wrong_594.mp4",
+    "previewVideo": "assets/videos/preview_594.mp4"
+  },
+  {
+    "id": 581,
+    "correctAnswer": 3,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_580.mp4",
+    "wrongVideo": "assets/videos/wrong_580.mp4",
+    "previewVideo": "assets/videos/preview_580.mp4",
+    "question": "სატვირთო ავტომობილის მძღოლი ასრულებს საგზაო-სარემონტო სამუშაოებს. რომელი ავტომობილის მძღოლს ეკრძალება ისრის მიმართულებით მოძრაობა?",
+    "answers": [
+      "1\nმხოლოდ სატვირთო ავტომობილის მძღოლს",
+      "2\nმხოლოდ მსუბუქი ავტომობილის მძღოლს",
+      "3\nორივე ავტომობილის მძღოლს",
+      "4\nარცერთი ავტომობილის მძღოლს"
+    ]
+  },
+  {
+    "id": 582,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_581.mp4",
+    "wrongVideo": "assets/videos/wrong_581.mp4",
+    "previewVideo": "assets/videos/preview_581.mp4",
+    "question": "მოცემულ სიტუაციაში, არღვევს თუ არა მსუბუქი ავტომობილის მძღოლი სატრანსპორტო საშუალების იძულებით გაჩერების წესებს?",
+    "answers": [
+      "1\nარ არღვევს",
+      "2\nარღვევს"
+    ]
+  },
+  {
+    "id": 583,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_582.mp4",
+    "wrongVideo": "assets/videos/wrong_582.mp4",
+    "previewVideo": "assets/videos/preview_582.mp4",
+    "question": "ტექნოლოგიური მანქანების ხვედრით წინააღმდეგობაზე მოქმედებენ შემდეგი ფაქტორები:",
+    "answers": [
+      "1\nა) ორგანიზაციული; ბ) სამეურნეო; გ) კონსტრუქციული",
+      "2\nა) ბუნებრივ-კლიმატური; ბ) კონსტრუქციული; გ) საექსპლოატაციო",
+      "3\nა) ბუნებრივ-კლიმატური; ბ) კონსტრუქციული",
+      "4\nა) კონსტრუქციული; ბ) საექსპლოატაციო"
+    ]
+  },
+  {
+    "id": 584,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_583.mp4",
+    "wrongVideo": "assets/videos/wrong_583.mp4",
+    "previewVideo": "assets/videos/preview_583.mp4",
+    "question": "ძრავის ძირითად მახასიათებლებს წარმოადგენენ:",
+    "answers": [
+      "1\nეფექტური სიმძლავრე, მაბრუნი მომენტი, საწვავი კამერის მოცულობა, საწვავის საათური ხარჯი, საწვავის ხვედრითი ხარჯი",
+      "2\nბრუნვის სიხშირე, ეფექტური სიმძლავრე, მაბრუვი მომენტი, საწვავის საათური ხარჯი, საწვავის ხვედრითი ხარჯი",
+      "3\nსაწვავი კამერის მოცულობა, კუმშვის ხარისხი, დგუშის სვლის სიგრძე, ცილინდრების რაოდენობა",
+      "4\nცილინდრების განლაგება, საწვავი კამერის მოცულობა, კუმშვის ხარისხი, დგუშის სვლის სიგრძე"
+    ]
+  },
+  {
+    "id": 585,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_584.mp4",
+    "wrongVideo": "assets/videos/wrong_584.mp4",
+    "previewVideo": "assets/videos/preview_584.mp4",
+    "question": "აგრეგატის მანევრულობა ითვალისწინებს:",
+    "answers": [
+      "1\nა) მოძრაობის სიჩქარეს; ბ) მობრუნების რადიუსს; გ) გადაბრუნებისადმი მდგრადობას",
+      "2\nა) სატრანსპორტო სიჩქარეს; ბ) მოძრაობის მდგრადობას; გ) მართვადობას; დ) გამავლობას",
+      "3\nა) მოხვევის უნარს; ბ) მოძრაობის მდგრადობას; გ) მართვადობას; დ) გამავლობას",
+      "4\nა) წევით სიმძლავრეს; ბ) მოძრაობის მდგრადობას; გ) მართვადობას"
+    ]
+  },
+  {
+    "id": 586,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_585.mp4",
+    "wrongVideo": "assets/videos/wrong_585.mp4",
+    "previewVideo": "assets/videos/preview_585.mp4",
+    "question": "მუშა სვლების მიმართულების მიხედვით აგრეგატის მოძრაობის სახეებია:",
+    "answers": [
+      "1\nმაქოსებრი, კომბინირებული და საქცევური",
+      "2\nსაქცევური და წრიული",
+      "3\nდიაგონალური და საქცევური",
+      "4\nსაქცევური, დიაგონალური და წრიული"
+    ]
+  },
+  {
+    "id": 587,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_586.mp4",
+    "wrongVideo": "assets/videos/wrong_586.mp4",
+    "previewVideo": "assets/videos/preview_586.mp4",
+    "question": "მანქანათა ტექნიკური დათვალიერება (შემოწმება) წარმოადგენს:",
+    "answers": [
+      "1\nმანქანის ტექნიკური მდგომარეობის გამოკვლევის პროცესს კვანძების დაშლის გარეშე, რის საფუძველზედაც კეთდება დასკვნა მანქანის ფაქტიური ტექნიკური მდგომარეობის შესახებ",
+      "2\nმანქანის ტექნიკური მომსახურების შემდეგ მის შემოწმებას საკონტროლო გავლისას",
+      "3\nმანქანის ძირითადი კვანძების მდგომარეობის დადგენას გარეგანი მონაცემების საფუძველზე",
+      "4\nმანქანის ტექნიკური მდგომარეობის გამოკვლევის პროცესს კვანძების დაშლის გარეშე, რის საფუძველზედაც კეთდება დასკვნა მანქანის ჩამოწერის შესახებ"
+    ]
+  }
+]

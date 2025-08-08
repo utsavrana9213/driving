@@ -1,0 +1,234 @@
+[
+  {
+    "id": 180,
+    "question": "მოცემული საგზაო ნიშნებიდან რომელი იძლევა ინფორმაციას პირველადი სამედიცინო დახმარების პუნქტის შესახებ?",
+    "answers": [
+      "1\nIV",
+      "2\nIII",
+      "3\nII",
+      "4\nI"
+    ],
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_88.mp4",
+    "wrongVideo": "assets/videos/wrong_88.mp4",
+    "previewVideo": "assets/videos/preview_88.mp4"
+  },
+  {
+    "id": 181,
+    "question": "მოცემული საგზაო ნიშნებიდან რომელი იძლევა ინფორმაციას ავტომობილის ტექნიკური მომსახურების შესახებ?",
+    "answers": [
+      "1\nIV",
+      "2\nIII",
+      "3\nII",
+      "4\nI"
+    ],
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_88.mp4",
+    "wrongVideo": "assets/videos/wrong_88.mp4",
+    "previewVideo": "assets/videos/preview_88.mp4"
+  },
+  {
+    "id": 182,
+    "question": "მოცემული საგზაო ნიშნებიდან რომელი იძლევა ინფორმაციას ტელეფონის პუნქტის შესახებ?",
+    "answers": [
+      "1\nII",
+      "2\nI",
+      "3\nIV",
+      "4\nIII"
+    ],
+    "correctAnswer": 3,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_88.mp4",
+    "wrongVideo": "assets/videos/wrong_88.mp4",
+    "previewVideo": "assets/videos/preview_88.mp4"
+  },
+  {
+    "id": 183,
+    "question": "მოცემული საგზაო ნიშნებიდან რომელი იძლევა ინფორმაციას სასმელი წყლის შესახებ?",
+    "answers": [
+      "1\nII",
+      "2\nI",
+      "3\nIV",
+      "4\nIII"
+    ],
+    "correctAnswer": 3,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_88.mp4",
+    "wrongVideo": "assets/videos/wrong_88.mp4",
+    "previewVideo": "assets/videos/preview_88.mp4"
+  },
+  {
+    "id": 184,
+    "question": "მოცემული საგზაო ნიშნებიდან რომელი იძლევა ინფორმაციას კემპინგის შესახებ?",
+    "answers": [
+      "1\nII",
+      "2\nI",
+      "3\nIV",
+      "4\nIII"
+    ],
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_88.mp4",
+    "wrongVideo": "assets/videos/wrong_88.mp4",
+    "previewVideo": "assets/videos/preview_88.mp4"
+  },
+  {
+    "id": 185,
+    "question": "მოცემული საგზაო ნიშნებიდან რომელი იძლევა ინფორმაციას საერთაშორისო საავტომობილო გადაზიდვების საკონტროლო პუნქტის შესახებ?",
+    "answers": [
+      "1\nIII",
+      "2\nIV",
+      "3\nI",
+      "4\nII"
+    ],
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_88.mp4",
+    "wrongVideo": "assets/videos/wrong_88.mp4",
+    "previewVideo": "assets/videos/preview_88.mp4"
+  },
+  {
+    "id": 186,
+    "question": "მოცემული საგზაო ნიშანი იძლევა ინფორმაციას:",
+    "answers": [
+      "1\nსაავარიო სამსახურთან რადიოკავშირის ზონის არსებობის თაობაზე",
+      "2\nსაგზაო მოძრაობის თაობაზე ინფორმაციას გადამცემი რადიოსადგურის მიღების ზონის არსებობის შესახებ"
+    ],
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_88.mp4",
+    "wrongVideo": "assets/videos/wrong_88.mp4",
+    "previewVideo": "assets/videos/preview_88.mp4"
+  },
+  {
+    "id": 187,
+    "question": "მოცემული საგზაო ნიშანი იძლევა ინფორმაციას:",
+    "answers": [
+      "1\nსაავარიო სამსახურთან რადიოკავშირის ზონის არსებობის შესახებ",
+      "2\nსაგზაო მოძრაობის შესახებ ინფორმაციის გადამცემი რადიოსადგურის მიმღები ზონის არსებობის შესახებ"
+    ],
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_88.mp4",
+    "wrongVideo": "assets/videos/wrong_88.mp4",
+    "previewVideo": "assets/videos/preview_88.mp4"
+  },
+  {
+    "id": 188,
+    "question": "მოცემულ სიტუაციაში, მძღოლს უფლება აქვს ხანგრძლივი დასვენების მიზნით ავტომობილი დააყენოს:",
+    "answers": [
+      "1\nA ადგილას",
+      "2\nB ადგილას",
+      "3\n800 მეტრში სპეციალურად გამოყოფილ ადგილას ან გზის ფარგლებს მიღმა"
+    ],
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_88.mp4",
+    "wrongVideo": "assets/videos/wrong_88.mp4",
+    "previewVideo": "assets/videos/preview_88.mp4"
+  },
+  {
+    "id": 189,
+    "question": "მოცემული საგზაო ნიშნებიდან რომელი იძლევა ინფორმაციას საცურაო აუზის ან პლიაჟის შესახებ?",
+    "answers": [
+      "1\nII",
+      "2\nI",
+      "3\nIV",
+      "4\nIII"
+    ],
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_88.mp4",
+    "wrongVideo": "assets/videos/wrong_88.mp4",
+    "previewVideo": "assets/videos/preview_88.mp4"
+  },
+  {
+    "id": 190,
+    "question": "მართვის სისტემის მიხედვით სკრეპერები გვხვდება?",
+    "answers": [
+      "1\nმექანიკური მართვის",
+      "2\nჰიდრავლიკური მართვის",
+      "3\nელექტრო-ჰიდრავლიკური"
+    ],
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_88.mp4",
+    "wrongVideo": "assets/videos/wrong_88.mp4",
+    "previewVideo": "assets/videos/preview_88.mp4"
+  },
+  {
+    "id": 191,
+    "question": "ჩამოთვლილიდან რომელი ტუმბოები გამოიყენება მოცულობით ჰიდროამძრავებში?",
+    "answers": [
+      "1\nფრთიანი",
+      "2\nკბილანური",
+      "3\nლარტყული",
+      "4\nფირფიტებიანი"
+    ],
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_88.mp4",
+    "wrongVideo": "assets/videos/wrong_88.mp4",
+    "previewVideo": "assets/videos/preview_88.mp4"
+  },
+  {
+    "id": 192,
+    "question": "როგორ გრუნტში გამოიყენება მრავალსაყრდენიანი მუხლუხა სავალი მოწყობილობა?",
+    "answers": [
+      "1\nრბილ გრუნტებში",
+      "2\nსაშუალო გრუნტებში",
+      "3\nთიხნარში",
+      "4\nმკვრივ გრუნტებში"
+    ],
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_88.mp4",
+    "wrongVideo": "assets/videos/wrong_88.mp4",
+    "previewVideo": "assets/videos/preview_88.mp4"
+  },
+  {
+    "id": 193,
+    "question": "რა ნაწილებისაგან შედგება ბულდოზერის მოწყობილობა?",
+    "answers": [
+      "1\nმბიძგავი ძელისაგან",
+      "2\nირიბანა",
+      "3\nფრთისგან",
+      "4\nჰიდროცილინდრისგან"
+    ],
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_88.mp4",
+    "wrongVideo": "assets/videos/wrong_88.mp4",
+    "previewVideo": "assets/videos/preview_88.mp4"
+  },
+  {
+    "id": 194,
+    "question": "რომელ სიჩქარეზე ანვითარებს თვლიანი ტრაქტორი ნორმალურ წევის ძალას?",
+    "answers": [
+      "1\n10-12 კმ/სთ სიჩქარისას",
+      "2\n3-4 კმ/სთ სიჩქარისას",
+      "3\n6-9 კმ/სთ სიჩქარისას"
+    ],
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_88.mp4",
+    "wrongVideo": "assets/videos/wrong_88.mp4",
+    "previewVideo": "assets/videos/preview_88.mp4"
+  },
+  {
+    "id": 195,
+    "question": "რა მაქსიმალური სიჩქარით არის დაშვებული თვლიანი ტრაქტორის გზაზე გადაადგილება?",
+    "answers": [
+      "1\n20 კმ/სთ სიჩქარით",
+      "2\n40 კმ/სთ სიჩქარით",
+      "3\n10 კმ/სთ სიჩქარით"
+    ],
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_88.mp4",
+    "wrongVideo": "assets/videos/wrong_88.mp4",
+    "previewVideo": "assets/videos/preview_88.mp4"
+  }
+]

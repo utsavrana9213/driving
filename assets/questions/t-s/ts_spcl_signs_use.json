@@ -1,0 +1,321 @@
+[
+  {
+    "id": 290,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "ერთობლივად ჩართული შუქნიშნის წითელი და ყვითელი მაშუქი სიგნალები:",
+    "answers": [
+      "კრძალავს მოძრაობას და იტყობინება მწვანე მაშუქი სიგნალის მოსალოდნელი ჩართვის შესახებ",
+      "რთავს მოძრაობის ნებას და იძლევა ინფორმაციას გზის მონაკვეთზე საფრთხის არსებობის შესახებ"
+    ]
+  },
+  {
+    "id": 291,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემულ სიტუაციაში არღვევს თუ არა მძღოლი იძულებით გაჩერებისათვის დადგენილ მოთხოვნებს, თუ გაუმართავი ავტომობილის დაუყოვნებლივ გაყვანა გზიდან შეუძლებელია?",
+    "answers": [
+      "არ არღვევს",
+      "არღვევს"
+    ]
+  },
+  {
+    "id": 292,
+    "correctAnswer": 3,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "რკინიგზის გადასასვლელზე აკრძალული არ არის:",
+    "answers": [
+      "გადასასვლელის წინ მდგომი სატრანსპორტო საშუალების შემოვლა საპირისპირო მოძრაობის ზოლზე გასვლით",
+      "შლაგბაუმის ან ნახევარშლაგბაუმის თვითნებური გახსნა",
+      "რკინიგზის ლიანდაგის დისტანციის უფროსის ნებართვის გარეშე ნელმავალი მანქანის, რომლის სიჩქარე არ აღემატება 8 კმ/სთ და ტრაქტორის მარხილ-სათრეველას მოძრაობა",
+      "მასზე შეუჩერებლად გავლა"
+    ]
+  },
+  {
+    "id": 293,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "ოპერატიული სამსახურის ავტომობილის მძღოლი, მიუხედავად საგზაო ნიშნებისა და მონიშვნების მოთხოვნებისა, სხვა საგზაო მოძრაობის მონაწილეების მიმართ სარგებლობს პრიორიტეტით, თუ ჩართული აქვს:",
+    "answers": [
+      "ლურჯი მოელვარე სპეციალური ციმციმა სიგნალი",
+      "ლურჯი და წითელი მოელვარე სპეციალური ციმციმა სიგნალები",
+      "ლურჯი მოელვარე სპეციალური ციმციმა და ხმოვანი სიგნალები"
+    ]
+  },
+  {
+    "id": 294,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "ვალდებულია თუ არა, საგზაო მოძრაობის მონაწილე გზა დაუთმოს ჩართული ახლო ნათების ფარებით მოძრავ იმ სატრანსპორტო საშუალებას, რომელსაც მიაცილებს ოპერატიული სამსახურის სატრანსპორტო საშუალება ჩართული ლურჯი მოელვარე სპეციალური ციმციმა და ხმოვანი სიგნალებით?",
+    "answers": [
+      "ვალდებულია",
+      "არ არის ვალდებული"
+    ]
+  },
+  {
+    "id": 295,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "ოპერატიული ან სპეციალური სამსახურის სატრანსპორტო საშუალების მოახლოებისას, რომელსაც ჩართული აქვს ლურჯი მოელვარე სპეციალური ციმციმა და ხმოვანი სიგნალები ან/და ხმამაღლამოლაპარაკე ხელსაწყოთი იძლევა სიგნალს, საგზაო მოძრაობის მონაწილეები ვალდებულნი არიან:",
+    "answers": [
+      "დაუყოვნებლივ გაჩერდნენ ყოფნის ადგილას",
+      "გაანთავისუფლონ სავალ ნაწილზე ადგილი, ხოლო აუცილებლობის შემთხვევაში გაჩერდნენ",
+      "გადაჯგუფდნენ თანმხვედრი მიმართულების უკიდურეს მარცხენა ზოლზე"
+    ]
+  },
+  {
+    "id": 296,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "ჩართული ლურჯი მოელვარე სპეციალური ციმციმა სიგნალით მდგომ სპეციალური სამსახურის სატრანსპორტო საშუალებასთან მიახლოებისას, მძღოლმა უნდა:",
+    "answers": [
+      "განაგრძოს გზა სიჩქარის შეუცვლელად",
+      "შეანელოს სიჩქარე, რათა აუცილებლობის შემთხვევაში ჰქონდეს ტრანსპორტის დაუყოვნებლივ გაჩერების შესაძლებლობა",
+      "გაზარდოს სიჩქარე, რათა დროულად გაიაროს აღნიშნული ადგილი"
+    ]
+  },
+  {
+    "id": 297,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მძღოლს, რომელსაც სპეციალური სამსახურის სატრანსპორტო საშუალებაზე ჩართული აქვს ნარინჯისფერი მოელვარე სპეციალური ციმციმა სიგნალი, სამსახურებრივი მოვალეობის შესრულებისას შეუძლია გადაუხვიოს საგზაო ნიშნებისა და მონიშვნების მოთხოვნებს, თუ:",
+    "answers": [
+      "ჩართული აქვს ახლო განათების ფარები",
+      "უზრუნველყოფს საგზაო მოძრაობის უსაფრთხოებას",
+      "ავტომობილზე დამაგრებულია დროებითი საგზაო ნიშნები"
+    ]
+  },
+  {
+    "id": 298,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "სპეციალური სამსახურის სატრანსპორტო საშუალებაზე ჩართული ყვითელი მოელვარე სპეციალური ციმციმა სიგნალი გამოიყენება:",
+    "answers": [
+      "საგზაო მოძრაობის სხვა მონაწილეების მიმართ უპირატესობის მოსაპოვებლად",
+      "ყურადღების მისაპყრობად, მოსალოდნელი საშიშროების თავიდან აცილებისათვის"
+    ]
+  },
+  {
+    "id": 299,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "სატრანსპორტო საშუალებებზე სპეციალური ციმციმა და ხმოვანი სიგნალების დაყენება, ასევე ავტომანქანებისთვის სპეციალური შეფერილობის მიცემა, ხორციელდება:",
+    "answers": [
+      "საქართველოს ფინანსთა მინისტრის მიერ განსაზღვრული წესის შესაბამისად",
+      "საქართველოს შინაგან საქმეთა მინისტრის მიერ განსაზღვრული წესის შესაბამისად",
+      "საქართველოს იუსტიციის მინისტრის მიერ განსაზღვრული წესის შესაბამისად"
+    ]
+  },
+  {
+    "id": 300,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "ჩართული ახლო განათების ფარებით სატვირთო ავტომობილს მიაცილებს ოპერატიული სამსახურის ავტომობილი, ჩართული ლურჯი მოელვარე სპეციალური ციმციმა და ხმოვანი სიგნალებით. რომელი ავტომობილის მიმართ წარმოექმნება გზის დათმობის ვალდებულება ავტობუსის მძღოლს ისრის მიმართულებით მოძრაობის შემთხვევაში შუქნიშნის ამ სიგნალზე?",
+    "answers": [
+      "არცერთი ავტომობილის მძღოლის მიმართ",
+      "მხოლოდ ოპერატიული ავტომობილის მძღოლის მიმართ",
+      "როგორც ოპერატიული სამსახურის, ასევე სატვირთო ავტომობილების მძღოლების მიმართ"
+    ]
+  },
+  {
+    "id": 301,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "რომელი მიმართულებით მოძრაობის გაგრძელების უფლება აქვს ოპერატიული სამსახურის ავტომობილის მძღოლს შუქნიშნის ამ სიგნალზე, თუ ავტომობილს ჩართული აქვს ლურჯი მოელვარე სპეციალური ციმციმა სიგნალი?",
+    "answers": [
+      "მხოლოდ პირდაპირ და მარჯვნივ",
+      "მხოლოდ მარჯვნივ",
+      "ყველა მიმართულებით",
+      "მხოლოდ მარცხნივ და უკუმიმართულებით (მობრუნება)"
+    ]
+  },
+  {
+    "id": 302,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "ვალდებულია თუ არა წითელი ავტომობილის მძღოლი გზა დაუთმოს ოპერატიული სამსახურის ავტომობილის მძღოლს, თუ ავტომობილზე ჩართული არ არის ლურჯი მოელვარე სპეციალური ციმციმა და ხმოვანი სიგნალები?",
+    "answers": [
+      "ვალდებულია",
+      "არ არის ვალდებული"
+    ]
+  },
+  {
+    "id": 303,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "ოპერატიული სამსახურის ავტომობილს ჩართული აქვს ლურჯი მოელვარე სპეციალური ციმციმა და ხმოვანი სიგნალები. წითელი ავტომობილის მძღოლი არ დაარღვევს საგზაო მოძრაობის წესებს, თუ:",
+    "answers": [
+      "გაატარებს ყვითელ ავტომობილს და გადავა მარჯვნივ მდებარე ზოლში",
+      "არ დაუთმობს გზას ყვითელ ავტომობილს და გადავა მარჯვნივ მდებარე ზოლში",
+      "გააგრძელებს მოძრაობას დაკავებულ ზოლში"
+    ]
+  },
+  {
+    "id": 304,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "ოპერატიული სამსახურის ავტომობილი გაჩერებულია ჩართული ლურჯი მოელვარე სპეციალური ციმციმა სიგნალით. მსუბუქი ავტომობილის მძღოლმა უნდა იმოძრაოს არა უმეტეს:",
+    "answers": [
+      "90 კმ/სთ სიჩქარით",
+      "70 კმ/სთ სიჩქარით",
+      "იმ სიჩქარით, რომლითაც აუცილებლობის შემთხვევაში ავტომობილის დაუყონებლივ გაჩერების შესაძლებლობა ექნება"
+    ]
+  },
+  {
+    "id": 305,
+    "correctAnswer": 3,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "რომელი მიმართულებით მოძრაობის გაგრძელების უფლება აქვს ოპერატიული სამსახურის ავტომობილის მძღოლს შუქნიშნის ამ სიგნალზე, თუ ავტომობილს ჩართული არა აქვს ლურჯი მოელვარე სპეციალური ციმციმა სიგნალი?",
+    "answers": [
+      "მხოლოდ პირდაპირ და მარჯვნივ",
+      "მხოლოდ პირდაპირ მარცხნივ",
+      "ყველა მიმართულებით",
+      "მხოლოდ პირდაპირ"
+    ]
+  },
+  {
+    "id": 306,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "რა ტიპებად იყოფა გრეიდერები?",
+    "answers": [
+      "ნახევარმისაბმელ და თვითმავალ",
+      "პნევმატიური",
+      "არაციკლური"
+    ]
+  },
+  {
+    "id": 307,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "შეიძლება თუ არა მექანიზმის (ბულდოზერის, ექსკალატორის, ტრაქტორის და სხვა) ძრავის მუშა მდგომარეობაში დატოვება?",
+    "answers": [
+      "არ შეიძლება",
+      "შეიძლება"
+    ]
+  },
+  {
+    "id": 308,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "ხიდებზე და სხვა ხელოვნურ ნაგებობზე გავლის წინ საჭიროა:",
+    "answers": [
+      "ტექნიკის გამართულობის შემოწმება",
+      "ხიდის საიმედობის დათვალიერება",
+      "მათი საიმედობის, ტვირთამწეობის და გაბარიტებზე შეზღუდვის შემოწმება საგზაო ნიშნების მიხედვით"
+    ]
+  },
+  {
+    "id": 309,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "ბულდოზერის თავისი სვლით ტრანსპორტირება რეკომენდებულია:",
+    "answers": [
+      "არანაკლებ 5 კმ/სთ სიჩქარით",
+      "არაუმეტეს 0,5 კმ/სთ სიჩქარით",
+      "3,5 კმ/სთ სიჩქარით"
+    ]
+  },
+  {
+    "id": 310,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "რამდენ ტაქტიანი დიზელის ძრავებია დაყენებული მუხლუხა ტრაქტორზე?",
+    "answers": [
+      "ორი ან ოთხტაქტიანი",
+      "ერთ ან სამტაქტიანი",
+      "სამი ან ოთხტაქტიანი"
+    ]
+  },
+  {
+    "id": 311,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "რამდენია საერთო დანიშნულების მუხლუხა ტრაქტორებში გრუნტზე ხვედრითი დაწოლა?",
+    "answers": [
+      "1,5 – 2 ნ/სმ²",
+      "2,5 – 4 ნ/სმ²",
+      "3,5 – 6 ნ/სმ²"
+    ]
+  },
+  {
+    "id": 312,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "რამდენია მუხლუხა ტრაქტორებში ჭარბტენიან გრუნტზე ხვედრითი დაწოლა?",
+    "answers": [
+      "2 – 3,5 ნ/სმ²",
+      "1 – 1,5 ნ/სმ²",
+      "3 – 3,5 ნ/სმ²"
+    ]
+  }
+]

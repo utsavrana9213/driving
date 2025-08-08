@@ -1,0 +1,324 @@
+[
+  {
+    "id": 467,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "დასახლებულ პუნქტში, ნორმალური მოძრაობის პირობებში ერთმანეთის მიყოლებით მოძრავი სატრანსპორტო საშუალებათა შორის არსებული დისტანციის დასაფარად საჭირო დრო უნდა იყოს:",
+    "answers": [
+      "1\nარა უმეტეს 2 წამისა",
+      "2\nარანაკლებ 2 წამისა",
+      "3\nარა უმეტეს 5 წამისა",
+      "4\nარანაკლებ 7 წამისა"
+    ]
+  },
+  {
+    "id": 468,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "დაუსახლებულ პუნქტში, ნორმალური მოძრაობის პირობებში, ერთმანეთის მიყოლებით მოძრავ სატრანსპორტო საშუალებათა შორის არსებული დისტანციის დასაფარად საჭირო დრო უნდა იყოს:",
+    "answers": [
+      "1\nარა უმეტეს 4 წამისა",
+      "2\nარანაკლებ 3 წამისა",
+      "3\nარანაკლებ 6 წამისა",
+      "4\nარა უმეტეს 9 წამისა"
+    ]
+  },
+  {
+    "id": 469,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "დასახლებულ პუნქტში, მოყინულ გზაზე, ერთმანეთის მიყოლებით მოძრავი სატრანსპორტო საშუალებათა შორის არსებული დისტანციის დასაფარად საჭირო დრო უნდა იყოს:",
+    "answers": [
+      "1\nარა უმეტეს 2 წამისა",
+      "2\nარანაკლებ 4 წამისა",
+      "3\nარანაკლებ 6 წამისა",
+      "4\nარანაკლებ 9 წამისა"
+    ]
+  },
+  {
+    "id": 470,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "დაუსახლებულ პუნქტში, მოყინულ გზაზე, ერთმანეთის მიყოლებით მოძრავი სატრანსპორტო საშუალებათა შორის არსებული დისტანციის დასაფარად საჭირო დრო უნდა იყოს:",
+    "answers": [
+      "1\nარა უმეტეს 4 წამისა",
+      "2\nარანაკლებ 6 წამისა",
+      "3\nარანაკლებ 9 წამისა",
+      "4\n12 წამზე ნაკლები"
+    ]
+  },
+  {
+    "id": 471,
+    "correctAnswer": 3,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "ჩამოთვლილიდან, რომელი შეიძლება გახდეს სატრანსპორტო საშუალებაზე უკნიდან შეჯახების მიზეზი?",
+    "answers": [
+      "1\nმხოლოდ წინ მიმავალი სატრანსპორტო საშუალების უეცარი და მკვეთრი დამუხრუჭება",
+      "2\nმხოლოდ წინ მიმავალ სატრანსპორტო საშუალებასთან არსათანადოდ დაცული დისტანცია",
+      "3\nმხოლოდ მძღოლის უყურადღებობა",
+      "4\nამ ბილეთში ჩამოთვლილი ნებისმიერი გარემოება"
+    ]
+  },
+  {
+    "id": 472,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "“სამუხრუჭო მანძილი” არის:",
+    "answers": [
+      "1\nგზაზე მოძრაობის შენელების ზოლის სიგრძე",
+      "2\nკანონმდებლობით დადგენილი მაქსიმალური მანძილი, რომლის ფარგლებშიც სავალდებულოა განხორციელდეს სატრანსპორტო საშუალების გაჩერება",
+      "3\nმანძილი, რომელსაც გადის სატრანსპორტო საშუალება მუხრუჭების ამოქმედებიდან სრულ გაჩერებამდე"
+    ]
+  },
+  {
+    "id": 473,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "ჩართული ლურჯი მოელვარე სპეციალური ციმციმა და ხმოვანი სიგნალებით მოძრავ სპეციალური სამსახურის სატრანსპორტო საშუალების მძღოლს მინიჭებული პრიორიტეთით სარგებლობის უფლება აქვს:",
+    "answers": [
+      "1\nამ ბილეთში ჩამოთვლილ არცერთ შემთხვევაში",
+      "2\nნებისმიერ შემთხვევაში, მიუხედავად იმისა უთმობენ, თუ არა მას გზას სხვა საგზაო მოძრაობის მონაწილეები",
+      "3\nმხოლოდ მაშინ, როცა იგი დარწმუნდება, რომ მას გზას უთმობენ"
+    ]
+  },
+  {
+    "id": 474,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მკვეთრი დამუხრუჭებით სატრანსპორტო საშუალების გაჩერება დასაშვებია:",
+    "answers": [
+      "1\nმხოლოდ მარეგულირებლის მიერ სატრანსპორტო საშუალების გაჩერების მოთხოვნის შემთხვევაში",
+      "2\nმხოლოდ შუქნიშნის წითელი და ყვითელი მაშუქი სიგნალების ერთობლივად ჩართვის შემთხვევაში",
+      "3\nმხოლოდ საგზაო-სატრანსპორტო შემთხვევის თავიდან აცილების მიზნით",
+      "4\nამ ბილეთში ჩამოთვლილ ნებისმიერ შემთხვევაში"
+    ]
+  },
+  {
+    "id": 475,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მექანიკური გადაცემათა კოლოფის მქონე სატრანსპორტო საშუალების ციცაბო დაღმართზე მოძრაობისას დამუხრუჭების ეფექტური ხერხია:",
+    "answers": [
+      "1\nპერიოდული მკვეთრი დამუხრუჭება გამორთული გადაბმულობით",
+      "2\nპერიოდული მდორე დამუხრუჭება ჩართული გადაბმულობითა და გადაცემათა კოლოფით",
+      "3\nდამუხუჭება ძრავით"
+    ]
+  },
+  {
+    "id": 476,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მექანიკური გადაცემათა კოლოფის მქონე ავტომობილის მკვეთრ დაღმართზე ძრავით დამუხრუჭებისას მძღოლმა გადაცემის შერჩევისას უნდა გაითვალისწინოს რომ:",
+    "answers": [
+      "1\nრაც უფრო მკვეთრია დაღმართი, მით უფრო მაღალი უნდა იყოს გადაცემა",
+      "2\nრაც უფრო მკვეთრია დაღმართი, მით უფრო დაბალი უნდა იყოს გადაცემა",
+      "3\nგადაცემის შერჩევა დამოკიდებული არ არის დაღმართის სიმკვეთრეზე"
+    ]
+  },
+  {
+    "id": 477,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "ექსტრემალურ სიტუაციაში სატრანსპორტო საშუალების გაჩერებისას სამუხრუჭე მანძილის შემცირება მძღოლმა უნდა მოახდინოს:",
+    "answers": [
+      "1\nერთჯერადი მკვეთრი დამუხრუჭებით თვლების სრულ ბლოკირებამდე",
+      "2\nთვლების ბლოკირების ზღვარზე მრავალჯერადი მკვეთრი ზემოქმედებით მუხრუჭის სატერფულზე"
+    ]
+  },
+  {
+    "id": 478,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "სატრანსპორტო საშუალების მოძრაობის სიჩქარის გაზრდისას საბურავის გზასთან ჩაჭიდების ძალა:",
+    "answers": [
+      "1\nიზრდება",
+      "2\nმცირდება",
+      "3\nარ იცვლება"
+    ]
+  },
+  {
+    "id": 479,
+    "correctAnswer": 3,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "რაზეა დამოკიდებული სატრანსპორტო საშუალების სამუხრუჭო მანძილი?",
+    "answers": [
+      "1\nმხოლოდ სატრანსპორტო საშუალების სიჩქარეზე",
+      "2\nმხოლოდ გზის საფარის მდგომარეობაზე",
+      "3\nმხოლოდ სატრანსპორტო საშუალების საბურავების ცვეთაზე",
+      "4\nამ ბილეთში ჩამოთვლილ ნებისმიერ გარემოებაზე"
+    ]
+  },
+  {
+    "id": 480,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "ციცაბო დაღმართზე მოძრაობისას, მექანიკური გადაცემათა კოლოფის მქონე სატრანსპორტო საშუალების ხანგრძლივმა დამუხრუჭებამ გამორთული გადაბმულობით შეიძლება გამოიწვიოს:",
+    "answers": [
+      "1\nსაჭით მართვის მექანიზმის მწყობრიდან გამოსვლა",
+      "2\nსამუხრუჭე სისტემის გადახურება და დამუხრუჭების ეფექტურობის შემცირება",
+      "3\nსამუხრუჭო მანძილის შემცირება",
+      "4\nამ ბილეთში ჩამოთვლილი ნებისმიერი გარემოება"
+    ]
+  },
+  {
+    "id": 481,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "რა ჯგუფებად იყოფა სიმინდის ასაღები მანქანები?",
+    "answers": [
+      "1\nკომბაინები, ტაროს საწმენდები, სალეწები, საშრობები",
+      "2\nკომბაინები და სალეწები",
+      "3\nკომბაინები და ტაროს საწმენდები",
+      "4\nსამკალები და საწმენდ-სახარისხებლები"
+    ]
+  },
+  {
+    "id": 482,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "კომბაინით ჭარხლის აღების დროს ხდება შემდეგი ოპერაციები:",
+    "answers": [
+      "1\nნიადაგიდან ჭარხლის ამოღება და ღვარეულებად დაყრა",
+      "2\nნიადაგიდან ჭარხლის ამოღება, მიწისგან გასუფთავება, ფოჩების მოჭრა და ჭარხლის ძირხვენების შეგროვება ბუნკერში",
+      "3\nნიადაგიდან ჭარხლის ამოღება, მიწისგან გასუფთავება და ღვარეულებად დაყრა",
+      "4\nნიადაგიდან ჭარხლის ამოღება და შეგროვება ბუნკერში"
+    ]
+  },
+  {
+    "id": 483,
+    "correctAnswer": 3,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "ძირხვენების ამოღების როგორ ხერხებს ანსხვავებენ?",
+    "answers": [
+      "1\nნაკადურს და ნახევრად ნაკადურს",
+      "2\nნაკადურ-გადატვირთვის",
+      "3\nნაკადურს და ნაკადურ-გადატვირთვის",
+      "4\nნაკადურს, გადატვირთვის, ნაკადურ-გადატვირთვის და ნახევრად ნაკადურს"
+    ]
+  },
+  {
+    "id": 484,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "კარტოფილის აღების როგორი მეთოდები არსებობს?",
+    "answers": [
+      "1\nორფაზა, ნაკადური და კომბინირებული",
+      "2\nორფაზა და კომბინირებული",
+      "3\nკომბინირებული",
+      "4\nნაკადური"
+    ]
+  },
+  {
+    "id": 485,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "ჩაის ფოთლის საკრეფი როგორი მანქანები არსებობს?",
+    "answers": [
+      "1\nთვითმავალი",
+      "2\nმისაბმელი",
+      "3\nხელისა და მობილური",
+      "4\nნახევრად მისაბმელი"
+    ]
+  },
+  {
+    "id": 486,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "რა არის სასოფლო სამეურნეო აგრეგატი?",
+    "answers": [
+      "1\nტრაქტორს + სასოფლო სამეურნეო მანქანა",
+      "2\nტრაქტორს + ტრაქტორი",
+      "3\nგუთანს + ფარცხი",
+      "4\nგუთანს + ფარცხი + სათესი"
+    ]
+  },
+  {
+    "id": 487,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "დაასახელეთ სოფლის მეურნეობაში გამოყენებული ენერგეტიკული საშუალება:",
+    "answers": [
+      "1\nმისაბმელი",
+      "2\nგუთანი",
+      "3\nტრაქტორი, მოტობლოკი, თვითმავალი შასი",
+      "4\nგუთანი, ფარცხი და სათესი"
+    ]
+  },
+  {
+    "id": 488,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "თუ ავტომობილის მარჯვენა თვლები გადავიდა არამდგრადი და სველი საფარის მქონე გვერდულზე, მიზანშეწონილია:",
+    "answers": [
+      "1\nავტომობილის მკვეთრი დამუხრუჭება მის სრულ გაჩერებამდე",
+      "2\nდამუხრუჭების გარეშე ავტომობილის მდორედ დაბრუნება გზის სავალ ნაწილზე",
+      "3\nსიჩქარის გაზრდა და ავტომობილის მიმართვა მარცხენა მხარეს"
+    ]
+  }
+]

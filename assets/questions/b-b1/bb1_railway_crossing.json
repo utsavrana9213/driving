@@ -1,0 +1,309 @@
+[
+  {
+    "id": 437,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_97.mp4",
+    "wrongVideo": "assets/videos/wrong_97.mp4",
+    "previewVideo": "assets/videos/preview_97.mp4",
+    "question": "თუ შუქნიშანში ჩართულია ყვითელი მოციმციმე მაშუქი სიგნალი:",
+    "answers": [
+      "1\nმძღოლი ვალდებულია გაჩერდეს „სდექ“ ხაზთან",
+      "2\nმძღოლი ვალდებულია გაჩერდეს შუქნიშანთან",
+      "3\nმძღოლს უფლება აქვს გააგრძელოს მოძრაობა განსაკუთრებული სიფრთხილის დაცვით",
+      "4\nმძღოლი ვალდებულია გაჩერდეს უახლოეს რელსამდე, არანაკლებ 10 მეტრის მანძილზე"
+    ]
+  },
+  {
+    "id": 438,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_98.mp4",
+    "wrongVideo": "assets/videos/wrong_98.mp4",
+    "previewVideo": "assets/videos/preview_98.mp4",
+    "question": "რკინიგზის გადასასვლელზე, შუქნიშნის წითელ მოციმციმე მაშუქ სიგნალთან ერთად მიცემული ხმოვანი სიგნალი, მოძრაობის მონაწილეებს დამატებით აწვდის ინფორმაციას:",
+    "answers": [
+      "1\nგადასასვლელზე მოძრაობის აკრძალვის შესახებ",
+      "2\nგადასასვლელზე მოძრაობის გაგრძელების უფლების შესახებ"
+    ]
+  },
+  {
+    "id": 439,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_99.mp4",
+    "wrongVideo": "assets/videos/wrong_99.mp4",
+    "previewVideo": "assets/videos/preview_99.mp4",
+    "question": "რკინიგზის გადასასვლელზე ერთ სადგარზე, ერთი და იმავე სიმაღლეზე განლაგებული, ერთ მხარეს მიმართული ორი მორიგეობით მოციმციმე, ან ერთი მოციმციმე ყვითელი მაშუქი სიგნალი ნიშნავს, რომ მძღოლებს:",
+    "answers": [
+      "1\nეკრძალებათ მოძრაობა",
+      "2\nუფლება აქვთ გააგრძელონ მოძრაობა, მაგრამ ამასთან ვალდებულები არიან დაიცვან განსაკუთრებული სიფრთხილე"
+    ]
+  },
+  {
+    "id": 440,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_100.mp4",
+    "wrongVideo": "assets/videos/wrong_100.mp4",
+    "previewVideo": "assets/videos/preview_100.mp4",
+    "question": "თუ რკინიგზის გადასასვლელზე შუქნიშნის მაშუქი სიგნალები გამორთულია:",
+    "answers": [
+      "1\nმოძრაობა ნებადართულია მხოლოდ მაშინ, როცა ხილვადობის ფარგლებში არ ჩანს გადასასვლელთან მოახლოებული მატარებელი (ლოკომოტივი, დრეზინა)",
+      "2\nმოძრაობა აკრძალულია"
+    ]
+  },
+  {
+    "id": 441,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_101.mp4",
+    "wrongVideo": "assets/videos/wrong_101.mp4",
+    "previewVideo": "assets/videos/preview_101.mp4",
+    "question": "რომელი ავტომობილის მძღოლს ეკრძალება ისრის მიმართულებით მოძრაობა?",
+    "answers": [
+      "1\nმხოლოდ სატვირთო ავტომობილის მძღოლს",
+      "2\nმხოლოდ მსუბუქი ავტომობილის მძღოლს",
+      "3\nორივე ავტომობილის მძღოლს",
+      "4\nარცერთი ავტომობილის მძღოლს"
+    ]
+  },
+  {
+    "id": 442,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_102.mp4",
+    "wrongVideo": "assets/videos/wrong_102.mp4",
+    "previewVideo": "assets/videos/preview_102.mp4",
+    "question": "მოცემულ სიტუაციაში მძღოლი უნდა გაჩერდეს:",
+    "answers": [
+      "1\nშუქნიშნის გასწვრივ",
+      "2\nუახლოეს რელსამდე, არანაკლებ 10 მეტრის მანძილზე",
+      "3\n„სდექ“ ხაზთან",
+      "4\nუახლოეს რელსამდე, არანაკლებ 5 მეტრის მანძილზე"
+    ]
+  },
+  {
+    "id": 443,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_103.mp4",
+    "wrongVideo": "assets/videos/wrong_103.mp4",
+    "previewVideo": "assets/videos/preview_103.mp4",
+    "question": "ნახევარშლაგბაუმი დაკეტილია. ავტომობილის მძღოლი არ დაარღვევს საგზაო მოძრაობის წესებს, თუ:",
+    "answers": [
+      "1\nგაჩერდება ნახევარშლაგბაუმამდე, არანაკლებ 5 მეტრის მანძილზე",
+      "2\nშემოუვლის შლაგბაუმს და გაივლის რკინიგზის გადასასვლელს",
+      "3\nსიფრთხილის ზომების გათვალისწინებით თვითონ გახსნის შლაგბაუმს და გააგრძელებს მოძრაობას",
+      "4\nამ ბილეთში ჩამოთვლილი პასუხებიდან არცერთი არის სწორი"
+    ]
+  },
+  {
+    "id": 444,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_104.mp4",
+    "wrongVideo": "assets/videos/wrong_104.mp4",
+    "previewVideo": "assets/videos/preview_104.mp4",
+    "question": "მოცემულ სიტუაციაში ავტომობილის მძღოლი ვალდებულია:",
+    "answers": [
+      "1\nგააგრძელოს მოძრაობა, რადგან შლაგბაუმი აწეულია",
+      "2\nგაჩერდეს შუქნიშანთან"
+    ]
+  },
+  {
+    "id": 445,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_105.mp4",
+    "wrongVideo": "assets/videos/wrong_105.mp4",
+    "previewVideo": "assets/videos/preview_105.mp4",
+    "question": "მოცემულ სიტუაციაში, სარკინიგზო გადასასვლელთან გაჩერებული, რომელი ავტომობილის მძღოლი არღვევს საგზაო მოძრაობის წესებს?",
+    "answers": [
+      "1\nმხოლოდ ყვითელი ავტომობილის მძღოლი",
+      "2\nმხოლოდ თეთრი ავტომობილის მძღოლი",
+      "3\nორივე ავტომობილის მძღოლები",
+      "4\nარცერთი ავტომობილის მძღოლი"
+    ]
+  },
+  {
+    "id": 446,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_106.mp4",
+    "wrongVideo": "assets/videos/wrong_106.mp4",
+    "previewVideo": "assets/videos/preview_106.mp4",
+    "question": "მოცემულ სიტუაციაში, ეკრძალება თუ არა ლურჯი ავტომობილის მძღოლს ისრის მიმართულებით გასწრება?",
+    "answers": [
+      "1\nეკრძალება",
+      "2\nარ ეკრძალება"
+    ]
+  },
+  {
+    "id": 447,
+    "correctAnswer": 3,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_107.mp4",
+    "wrongVideo": "assets/videos/wrong_107.mp4",
+    "previewVideo": "assets/videos/preview_107.mp4",
+    "question": "მარეგულირებელი დგას ავტომობილისაკენ მარჯვენა გვერდით, ხელები ჩამოშვებული აქვს. მოცემულ სიტუაციაში, მსუბუქი ავტომობილის მძღოლი:",
+    "answers": [
+      "1\nვალდებულია შეანელოს მოძრაობა და გაჩერდეს",
+      "2\nვალდებულია გაჩერდეს უახლოეს რელსამდე, არანაკლებ 10 მეტრის მანძილზე",
+      "3\nვალდებულია გაჩერდეს ნახევარშლაგბაუმამდე, არა ნაკლებ 5 მეტრის მანძილზე",
+      "4\nუფლება აქვს გააგრძელოს მოძრაობა"
+    ]
+  },
+  {
+    "id": 448,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_108.mp4",
+    "wrongVideo": "assets/videos/wrong_108.mp4",
+    "previewVideo": "assets/videos/preview_108.mp4",
+    "question": "მატარებელი ამთავრებს რკინიგზის გადასასვლელის გავლას. ავტომობილის მძღოლს მოძრაობის გაგრძელების უფლება აქვს:",
+    "answers": [
+      "1\nდაუყოვნებლივ, მატარებლის გავლის შემდეგ",
+      "2\nმატარებლის გავლისა და შუქნიშანზე მოციმციმე ყვითელი მაშუქი სიგნალის ჩართვის შემდეგ"
+    ]
+  },
+  {
+    "id": 449,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_109.mp4",
+    "wrongVideo": "assets/videos/wrong_109.mp4",
+    "previewVideo": "assets/videos/preview_109.mp4",
+    "question": "მოცემულ სიტუაციაში, ავტომობილის მძღოლი ვალდებულია გაჩერდეს:",
+    "answers": [
+      "1\nნახევარშლაგბაუმთან, არანაკლებ 5 მ-ის მანძილზე",
+      "2\nუახლოესი რელსიდან, არანაკლებ 10 მ-ის მანძილზე",
+      "3\nშუქნიშანთან"
+    ]
+  },
+  {
+    "id": 450,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_110.mp4",
+    "wrongVideo": "assets/videos/wrong_110.mp4",
+    "previewVideo": "assets/videos/preview_110.mp4",
+    "question": "მოცემულ სიტუაციაში, ავტომობილის მძღოლი ვალდებულია გაჩერდეს:",
+    "answers": [
+      "1\nუშუალოდ შლაგბაუმთან",
+      "2\n„სდექ“ ხაზთან"
+    ]
+  },
+  {
+    "id": 451,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_111.mp4",
+    "wrongVideo": "assets/videos/wrong_111.mp4",
+    "previewVideo": "assets/videos/preview_111.mp4",
+    "question": "მოცემულ სიტუაციაში, რომელი ავტომობილის მძღოლს ეკრძალება ისრის მიმართულებით მოძრაობა?",
+    "answers": [
+      "1\nორივე ავტომობილის მძღოლს",
+      "2\nარცერთი ავტომობილის მძღოლს",
+      "3\nმხოლოდ წითელი ავტომობილის მძღოლს",
+      "4\nმხოლოდ ლურჯი ავტომობილის მძღოლს"
+    ]
+  },
+  {
+    "id": 452,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_112.mp4",
+    "wrongVideo": "assets/videos/wrong_112.mp4",
+    "previewVideo": "assets/videos/preview_112.mp4",
+    "question": "მოცემულ სიტუაციაში, ეკრძალება თუ არა მძღოლს ისრის მიმართულებით ავტომობილით უკუსვლით მოძრაობა და შემდგომ მობრუნების მანევრის შესრულება?",
+    "answers": [
+      "1\nეკრძალება",
+      "2\nარ ეკრძალება"
+    ]
+  },
+  {
+    "id": 453,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct.mp4",
+    "wrongVideo": "assets/videos/wrong.mp4",
+    "previewVideo": "assets/videos/preview.mp4",
+    "question": "მოცემულ სიტუაციაში, შუქნიშნის მოციმციმე ყვითელ მაშუქ სიგნალზე:",
+    "answers": [
+      "მძღოლი ვალდებულია გაჩერდეს „სდექ“ ხაზთან და დაელოდოს სიგნალის შეცვლას",
+      "მძღოლი ვალდებულია გაჩერდეს უახლოესი რელსიდან არანაკლებ 10 მეტრის მანძილზე",
+      "მძღოლს უფლება აქვს გააგრძელონ მოძრაობა განსაკუთრებული სიფრთხილის დაცვით",
+      "მძღოლი ვალდებულია გაჩერდეს შუქნიშანთან"
+    ]
+  },
+  {
+    "id": 454,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct.mp4",
+    "wrongVideo": "assets/videos/wrong.mp4",
+    "previewVideo": "assets/videos/preview.mp4",
+    "question": "მოცემულ სიტუაციაში, ეკრძალება თუ არა ლურჯი მსუბუქი ავტომობილის მძღოლს ისრის მიმართულებით გასწრება?",
+    "answers": [
+      "ეკრძალება",
+      "არ ეკრძალება"
+    ]
+  },
+  {
+    "id": 455,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct.mp4",
+    "wrongVideo": "assets/videos/wrong.mp4",
+    "previewVideo": "assets/videos/preview.mp4",
+    "question": "აქვს თუ არა წითელი ავტომობილის მძღოლს რკინიგზის გადასასვლელზე შესვლის უფლება, თუ გადასასვლელის შემდეგ წარმოქმნილია საცობი?",
+    "answers": [
+      "არ აქვს უფლება",
+      "აქვს უფლება"
+    ]
+  },
+  {
+    "id": 456,
+    "correctAnswer": 3,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct.mp4",
+    "wrongVideo": "assets/videos/wrong.mp4",
+    "previewVideo": "assets/videos/preview.mp4",
+    "question": "რკინიგზის გადასასვლელზე აკრძალულია:",
+    "answers": [
+      "მხოლოდ საპირისპირო მოძრაობის ზოლზე გასვლით, გადასასვლელის წინ მდგომი სატრანსპორტო საშუალების შემოვლა",
+      "მხოლოდ შლაგბაუმის ან ნახევარშლაგბაუმის თვითნებური გახსნა",
+      "მხოლოდ იმ სასოფლო - სამეურნეო, საგზაო - სამშენებლო და სხვა მანქანებისა და მექანიზმების არასატრანსპორტო მდგომარეობაში გადატანა, რომლებმაც შეიძლება დააზიანონ გადასასვლელი, ან შეაფერხონ მასზე მოძრაობა",
+      "ამ ბილეთში ჩამოთვლილი ნებისმიერი მოქმედების განხორციელება"
+    ]
+  },
+  {
+    "id": 457,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct.mp4",
+    "wrongVideo": "assets/videos/wrong.mp4",
+    "previewVideo": "assets/videos/preview.mp4",
+    "question": "რკინიგზის გადასასვლელზე სატრანსპორტო საშუალების იძულებითი გაჩერების შემთხვევაში, საერთო განგაშის ხმოვან სიგნალს შეესაბამება:",
+    "answers": [
+      "ორი გრძელი და ორი მოკლე ხმოვანი სიგნალი",
+      "სამი გრძელი და ერთი მოკლე ხმოვანი სიგნალი",
+      "ერთი გრძელი და სამი მოკლე ხმოვანი სიგნალი"
+    ]
+  },
+  {
+    "id": 458,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct.mp4",
+    "wrongVideo": "assets/videos/wrong.mp4",
+    "previewVideo": "assets/videos/preview.mp4",
+    "question": "„რკინიგზის გადასასვლელი“ არის:",
+    "answers": [
+      "რკინიგზის ლიანდაგების ნებისმიერი მონაკვეთი",
+      "გზისა და დამოუკიდებელი ვაკისის მქონე რკინიგზის ან ტრამვაის ლიანდაგების ერთ დონეზე გადაკვეთა",
+      "გზისა და დამოუკიდებელი ვაკისის მქონე რკინიგზის ან ტრამვაის ლიანდაგების სხვადასხვა დონეზე გადაკვეთა"
+    ]
+  }
+]

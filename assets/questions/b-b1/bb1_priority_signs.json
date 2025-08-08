@@ -1,0 +1,265 @@
+[
+  {
+    "id": 376,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_1.mp4",
+    "wrongVideo": "assets/videos/wrong_1.mp4",
+    "previewVideo": "assets/videos/preview_1.mp4",
+    "question": "მოცემული საგზაო ნიშანი:",
+    "answers": [
+      "1\nაღნიშნავს გზას, რომელზედაც მოძრავ მძღოლს ენიჭება არარეგულირებული გზაჯვარედინის გავლის უპირატესობა",
+      "2\nკრძალავს სახიფათო ტვირთის გადამზიდი ავტომობილების მოძრაობას",
+      "3\nაღნიშნავს გზას, რომელზედაც მოძრავი მძღოლი ვალდებულია გზა დაუთმოს გადასაკვეთ გზაზე მოძრავ სატრანსპორტო საშუალებას"
+    ]
+  },
+  {
+    "id": 377,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_2.mp4",
+    "wrongVideo": "assets/videos/wrong_2.mp4",
+    "previewVideo": "assets/videos/preview_2.mp4",
+    "question": "მოცემული საგზაო ნიშნებიდან რომელი აღნიშნავს გზის იმ მონაკვეთის ბოლოს, საიდანაც ის კარგავს მთავარი გზის სტატუსს?",
+    "answers": [
+      "1\nIII",
+      "2\nIV",
+      "3\nI",
+      "4\nII"
+    ]
+  },
+  {
+    "id": 378,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_3.mp4",
+    "wrongVideo": "assets/videos/wrong_3.mp4",
+    "previewVideo": "assets/videos/preview_3.mp4",
+    "question": "მოცემული საგზაო ნიშანი აღნიშნავს:",
+    "answers": [
+      "1\nგზას, რომელზედაც მოძრავ მძღოლს ენიჭება არარეგულირებული გზაჯვარედინის გავლის უპირატესობა",
+      "2\nგზის ვიწრო მონაკვეთს, რომელზედაც მოძრავ მძღოლს ენიჭება, უპირატესობა საპირისპირო მიმართულებით მოძრავ სატრანსპორტო საშუალებასთან შედარებით",
+      "3\nგზის იმ მონაკვეთის ბოლოს, საიდანაც ის კარგავს მთავარი გზის სტატუსს"
+    ]
+  },
+  {
+    "id": 379,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_4.mp4",
+    "wrongVideo": "assets/videos/wrong_4.mp4",
+    "previewVideo": "assets/videos/preview_4.mp4",
+    "question": "მოცემული საგზაო ნიშნებიდან რომელი აღნიშნავს ისეთ გზასთან გადაკვეთას, რომელზე მოძრავ მძღოლსაც აქვს გზის დათმობის ვალდებულება?",
+    "answers": [
+      "1\nIV",
+      "2\nIII",
+      "3\nII",
+      "4\nI"
+    ]
+  },
+  {
+    "id": 380,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_5.mp4",
+    "wrongVideo": "assets/videos/wrong_5.mp4",
+    "previewVideo": "assets/videos/preview_5.mp4",
+    "question": "მოცემული საგზაო ნიშნებიდან რომელი აღნიშნავს ისეთ გზასთან შეერთებას, რომელზე მოძრავ მძღოლსაც აქვს გზის დათმობის ვალდებულება?",
+    "answers": [
+      "1\nმხოლოდ II და IV",
+      "2\nმხოლოდ I და III",
+      "3\nმხოლოდ II",
+      "4\nმხოლოდ III"
+    ]
+  },
+  {
+    "id": 381,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_6.mp4",
+    "wrongVideo": "assets/videos/wrong_6.mp4",
+    "previewVideo": "assets/videos/preview_6.mp4",
+    "question": "მოცემული საგზაო ნიშნებიდან რომელი აღნიშნავს ისეთ გზასთან შეერთებას, რომელზე მოძრავ მძღოლსაც აქვს გზის დათმობის ვალდებულება?",
+    "answers": [
+      "1\nმხოლოდ II და III",
+      "2\nმხოლოდ I და IV",
+      "3\nყველა",
+      "4\nარცერთი"
+    ]
+  },
+  {
+    "id": 382,
+    "correctAnswer": 3,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_7.mp4",
+    "wrongVideo": "assets/videos/wrong_7.mp4",
+    "previewVideo": "assets/videos/preview_7.mp4",
+    "question": "მოცემული საგზაო ნიშნებიდან რომელი ავალდებულებს მძღოლს გზა დაუთმოს გადასაკვეთ გზაზე მოძრავ სატრანსპორტო საშუალების მძღოლს?",
+    "answers": [
+      "1\nII",
+      "2\nI",
+      "3\nIV",
+      "4\nIII"
+    ]
+  },
+  {
+    "id": 383,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_8.mp4",
+    "wrongVideo": "assets/videos/wrong_8.mp4",
+    "previewVideo": "assets/videos/preview_8.mp4",
+    "question": "მოცემული საგზაო ნიშანი:",
+    "answers": [
+      "1\nუკრძლავს მძღოლს გზის ვიწრო მონაკვეთზე შესვლას",
+      "2\nკრძალავს ყველა სახის სატრანსპორტო საშუალების მოძრაობას",
+      "3\nავალდებულებს მძღოლს გზა დაუთმოს გადასაკვეთ გზაზე მოძრავ სატრანსპორტო საშუალების მძღოლებს"
+    ]
+  },
+  {
+    "id": 384,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_9.mp4",
+    "wrongVideo": "assets/videos/wrong_9.mp4",
+    "previewVideo": "assets/videos/preview_9.mp4",
+    "question": "მოცემული საგზაო ნიშნებიდან რომელი უკრძალავს მძღოლს „სდექ“ ხაზის წინ გაუჩერებალად მოძრაობის გაგრძელებას?",
+    "answers": [
+      "1\nIII",
+      "2\nIV",
+      "3\nI",
+      "4\nII"
+    ]
+  },
+  {
+    "id": 385,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_10.mp4",
+    "wrongVideo": "assets/videos/wrong_10.mp4",
+    "previewVideo": "assets/videos/preview_10.mp4",
+    "question": "მოცემული საგზაო ნიშანი:",
+    "answers": [
+      "1\nკრძალავს ყველა სატრანსპორტო საშუალებით შესვლას მოცემული მიმართულებით",
+      "2\nკრძალავს ნებისმიერი სახის სატრანსპორტო საშუალებით მოძრაობას",
+      "3\nუკრძალავს მძღოლს მოძრაობის გაგრძელებას გაუჩერებალად, აგრეთვე ავალდებულებს მას გზა დაუთმოს გადასაკვეთ გზაზე მოძრავ სატრანსპორტო საშუალების მძღოლებს"
+    ]
+  },
+  {
+    "id": 386,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_11.mp4",
+    "wrongVideo": "assets/videos/wrong_11.mp4",
+    "previewVideo": "assets/videos/preview_11.mp4",
+    "question": "მოცემული საგზაო ნიშნებიდან რომელი უკრძალავს მძღოლს გზის ვიწრო მონაკვეთზე შესვლას, თუ ეს აძნელებს საპირისპირო მიმართულებით მოძრაობას?",
+    "answers": [
+      "1\nIV",
+      "2\nIII",
+      "3\nII",
+      "4\nI"
+    ]
+  },
+  {
+    "id": 387,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_12.mp4",
+    "wrongVideo": "assets/videos/wrong_12.mp4",
+    "previewVideo": "assets/videos/preview_12.mp4",
+    "question": "მოცემული საგზაო ნიშანი:",
+    "answers": [
+      "1\nაღნიშნავს გზის მონაკვეთის დასაწყისს, სადაც ერთ ან რამდენიმე ზოლზე მოძრაობის მიმართულება შეიძლება შეიცვალოს საპირისპიროდ",
+      "2\nმიუთითებს გზას, რომელზედაც ტრანსპორტით მოძრაობა ერთი მიმართულებით ხორციელდება",
+      "3\nუკრძალავს მძღოლს გზის ვიწრო მონაკვეთზე შესვლას, თუ ეს აძნელებს საპირისპირო მიმართულებით მოძრაობას"
+    ]
+  },
+  {
+    "id": 388,
+    "correctAnswer": 3,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_13.mp4",
+    "wrongVideo": "assets/videos/wrong_13.mp4",
+    "previewVideo": "assets/videos/preview_13.mp4",
+    "question": "მოცემული საგზაო ნიშნებიდან რომელი ანიჭებს მძღოლს უპირატესობას საპირისპირო მიმართულებით მოძრავ სატრანსპორტო საშუალებასთან შედარებით, გზის ვიწრო მონაკვეთზე მოძრაობისას?",
+    "answers": [
+      "1\nII",
+      "2\nI",
+      "3\nIV",
+      "4\nIII"
+    ]
+  },
+  {
+    "id": 389,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_14.mp4",
+    "wrongVideo": "assets/videos/wrong_14.mp4",
+    "previewVideo": "assets/videos/preview_14.mp4",
+    "question": "მოცემული საგზაო ნიშანი:",
+    "answers": [
+      "1\nანიჭებს მძღოლს უპირატესობას საპირისპირო მიმართულებით მოძრავ სატრანსპორტო საშუალებასთან შედარებით, გზის ვიწრო მონაკვეთზე მოძრაობისას",
+      "2\nავალდებულებს მძღოლს გზა დაუთმოს გადასაკვეთ გზაზე მოძრავ სატრანსპორტო საშუალებას",
+      "3\nუკრძალავს მძღოლს გზის ვიწრო მონაკვეთზე შესვლას, თუ ეს აძნელებს საპირისპირო მოძრაობას"
+    ]
+  },
+  {
+    "id": 390,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_15.mp4",
+    "wrongVideo": "assets/videos/wrong_15.mp4",
+    "previewVideo": "assets/videos/preview_15.mp4",
+    "question": "მოცემული საგზაო ნიშნებიდან რომლის მოქმედების ზონაში ენიჭება მძღოლს არარეგულირებული გზაჯვარედინის გავლის უპირატესობა?",
+    "answers": [
+      "1\nმხოლოდ II და IV",
+      "2\nმხოლოდ I და III",
+      "3\nარცერთის",
+      "4\nყველას"
+    ]
+  },
+  {
+    "id": 391,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_16.mp4",
+    "wrongVideo": "assets/videos/wrong_16.mp4",
+    "previewVideo": "assets/videos/preview_16.mp4",
+    "question": "მოცემული საგზაო ნიშნებიდან რომელი იდგმება უშუალოდ გზის ვიწრო უბნის წინ?",
+    "answers": [
+      "1\nII და III",
+      "2\nI და IV",
+      "3\nI",
+      "4\nI და II"
+    ]
+  },
+  {
+    "id": 392,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_2033.mp4",
+    "wrongVideo": "assets/videos/wrong_2033.mp4",
+    "previewVideo": "assets/videos/preview_2033.mp4",
+    "question": "თუ სხვა აუცილებლობა არ არსებობს, მოცემული საგზაო ნიშნები დაუსახლებელ პუნქტში იდგმება სახიფათო მონაკვეთის დასაწყისამდე:",
+    "answers": [
+      "1\n50-100 მეტრის მანძილზე",
+      "2\n100-150 მეტრის მანძილზე",
+      "3\n150-300 მეტრის მანძილზე",
+      "4\n300-400 მეტრის მანძილზე"
+    ]
+  },
+  {
+    "id": 393,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_2034.mp4",
+    "wrongVideo": "assets/videos/wrong_2034.mp4",
+    "previewVideo": "assets/videos/preview_2034.mp4",
+    "question": "თუ სხვა აუცილებლობა არ არსებობს, მოცემული საგზაო ნიშნები დასახლებულ პუნქტში იდგმება სახიფათო მონაკვეთის დასაწყისამდე:",
+    "answers": [
+      "1\n50-100 მეტრის მანძილზე",
+      "2\n100-150 მეტრის მანძილზე",
+      "3\n150-300 მეტრის მანძილზე"
+    ]
+  }
+]

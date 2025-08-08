@@ -1,0 +1,292 @@
+[
+  {
+    "id": 543,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემული საგზაო ნიშნებიდან რომელი იძლევა ინფორმაციას პირველადი სამედიცინო დახმარების პუნქტის შესახებ?",
+    "answers": [
+      "IV",
+      "III",
+      "II",
+      "I"
+    ]
+  },
+  {
+    "id": 544,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემული საგზაო ნიშნებიდან რომელი იძლევა ინფორმაციას ავტოგასამართი სადგურის შესახებ?",
+    "answers": [
+      "IV",
+      "III",
+      "II",
+      "I"
+    ]
+  },
+  {
+    "id": 545,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემული საგზაო ნიშნებიდან რომელი იძლევა ინფორმაციას ავტომობილის ტექნიკური მომსახურების შესახებ?",
+    "answers": [
+      "IV",
+      "III",
+      "II",
+      "I"
+    ]
+  },
+  {
+    "id": 546,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემული საგზაო ნიშნებიდან რომელი იძლევა ინფორმაციას ავტომობილის რეცხვის ადგილის შესახებ?",
+    "answers": [
+      "I",
+      "II",
+      "III",
+      "IV"
+    ]
+  },
+  {
+    "id": 547,
+    "correctAnswer": 4,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემული საგზაო ნიშნებიდან რომელი იძლევა ინფორმაციას ტელეფონის პუნქტის შესახებ?",
+    "answers": [
+      "II",
+      "I",
+      "IV",
+      "III"
+    ]
+  },
+  {
+    "id": 548,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემული საგზაო ნიშნებიდან რომელი იძლევა ინფორმაციას კვების პუნქტის შესახებ?",
+    "answers": [
+      "IV",
+      "III",
+      "II",
+      "I"
+    ]
+  },
+  {
+    "id": 549,
+    "correctAnswer": 3,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემული საგზაო ნიშნებიდან რომელი იძლევა ინფორმაციას სასმელი წყლის შესახებ?",
+    "answers": [
+      "II",
+      "I",
+      "IV",
+      "III"
+    ]
+  },
+  {
+    "id": 550,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემული საგზაო ნიშნებიდან რომელი იძლევა ინფორმაციას სასტუმროს ან მოტელის შესახებ?",
+    "answers": [
+      "IV",
+      "III",
+      "II",
+      "I"
+    ]
+  },
+  {
+    "id": 551,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემული საგზაო ნიშნებიდან რომელი იძლევა ინფორმაციას კემპინგის შესახებ?",
+    "answers": [
+      "II",
+      "I",
+      "IV",
+      "III"
+    ]
+  },
+  {
+    "id": 552,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემული საგზაო ნიშანი აღნიშნავს:",
+    "answers": [
+      "ავტომაგისტრალთან სხვა გზიდან ამოსასვლელის შერწყმის ადგილს",
+      "გზაჯვარედინს თანაბარმნიშვნელოვანი გზების გადაკვეთით",
+      "აღნიშნავს გზის მონაკვეთს, რომელზედაც სავალი ნაწილის სიგანე ორივე მხრიდან ვიწროვდება"
+    ]
+  },
+  {
+    "id": 553,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემული საგზაო ნიშანი იძლევა ინფორმაციას:",
+    "answers": [
+      "საპატრულო პოლიციის საგუშაგოს არსებობის შესახებ",
+      "საავარიო სამსახურთან რადიოკავშირის ზონის არსებობის შესახებ"
+    ]
+  },
+  {
+    "id": 554,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემული საგზაო ნიშნებიდან რომელი იძლევა ინფორმაციას საერთაშორისო საავტომობილო გადაზიდვების საკონტროლო პუნქტის შესახებ?",
+    "answers": [
+      "III",
+      "IV",
+      "I",
+      "II"
+    ]
+  },
+  {
+    "id": 555,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემული საგზაო ნიშანი იძლევა ინფორმაციას:",
+    "answers": [
+      "საერთაშორისო საავტომობილო გადაზიდვების საკონტროლო პუნქტის არსებობის შესახებ",
+      "საპატრულო პოლიციის საგუშაგოს არსებობის შესახებ"
+    ]
+  },
+  {
+    "id": 556,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემული საგზაო ნიშანი იძლევა ინფორმაციას:",
+    "answers": [
+      "საავარიო სამსახურთან რადიოკავშირის ზონის არსებობის თაობაზე",
+      "საგზაო მოძრაობის თაობაზე ინფორმაციას გადამცემი რადიოსადგურის მიღების ზონის არსებობის შესახებ"
+    ]
+  },
+  {
+    "id": 557,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემული საგზაო ნიშნებიდან რომელი იძლევა ინფორმაციას საგზაო მოძრაობის თაობაზე ინფორმაციას გადამცემი რადიოსადგურის მიღების ზონის არსებობის შესახებ.",
+    "answers": [
+      "IV",
+      "III",
+      "II",
+      "I"
+    ]
+  },
+  {
+    "id": 558,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემული საგზაო ნიშანი იძლევა ინფორმაციას:",
+    "answers": [
+      "საავარიო სამსახურთან რადიოკავშირის ზონის არსებობის შესახებ",
+      "საგზაო მოძრაობის შესახებ ინფორმაციის გადამცემი რადიოსადგურის მიმღები ზონის არსებობის შესახებ"
+    ]
+  },
+  {
+    "id": 559,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემული საგზაო ნიშნებიდან რომელი იძლევა ინფორმაციას საავარიო სამსახურთან რადიოკავშირის ზონის არსებობის შესახებ?",
+    "answers": [
+      "IV",
+      "III",
+      "II",
+      "I"
+    ]
+  },
+  {
+    "id": 560,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემულ სიტუაციაში, მძღოლს უფლება აქვს ხანგრძლივი დასვენების მიზნით ავტომობილი დააყენოს:",
+    "answers": [
+      "A ადგილას",
+      "B ადგილას",
+      "800 მეტრში სპეციალურად გამოყოფილ ადგილას ან გზის ფარგლებს მიღმა"
+    ]
+  },
+  {
+    "id": 561,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "სატვირთო და ყვითელი მსუბუქი ავტომობილები აგრძელებენ მოძრაობას ისრის მიმართულებით,ხოლო თეთრი მსუბუქი ავტომობილის მძღოლი გაჩერებულია ხანგრძლივი დასვენების მიზნით. რომელი ავტომობილის მძღოლი დაარღვევს საგზაო მოძრაობის წესებს,თუ მოცემული გზის შუა ზოლი ორივე მიმართულებით მოძრაობისათვის გამოიყენება?",
+    "answers": [
+      "მხოლოდ სატვირთო და თეთრი მსუბუქი ავტომობილის მძღოლები",
+      "მხოლოდ ყვითელი და თეთრი მსუბუქი ავტომობილის მძღოლები",
+      "მხოლოდ თეთრი მსუბუქი ავტომობილის მძღოლი",
+      "მხოლოდ ყვითელი მსუბუქი ავტომობილის მძღოლი"
+    ]
+  },
+  {
+    "id": 562,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემული საგზაო ნიშნებიდან რომელი იძლევა ინფორმაციას საცურაო აუზის ან პლიაჟის შესახებ?",
+    "answers": [
+      "II",
+      "I",
+      "IV",
+      "III"
+    ]
+  }
+]

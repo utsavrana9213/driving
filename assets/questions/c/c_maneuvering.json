@@ -1,0 +1,429 @@
+[
+  {
+    "id": 279,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "ვალდებულია თუ არა წითელი ავტომობილის მძღოლი, მიმდებარე ტერიტორიიდან გზაზე გასვლისას გზა დაუთმოს ქვეითებს?",
+    "answers": [
+      "ვალდებულია",
+      "არ არის ვალდებული"
+    ]
+  },
+  {
+    "id": 280,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მსუბუქი ავტომობილის მძღოლს უფლება აქვს მობრუნების მანევრი შეასრულოს:",
+    "answers": [
+      "მხოლოდ A მიმართულებით",
+      "მხოლოდ B მიმართულებით",
+      "როგორც A, ასევე B მიმართულებით"
+    ]
+  },
+  {
+    "id": 281,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "რომელი ავტომობილის მძღოლი დაარღვევს საგზაო მოძრაობის წესებს ისრის მიმართულებით მოძრაობის შემთხვევაში?",
+    "answers": [
+      "ყვითელი ავტომობილის მძღოლი",
+      "თეთრი ავტომობილის მძღოლი",
+      "წითელი ავტომობილის მძღოლი",
+      "მწვანე ავტომობილის მძღოლი"
+    ]
+  },
+  {
+    "id": 282,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "რომელი ავტომობილის მძღოლს წარმოექმნება გზის დათმობის ვალდებულება ისრის მიმართულებით მოძრაობის შემთხვევაში?",
+    "answers": [
+      "ყვითელი ავტომობილის მძღოლს",
+      "თეთრი ავტომობილის მძღოლს"
+    ]
+  },
+  {
+    "id": 283,
+    "correctAnswer": 3,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "გზაჯვარედინის სიახლოეს გზის სიგანე სატვირთო ავტომობილის მობრუნების შესაძლებლობას არ იძლევა. აქვს თუ არა მობრუნების უფლება სატვირთო ავტომობილის მძღოლს?",
+    "answers": [
+      "არა აქვს უფლება, ვინაიდან გზაჯვარედინზე მობრუნება აკრძალულია",
+      "არა აქვს უფლება, ვინაიდან მობრუნების შესრულება დასაშვებია, მხოლოდ უკიდურეს მარცხენა ზოლიდან",
+      "აქვს უფლება, მხოლოდ იმ შემთხვევაში, თუ ავტომობილის სრული მასსა არ აღემატება 11 ტონას",
+      "აქვს უფლება, თუ უზრუნველყოფილი იქნება მოძრაობის უსაფრთხოება და დაბრკოლება არ შეექმნება სხვა საგზაო მოძრაობის მონაწილეებს"
+    ]
+  },
+  {
+    "id": 284,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "რომელი ავტომობილის მძღოლს წარმოექმნება გზის დათმობის ვალდებულება ისრის მიმართულებით მოძრაობის შემთხვევაში?",
+    "answers": [
+      "მსუბუქი ავტომობილის მძღოლს",
+      "სატვირთო ავტომობილის მძღოლს"
+    ]
+  },
+  {
+    "id": 285,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "რომელი სატრანსპორტო საშუალების მძღოლის მიმართ წარმოიქმნება გზის დათმობის ვალდებულება თეთრი მსუბუქი ავტომობილის მძღოლს ისრის მიმართულებით მოძრაობის შემთხვევაში?",
+    "answers": [
+      "მხოლოდ მოტოციკლის მძღოლის მიმართ",
+      "მხოლოდ ტრამვაის მძღოლის მიმართ",
+      "როგორც მოტოციკლის მძღოლის, ასევე ტრამვაის მძღოლის მიმართ"
+    ]
+  },
+  {
+    "id": 286,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "ისრის მიმართულებით მოძრავი რომელი სატრანსპორტო საშუალების მძღოლი არღვევს საგზაო მოძრაობის წესებს?",
+    "answers": [
+      "მხოლოდ ტრაქტორის მძღოლი",
+      "მხოლოდ \"CE\" კატეგორიის ავტომობილის მძღოლი",
+      "მხოლოდ ტრაქტორისა და \"CE\" კატეგორიის ავტომობილის მძღოლები",
+      "მხოლოდ \"CE\" და \"B\" კატეგორიების ავტომობილების მძღოლები"
+    ]
+  },
+  {
+    "id": 287,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "რომელი სატრასპორტო საშუალების მძღოლს არ ეკრძალება ისრის მიმართულებით მოძრაობა, თუ მოცემული გზა მიმდებარე ტერიტორიებს არ ემსახურება?",
+    "answers": [
+      "მოპედის მძღოლს",
+      "\"B\" კატეგორიის ავტომობილის მძღოლს",
+      "\"C\" კატეგორიის ავტომობილის მძღოლს"
+    ]
+  },
+  {
+    "id": 288,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "თუ სამი მოძრაობის ზოლის მქონე ორმხრივ მოძრაობიანი გზის შუა ზოლი ორივე მიმართულებით მოძრაობისათვის გამოიყენება, თანმხვედრი მიმართულების მოძრაობის მხარედ ითვლება:",
+    "answers": [
+      "შუა და მარჯვენა მოძრაობის ზოლები",
+      "მხოლოდ მარჯვენა მხარეს მდებარე მოძრაობის ზოლი"
+    ]
+  },
+  {
+    "id": 289,
+    "correctAnswer": 3,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "რომელი სატრანსპორტო საშუალების მძღოლს არ ეკრძალება ისრის მიმართულებით მოძრაობა?",
+    "answers": [
+      "მხოლოდ კვადროციკლის მძღოლს",
+      "მხოლოდ სატვირთო ავტომობილის მძღოლს",
+      "მხოლოდ ტრაქტორის მძღოლს",
+      "ყველა სატრანსპორტო საშუალების მძღოლს"
+    ]
+  },
+  {
+    "id": 290,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "დასახლებულ პუნქტში სამარშუტო ავტობუსის მძღოლი იწყებს გასაჩერებელი პუნქტიდან გამოსვლას, მსუბუქი ავტომობილის მძღოლმა, უნდა:",
+    "answers": [
+      "როგორც უპირატესობის მქონემ, სიჩქარის შეუცვლელად გააგრძელოს მოძრაობა",
+      "შეანელოს მოძრაობა და აუცილებლობის შემთხვევაში გაჩერდეს"
+    ]
+  },
+  {
+    "id": 291,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "რომელი ავტომობილის მძღოლს წარმოექმნება გზის დათმობის ვალდებულება, დაუსახლებელ პუნქტში ისრის მიმართულებით მოძრაობის შემთხვევაში, თუ სამარშრუტი სატრანსპორტო საშუალების მძღოლი იწყებს გამოსვლას გასაჩერებელი პუნქტიდან?",
+    "answers": [
+      "მსუბუქი ავტომობილის მძღოლს",
+      "სამარშრუტი სატრანსპორტო საშუალების მძღოლს"
+    ]
+  },
+  {
+    "id": 292,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "ეკრძალება თუ არა მძღოლს ისრის მიმართულებით ავტომობილის მობრუნება?",
+    "answers": [
+      "ეკრძალება",
+      "არ ეკრძალება"
+    ]
+  },
+  {
+    "id": 293,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემულ სიტუაციაში, აქვს თუ არა მსუბუქი ავტომობილის მძღოლს შეუჩერებლად მოძრაობის გაგრძელების უფლება?",
+    "answers": [
+      "აქვს უფლება",
+      "არ აქვს უფლება"
+    ]
+  },
+  {
+    "id": 294,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "რომელი გაჩერებული ავტომობილის მძღოლს ენიჭება უპირატესობა ისრის მიმართულებით მოძრაობის დაწყების შემთხვევაში, თუ სამარშრუტო ავტობუსის მძღოლი დასახლებულ პუნქტში იწყებს მოძრაობას მონიშნული გაჩერებიდან?",
+    "answers": [
+      "მსუბუქი ავტომობილის მძღოლს",
+      "ავტობუსის მძღოლს"
+    ]
+  },
+  {
+    "id": 295,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "რომელი სატრანსპორტო საშუალების მძღოლს არ ეკრძალება ისრის მიმართულებით მოძრაობა?",
+    "answers": [
+      "მხოლოდ მოტოციკლების მძღოლებს",
+      "მხოლოდ სატვირთო ავტომობილის მძღოლს",
+      "სამივე სატრანსპორტო საშუალების მძღოლს"
+    ]
+  },
+  {
+    "id": 296,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "თუ უმოქმედო სამუხრუჭო სისტემის მქონე მექანიკური სატრანსპორტო საშუალების ფაქტობრივი მასა, მობუქსირე სატრანსპორტო საშუალების ფაქტობრივი მასის ნახევარს აღემატება, მისი ბუქსირება:",
+    "answers": [
+      "აკრძალულია",
+      "დასაშვებია"
+    ]
+  },
+  {
+    "id": 297,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "დღე-ღამის ნებისმიერ პერიოდში საბუქსირო მექანიკურ სატრანსპორტო საშუალებას ჩართული უნდა ჰქონდეს:",
+    "answers": [
+      "საგაბარიტო სინათლეები",
+      "ახლო განათების ფარები",
+      "საავარიო შუქსიგნალიზაცია"
+    ]
+  },
+  {
+    "id": 298,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მგზავრთა გადასაყვანი ბორტის პლატფორმიანი სატვირთო ავტომობილი უნდა აღიჭურვოს:",
+    "answers": [
+      "იატაკიდან 0,2–0,3 მეტრის სიმაღლეზე და ბორტის ზედა ნაპირიდან არანაკლებ 0,5 მეტრზე დამაგრებული დასაჯდომებით, ამასთან უკანა ან გვერდითი ბორტების გასწვრივ განლაგებულ დასაჯდომებს უნდა ჰქონდეთ მყარი საზურგეები",
+      "იატაკიდან 0,3–0,5 მეტრის სიმაღლეზე და ბორტის ზედა ნაპირიდან არანაკლებ 0,3 მეტრზე დამაგრებული დასაჯდომებით, ამასთან უკანა ან გვერდითი ბორტების გასწვრივ განლაგებულ დასაჯდომებს უნდა ჰქონდეთ მყარი საზურგეები"
+    ]
+  },
+  {
+    "id": 299,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "„C“ კატეგორიის სატრანსპორტო საშუალების მართვის უფლების მქონე პირს, დადგენილი წესით მოწყობილი სატვირთო ავტომობილის ძარით, არა უმეტეს 8 მგზავრის გადაყვანის უფლება აქვს:",
+    "answers": [
+      "ამ კატეგორიის მართვის მოწმობის მიღებისთანავე",
+      "ამ კატეგორიის მართვის მოწმობის მიღებიდან ექვსი თვის შემდეგ",
+      "ამ კატეგორიის მართვის მოწმობის მიღებიდან ერთი წლის შემდეგ"
+    ]
+  },
+  {
+    "id": 300,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "სათანადოდ მოწყობილი სატვირთო ავტომობილის ძარით მგზავრთა გადაყვანისას, მგზავრობის წინ მძღოლმა:",
+    "answers": [
+      "მგზავრებს უნდა ჩაუტაროს ინსტრუქტაჟი ჩასხდომისა და ძარაზე განლაგების წესის შესახებ, ამასთან მოძრაობა დაიწყოს მხოლოდ მას შემდეგ, როცა დარწმუნდება, რომ მგზავრთა უსაფრთხოდ გადაყვანის ყველა პირობა დაცულია",
+      "თუ მგზავრთა რაოდენობა აღემატება ძარაზე არსებული დასაჯდომი ადგილების რაოდენობას, ინსტრუქტაჟი უნდა ჩაუტაროს ფეხზე მდგომ მგზავრებს ძარაზე განლაგების წესის შესახებ",
+      "უნდა შეასრულოს ამ ბილეთში ჩამოთვლილი ყველა მოთხოვნა"
+    ]
+  },
+  {
+    "id": 301,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "დაარღვევს თუ არა საგზაო მოძრაობის წესებს სატვირთო ავტომობილის მძღოლი ისრის მიმართულებით მოძრაობის შემთხვევაში, თუ ის მოძრაობს 50 კმ/სთ სიჩქარით?",
+    "answers": [
+      "არ დაარღვევს",
+      "დაარღვევს"
+    ]
+  },
+  {
+    "id": 302,
+    "correctAnswer": 3,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემულ სიტუაციაში, რამდენ საგზაო მოძრაობის წესს არღვევს ისრის მიმართულებით მოძრავი მობუქსირე სატვირთო ავტომობილის მძღოლი, თუ იგი მოძრაობს 70 კმ/სთ სიჩქარით?",
+    "answers": [
+      "არცერთს",
+      "ერთს",
+      "ორს",
+      "სამს"
+    ]
+  },
+  {
+    "id": 303,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "ავტომზიდის ან კონტეინერის გადაზიდვის შემთხვევაში სატრანსპორტო საშუალება ითვლება არაგაბარიტულად (მსხვილგაბარიტიანად), თუ სავალი ნაწილის ზედაპირიდან მისი სიმაღლე:",
+    "answers": [
+      "აღემატება 2,30 მეტრს, მაგრამ არ აღემატება 3,50 მეტრს",
+      "აღემატება 3,50 მეტრს, მაგრამ არ აღემატება 4,30 მეტრს",
+      "აღემატება 4,30 მეტრს"
+    ]
+  },
+  {
+    "id": 304,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "გარდა ავტომზიდისა ან კონტეინერის გადაზიდვის შემთხვევებისა, სატრანსპორტო საშუალება ითვლება არაგაბარიტულად (მსხვილგაბარიტიანად), თუ სავალი ნაწილის ზედაპირიდან მისი სიმაღლე:",
+    "answers": [
+      "აღემატება 2 მეტრს, მაგრამ არ აღემატება 3 მეტრს",
+      "აღემატება 3 მეტრს, მაგრამ არ აღემატება 3,70 მეტრს",
+      "აღემატება 4 მეტრს"
+    ]
+  },
+  {
+    "id": 305,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "საქართველოს ყველა გზაზე მოძრაობის მიმართულება დადგენილია:",
+    "answers": [
+      "მარცხენა მხარეს",
+      "მარჯვენა მხარეს",
+      "როგორც მარცხენა, ასევე მარჯვენა მხარეს"
+    ]
+  },
+  {
+    "id": 306,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "თუ საგზაო მოძრაობის ორგანიზებით სხვა რამ არ არის გათვალისწინებული ორი ან სამი სავალი ნაწილის მქონე გზაზე, სატრანსპორტო საშუალების მძღოლს ეკრძალება:",
+    "answers": [
+      "თანხვედრი მიმართულების მოძრაობის მხარის სავალ ნაწილზე მოძრაობის ზოლის შეცვლა",
+      "საპირისპირო მიმართულების მოძრაობის მხარის სავალ ნაწილზე გასვლა"
+    ]
+  },
+  {
+    "id": 307,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მძღოლმა, რომელსაც განზრახული აქვს რაიმე მანევრის შესრულება, ეს მანევრი უნდა დაიწყოს მხოლოდ მას შემდეგ, რაც დარწმუნდება, რომ:",
+    "answers": [
+      "არ შეუქმნის საფრთხეს მის უკან, წინ და გვერდით როგორც თანხვედრი, ისე საპირისპირო მიმართულებით მოძრავ საგზაო მოძრაობის მონაწილეებს, მათი მდებარეობის, მოძრაობის მიმართულებისა და სიჩქარის გათვალისწინებით",
+      "არ შეუქმნის საფრთხეს მხოლოდ მის უკან ან გვერდზე მოძრავ სატრანსპორტო საშუალებებს, მათი მდებარეობის, მოძრაობის მიმართულებისა და სიჩქარის გათვალისწინებით"
+    ]
+  },
+  {
+    "id": 308,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "ჩამოთვლილთაგან რომელ ადგილზე არ არის აკრძალული სატრანსპორტო საშუალების მობრუნება:",
+    "answers": [
+      "გზაჯვარედინზე",
+      "ხიდზე, გზაგამტარზე, ესტაკადაზე და მათ ქვეშ",
+      "რკინიგზის გადასასვლელზე",
+      "გვირაბში"
+    ]
+  },
+  {
+    "id": 309,
+    "correctAnswer": 3,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "თუ თქვენი სატრანსპორტო საშუალების წინ მიმავალი სატვირთო ავტომობილის მძღოლი აპირებს მარჯვნივ შეუხვიოს ვიწრო სავალი ნაწილის მქონე ქუჩაზე, თქვენ უნდა გაითვალისწინოთ:",
+    "answers": [
+      "მხოლოდ გარემოება, რომ სატრანსპორტო საშუალების დიდი მოხვევის რადიუსის გამო ის უშუალოდ მოსახვევის წინ შეიძლება გადაადგილდეს მარცხნივ",
+      "მხოლოდ გარემოება, რომ ის მკვეთრად შეამცირებს სიჩქარეს",
+      "მხოლოდ გარემოება, რომ ქვეითებისათვის გზის დათმობის გამო ის შეიძლება გაჩერდეს მოხვევის შესრულების დროს",
+      "რომ შეიძლება წარმოიშვას ამ ბილეთში ჩამოთვლილი ნებისმიერი გარემოება"
+    ]
+  }
+]

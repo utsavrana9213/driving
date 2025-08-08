@@ -1,0 +1,260 @@
+[
+  {
+    "id": 313,
+    "correctAnswer": 3,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "სურათზე მითითებულ ადგილას, დაუსახლებელ პუნქტში, ავტომობილის გაჩერების შემთხვევაში მძღოლი:",
+    "answers": [
+      "ვალდებულია ჩართოს საავარიო შუქსიგნალიზაცია",
+      "ვალდებულია ავტომობილის უკან გამოდგას „საავარიო გაჩერების ნიშანი“",
+      "ვალდებულია ჩართოს საავარიო შუქსიგნალიზაცია და ავტომობილის უკან გამოდგას „საავარიო გაჩერების ნიშანი“",
+      "არ არის ვალდებული ჩართოს საავარიო შუქსიგნალიზაცია და ავტომობილის უკან გამოდგას „საავარიო გაჩერების ნიშანი“"
+    ]
+  },
+  {
+    "id": 314,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "სატრანსპორტო საშუალება იძულებით გაჩერებულად ითვლება, თუ:",
+    "answers": [
+      "მოძრაობა შეწყვეტილია ტექნიკური გაუმართაობის გამო",
+      "მოძრაობა გამიზნულად შეწყვეტილია 5 წუთზე მეტი დროით, თუ ეს არ ეხება მგზავრთა ჩასხდომა-გადმოსხდომას, ან სატრანსპორტო საშუალების დატვირთვა-გადმოტვირთვას",
+      "მოძრაობა წინასწარ განზრახულად შეწყვეტილია 5 წუთამდე"
+    ]
+  },
+  {
+    "id": 315,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "საავარიო შუქსიგნალიზაციის არ არსებობის ან გაუმართაობის შემთხვევაში, საბუქსირო მექანიკური სატრანსპორტო საშუალების უკანა ნაწილზე უნდა დამაგრდეს:",
+    "answers": [
+      "საავარიო გაჩერების ნიშანი",
+      "მაქსიმალური სიჩქარის შეზღუდვის ნიშანი",
+      "სხვა საფრთხეების მაჩვენებელი ნიშანი"
+    ]
+  },
+  {
+    "id": 316,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "საპირისპირო მიმართულებიდან მომავალი მექანიკური სატრანსპორტო საშუალების ფარების შუქით თვალის მოჭრის შემთხვევაში, მძღოლი ვალდებულია:",
+    "answers": [
+      "შეანელოს სიჩქარე, რაც შეიძლება სწრაფად გადაეწყოს უკიდურეს მარჯვენა მოძრაობის ზოლში და აუცილებლობის შემთხვევაში გაჩერდეს",
+      "ფარების შუქის პერიოდული გადართვით მიანიშნოს შემხვედრი სატრანსპორტო საშუალების მძღოლს აღნიშნული პრობლემის შესახებ",
+      "მოძრაობის ზოლის შეუცვლელად შეანელოს სიჩქარე, გაჩერდეს და ჩართოს საავარიო შუქსიგნალიზაცია. მოძრაობის აღდგენა დასაშვებია მხოლოდ მხედველობის სრულად აღდგენის შემდეგ",
+      "ჩართოს შორი განათების ფარები"
+    ]
+  },
+  {
+    "id": 317,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "სატრანსპორტო საშუალების მძღოლი ვალდებულია საავარიო შუქსიგნალიზაცია (მისი არსებობისას) ჩართოს:",
+    "answers": [
+      "მიმდებარე ტერიტორიიდან საავტომობილო გზაზე გასვლისას",
+      "თუ ავარიაში მონაწილე ან მწყობრიდან გამოსული სატრანსპორტო საშუალების გაყვანა გზის სავალი ნაწილიდან დაუყოვნებლივ შეუძლებელია",
+      "უკუსვლით მოძრაობისას"
+    ]
+  },
+  {
+    "id": 318,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "დასახლებულ პუნქტში, იმ ადგილებში იძულებით გაჩერების დროს, სადაც ეს აკრძალულია მძღოლმა საავარიო გაჩერების ნიშანი (ან მსგავსი ეფექტური მოწყობილობა) სატრანსპორტო საშუალებიდან უნდა გამოდგას არანაკლებ:",
+    "answers": [
+      "5 მეტრის მანძილზე",
+      "10 მეტრის მანძილზე",
+      "15 მეტრის მანძილზე"
+    ]
+  },
+  {
+    "id": 319,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "დაუსახლებულ პუნქტში, იმ ადგილებში იძულებით გაჩერების დროს, სადაც ეს აკრძალულია, მძღოლმა საავარიო გაჩერების ნიშანი (ან მსგავსი ეფექტური მოწყობილობა) სატრანსპორტო საშუალებიდან უნდა გამოდგას არანაკლებ:",
+    "answers": [
+      "15 მეტრის მანძილზე",
+      "20 მეტრის მანძილზე",
+      "30 მეტრის მანძილზე"
+    ]
+  },
+  {
+    "id": 320,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "იმ ადგილას იძულებით გაჩერების დროს, სადაც გაჩერება აკრძალულია, საავარიო გაჩერების ნიშანისა და მოციმციმე წითელი ფარნის არ არსებობის შემთხვევაში:",
+    "answers": [
+      "მოახლოებულ მძღოლთა დროული გაფრთხილება აუცილებელი არ არის",
+      "მძღოლმა უნდა უზრუნველყოს სხვა მსგავისი ეფექტური საშუალებებით მოახლოებულ მძღოლთა დროული გაფრთხილება"
+    ]
+  },
+  {
+    "id": 321,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "ვალდებულია თუ არა მსუბუქი ავტომობილის მძღოლი, ჩართოს საავარიო შუქსიგნალიზაცია და გამოდგას საავარიო გაჩერების ნიშანი სურათზე მითითებულ ადგილას იძულებით გაჩერების შემთხვევაში?",
+    "answers": [
+      "ვალდებულია ჩართოს მხოლოდ საავარიო შუქური სიგნალიზაცია",
+      "ვალდებულია მხოლოდ გამოდგას საავარიო გაჩერების ნიშანი ავტომობილის უკან, 15 მეტრის მანძილზე",
+      "არ არის ვალდებული"
+    ]
+  },
+  {
+    "id": 322,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "თუ საგზაო - სატრანსპორტო შემთხვევაში მონაწილე სატრანსპორტო საშუალების გაყვანა ან ბუქსირება დაუყოვნებლივ შეუძლებელია და წარმოადგენს დაბრკოლებას საგზაო მოძრაობის სხვა მონაწილეებისთვის, მაშინ ასეთი სატრანსპორტო საშუალების მძღოლი ვალდებულია ჩართოს:",
+    "answers": [
+      "ახლო ან შორი განათების ფარები და უკანა საგაბარიტო სინათლეები",
+      "საავარიო შუქსიგნალიზაცია",
+      "ხმოვანი სიგნალი"
+    ]
+  },
+  {
+    "id": 323,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "საგზაო-სატრანსპორტო შემთხვევაში მონაწილე სატრანსპორტო საშუალებაზე საავარიო შუქსიგნალიზაციის ჩართვის შემდეგ, აგრეთვე თუ ასეთი სიგნალიზაცია არ არსებობს ან მწყობრიდანაა გამოსული, მძღოლმა დაუყოვნებლივ უნდა:",
+    "answers": [
+      "ჩართოს შორი განათების ფარები",
+      "ჩართოს ხმოვანი სიგნალი",
+      "გამოდგას საავარიო გაჩერების ნიშანი, ხოლო არასაკმარისი მხედველობის პირობებში - მოციმციმე წითელი ფარანი"
+    ]
+  },
+  {
+    "id": 324,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "როგორი სახის შეიძლება იყოს გრეიდერ-ელევატორი?",
+    "answers": [
+      "მხოლოდ ნახევრადმისაბმელიანი",
+      "მხოლოდ მისაბმელიანი",
+      "ნახევრადმისაბმელიანი, თვითმავალი ან მისაბმელიანი"
+    ]
+  },
+  {
+    "id": 325,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "რომელი კატეგორიის გრუნტში სამუშაოდ გამოიყენება გრეიდერ-ელევატორი?",
+    "answers": [
+      "I – II კატეგორიის",
+      "III – IV კატეგორიის",
+      "II – III კატეგორიის"
+    ]
+  },
+  {
+    "id": 326,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "რას გულისხმობს ნიადაგის ძირითადი დამუშავება?",
+    "answers": [
+      "ფრთიანი და უფრთო გუთნებით ხვნა, ბრტყლადმჭრელებით ღრმა დამუშავებას",
+      "კულტივაციას",
+      "ფარცხვას",
+      "აოშვას"
+    ]
+  },
+  {
+    "id": 327,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "ხვნის როგორი სახე არსებობს?",
+    "answers": [
+      "კონუსური",
+      "წრიული",
+      "რომბული",
+      "პრიზმული"
+    ]
+  },
+  {
+    "id": 328,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "ნიადაგის რა სიღრმეზე დამუშავებას ეწოდება ზედაპირული დამუშავება?",
+    "answers": [
+      "8-12 სმ-მდე",
+      "16 სმ-მდე",
+      "22 სმ-მდე",
+      "24 სმ-მდე"
+    ]
+  },
+  {
+    "id": 329,
+    "correctAnswer": 3,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "ნიადაგის რა სიღრმეზე დამუშავებას ეწოდება ღრმად დამუშავება?",
+    "answers": [
+      "8 სმ-მდე",
+      "16 სმ-მდე",
+      "20 სმ-მდე",
+      "27 სმ და მეტი"
+    ]
+  },
+  {
+    "id": 330,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "რას გულისხმობს ნიადაგის ნულოვანი დამუშავების ტექნოლოგია?",
+    "answers": [
+      "ნიადაგის მხოლოდ 55%-ის დამუშავებას",
+      "ნიადაგის მხოლოდ 25% -ის დამუშავებას, ხოლო სარეველების განადგურება ქიმიური გზით",
+      "ნიადაგის 100 %-ის დამუშავებას",
+      "ნიადაგის მხოლოდ 70%-ის დამუშავებას"
+    ]
+  }
+]

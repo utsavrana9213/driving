@@ -1,0 +1,311 @@
+[
+  {
+    "id": 8023,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "თუ საგზაო ნიშნებისა და საგზაო მონიშვნების მოთხოვნები ერთმანეთს ეწინააღმდეგება, მძღოლი ვალდებულია შეასრულოს:",
+    "answers": [
+      "1\nსაგზაო ნიშნების მოთხოვნები",
+      "2\nსაგზაო მონიშვნის მოთხოვნები"
+    ]
+  },
+  {
+    "id": 8024,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "თუ სატრანსპორტო საშუალებათა მოძრაობა არ რეგულირდება არც საგზაო შუქნიშნით და არც მარეგულირებლის მეშვეობით, მძღოლმა ქვეითთა გადასასვლელთან მიახლოებისას:",
+    "answers": [
+      "1\nუნდა მისცეს ხმოვანი სიგნალი და გაიაროს ქვეითთა გადასავლელი შეუჩერებლად",
+      "2\nროგორც ქვეითების მიმართ უპირატესობის მქონემ, უფლება აქვს გაიაროს ქვეითთა გადასასვლელი ნებისმიერი სიჩქარით",
+      "3\nსათანადოდ უნდა შეამციროს სიჩქარე, რათა საფრთხე არ შეუქმნას ამ გადასასვლელზე შესულ ან შემავალ ქვეითებს, ხოლო საჭიროების შემთხვევაში უნდა გაჩერდეს და გაატაროს ქვეითები"
+    ]
+  },
+  {
+    "id": 8025,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მძღოლებმა, რომლებიც მოძრაობის მიმართულების შესაბამისი მხრიდან სათანადო წესით მონიშნულ გაჩერებაზე მყოფ სამარშრუტო სატრანსპორტო საშუალებისთვის გვერდის ავლას აპირებენ, უნდა:",
+    "answers": [
+      "1\nშეამცირონ სიჩქარე და აუცილებლობის შემთხვევაში გაჩერდნენ, რათა უზრუნველყონ საზოგადოებრივ ტრანსპორტში მგზავრების უსაფრთხო ჩასხდომის ან გადმოსხდომის შესაძლებლობა",
+      "2\nგაზარდონ სიჩქარე, რათა სწრაფად გაიარონ და არ შეაფერხონ საზოგადოებრივ ტრანსპორტში მგზავრების ჩასხდომა-გადმოსხდომის პროცესი",
+      "3\nგაჩერდნენ გვერდულასთან და არ დაიძრან საზოგადოებრივი ტრანსპორტის მოძრაობის გაგრძელებამდე"
+    ]
+  },
+  {
+    "id": 8026,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "შესაბამისი საგზაო ნიშნებისა და მონიშვნების არარსებობის შემთხვევაში, ურელსო სატრანსპორტო საშუალებათა მოძრაობისათვის ზოლების რაოდენობა განისაზღვრება:",
+    "answers": [
+      "1\nთვით მძღოლის მიერ, სავალი ნაწილის სიგანის, სატრანსპორტო საშუალებების გაბარიტებისა და მათ შორის აუცილებელი ინტერვალის გათვალისწინებით",
+      "2\nადგილობრივი თვითმართველობის ორგანოს მიერ",
+      "3\nკონონით, რომლის თანახმად ასეთი სახის გზა ითვლება ცალხმრივ მოძრაობიან გზად"
+    ]
+  },
+  {
+    "id": 8027,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "ორმხრივმოძრაობიანი გზის სავალი ნაწილის ღერძზე განლაგებულ უსაფრთხოების კუნძულს ან ტუმბოს მძღოლმა უნდა შემოუაროს:",
+    "answers": [
+      "1\nმხოლოდ მარცხენა მხრიდან",
+      "2\nმხოლოდ მარჯვენა მხრიდან",
+      "3\nმარჯვენა ან მარცხენა მხრიდან"
+    ]
+  },
+  {
+    "id": 8028,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემული დამატებითი ინფორმაციის ნიშანი (დაფა) მიუთითებს:",
+    "answers": [
+      "1\nგამაფრთხილებელი ნიშნებით აღნიშნული გზის სახიფათო მონაკვეთის სიგრძეს",
+      "2\nმანძილს გზის სხვა მხარეს მდებარე ობიექტამდე",
+      "3\nმანძილს ნიშნიდან სახიფათო მონაკვეთის დასაწყისამდე, სათანადო შეზღუდვის შემოტანის ადგილამდე ან წინ, მოძრაობის მიმართულებით არსებულ გარკვეულ ობიექტამდე"
+    ]
+  },
+  {
+    "id": 8029,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემული დაფებიდან რომელი მიუთითებს დგომის ამკრძალავი ნიშნის მოქმედების ზონის დასასრულზე?",
+    "answers": [
+      "1\nI",
+      "2\nII",
+      "3\nIII"
+    ]
+  },
+  {
+    "id": 8030,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემული დამატებითი ინფორმაციის ნიშნებიდან (დაფებიდან) რომელი აწვდის მძღოლს ინფორმაციას დგომა-გაჩერების ამკრძალავი ნიშნების მოქმედების ზონაში მისი ყოფნის თაობაზე?",
+    "answers": [
+      "1\nმხოლოდ III",
+      "2\nმხოლოდ I",
+      "3\nმხოლოდ II",
+      "4\nმხოლოდ II და III"
+    ]
+  },
+  {
+    "id": 8031,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემული დამატებითი ინფორმაციის ნიშნებიდან (დაფებიდან) რომელი მიუთითებს გზაჯვარედინის წინ დადგმული ნიშნის მოქმედების მიმართულებას ან მოძრაობის მიმართულებას, უშუალოდ გზასთან მდებარე აღნიშნული ობიექტისაკენ?",
+    "answers": [
+      "1\nმხოლოდ I და III",
+      "2\nმხოლოდ I",
+      "3\nმხოლოდ II",
+      "4\nმხოლოდ III"
+    ]
+  },
+  {
+    "id": 8032,
+    "correctAnswer": 3,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემული საგზაო ნიშნების კომბინაციიდან, რომლის მოქმედება ვრცელდება სატვირთო ავტომობილებზე მისაბმელის გარეშე, რომელთა ნებადართული მაქსიმალური მასა 3,5 ტ-ზე მეტია?",
+    "answers": [
+      "1\nI და III",
+      "2\nII და III",
+      "3\nIII და IV",
+      "4\nII და IV"
+    ]
+  },
+  {
+    "id": 8033,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემული საგზაო ნიშნების კომბინაციიდან რომლის მოქმედება ვრცელდება შაბათ-კვირას და სადღესასწაულო დღეებში?",
+    "answers": [
+      "1\nმხოლოდ III",
+      "2\nმხოლოდ I და IV",
+      "3\nმხოლოდ II და III",
+      "4\nმხოლოდ I"
+    ]
+  },
+  {
+    "id": 8034,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემული საგზაო ნიშნების კომბინაციიდან, რომელი მიუთითებს დღე-ღამის დროზე, როცა მოქმედებს ნიშანი?",
+    "answers": [
+      "1\nმხოლოდ II და IV",
+      "2\nმხოლოდ I",
+      "3\nმხოლოდ II და III",
+      "4\nმხოლოდ III"
+    ]
+  },
+  {
+    "id": 8035,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემული საგზაო ნიშნების კომბინაციიდან რომელი, მიუთითებს კვირის დღეებსა და დღე-ღამის დროზე, როცა მოქმედებს ნიშანი?",
+    "answers": [
+      "1\nმხოლოდ III",
+      "2\nმხოლოდ IV",
+      "3\nმხოლოდ II და IV",
+      "4\nმხოლოდ I"
+    ]
+  },
+  {
+    "id": 8036,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემულ სიტუაციაში, რომელ მძღოლს ეკრძალება ისრის მიმართულებით სატრანსპორტო საშუალების მობრუნება?",
+    "answers": [
+      "1\nმხოლოდ მოტოციკლის მძღოლს",
+      "2\nმხოლოდ თეთრი ავტომობილის მძღოლს",
+      "3\nარცერთი სატრანსპორტო საშუალების მძღოლს"
+    ]
+  },
+  {
+    "id": 8037,
+    "correctAnswer": 3,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემულ სიტუაციაში, რომელ მძღოლს ეკრძალება ისრის მიმართულებით ავტომობილის მობრუნება?",
+    "answers": [
+      "1\nმხოლოდ ყვითელი ავტომობილის მძღოლს",
+      "2\nმხოლოდ წითელი ავტომობილის მძღოლს",
+      "3\nარცერთი ავტომობილის მძღოლს"
+    ]
+  },
+  {
+    "id": 8038,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "გზის სავალ ნაწილზე დატანილი წარწერები აღნიშნავენ:",
+    "answers": [
+      "1\nმანძილს უახლოეს დასახლებულ პუნქტამდე",
+      "2\nგზის (მარშრუტის) ნომერს",
+      "3\nშესაბამისი ნომრის სამარშრუტო სატრანსპორტო საშუალებებისათვის განკუთვნილ მოძრაობის ზოლებს"
+    ]
+  },
+  {
+    "id": 8039,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "გზის სავალ ნაწილზე დატანილი ყვითელი მონიშვნა აღნიშნავს:",
+    "answers": [
+      "1\nსამარშრუტო სატრანსპორტო საშუალების გაჩერებისა და ტაქსის სადგომს",
+      "2\nხაგრძლივი დასვენებისთვის დგომის ადგილს"
+    ]
+  },
+  {
+    "id": 8040,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "გზის სავალ ნაწილზე დატანილი განივი მონიშვნა აღნიშნავს ადგილს, სადაც:",
+    "answers": [
+      "1\nქვეითთა ბილიკი კვეთს გზის სავალ ნაწილს",
+      "2\nსაველოსიპედო ბილიკი კვეთს გზის სავალ ნაწილს"
+    ]
+  },
+  {
+    "id": 8041,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "გზის სავალ ნაწილზე დატანილი ორმაგი წყვეტილი ხაზი აღნიშნავს:",
+    "answers": [
+      "1\nგზაჯვარედინზე საველოსიპედო ბილიკებს",
+      "2\nადგილს, სადაც მძღოლი აუცილებლობის შემთხვევაში უნდა გაჩერდეს",
+      "3\nრევერსულად მოწესრიგებული მოძრაობის ზოლების საზღვრებს"
+    ]
+  },
+  {
+    "id": 8042,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "გზის სავალ ნაწილზე დატანილი წარწერა “BUS” აღნიშნავს სპეციალურ ზოლს, რომელიც განკუთვნილია:",
+    "answers": [
+      "1\nნელმავალი სატრანსპორტო საშუალებებისათვის",
+      "2\nველოსიპედებისა და მოპედებისათვის",
+      "3\nსამარშრუტო სატრანსპორტო საშუალებებისათვის"
+    ]
+  },
+  {
+    "id": 8043,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "გზის სავალ ნაწილზე საგზაო მოძრაობის ზოლის შუაში დატანილი ისრის ფორმის მონიშვნა აფრთხილებს:",
+    "answers": [
+      "1\nსახიფათო მოსახვევიან გზის მონაკვეთთან მიახლოების თაობაზე",
+      "2\nსავალი ნაწილის შევიწროებასთან, მონაკვეთთან, სადაც მცირდება მოცემული მიმართულებით მოძრაობის ზოლების რაოდენობა მიახლოების შესახებ"
+    ]
+  },
+  {
+    "id": 8044,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "ხიდზე დახაზული ვერტიკალური მონიშვნა აღნიშნავს:",
+    "answers": [
+      "1\nგზის სავალი ნაწილზე მოძრაობის ზოლების რაოდენობას",
+      "2\nგვირაბის, ხიდის და გზაგამტარის და სხვა ნაგებობათა ელემენტების ქვედა ნაპირს, რომლებიც განთავსებულნი არიან 5 მ-ზე ნაკლებ სიმაღლეზე გზის სავალი ნაწილიდან და რომელთა ქვეშ მთლიანად ან ნაწილობრივ გადის გზის სავალი ნაწილი"
+    ]
+  }
+]

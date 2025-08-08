@@ -1,0 +1,910 @@
+[
+  {
+    "id": 703,
+    "correctAnswer": 3,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "საგზაო-სატრანსპორტო შემთხვევის შედეგად დაშავებულის მდგომარეობის შეფასების მიზნით უპირველესად საჭიროა:",
+    "answers": [
+      "მხოლოდ სასუნთქი გზების გახსნა და სუნთქის კონტროლი",
+      "მხოლოდ ცნობიერების შემოწმება",
+      "მხოლოდ საძილე არტერიაზე პულსაციის შემოწმება",
+      "როგორც სასუნთქი გზების გახსნა და სუნთქის კონტროლი, ასევე საძილე არტერიაზე პულსაციისა და ცნობიერების შემოწმება"
+    ]
+  },
+  {
+    "id": 704,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "თუ საგზაო-სატრანსპორტო შემთხვევის შედეგად დაშავებულს აღენიშნება კანის მე-2 ხარისხის დამწვრობა (კანის ქსოვილის დარღვევა და მოწითალო შეფერილობა, დამწვრობის ადგილზე სითხით შევსებული ბუშტების წარმოქმნა, ძლიერი ტკივილი) პირველადი სამედიცინო დახმარების აღმოჩენის მიზნით მას უნდა:",
+    "answers": [
+      "დამწვარი ზედაპირი გადავურეცხოთ ცივი წყლით, დავუმუშაოთ იოდის ხსნარით, დავადოთ ბაქტერიციდული ან სუფთა საფენი, შევუხვიოთ ბინტით",
+      "გავუხსნათ ბუშტები, გავუსუფთაოთ დამწვარი ზედაპირი ტანსაცმლის ნარჩენებიდან, დავადოთ ბაქტერიციდული ან სუფთა საფენი, დაშავებულს დავალევინოთ წყალი",
+      "ბუშტები არ გავუხსნათ, ტანსაცმლის ნარჩენები დამწვარი ზედაპირიდან არ მოვაცილოთ, ჭრილობაზე დავადოთ სტერილური საფენი, ბინტით არ შევუხვიოთ, მივადოთ ყინული ან ცივი საფენი, მივცეთ ტკივილგამაყუჩებელი საშუალება (თუ დაშავებულს მის მიმართ ალერგია არ გააჩნია) და დაშავებულს დავალევინოთ წყალი"
+    ]
+  },
+  {
+    "id": 705,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "თუ საგზაო-სატრანსპორტო შემთხვევის შედეგად დაშავებულს არ აღენიშნება სუნთქვა და პულსაცია საძილე არტერიაზე, პირველადი სამედიცინო დახმარების აღმოჩენის მიზნით, მას უნდა ჩაუტარდეს:",
+    "answers": [
+      "მხოლოდ ხელოვნური სუნთქვა",
+      "მხოლოდ გულის არაპირდაპირი მასაჟი",
+      "როგორც ხელოვნური სუნთქვა, ასევე გულის არაპირდაპირი მასაჟი"
+    ]
+  },
+  {
+    "id": 706,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "თუ საგზაო-სატრანსპორტო შემთხვევის შედეგად დაშავებულს არ აღენიშნება სუნთქვა, მაგრამ აღენიშნება პულსაცია საძილე არტერიაზე, მას უნდა ჩაუტარდეს:",
+    "answers": [
+      "მხოლოდ ხელოვნური სუნთქვა",
+      "მხოლოდ გულის არაპირდაპირი მასაჟი",
+      "როგორც ხელოვნური სუნთქვა, ასევე გულის არაპირდაპირი მასაჟი"
+    ]
+  },
+  {
+    "id": 707,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "თუ არსებობს ეჭვი საგზაო-სატრანსპორტო შემთხვევის შედეგად დაშავებულის კისრის ან ხერხემლის დაზიანების შესახებ და მის სიცოცხლეს საფრთხე ემუქრება, როგორ უნდა მოხდეს დაშავებულის გადათრევით გადაადგილება დამხმარეს გარეშე (ერთი ადამიანის მიერ)?",
+    "answers": [
+      "მჯდომარე პოზიციაში დაშავებულს ზურგიდან მკლავები მხრებქვეშ უნდა შევუცუროთ, დავაფიქსიროთ ქვედა ყბა და კისერი და ისე გადათრევით გადავაადგილოთ უკან",
+      "მჯდომარე პოზიციაში დაშავებულს ჩავუდგეთ ფეხებს შორის მკლავები მხრებქვეშ უნდა შევუცუროთ და ზურგზე ერთმანეთს ჩავჭიდოთ. ავწიეთ ფეხებით და დაშავებული გადათრევით გადავაადგილოთ უკან"
+    ]
+  },
+  {
+    "id": 708,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "თუ საგზაო-სატრანსპორტო შემთხვევის შედეგად დაშავებულს მუცლის არეში აღენიშნება ჭრილობა, მისი ტრანსპორტირება უნდა მოხდეს:",
+    "answers": [
+      "გვერდზე დაწოლილ მდგომარეობაში მუხლებში მოხრილი ფეხებით",
+      "ნახევრად მჯდომარე მდგომარეობაში გამართული ფეხებით",
+      "ზურგზე დაწოლილ მდგომარეობაში მუხლებში მოხრილი ფეხებით",
+      "მჯდომარე მდგომარეობაში"
+    ]
+  },
+  {
+    "id": 709,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "თუ საგზაო-სატრანსპორტო შემთხვევის შედეგად დაშავებული გულწასულია, პირველადი სამედიცინო დახმარების აღმოჩენის მიზნით იგი უნდა:",
+    "answers": [
+      "დავაწვინოთ გვერდზე მოხრილი ფეხებით",
+      "დავაწვინოთ ზურგზე, ამოვუდოთ თავქვეშ ბალიში, ვასუნთქოთ ნიშადურის სპირტი",
+      "დავაწვინოთ ზურგზე, ფეხები წამოუწიოთ. ვასუნთქოთ ნიშადურის სპირტი, საფეთქლები დავუზილოთ ადეკოლონით (ან სხვა სპირტის შემცველი სითხით)"
+    ]
+  },
+  {
+    "id": 710,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "საგზაო-სატრანსპორტო შემთხვევის შედეგად დაშავებულის თავის ტვინის შერყევის შემთხვევაში, მისი ტრანსპორტირება უნდა განხორციელდეს:",
+    "answers": [
+      "ზურგზე დაწოლილ მდგომარეობაში, ამასთან უნდა ამოვუდოთ ბალიში კისრისა და წელის არეში",
+      "გვერდზე დაწოლილ მდგომარეობაში"
+    ]
+  },
+  {
+    "id": 711,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "თუ საგზაო-სატრანსპორტო შემთხვევის შედეგად დაშავებულს აღენიშნება გულმკერდის გამჭოლი ჭრილობა მისი ტრანსპორტირება უნდა განხორციელდეს:",
+    "answers": [
+      "მუცელზე დაწოლილ მდგომარეობაში",
+      "ზურგზე დაწოლილ მდგომარეობაში",
+      "ჯანმრთელ გვერდზე დაწოლილ ან ნახევრადმჯდომარე მდგომარეობაში"
+    ]
+  },
+  {
+    "id": 712,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "ერთი ხელის დაშავების შემთხვევაში საგზაო-სატრანსპორტო შემთხვევის შედეგად დაშავებულს პიჯაკი ან პერანგი უნდა გავხადოთ:",
+    "answers": [
+      "ჯერ ჯანსაღ, ხოლო შემდეგ დაშავებულ ხელზე",
+      "ჯერ დაშავებულ, ხოლო შემდეგ ჯანსაღ ხელზე",
+      "ერთდროულად ორივე ხელზე"
+    ]
+  },
+  {
+    "id": 714,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "საგზაო-სატრანსპორტო შემთხვევის შედეგად დაშავებულის მსხვილი არტერიიდან სისხლდენის დამახასითებელი ნიშნებია:",
+    "answers": [
+      "ტანსაცმელი გაჟღენთილია ალისფერი სისხლით, რომელიც ჭრილობიდან გამოედინება პულსირებული ნაკადით",
+      "ტანსაცმელი სწრაფად იჟღინთება მუქი ფერის სისხლით, რომელიც ჭრილობიდან გამოედინება სუსტი ნაკადით",
+      "ტანსაცმელი გაჟღენთილია სისხლით მხოლოდ ჭრილობის ადგილზე, რომელიც ჭრილობიდან გამოედინება სუსტი ნაკადით"
+    ]
+  },
+  {
+    "id": 715,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "საგზაო-სატრანსპორტო შემთხვევის შედეგად დაშავებულის ჭრილობიდან ვენური სისხლდენის დამახასითებელი ნიშნებია:",
+    "answers": [
+      "ტანსაცმელი გაჟღენთილია ალისფერი სისხლით, რომელიც ჭრილობიდან გამოედინება პულსირებული ნაკადით",
+      "ტანსაცმელი ნელა იჟღინთება მუქი ფერის სისხლით, რომელიც ჭრილობიდან გამოედინება სუსტი ნაკადით"
+    ]
+  },
+  {
+    "id": 716,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "საგზაო-სატრანსპორტო შემთხვევის შედეგად დაშავებულის კიდურების დაზიანების შემთხვევაში არტერიული სისხლდენის შემაჩერებელი ლახტი უნდა დავადოთ ჭრილობის:",
+    "answers": [
+      "ადგილის ზემოთ",
+      "ადგილის ქვემოთ",
+      "ადგილზე"
+    ]
+  },
+  {
+    "id": 717,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "არტაშანის დასამზადებელი მასალის არარსებობისას საგზაო-სატრანსპორტო შემთხვევის შედეგად დაშავებულის ფეხის ძვლის მოტეხილობის შემთხვევაში, მას უნდა:",
+    "answers": [
+      "დაშავებული ფეხის მთელ სიგრძეზე დავადოთ ბინტის სახვევი",
+      "დაშავებული და ჯანმრთელი ფეხი დავუმაგროთ ერთმანეთს ბინტის სახვევის გამოყენებით, ამასთან აუცილებელია ფეხებს შორის ჩავუდოთ რბილი ქსოვილი"
+    ]
+  },
+  {
+    "id": 718,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "საგზაო-სატრანსპორტო შემთხვევის შედეგად დაშავებულის მენჯისა და ბარძაყის ძვლის მოტეხილობის შემთხვევაში „სასწრაფო სამედიცინო დახმარების“ მოსვლამდე, იგი უნდა:",
+    "answers": [
+      "დავაწვინოთ ზურგზე მუხლებქვეშ ამოვუდოთ მჭიდროდ დახვეული საფენი ან ტანსაცმელი, მივცეთ ტკივილგამაყუჩებელი საშუალება",
+      "დავაწვინოთ გვერდზე დაუზიანებელ მხარეს, დავადოთ დაშავებულ ადგილზე ცივი საფენი, მივცეთ ტკივილგამაყუჩებელი საშუალება"
+    ]
+  },
+  {
+    "id": 719,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "რომელ შემთხვევაშია მიზანშეწონილი საგზაო-სატრანსპორტო შემთხვევის შედეგად დაშავებულის ავტომობილის კაბინიდან გადმოყვანა?",
+    "answers": [
+      "ყოველთვის დაშავებულის გონების დაკარგვის შემთხვევაში",
+      "დაშავებულის ქვედა კიდურების მოტეხილობის შემთხვევაში",
+      "როცა დაშავებულს გონება აქვს დაკარგული და არ აღენიშნება სუნთქვა და პულსაცია საძილე არტერიაზე"
+    ]
+  },
+  {
+    "id": 720,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "საგზაო-სატრანსპორტო შემთხვევის შედეგად დაშავებულის ზურგის ტვინის დაუზიანებლად კისრის ხერხემლის მალების ტრავმების სიმპტომებია:",
+    "answers": [
+      "დაშავებული ვერ ამოძრავებს ზედა კიდურებს, სუნთქვა უძნელდება",
+      "დაშავებულს კისრისა და ზურგის არეში აქვს ტკივილი, რომელიც მატულობს ხელით შეხებისას"
+    ]
+  },
+  {
+    "id": 721,
+    "correctAnswer": 3,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "თუ საგზაო-სატრანსპორტო შემთხვევის შედეგად დაშავებულს დაზიანებული აქვს კისერი ან ხერხემალი ან არსებობს ეჭვი მათი დაზიანების შესახებ, არ შეიძლება:",
+    "answers": [
+      "მხოლოდ დაშავებულისთვის თავისა და კისრის მოძრაობა",
+      "მხოლოდ დაშავებულის ჭრილობაზე შეხება",
+      "მხოლოდ დაშავებულისათვის ძვლის ნამსხვრევების ჩასწორება და უცხო სხეულების მოცილება",
+      "როგორც დაშავებულისთვის თავისა და კისრის მოძრაობა, ასევე მის ჭრილობაზე შეხება, ძვლის ნამსხვრევების ჩასწორება და უცხო სხეულების მოცილება"
+    ]
+  },
+  {
+    "id": 722,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "თუ საგზაო-სატრანსპორტო შემთხვევის შედეგად დაშავებულს დაზიანებული აქვს ხერხემალი, იგი უნდა:",
+    "answers": [
+      "დავაწვინოთ გვერდზე, სწორ და მაგარ ზედაპირზე, ამოვუდოთ ბალიში თავქვეშ",
+      "დავაწვინოთ ზურგზე, სწორ და მაგარ ზედაპირზე და ამოვუდოთ ბალიში კისრისა და წელის არეში"
+    ]
+  },
+  {
+    "id": 723,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "თუ საგზაო-სატრანსპორტო შემთხვევის შედეგად დაშავებულს აღენიშნება ხერხემლის დაზიანება მისი ტრანსპორტირება უნდა განხორციელდეს:",
+    "answers": [
+      "გვერდზე მწოლიარე მდგომარეობაში, სწორ და მაგარ ზედაპირზე",
+      "ზურგზე მწოლიარე მდგომარეობაში, სწორ და მაგარ ზედაპირზე",
+      "მჯდომარე მდგომარეობაში, სწორ და მაგარ ზედაპირზე"
+    ]
+  },
+  {
+    "id": 724,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "არტერიული სისხლდენის დროს სიცოცხლისათვის საშიში სისხლის რაოდენობა შეიძლება დაიკარგოს:",
+    "answers": [
+      "2-5 წთ-ის განმავლობაში",
+      "5-10 წთ-ის განმავლობაში",
+      "10-15 წთ-ის შემდეგ"
+    ]
+  },
+  {
+    "id": 725,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "საგზაო-სატრანსპორტო შემთხვევის შედეგად დაშავებულის კანის საფარველისა და კუნთოვანი ქსოვილის დაზიანების შემთხვევაში, პირველადი სამედიცინო დახმარების აღმოჩენის მიზნით, მას უნდა:",
+    "answers": [
+      "ჭრილობაზე მოესხას იოდის ხსნარი",
+      "ჭრილობა გარშემო დამუშავდეს იოდის ხსნარით და დაედოს ბაქტერიციდული საფენი (მისი არ ქონის შემთხვევაში დაედოს სუფთა საფენი)",
+      "კუნთოვანი ქსოვილი გათავისუფლდეს უცხო სხეულებისაგან და დაედოს ბაქტერიციდული საფენი"
+    ]
+  },
+  {
+    "id": 726,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "როგორი სახის სახვევი გამოიყენება საგზაო-სატრანსპორტო შემთხვევის შედეგად დაშავებულის წვივ-ტერფის სახსრის დაზიანებისას?",
+    "answers": [
+      "თავთავისებური",
+      "რვიანისებური",
+      "შურდულისებური"
+    ]
+  },
+  {
+    "id": 727,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "თუ საგზაო-სატრანსპორტო შემთხვევის შედეგად დაშავებულს აღენიშნება ლავიწის ძვლის მოტეხილობა მისი ტრანსპორტირება უნდა განხორციელდეს:",
+    "answers": [
+      "მჯდომარე მდგომარეობაში",
+      "გვერდზე მწოლიარე მდგომარეობაში",
+      "ზურგზე მწოლიარე მდგომარეობაში",
+      "მუცელზე მწოლიარე მდგომარეობაში"
+    ]
+  },
+  {
+    "id": 728,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "საგზაო-სატრანსპორტო შემთხვევის შედეგად დაშავებულის თავის ქალისა და ტვინის დაზიანების გამო გონების დაკარგვის შემთხვევაში, იგი უნდა:",
+    "answers": [
+      "დავსვათ",
+      "დავაწვინოთ გვერდზე",
+      "დავაწვინოთ ზურგზე"
+    ]
+  },
+  {
+    "id": 729,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "საგზაო-სატრანსპორტო შემთხვევის შედეგად დაშავებულს გოგირდის მჟავით დაზიანებული კანის უბნები უნდა:",
+    "answers": [
+      "გაეწმინდოს სპირტით",
+      "დაუმუშავდეს იოდის ხსნარით",
+      "გადაერეცხოს წყლის უხვი რაოდენობით"
+    ]
+  },
+  {
+    "id": 730,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "საგზაო-სატრანსპორტო შემთხვევის შედეგად დაშავებულს წვივის ძვლების მოტეხილობის დროს დაზიანებულ ფეხზე არტაშანი უნდა დაედოს:",
+    "answers": [
+      "ორივე მხრიდან ტერფიდან შუა ბარძაყამდე",
+      "გარე მხრიდან ტერფიდან მენჯამდე"
+    ]
+  },
+  {
+    "id": 731,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "აუცილებელია თუ არა საგზაო-სატრანსპორტო შემთხვევის შედეგად დაშავებულის კიდურებზე სისხლდენის შემჩერებელი ლახტის დადების ზუსტი დროის აღნიშვნა?",
+    "answers": [
+      "აუცილებელია",
+      "არ არის აუცილებელი"
+    ]
+  },
+  {
+    "id": 732,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "საგზაო-სატრანსპორტო შემთხვევის შედეგად დაშავებულის წვივის ძვლის დაზიანების შემთხვევაში არტერიული სისხლდენის შემაჩერებელი ლახტი უნდა დავადოთ:",
+    "answers": [
+      "წვივზე, ჭრილობის ზემოთ",
+      "ბარძაყზე"
+    ]
+  },
+  {
+    "id": 733,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "თუ საგზაო-სატრანსპორტო შემთხვევის შედეგად დაშავებული არ სუნთქავს, მაგრამ აღენიშნება პულსი საძილე არტერიაზე, რამდენ ხანში ერთხელ უნდა შემოწმდეს პულსი?",
+    "answers": [
+      "ყოველ 2 წუთში",
+      "ყოველ 5 წუთში",
+      "ყოველ 6 წუთში"
+    ]
+  },
+  {
+    "id": 734,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "ვალდებულია თუ არა საგზაო-სატრანსპორტო შემთხვევაში მონაწილე მძღოლი გაუწიოს პირველადი სამედიცინო დახმარება ავარიის შედეგად დაშავებულ პირს?",
+    "answers": [
+      "ვალდებულია",
+      "მხოლოდ იმ შემთხვევაში არ არის ვალდებული, თუ უზრუნველყოფს სასწრაფო სამედიცინო დახმარების გამოძახებას",
+      "მხოლოდ იმ შემთხვევაში ვალდებულია, თუ იგი ექიმია",
+      "არ არის ვალდებული"
+    ]
+  },
+  {
+    "id": 735,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "თუ არსებობს სამკურნალო დაწესებულებაში ავარიის შედეგად დაშავებულების გადაყვანის გადაუდებელი აუცილებლობა, საგზაო-სატრანსპორტო შემთხვევაში მონაწილე მძღოლი ვალდებულია:",
+    "answers": [
+      "შემთხვევის ადგილზე დაელოდოს საპატრულო პოლიციის უფლებამოსილ პირს და მხოლოდ მისი ნებართვის შემთხვევაში გადაიყვანოს დაშავებული სამკურნალო დაწესებულებაში",
+      "გაგზავნოს დაშავებული უახლოეს სამკურნალო დაწესებულებაში გზად მიმავალი სხვა სატრანსპორტო საშუალებით და თუ ეს შეუძლებელია, თავად განახორციელოს აღნიშნული"
+    ]
+  },
+  {
+    "id": 736,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "ქვემოთ ჩამოთვლილი, რომელ შემთხვევაში არ წარმოექმნება საგზაო-სატრანსპორტო შემთხვევაში მონაწილე მძღოლს ავარიის შედეგად დაშავებულის სამკურნალო დაწესებულებაში გადაყვანის ვალდებულება?",
+    "answers": [
+      "თუ აშკარაა რომ მას (მძღოლს) არ მიუძღვის ბრალი ავარიის მოხდენაში",
+      "თუ მისი სატრანსპორტო საშუალების გადაადგილების შემთხვევაში განადგურდება ნაკვალევი, რომელიც შესაძლოა სასარგებლო იყოს პასუხისმგებლობის დასადგენად",
+      "თუ არსებობს საფუძვლიანი ეჭვი იმის თაობაზე, რომ მგზავრობამ შეიძლება ზიანი მიაყენოს დაშავებულს",
+      "ამ ბილეთში ჩამოთვლილ ნებისმიერ შემთხვევაში"
+    ]
+  },
+  {
+    "id": 737,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "თუ საგზაო-სატრანსპორტო შემთხვევის შედეგად დაშავებულს აღენიშნება ნეკნებისა და მკერდის ძვლის მოტეხილობა მისი ტრანსპორტირება უნდა განხორციელდეს:",
+    "answers": [
+      "გვერდზე დაწოლილ მდგომარეობაში",
+      "მჯდომარე ან ნახევარმჯდომარე მდგომარეობაში",
+      "ზურგზე დაწოლილ მდგომარეობაში"
+    ]
+  },
+  {
+    "id": 738,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "საგზაო-სატრანსპორტო შემთხვევის შედეგად დაშავებულის ცხვირიდან სისხლდენის შესაჩერებლად იგი უნდა:",
+    "answers": [
+      "დავსვათ ნახევარმჯდომარე მდგომარეობაში. თავი გადავუწიოთ უკან და ცხვირზე დავადოთ ცივი საფენი",
+      "დავაწვინოთ გვერდზე, ცხვირზე დავადოთ ცივი საფენი",
+      "დავსვათ ნახევარმჯდომარე მდგომარეობაში, თავი დავახრევინოთ მკერდისკენ და ცხვირზე დავადოთ ცივი საფენი"
+    ]
+  },
+  {
+    "id": 739,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "საგზაო-სატრანსპორტო შემთხვევის შედეგად დაშავებულის ჭრილობის არსებობისას იოდის ხსნარი, როგორც სადეზინფექციო საშუალება, გამოიყენება:",
+    "answers": [
+      "ჭრილობის მთელი ზედაპირის დასამუშავებლად",
+      "ჭრილობის ნაპირებისა და მისი მიმდებარე კანის დასამუშავებლად"
+    ]
+  },
+  {
+    "id": 740,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "თუ საგზაო-სატრანსპორტო შემთხვევის შედეგად დაშავებულს თვალზე აღენიშნება ჭრილობა, იგი უნდა:",
+    "answers": [
+      "დავაწვინოთ ზურგზე და წამოვუწიოთ თავი წინ. დაზიანებულ თვალზე დავადოთ სუფთა საფენი",
+      "დავაწვინოთ გვერდზე ჯანსაღი თვალის მხარეს. დაზიანებულ თვალზე დავადოთ სუფთა საფენი",
+      "დავსვათ ნახევარმჯდომარე მდგომარეობაში. თავი გადავუწიოთ უკან და დაზიანებულ თვალზე დავადოთ სუფთა საფენი"
+    ]
+  },
+  {
+    "id": 741,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "საგზაო-სატრან스პორტო შემთხვევის შედეგად დაშავებულის იდაყვის ქვემოთ ხელის ძვლის დაზიანების შემთხვევაში არტერიული სისხლდენის შემაჩერებელი ლახტი უნდა დავადოთ:",
+    "answers": [
+      "იდაყვის ზემოთ, მხართან",
+      "ჭრილობის ზემოთ იდაყვამდე"
+    ]
+  },
+  {
+    "id": 742,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "თუ საგზაო-სატრანსპორტო შემთხვევის შედეგად დაშავებულს აღენიშნება ტრამვები თავის თმიან ადგილზე, პირველადი სამედიცინო დახმარების აღმოჩენის მიზნით, მას უნდა:",
+    "answers": [
+      "კისერზე დაედოს იმპროვიზირებული ნახვევი, ჭრილობაზე დაედოს სტერილური ბამბის ტამპონი, დაშავებული დავაწვინოთ ზურგზე",
+      "კისერზე დაედოს იმპროვიზირებული ნახვევი, ჭრილობაზე სტერილური ბინტით დაედოს დამწოლი ნახვევი, დაშავებული დავაწვინოთ გვერდზე მუხლებში მოხრილი ფეხებით, თავზე მივადოთ ყინული ან ცივი საფენი"
+    ]
+  },
+  {
+    "id": 743,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემულ სიტუაციაში, ვალდებულია თუ არა მსუბუქი ავტომობილს მძღოლი ისრის მიმართულებით მოძრაობისას გაჩერდეს გზაჯვარედინიდან გასასვლელზე არსებული შუქნიშნის მოძრაობის ამკრძალავ მაშუქ სიგნალზე?",
+    "answers": [
+      "ვალდებულია",
+      "არ არის ვალდებული"
+    ]
+  },
+  {
+    "id": 744,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "საგზაო-სატრანსპორტო შემთხვევის შედეგად დაშავებულის სასუნთქ გზებში უცხო სხეულის მოსაცილებლად აუცილებლად უნდა:",
+    "answers": [
+      "რამდენჯერმე ხელისგული დავარტყათ ზურგზე, უარყოფითი შედეგის შემთხვევაში დავდგეთ დაშავებულის უკან, ქვედა ნეკნის დონეზე მუცელთან ხელები მუშტად გადავაჭდოთ ერთმანეთს, ერთდროულად მოვახდინოთ დაწოლა ნეკნებზე და მკვეთრად დავაწვეთ მუშტებით მუცლის არეში შიდა და ზედა მიმართულებით",
+      "დაშავებული დავაყენოთ მუხლებზე სახით დაბლა და რამდენჯერმე მუშტი დავარტყათ ზურგზე"
+    ]
+  },
+  {
+    "id": 745,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "ნებადართულია თუ არა საგზაო-სატრანსპორტო შემთხვევის შედეგად უგონო მდგომარეობაში მყოფ დაშავებულისათვის სამკურნალო პრეპარატების მიცემა?",
+    "answers": [
+      "ნებადართულია",
+      "არ არის ნებადართული"
+    ]
+  },
+  {
+    "id": 746,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "არტაშანის დასამზადებელი მასალის არარსებობისას საგზაო-სატრანსპორტო შემთხვევის შედეგად დაშავებულის ხელის ძვლის მოტეხილობის შემთხვევაში, მას უნდა:",
+    "answers": [
+      "გასწორებული ხელი ბინტის დახვევით მივუმაგროთ ტანზე",
+      "იდაყვში მოხრილი ხელი ჩამოვკიდოთ კისერზე და ბინტის დახვევით მივუმაგროთ ტანზე"
+    ]
+  },
+  {
+    "id": 747,
+    "correctAnswer": 3,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მუშაობის პერიოდში, სამუშაო ადგილიდან გარეშე პირი რა მანძილზე უნდა იყოს მოშორებული?",
+    "answers": [
+      "2 მ",
+      "5 მ",
+      "10 მ",
+      "15 მ"
+    ]
+  },
+  {
+    "id": 748,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "რემონტის მიმდინარეობისას გარეშე პირი რა მანძილზე უნდა იყოს მოშორებული?",
+    "answers": [
+      "1.5 მ",
+      "2 მ",
+      "5 მ",
+      "10 მ"
+    ]
+  },
+  {
+    "id": 749,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მაღალი ძაბვის ქვეშ მუშაობა დაშვებულია იმ შემთხვევაში თუ დაშორება ექსკალატორის მაღალ წერტილსა და ძაბვის მართულებს შორის არა ნაკლებია:",
+    "answers": [
+      "1.5 მ",
+      "2 მ",
+      "5 მ",
+      "10 მ"
+    ]
+  },
+  {
+    "id": 750,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "ექსკალატორი დაკომპლექტებული უნდა იყოს:",
+    "answers": [
+      "მხოლოდ აფთიაქით",
+      "მხოლოდ ხანძარსაწინააღმდეგო მოწყობილობით",
+      "როგორც აფთიაქით, ასევე ხანძარსაწინააღმდეგო მოწყობილობით",
+      "ამ ბილეთში ჩამოთვლილი არცერთი პასუხი არ არის სწორი"
+    ]
+  },
+  {
+    "id": 751,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "უნდა იცოდეს თუ არა ტრაქტორისტ-მემანქანემ საგზაო მოძრაობის წესები?",
+    "answers": [
+      "არ არის აუცილებელი",
+      "დიახ"
+    ]
+  },
+  {
+    "id": 752,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "როდის უნდა ჩაირთოს საჭირო გადაცემა ბულდოზერის დახრილ ზედაპირზე მოძრაობისთვის?",
+    "answers": [
+      "დახრილ ზედაპირზე მოძრაობის დაწყების წინ",
+      "დახრილ ზედაპირზე მოძრაობისას"
+    ]
+  },
+  {
+    "id": 753,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "ბულდოზერის შეზღუდულ სივრცეში მანევრირების შესრულებისას ან აღმართის გადალახვისას უნდა:",
+    "answers": [
+      "გაიზარდოს ლილვა მუხლის ბრუნვის სიხშირე",
+      "შემცირდეს ლილვა მუხლის ბრუნვის სიხშირე"
+    ]
+  },
+  {
+    "id": 754,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "ბულდოზერის მუშაობა დაუშვებელია, თუ:",
+    "answers": [
+      "ფრთის აწევა და გრუნტის დამუშავება გრძივი დახრილობისას 15°-ზე მეტია",
+      "ფრთის აწევა და გრუნტის დამუშავება გრძივი დახრილობისას 20°-ზე მეტია",
+      "ფრთის აწევა და გრუნტის დამუშავება გრძივი დახრილობისას 30°-ზე მეტია"
+    ]
+  },
+  {
+    "id": 755,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "ბულდოზერის მუშაობა დაუშვებელია, თუ:",
+    "answers": [
+      "ფერდობზე მუშაობა პარალელური დახრილობისას 16° მეტია",
+      "ფერდობზე მუშაობა პარალელური დახრილობისას 20° მეტია",
+      "ფერდობზე მუშაობა პარალელური დახრილობისას 24° მეტია"
+    ]
+  },
+  {
+    "id": 756,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "დასაშვებია თუ არა მოხვევის განხორციელება ბულდოზერის და საფხიერებელი კბილის ღრმა ნაყარით?",
+    "answers": [
+      "დიახ",
+      "არა"
+    ]
+  },
+  {
+    "id": 757,
+    "correctAnswer": 3,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "ბულდოზერის ტრანსპორტირება შესაძლებელია?",
+    "answers": [
+      "მხოლოდ თავისი სვლით",
+      "მხოლოდ საავტომობილო ტრანსპორტით",
+      "მხოლოდ სარკინიგზო ტრანსპორტით",
+      "ამ ბილეთში ჩამოთვლილი ნებისმიერი ხერხით"
+    ]
+  },
+  {
+    "id": 758,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მანქანის გამოსადეგობის ვადა წარმოადგენს:",
+    "answers": [
+      "მანქანის ექსპლოატაციის კალენდარულ ხანგრძლივობას იმ მომენტამდე, როცა მისი ტექნიკური დოკუმენტაციით განსაზღვრული პარამეტრები აღწევს ზღვრულ მნიშვნელობას",
+      "მისი მორალური ცვეთის ვადას",
+      "სეზონური ტექნიკური მომსახურებებს შორის დროის შუალედს",
+      "მანქანის სამსახურის საგარანტიო ვადას"
+    ]
+  },
+  {
+    "id": 759,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მანქანათა ტექნიკური მომსახურება წარმოადგენს ოპერაციათა გარკვეულ ერთობლიობას:",
+    "answers": [
+      "რომელთა ჩატარებაც უზრუნველყოფს მანქანის მუშაუნარიანობის შენარჩუნებას",
+      "რომელთა ჩატარებაც აუცილებელია მანქანათა საიმედობის გაზრდისთვის",
+      "დიაგონალური და საქცევური",
+      "რომელთა ჩატარებაც აუცილებელია მანქანის გამოსახმარისებისთვის"
+    ]
+  },
+  {
+    "id": 760,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "გამოყენებული ენერგიის წყაროს მიხედვით სასოფლო-სამეურნეო აგრეგატი შეიძლება იყოს:",
+    "answers": [
+      "თბური, ელექტრული, ჰიდრავლიკური, საჭაპანე",
+      "ბენზინის, დიზელის, ნავთის, ხის სპირტის",
+      "მობილური და სტაციონარული",
+      "მარტივი, კომპლექსური, კომბინირებული"
+    ]
+  },
+  {
+    "id": 761,
+    "correctAnswer": 3,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "ტრაქტორების და ავტომობილების ტექნიკური მომსახურების სისტემაში შედის:",
+    "answers": [
+      "გამოსახმარისება, ყოველი ცვლის, პერიოდული და სეზონური ტექნიკური მომსახურება",
+      "ტექნიკური დათვალიერება, ყოველი ცვლის და სეზონური ტექნიკური მომსახურება",
+      "გამოსახმარისება, პერიოდული და სეზონური ტექნიკური მომსახურება",
+      "დიაგნოსტიკა, ყოველი ცვლის, პერიოდული და სეზონური ტექნიკური მომსახურება"
+    ]
+  },
+  {
+    "id": 762,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "ტრაქტორების ტექნიკური დიაგნოსტიკა წარმოადგენს:",
+    "answers": [
+      "მათი ტექნიკური მდგომარეობის დადგენის პროცესს დაუშლელად",
+      "მათი ტექნიკური მდგომარეობის დადგენის პროცესს დაშლის საშუალებით",
+      "მათი ტექნიკური მდგომარეობის პროგნოზირების პროცესს"
+    ]
+  },
+  {
+    "id": 763,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მანქანათა სისტემის ოპტიმიზაციის ამოცანის მიზანს წარმოადგენს",
+    "answers": [
+      "მოცემული პირობებისათვის ისეთი მანქანათა სისტემის შერჩევა,რომელიც უზრუნველყოფს ეკოლოგიურად სუფთა პროდუქციის წარმოებას,შრომითი რესურსების ეკონომიური გამოყენებით",
+      "მოცემული პირობებისათვის ისეთი მანქანათა სისტემის შერჩევა,რომელიც უზრუნველყოფს,ისე რომ რომელიმე კრიტერიუმი მიაღწევს მინიმალურ მნიშვნელობას",
+      "ეკოლოგიურად სუფთა პროდუქციის წარმოებას,ხელის შრომის გამორიცხვით",
+      "ეკოლოგიურად სუფთა პროდუქციის წარმოებას,ენერგომატარებლების დაზოგვით"
+    ]
+  },
+  {
+    "id": 764,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "რა ტექნოლოგიური თვისებები ახასიათებს ნიადაგს?",
+    "answers": [
+      "წებოვნება",
+      "ნიადაგის ტენიანობა",
+      "ფორიანობა"
+    ]
+  },
+  {
+    "id": 765,
+    "correctAnswer": 3,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "ხვნის სახეებია?",
+    "answers": [
+      "მხოლოდ კულტურული",
+      "მხოლოდ ხვნა ბელტის მთლიანი გადაბრუნებით",
+      "მხოლოდ რომბული",
+      "ყველა ჩამოთვლილი სახეები"
+    ]
+  },
+  {
+    "id": 766,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "რომელი მექანიზმია გამოყენებული დგუშიან შიგაწვის ძრავაში?",
+    "answers": [
+      "ჭიახრახნული მექანიზმი",
+      "კულისა მექანიზმი",
+      "მრუმხარა-ბარბაცა მექანიზმი",
+      "პლანეტარული მექანიზმი"
+    ]
+  },
+  {
+    "id": 767,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "სავალი ნაწილის მიხედვით სასოფლო-სამეურნეო ტრაქტორები კლასიფიცირდება:",
+    "answers": [
+      "საერთო დანიშნულების, უნივერსალური სათოხნი, სპეციალური",
+      "ჩარჩოიანი, ნახევრადჩარჩოიანი, უჩარჩო",
+      "მუხლუხა, ნახევრადმუხლუხა, თვლიანი",
+      "სამთო, ჭაობნარის, სამელიორაციო, საბაღბოსტნე"
+    ]
+  },
+  {
+    "id": 768,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "რომელ ძრავაში გამოიყენება ანთების ბატარეული სისტემა?",
+    "answers": [
+      "დიზელის ძრავებში",
+      "კარბურატორიან ძრავებში",
+      "ელექტრო ძრავებში",
+      "ჰიდრავლიკურ ძრავებში"
+    ]
+  }
+]

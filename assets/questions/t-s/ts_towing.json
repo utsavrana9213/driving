@@ -1,0 +1,319 @@
+[
+  {
+    "id": 604,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "ავტომაგისტრალზე მწყობრიდან გამოსული ავტომობილის ბუქსირება ხდება თვითნაკეთი მოწყობილობით (თოკით). მობუქსირე სატრანსპორტო საშუალების მძღოლს უფლება აქვს იმოძრაოს:",
+    "answers": [
+      "1\nმხოლოდ A მიმართულებით",
+      "2\nმხოლოდ B მიმართულებით",
+      "3\nროგორც A, ასევე B მიმართულებით"
+    ]
+  },
+  {
+    "id": 605,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "აქვს თუ არა უფლება მაბუქსირებელ ავტომობილის მძღოლს გააგრძელოს მოძრაობა ისრის მიმართულებით, თუ ბუქსირება ხდება თვითნაკეთი მოწყობილობით (თოკით)?",
+    "answers": [
+      "1\nაქვს უფლება",
+      "2\nარ აქვს უფლება"
+    ]
+  },
+  {
+    "id": 606,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "არღვევს თუ არა ისრის მიმართულებით მოძრავი მობუქსირე ავტომობილის მძღოლი მექანიკური სატრანსპორტო საშუალების ბუქსირებისათვის დადგენილ მოთხოვნებს?",
+    "answers": [
+      "1\nარღვევს",
+      "2\nარ არღვევს"
+    ]
+  },
+  {
+    "id": 607,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "რომელი ავტომობილის მძღოლი არღვევს საგზაო მოძრაობის წესებს, თუ ტრაქტორი მოძრაობს 50კმ/სთ სიჩქარით, ხოლო სატვირთო ავტომობილი ახორციელებს გასწრებას?",
+    "answers": [
+      "1\nმხოლოდ ტრაქტორის მძღოლი",
+      "2\nმხოლოდ სატვირთო ავტომობილის მძღოლი",
+      "3\nროგორც ტრაქტორის, ასევე სატვირთო ავტომობილის მძღოლი"
+    ]
+  },
+  {
+    "id": 608,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "დასაშვებია თუ არა, გაუმართავი საჭის მართვის მექანიზმის მქონე მსუბუქი ავტომობილის მოცემული ხერხით ბუქსირება?",
+    "answers": [
+      "1\nდასაშვებია",
+      "2\nარ არის დასაშვები"
+    ]
+  },
+  {
+    "id": 609,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "რომელი ავტომობილის მძღოლი დაარღვევს საგზაო მოძრაობის წესებს ისრის მიმართულებით მოძრაობის შემთხვევაში?",
+    "answers": [
+      "1\nმობუქსირე ნახევარმისაბმელიანი საწევარას მძღოლი",
+      "2\nწითელი მსუბუქი ავტომობილის მძღოლი"
+    ]
+  },
+  {
+    "id": 610,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემულ სიტუაციაში საგზაო მოძრაობის წესების რამდენი მოთხოვნაა დარღვეული, თუ მოქნილი გადამბმით ბუქსირებული შემადგენლობა მოძრაობს 50 კმ/სთ სიჩქარით, ხოლო მათ შორის მანძილი 5 მეტრია?",
+    "answers": [
+      "1\nორი",
+      "2\nსამი",
+      "3\nოთხი",
+      "4\nხუთი"
+    ]
+  },
+  {
+    "id": 611,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემულ სიტუაციაში, მობუქსირე ავტომობილის მძღოლს მოძრაობის გაგრძელების უფლება აქვს:",
+    "answers": [
+      "1\nმხოლოდ A მიმართულებით",
+      "2\nმხოლოდ B მიმართულებით",
+      "3\nროგორც A, ასევე B მიმართულებით"
+    ]
+  },
+  {
+    "id": 612,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემულ სიტუაციაში, ეკრძალება თუ არა მობუქსირე ავტომობილის მძღოლს, ისრის მიმართულებით მოძრაობა, თუ გზა მოყინულია?",
+    "answers": [
+      "1\nეკრძალება",
+      "2\nარა ეკრძალება"
+    ]
+  },
+  {
+    "id": 613,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "დასაშვებია თუ არა მისაბმელიანი მექანიკური სატრანსპორტო საშუალებით სხვა მექანიკური სატრანსპორტო საშუალების ბუქსირება?",
+    "answers": [
+      "1\nდასაშვებია",
+      "2\nარ არის დასაშვები",
+      "3\nდასაშვებია, მხოლოდ იმ შემთხვევაში, თუ მობუქსირე მექანიკური სატრანსპორტო საშუალების მისაბმელის ნებადართული მაქსიმალური მასა 750 კგ-ზე ნაკლებია"
+    ]
+  },
+  {
+    "id": 614,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "სავალდებულოა თუ არა, ხისტი გადაბმით ბუქსირებისას, საბუქსირო სატრანსპორტო საშუალებას მართავდეს მძღოლი, როცა გადაბმის კონსტრუქცია უზრუნველყოფს საბუქსირო სატრანსპორტო საშუალების მობუქსირე ტრანსპორტის ტრაექტორიით მიყოლას?",
+    "answers": [
+      "1\nსავალდებულოა",
+      "2\nარ არი სავალდებულო"
+    ]
+  },
+  {
+    "id": 615,
+    "correctAnswer": 3,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "ხისტი ან მოქნილი გადაბმით ბუქსირებისას მგზავრთა გადაყვანა აკრძალულია:",
+    "answers": [
+      "1\nმხოლოდ საბუქსირო ავტობუსით",
+      "2\nმხოლოდ საბუქსირო ტროლეიბუსით",
+      "3\nმხოლოდ საბუქსირო სატვირთო ავტომობილის ძარით",
+      "4\nროგორც საბუქსირო ავტობუსითა და ტროლეიბუსით, ასევე საბუქსირო სატვირთო ავტომობილის ძარით"
+    ]
+  },
+  {
+    "id": 616,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოქნილი გადაბმით ბუქსირებისას მანძილი მობუქსირე და საბუქსირო სატრანსპორტო საშუალებებს შორის უნდა შეადგენდეს:",
+    "answers": [
+      "1\n2-4 მეტრს",
+      "2\n4-6 მეტრს",
+      "3\n6-8 მეტრს"
+    ]
+  },
+  {
+    "id": 617,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "აკრძალულია თუ არა, იმ მექანიკური სატრანსპორტო საშუალების ბუქსირება, რომელსაც ორი მისაბმელი აქვს?",
+    "answers": [
+      "1\nარ არის აკრძალული",
+      "2\nაკრძალულია"
+    ]
+  },
+  {
+    "id": 618,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "ბუქსირება დასაშვებია:",
+    "answers": [
+      "1\nმოტოციკლით, გვერდითი მისაბმელის გარეშე, აგრეთვე ასეთი მოტოციკლის ბუქსირება",
+      "2\nმოქნილი გადაბმით, როცა გზები მოყინულია",
+      "3\nამ ბილეთში ჩამოთვლილი არცერთი პასუხი არ არის სწორი"
+    ]
+  },
+  {
+    "id": 619,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "სულ მცირე, რამდენი გამაფრთხილებელი მოწყობილობა (ალამი) უნდა დამაგრდეს დრეკად შემაერთებელ რგოლზე მექანიკური სატრანსპორტო საშუალების მოქნილი გადაბმით ბუქსირებისას?",
+    "answers": [
+      "1\nორი",
+      "2\nსამი",
+      "3\nოთხი"
+    ]
+  },
+  {
+    "id": 620,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემულ სიტუაციაში, რამდენ საგზაო მოძრაობის წესს არღვევს ისრის მიმართულებით მოძრავი მობუქსირე სატვირთო ავტომობილის მძღოლი, თუ იგი მოძრაობს 60 კმ/სთ სიჩქარით?",
+    "answers": [
+      "1\nარც ერთს",
+      "2\nერთს",
+      "3\nორს",
+      "4\nსამს"
+    ]
+  },
+  {
+    "id": 621,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემული საგზაო ნიშანი კრძალავს:",
+    "answers": [
+      "1\nსატვირთო ავტომობილით სხვა სატრანსპორტო საშუალების გასწრებას, მიუხედავად გასასწრები ტრანსპორტის სიჩქარისა",
+      "2\n3,5 ტონეზე მეტი ნებადართული მაქსიმალური მასის მქონე სატვირთო ავტომობილით სხვა სატრანსპორტო საშუალების გასწრებას (გარდა 30 კმ/სთ-ზე ნაკლები სიჩქარით მოძრავისა)",
+      "3\nმოცემული გზის მონაკვეთზე მსუბუქი და სატვირთო ავტომობილებით მოძრაობას"
+    ]
+  },
+  {
+    "id": 622,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "არხის ფერდისა და ფსკერის მოსწორება წარმოებს:",
+    "answers": [
+      "1\nპასიური დანით",
+      "2\nციცხვებიანი დანით",
+      "3\nციცხვებიანი როტორით"
+    ]
+  },
+  {
+    "id": 623,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "ახალი ფართობების ათვისებისას ქვებისაგან გაწმენდა წარმოებს:",
+    "answers": [
+      "1\nკბილებიანი ფოცხების საშუალებით; კბილებიანი დანების საშუალებით",
+      "2\n�ულდოზერის ფრთის საშუალებით"
+    ]
+  },
+  {
+    "id": 624,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "დახურული დრენაჟის სადრენაჟე მილების გაწმენდა წარმოებს:",
+    "answers": [
+      "1\nსპეციალური ბუნიკით წყლის ჭავლით",
+      "2\nგამწმენდი მილების საშუალებით",
+      "3\nსაფხეკიანი დანების საშუალებით"
+    ]
+  },
+  {
+    "id": 625,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "არხსაწმენდი მანქანები არსებობს:",
+    "answers": [
+      "1\nუწყვეტი და ციკლური ქმედების",
+      "2\nუწყვეტი და წყვეტილი ქმედების",
+      "3\nმთლიანი და არასრულპროფილიანი წმენდის"
+    ]
+  },
+  {
+    "id": 626,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "შნეკური არხსაწმენდი მანქანის მუშა ორგანოა:",
+    "answers": [
+      "1\nცილინდრული შნეკი",
+      "2\nკონუსური შნეკი",
+      "3\nმართკუთხა შნეკი"
+    ]
+  }
+]

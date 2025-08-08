@@ -1,0 +1,594 @@
+[
+  {
+    "id": 10,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "აქვს თუ არა წითელი ავტომობილის მძღოლს ისრის მიმართულებით მოძრაობის გაგრძელების უფლება, თუ შუქნიშნის მწვანე მაშუქი სიგნალის შემდეგ, ყვითელი მაშუქი სიგნალის ჩართვისას მას არ შეეძლო „სდექ“ ხაზთან გაჩერება მკვეთრი დამუხრუჭების გარეშე?",
+    "answers": [
+      "აქვს უფლება",
+      "არ აქვს უფლება"
+    ]
+  },
+  {
+    "id": 11,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "რომელი სატრანსპორტო საშუალების მძღოლია ვალდებული გზა დაუთმოს ქვეითებს ისრის მიმართულებით მოძრაობის შემთხვევაში, თუ სასწრაფო სამედიცინო დახმარების ავტომობილს ჩართული არ აქვს ლურჯი მოელვარე სპეციალური ციმციმა და ხმოვანი სიგნალი?",
+    "answers": [
+      "მხოლოდ სასწრაფო სამედიცინო დახმარების ავტომობილის მძღოლი",
+      "მხოლოდ სატვირთო ავტომობილის მძღოლი",
+      "ორივე ავტომობილის მძღოლი"
+    ]
+  },
+  {
+    "id": 12,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "ვალდებულია თუ არა მსუბუქი ავტომობილის მძღოლი გზა დაუთმოს ავტობუსის მძღოლს, რომელიც ამთავრებს გზაჯვარედინზე გადასვლას?",
+    "answers": [
+      "ვალდებულია",
+      "არ არის ვალდებული"
+    ]
+  },
+  {
+    "id": 13,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "რომელი ავტომობილის მძღოლს ეკრძალება ისრის მიმართულებით მოძრაობა შუქნიშნის ამ სიგნალზე, თუ გზაჯვარედინის შემდეგ სატრანსპორტო საშუალებებით ჩახერგილია სავალი ნაწილი?",
+    "answers": [
+      "მხოლოდ რუხი ავტომობილის მძღოლს",
+      "მხოლოდ ყვითელი ავტომობილის მძღოლს",
+      "არცერთი ავტომობილის მძღოლს",
+      "ორივე ავტომობილის მძღოლს"
+    ]
+  },
+  {
+    "id": 14,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "რა თანამიმდევრობით უნდა გაიარონ გზაჯვარედინი სატრანსპორტო საშუალებებმა ისრის მიმართულებით მოძრაობის შემთხვევაში შუქნიშნის ამ სიგნალზე?",
+    "answers": [
+      "ჯერ უნდა გაიაროს მსუბუქმა ავტომობილმა, შემდეგ - სატვირთო ავტომობილმა, ბოლოს - ტრამვაიმ",
+      "ჯერ უნდა გაიაროს სატვირთო ავტომობილმა, შემდეგ - ტრამვაიმ და მსუბუქმა ავტომობილმა",
+      "ჯერ უნდა გაიაროს ტრამვაიმ და მსუბუქმა ავტომობილმა, ბოლოს - სატვირთო ავტომობილმა"
+    ]
+  },
+  {
+    "id": 15,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "რომელი სატრანსპორტო საშუალების მძღოლს წარმოექმნება გზის დათმობის ვალდებულება ისრის მიმართულებით მოძრაობის შემთხვევაში?",
+    "answers": [
+      "მსუბუქი ავტომობილის მძღოლს",
+      "ტრამვაის მძღოლს"
+    ]
+  },
+  {
+    "id": 16,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "რომელი სატრანსპორტო საშუალების მძღოლს წარმოექმნება გზის დათმობის ვალდებულება ისრის მიმართულებით მოძრაობის შემთხვევაში?",
+    "answers": [
+      "მსუბუქი ავტომობილის მძღოლს",
+      "ტრამვაის მძღოლს"
+    ]
+  },
+  {
+    "id": 17,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "რომელი სატრანსპორტო საშუალების მძღოლს წარმოექმნება გზის დათმობის ვალდებულება ისრის მიმართულებით მოძრაობის შემთხვევაში?",
+    "answers": [
+      "მსუბუქი ავტომობილის მძღოლს",
+      "ტრამვაის მძღოლს"
+    ]
+  },
+  {
+    "id": 18,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "რომელი სატრანსპორტო საშუალების მძღოლს წარმოექმნება გზის დათმობის ვალდებულება ისრის მიმართულებით მოძრაობის შემთხვევაში?",
+    "answers": [
+      "ტრამვაის მძღოლს",
+      "მსუბუქი ავტომობილის მძღოლს"
+    ]
+  },
+  {
+    "id": 19,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მსუბუქი ავტომობილის მძღოლს უფლება აქვს გააგრძელოს მოძრაობა:",
+    "answers": [
+      "A მიმართულებით",
+      "B მიმართულებით",
+      "როგორც A, ასევე B მიმართულებით"
+    ]
+  },
+  {
+    "id": 20,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მსუბუქი ავტომობილის მძღოლს უფლება აქვს გააგრძელოს მოძრაობა:",
+    "answers": [
+      "მხოლოდ A მიმართულებით",
+      "მხოლოდ B მიმართულებით",
+      "როგორც A, ასევე B მიმართულებით"
+    ]
+  },
+  {
+    "id": 21,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "აქვს თუ არა უფლება სატვირთო ავტომობილის მძღოლს გააგრძელოს მოძრაობა ისრის მიმართულებით, თუ რევერსული შუქნიშანი გამორთულია?",
+    "answers": [
+      "აქვს უფლება",
+      "არ აქვს უფლება"
+    ]
+  },
+  {
+    "id": 22,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "რომელი მიმართულებით შეუძლია წითელი ავტომობილის მძღოლს გააგრძელოს მოძრაობა შუქნიშნის ამ სიგნალზე?",
+    "answers": [
+      "მხოლოდ პირდაპირ და მარცხნივ",
+      "მხოლოდ მარჯვნივ",
+      "მხოლოდ პირდაპირ და მარჯვნივ",
+      "ნებისმიერი მიმართულებით"
+    ]
+  },
+  {
+    "id": 23,
+    "correctAnswer": 3,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "რომელი მიმართულებით შეუძლია ლურჯი ავტომობილის მძღოლს, გააგრძელოს მოძრაობა შუქნიშნის ამ სიგნალზე?",
+    "answers": [
+      "მხოლოდ პირდაპირ და მარცხნივ",
+      "მხოლოდ მარჯვნივ",
+      "მხოლოდ პირდაპირ და მარჯვნივ",
+      "მხოლოდ პირდაპირ, მარცხნივ და უკუმიმართულებით (მობრუნება)"
+    ]
+  },
+  {
+    "id": 24,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "ვალდებულია თუ არა მსუბუქი ავტომობილის მძღოლი გზა დაუთმოს ქვეითებს ისრის მიმართულებით მოძრაობის შემთხვევაში?",
+    "answers": [
+      "ვალდებულია",
+      "არ არის ვალდებული"
+    ]
+  },
+  {
+    "id": 25,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "აქვს თუ არა უფლება მსუბუქი ავტომობილის მძღოლს გააგრძელოს მოძრაობა ისრის მიმართულებით, თუ ყველა შუქნიშანში ჩართულია ყვითელი მოციმციმე მაშუქი სიგნალი?",
+    "answers": [
+      "აქვს უფლება",
+      "არ აქვს უფლება"
+    ]
+  },
+  {
+    "id": 26,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "აქვს თუ არა უფლება ავტომობილის მძღოლს გააგრძელოს მოძრაობა ისრის მიმართულებით, თუ შუქნიშნის მწვანე მაშუქი სიგნალის შემდეგ, ყვითელი მაშუქი სიგნალის ჩართვისას, ვერ შეძლებს მკვეთრი დამუხრუჭების გარეშე გაჩერდეს „სდექ“ ხაზთან?",
+    "answers": [
+      "აქვს უფლება",
+      "არ აქვს უფლება"
+    ]
+  },
+  {
+    "id": 27,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "აქვს თუ არა უფლება მსუბუქი ავტომობილის მძღოლს გააგრძელოს მოძრაობა ისრის მიმართულებით, შუქნიშნის ამ სიგნალზე?",
+    "answers": [
+      "აქვს უფლება",
+      "არ აქვს უფლება"
+    ]
+  },
+  {
+    "id": 28,
+    "correctAnswer": 3,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "რომელი მიმართულებით შეუძლია გააგრძელოს მოძრაობა წითელი ავტომობილის მძღოლმა შუქნიშნების ამ სიგნალზე?",
+    "answers": [
+      "მხოლოდ პირდაპირ და მარცხნივ",
+      "მხოლოდ პირდაპირ და მარჯვნივ",
+      "მხოლოდ მარცხნივ",
+      "მხოლოდ მარცხნივ და უკუმიმართულებით (მობრუნება)"
+    ]
+  },
+  {
+    "id": 29,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "რომელი ავტომობილის მძღოლს ეკრძალება ისრის მიმართულებით მოძრაობა?",
+    "answers": [
+      "მხოლოდ ლურჯი ავტომობილის მძღოლს",
+      "მხოლოდ ყვითელი ავტომობილის მძღოლს",
+      "ორივე ავტომობილის მძღოლს",
+      "არცერთი ავტომობილის მძღოლს"
+    ]
+  },
+  {
+    "id": 30,
+    "correctAnswer": 3,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემულ სიტუაციაში ავტომობილის მძღოლს მოძრაობის გაგრძელების უფლება აქვს:",
+    "answers": [
+      "A მიმართულებით",
+      "B მიმართულებით",
+      "C მიმართულებით",
+      "არცერთი მიმართულებით"
+    ]
+  },
+  {
+    "id": 31,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "აქვს თუ არა უფლება მსუბუქი ავტომობილის მძღოლს გააგრძელოს მოძრაობა ისრის მიმართულებით, შუქნიშნის ამ სიგნალზე?",
+    "answers": [
+      "აქვს უფლება",
+      "არ აქვს უფლება"
+    ]
+  },
+  {
+    "id": 32,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემულ სიტუაციაში, ვალდებულია თუ არა ლურჯი ავტომობილის მძღოლი ისრის მიმართულებით მობრუნების მანევრის შესრულებისას გაჩერდეს გამყოფ ზოლებს შორის არსებულ მოძრაობის ამკრძალავ შუქნიშნის მაშუქ სიგნალზე?",
+    "answers": [
+      "ვალდებულია",
+      "არ არის ვალდებული",
+      "არ არის ვალდებული თუ არ შეაფერხებს საპირისპირო მიმართულებიდან მოძრავ სატრანსპორტო საშუალებებს"
+    ]
+  },
+  {
+    "id": 33,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემულ სიტუაციაში, ვალდებულია თუ არა ლურჯი ავტომობილის მძღოლი ისრის მიმართულებით მობრუნების მანევრის შესრულებისას გაჩერდეს გამყოფ ზოლებს შორის არსებულ მოძრაობის ამკრძალავ შუქნიშნის მაშუქ სიგნალზე?",
+    "answers": [
+      "ვალდებულია",
+      "არ არის ვალდებული"
+    ]
+  },
+  {
+    "id": 34,
+    "correctAnswer": 3,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "რა მიმართულებით შეუძლია გააგრძელოს მოძრაობა მსუბუქი ავტომობილის მძღოლს, შუქნიშნის ამ სიგნალზე?",
+    "answers": [
+      "მხოლოდ პირდაპირ და მარცხნივ",
+      "მხოლოდ პირდაპირ და მარჯვნივ",
+      "ყველა მიმართულებით",
+      "მხოლოდ პირდაპირ, მარცხნივ და უკუმიმართულებით (მობრუნება)"
+    ]
+  },
+  {
+    "id": 35,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "თუ შუქნიშნის მაშუქი სიგნალების მოთხოვნები ეწინააღმდეგება გავლის უპირატესობის განმსაზღვრელი საგზაო ნიშნების მოთხოვნებს, საგზაო მოძრაობის მონაწილეებმა უნდა იხელმძღვანელონ:",
+    "answers": [
+      "შუქნიშნის მაშუქი სიგნალების მოთხოვნებით",
+      "გავლის უპირატესობის განმსაზღვრელი საგზაო ნიშნების მოთხოვნებით"
+    ]
+  },
+  {
+    "id": 36,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "თუ შუქნიშნის მაშუქი სიგნალების მოთხოვნები ეწინააღმდეგება გავლის უპირატესობის განმსაზღვრელი საგზაო მონიშვნების მოთხოვნებს, საგზაო მოძრაობის მონაწილეებმა უნდა იხელმძღვანელონ:",
+    "answers": [
+      "გავლის უპირატესობის განმსაზღვრელი საგზაო მონიშვნების მოთხოვნებით",
+      "შუქნიშნის მაშუქი სიგნალების მოთხოვნებით"
+    ]
+  },
+  {
+    "id": 37,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "ერთ სადგარზე, ერთი და იმავე სიმაღლეზე განლაგებული, ერთ მხარეს მიმართული ორი მორიგეობით მოციმციმე ან ერთი მოციმციმე წითელი ან ყვითელი მაშუქი სიგნალის მქონე შუქნიშანი გამოიყენება:",
+    "answers": [
+      "რკინიგზის გადასასვლელებზე, გასახსნელი ხიდის მისასვლელებთან, გემის ან ბორნის მისადგომებთან, ასევე გზაზე სახანძრო ავტომობილის გამოსასვლელებთან და ადგილებში, სადაც გზას დაბალ სიმაღლეზე კვეთს საფრენი აპარატის ტრაექტორია",
+      "იმ სავალი ნაწილის ზოლებზე, სადაც მოძრაობის მიმართულება საპირისპიროდ იცვლება",
+      "სამარშრუტო სატრანსპორტო საშუალების მოძრაობისათვის სპეციალურად გამოყოფილ ზოლებზე"
+    ]
+  },
+  {
+    "id": 38,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "რევერსული შუქნიშანი, წითელი ფერის X ნიშნის სიგნალითა და ქვემოთ მიმართული მწვანე ისრით გამოიყენება:",
+    "answers": [
+      "მხოლოდ სამარშრუტო სატრანსპორტო საშუალებების სპეციალურ ზოლზე მოძრაობის რეგულირებისთვის",
+      "მხოლოდ სატრანსპორტო საშუალების მოძრაობის რეგულირებისათვის სავალი ნაწილის ზოლებზე, სადაც მოძრაობის მიმართულება საპირისპიროდ იცვლება",
+      "ამ ბილეთში ჩამოთვლილ ნებისმიერ შემთხვევაში"
+    ]
+  },
+  {
+    "id": 39,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "შუქნიშნის ძირითად მწვანე მაშუქ სიგნალზე გამოსახული კონტურის ისარი/ისრები:",
+    "answers": [
+      "მძღოლს აწვდის ინფორმაციას შუქნიშნზე დამატებითი სექციის არსებობის შესახებ და მიუთითებს ამ დამატებითი სექციის მაშუქი სიგნალით განსაზღვრული მიმართულებების შესახებ",
+      "მძღოლს ამცნობს შუქნიშანზე დამატებითი სექციის შესაძლო არსებობის შესახებ და მიუთითებს ამ სექციის ფერადი მაშუქი სიგნალისაგან განსხვავებული მოძრაობის სხვა ნებადართული მიმართულებების შესახებ",
+      "ამ ბილეთში ჩამოთვლილი ყველა პასუხი სწორია"
+    ]
+  },
+  {
+    "id": 40,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "„T“-სებურად განლაგებული მოყვითალო ოთხი მრგვალი მაშუქი სიგნალი შეიძლება გამოყენებული იქნეს:",
+    "answers": [
+      "„T“-სებურ გზაჯვარედინზე მოძრაობის რეგულირებისათვის",
+      "სამარშრუტო სატრანსპორტო საშუალებების მოძრაობისათვის სპეციალურად გამოყოფილ ზოლზე მოძრაობის რეგულირებისათვის",
+      "თვლიანი ტრაქტორების მოძრაობის რეგულირებისათვის"
+    ]
+  },
+  {
+    "id": 41,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "„T“-სებური ფორმის შუქნიშნით მოძრაობის რეგულირებისას სამარშრუტო სატრანსპორტო საშუალებების მოძრაობა ნებადართულია:",
+    "answers": [
+      "თუ ერთდროულადჩართულია ქვედა და ერთი, ან რამდენიმე ზედა მაშუქი სიგნალი",
+      "თუ ჩართულია მხოლოდ სამი ზედა მაშუქი სიგნალი",
+      "ამ ბილეთში ჩამოთვლილ ნებისმიერ შემთხვევაში"
+    ]
+  },
+  {
+    "id": 42,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "„T“-სებური ფორმის შუქნიშნით მოძრაობის რეგულირებისას სამარშრუტო სატრანსპორტო საშუალებების მოძრაობა აკრძალულია:",
+    "answers": [
+      "თუ ერთდროულად ჩართულია ქვედა და ერთი, ან რამდენიმე ზედა მაშუქი სიგნალი",
+      "თუ ჩართულია მხოლოდ სამი ზედა მაშუქი სიგნალი",
+      "ამ ბილეთში ჩამოთვლილ ნებისმიერ შემთხვევაში"
+    ]
+  },
+  {
+    "id": 43,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "აქვს თუ არა მძღოლს მოძრაობის გაგრძელების უფლება, თუ ყვითელი მაშუქი სიგნალის ჩართვის დროს მკვეთრად დამუხრუჭების გარეშე მას არ შეუძლია გაჩერდეს „სდექ“ ხაზთან?",
+    "answers": [
+      "აქვს უფლება",
+      "არ აქვს უფლება"
+    ]
+  },
+  {
+    "id": 44,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "რომელი ავტომობილის მძღოლს ეკრძალება ისრის მიმართლებით მოძრაობა?",
+    "answers": [
+      "ორივე ავტომობილის მძღოლს",
+      "არც ერთი ავტომობილის მძღოლს",
+      "მხოლოდ სატვირთო ავტომობილის მძღოლს",
+      "მხოლოდ მსუბუქი ავტომობილის მძღოლს"
+    ]
+  },
+  {
+    "id": 45,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "თუ გადასასვლელზე არსებობს ქვეითთათვის განკუთვნილი შუქნიშანი, ქვეითმა გადასასვლელზე გადასვლისას უნდა შეასრულოს:",
+    "answers": [
+      "სატრანსპორტო შუქნიშნის მაშუქი სიგნალების მოთხოვნები",
+      "ქვეითთათვის განკუთვნილი შუქნიშნის მაშუქი სიგნალების მოთხოვნები"
+    ]
+  },
+  {
+    "id": 46,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "რომელმა მძღოლმა გააჩერა ავტომობილი საგზაო მოძრაობის წესების დაცვით შუქნიშნის ამკრძალავ სიგნალზე?",
+    "answers": [
+      "თეთრი ავტომობილის მძღოლმა",
+      "ყვითელი ავტომობილის მძღოლმა",
+      "არცერთი ავტომობილის მძღოლმა"
+    ]
+  },
+  {
+    "id": 47,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მსუბუქი ავტომობილის მძღოლს უფლება აქვს იმოძრაოს:",
+    "answers": [
+      "მხოლოდ A მიმართულებით",
+      "მხოლოდ B მიმართულებით",
+      "მხოლოდ C მიმართულებით",
+      "არცერთი მიმართულებით"
+    ]
+  },
+  {
+    "id": 48,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "რომელი ტრამვაის მძღოლის მიმართ წარმოექმნება გზის დათმობის ვალდებულება მსუბუქი ავტომობილის მძღოლს ისრის მიმართულებით მოძრაობის შემთხვევაში?",
+    "answers": [
+      "მხოლოდ პირველი ტრამვაის მძღოლის მიმართ",
+      "მხოლოდ მეორე ტრამვაის მძღოლის მიმართ",
+      "ორივე ტრამვაის მძღოლის მიმართ",
+      "არცერთი ტრამვაის მძღოლის მიმართ"
+    ]
+  },
+  {
+    "id": 49,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "დაარღვეს თუ არა მსუბუქი ავტომობილის მძღოლი საგზაო მოძრაობის წესებს, ისრის მიმართულებით მოძრაობის შემთხვევაში?",
+    "answers": [
+      "დაარღვევს",
+      "არ დაარღვევს"
+    ]
+  },
+  {
+    "id": 50,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემულ სიტუაციაში, ვალდებულია თუ არა მსუბუქი ავტომობილს მძღოლი ისრის მიმართულებით მოძრაობისას გაჩერდეს გზაჯვარედინიდან გასასვლელზე არსებული შუქნიშნის მოძრაობის ამკრძალავ მაშუქ სიგნალზე?",
+    "answers": [
+      "ვალდებულია",
+      "არ არის ვალდებული"
+    ]
+  },
+  {
+    "id": 51,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემულ სიტუაციაში, ვალდებულია თუ არა მსუბუქი ავტომობილს მძღოლი ისრის მიმართულებით მოძრაობისას გაჩერდეს მოძრაობის ამკრძალავ შუქნიშნის მაშუქ სიგნალზე?",
+    "answers": [
+      "ვალდებულია",
+      "არ არის ვალდებული"
+    ]
+  },
+  {
+    "id": 52,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "თუ მძღოლი უახლოვდება შუქნიშანს, რომელზეც მოძრაობის ნებადამრთველი მაშუქი სიგნალი უკვე დიდი ხნის განმავლობაშია ჩართული, მან უნდა:",
+    "answers": [
+      "გაზარდოს სიჩქარე და თვალყური ადევნოს შუქნიშნის მაშუქ სიგნალებს",
+      "გააგრძელოს მოძრაობა ისე, რომ მზად იყოს სატრანსპორტო საშუალების ნებისმიერ მომენტში უსაფრთხოდ გასაჩერებლად",
+      "გაზარდოს სიჩქარე, თუნდაც იგი აჭარბებდეს ნებადართული სიჩქარის ზღვარს, რათა მოასწროს გზის აღნიშნული მონაკვეთის შუქნიშნის მოძრაობის ამკრძალავ მაშუქი სიგნალის ჩართვამდე გავლა"
+    ]
+  }
+]

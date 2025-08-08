@@ -1,0 +1,207 @@
+[
+  {
+    "id": 504,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct.mp4",
+    "wrongVideo": "assets/videos/wrong.mp4",
+    "previewVideo": "assets/videos/preview.mp4",
+    "question": "თუ საგზაო ნიშნებისა და საგზაო მონიშვნების მოთხოვნები ერთმანეთს ეწინააღმდეგება, მძღოლი ვალდებულია შეასრულოს:",
+    "answers": [
+      "საგზაო ნიშნების მოთხოვნები",
+      "საგზაო მონიშვნის მოთხოვნები"
+    ]
+  },
+  {
+    "id": 505,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct.mp4",
+    "wrongVideo": "assets/videos/wrong.mp4",
+    "previewVideo": "assets/videos/preview.mp4",
+    "question": "თუ უსაფრთხოების კუნძული, ტუმბო ან მოწყობილობა განლაგებულია ორმხრივმოძრაობიანი გზის სავალი ნაწილის ღერძზე, მძღოლმა მას უნდა შემოუაროს:",
+    "answers": [
+      "მხოლოდ მარჯვენა მხრიდან",
+      "მხოლოდ მარცხენა მხრიდან",
+      "მარჯვენა, ან მარცხენა მხრიდან"
+    ]
+  },
+  {
+    "id": 506,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct.mp4",
+    "wrongVideo": "assets/videos/wrong.mp4",
+    "previewVideo": "assets/videos/preview.mp4",
+    "question": "თუ სატრანსპორტო საშუალებათა მოძრაობა არ რეგულირდება არც საგზაო შუქნიშნით და არც მარეგულირებლის მეშვეობით, მძღოლმა ქვეითთა გადასასვლელთან მიახლოებისას:",
+    "answers": [
+      "უნდა მისცეს ხმოვანი სიგნალი და გაიაროს ქვეითთა გადასავლელი შეუჩერებლად",
+      "როგორც ქვეითების მიმართ უპირატესობის მქონემ, უფლება აქვს გაიაროს ქვეითთა გადასასვლელი ნებისმიერი სიჩქარით",
+      "სათანადოდ უნდა შეამციროს სიჩქარე, რათა საფრთხე არ შეუქმნას ამ გადასასვლელზე შესულ ან შემავალ ქვეითებს, ხოლო საჭიროების შემთხვევაში უნდა გაჩერდეს და გაატაროს ქვეითები"
+    ]
+  },
+  {
+    "id": 507,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct.mp4",
+    "wrongVideo": "assets/videos/wrong.mp4",
+    "previewVideo": "assets/videos/preview.mp4",
+    "question": "მძღოლებმა, რომლებიც მოძრაობის მიმართულების შესაბამისი მხრიდან სათანადო წესით მონიშნულ გაჩერებაზე მყოფ სამარშრუტო სატრანსპორტო საშუალებისთვის გვერდის ავლას აპირებენ, უნდა:",
+    "answers": [
+      "შეამცირონ სიჩქარე და აუცილებლობის შემთხვევაში გაჩერდნენ, რათა უზრუნველყონ საზოგადოებრივ ტრანსპორტში მგზავრების უსაფრთხო ჩასხდომის ან გადმოსხდომის შესაძლებლობა",
+      "გაზარდონ სიჩქარე, რათა სწრაფად გაიარონ და არ შეაფერხონ საზოგადოებრივი ტრანსპორტში მგზავრების ჩასხდომა-გადმოსხდომის პროცესი",
+      "გაჩერდნენ გვერდულასთან და არ დაიძრან საზოგადოებრივი ტრანსპორტის მოძრაობის გაგრძელებამდე"
+    ]
+  },
+  {
+    "id": 508,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct.mp4",
+    "wrongVideo": "assets/videos/wrong.mp4",
+    "previewVideo": "assets/videos/preview.mp4",
+    "question": "შესაბამისი საგზაო ნიშნებისა და მონიშვნების არარსებობის შემთხვევაში, ურელსო სატრანსპორტო საშუალებათა მოძრაობისათვის ზოლების რაოდენობა განისაზღვრება:",
+    "answers": [
+      "თვით მძღოლის მიერ, სავალი ნაწილის სიგანის, სატრანსპორტო საშუალებების გაბარიტებისა და მათ შორის აუცილებელი ინტერვალის გათვალისწინებით",
+      "ადგილობრივი თვითმართველობის ორგანოს მიერ",
+      "კონონით, რომლის თანახმად ასეთი სახის გზა ითვლება ცალხმრივ მოძრაობიან გზად"
+    ]
+  },
+  {
+    "id": 509,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct.mp4",
+    "wrongVideo": "assets/videos/wrong.mp4",
+    "previewVideo": "assets/videos/preview.mp4",
+    "question": "ორმხრივმოძრაობიანი გზის სავალი ნაწილის ღერძზე განლაგებულ უსაფრთხოების კუნძულს ან ტუმბოს მძღოლმა უნდა შემოუაროს:",
+    "answers": [
+      "მხოლოდ მარცხენა მხრიდან",
+      "მხოლოდ მარჯვენა მხრიდან",
+      "მარჯვენა ან მარცხენა მხრიდან"
+    ]
+  },
+  {
+    "id": 510,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct.mp4",
+    "wrongVideo": "assets/videos/wrong.mp4",
+    "previewVideo": "assets/videos/preview.mp4",
+    "question": "მოცემულ სიტუაციაში, რომელ მძღოლს ეკრძალება ისრის მიმართულებით სატრანსპორტო საშუალების მობრუნება?",
+    "answers": [
+      "მხოლოდ მოტოციკლის მძღოლს",
+      "მხოლოდ თეთრი ავტომობილის მძღოლს",
+      "არცერთი სატრანსპორტო საშუალების მძღოლს"
+    ]
+  },
+  {
+    "id": 511,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct.mp4",
+    "wrongVideo": "assets/videos/wrong.mp4",
+    "previewVideo": "assets/videos/preview.mp4",
+    "question": "მოცემულ სიტუაციაში, რომელ მძღოლს ეკრძალება ისრის მიმართულებით ავტომობილის მობრუნება?",
+    "answers": [
+      "მხოლოდ ყვითელი ავტომობილის მძღოლს",
+      "მხოლოდ წითელი ავტომობილის მძღოლს",
+      "არცერთი ავტომობილის მძღოლს"
+    ]
+  },
+  {
+    "id": 512,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct.mp4",
+    "wrongVideo": "assets/videos/wrong.mp4",
+    "previewVideo": "assets/videos/preview.mp4",
+    "question": "გზის სავალ ნაწილზე დატანილი წარწერები აღნიშნავენ:",
+    "answers": [
+      "მანძილს უახლოეს დასახლებულ პუნქტამდე",
+      "გზის (მარშრუტის) ნომერს",
+      "შესაბამისი ნომრის სამარშრუტო სატრანსპორტო საშუალებებისათვის განკუთვნილ მოძრაობის ზოლებს"
+    ]
+  },
+  {
+    "id": 513,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct.mp4",
+    "wrongVideo": "assets/videos/wrong.mp4",
+    "previewVideo": "assets/videos/preview.mp4",
+    "question": "გზის სავალ ნაწილზე დატანილი ყვითელი მონიშვნა აღნიშნავს:",
+    "answers": [
+      "სამარშრუტო სატრანსპორტო საშუალების გაჩერებისა და ტაქსის სადგომს",
+      "ხაგრძლივი დასვენებისთვის დგომის ადგილს"
+    ]
+  },
+  {
+    "id": 514,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct.mp4",
+    "wrongVideo": "assets/videos/wrong.mp4",
+    "previewVideo": "assets/videos/preview.mp4",
+    "question": "გზის სავალ ნაწილზე დატანილი განივი მონიშვნა აღნიშნავს ადგილს, სადაც:",
+    "answers": [
+      "ქვეითთა ბილიკი კვეთს გზის სავალ ნაწილს",
+      "საველოსიპედო ბილიკი კვეთს გზის სავალ ნაწილს"
+    ]
+  },
+  {
+    "id": 515,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct.mp4",
+    "wrongVideo": "assets/videos/wrong.mp4",
+    "previewVideo": "assets/videos/preview.mp4",
+    "question": "გზის სავალ ნაწილზე დატანილი ორმაგი წყვეტილი ხაზი აღნიშნავს:",
+    "answers": [
+      "გზაჯვარედინზე საველოსიპედო ბილიკებს",
+      "ადგილს, სადაც მძღოლი აუცილებლობის შემთხვევაში უნდა გაჩერდეს",
+      "რევერსულად მოწესრიგებული მოძრაობის ზოლების საზღვრებს"
+    ]
+  },
+  {
+    "id": 516,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct.mp4",
+    "wrongVideo": "assets/videos/wrong.mp4",
+    "previewVideo": "assets/videos/preview.mp4",
+    "question": "გზის სავალ ნაწილზე დატანილი წარწერა \"BUS\" აღნიშნავს სპეციალურ ზოლს, რომელიც განკუთვნილია:",
+    "answers": [
+      "ნელმავალი სატრანსპორტო საშუალებებისათვის",
+      "ველოსიპედებისა და მოპედებისათვის",
+      "სამარშრუტო სატრანსპორტო საშუალებებისათვის"
+    ]
+  },
+  {
+    "id": 517,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct.mp4",
+    "wrongVideo": "assets/videos/wrong.mp4",
+    "previewVideo": "assets/videos/preview.mp4",
+    "question": "გზის სავალ ნაწილზე საგზაო მოძრაობის ზოლის შუაში დატანილი ისრის ფორმის მონიშვნა აფრთხილებს:",
+    "answers": [
+      "სახიფათო მოსახვევიან გზის მონაკვეთთან მიახლოების თაობაზე",
+      "სავალი ნაწილის შევიწროებასთან, მონაკვეთთან, სადაც მცირდება მოცემული მიმართულებით მოძრაობის ზოლების რაოდენობა მიახლოების შესახებ"
+    ]
+  },
+  {
+    "id": 518,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct.mp4",
+    "wrongVideo": "assets/videos/wrong.mp4",
+    "previewVideo": "assets/videos/preview.mp4",
+    "question": "ხიდზე დახაზული ვერტიკალური მონიშვნა აღნიშნავს:",
+    "answers": [
+      "გზის სავალი ნაწილზე მოძრაობის ზოლების რაოდენობას",
+      "გვირაბის, ხიდის და გზაგამტარის და სხვა ნაგებობათა ელემენტების ქვედა ნაპირს, რომლებიც განთავსებულნი არიან 5 მ-ზე ნაკლებ სიმაღლეზე გზის სავალი ნაწილიდან და რომელთა ქვეშ მთლიანად ან ნაწილობრივ გადის გზის სავალი ნაწილი"
+    ]
+  }
+]

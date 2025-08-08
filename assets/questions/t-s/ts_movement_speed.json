@@ -1,0 +1,248 @@
+[
+  {
+    "id": 450,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "რა მაქსიმალური სიჩქარით მოძრაობის გაგრძელების უფლება აქვს „B“ კატეგორიის მაბუქსირებელი ავტომობილის მძღოლს დასახლებულ პუნქტში, გზის ამ მონაკვეთზე?",
+    "answers": [
+      "1\n50 კმ/სთ სიჩქარით",
+      "2\n60 კმ/სთ სიჩქარით",
+      "3\n70 კმ/სთ სიჩქარით",
+      "4\n90 კმ/სთ სიჩქარით"
+    ]
+  },
+  {
+    "id": 451,
+    "correctAnswer": 3,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "ქვემოთ ჩამოთვლილი საგზაო პირობებიდან, რომელი უნდა გაითვალისწინოს მძღოლმა სატრანსპორტო საშუალების სიჩქარის შეცვლისას?",
+    "answers": [
+      "1\nმხოლოდ ადგილის რელიეფი და მოძრაობის ინტენსიურობა",
+      "2\nმხოლოდ ატმოსფერული პირობები, აგრეთვე არასაკმარისი ან შეზღუდული ხილვადობა",
+      "3\nმხოლოდ გზისა და სატრანსპორტო საშუალების მდგომარეობა",
+      "4\nამ ბილეთში ჩამოთვლილი ყველა საგზაო პირობა"
+    ]
+  },
+  {
+    "id": 452,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "რა მაქსიმალური სიჩქარით მოძრაობის უფლება აქვს არაგაბარიტული (მსხვილგაბარიტიანი) ან ზენორმატიული (მძიმეწონიანი) სატრანსპორტო საშუალების მძღოლს დასახლებულ ან დაუსახლებელ პუნქტში?",
+    "answers": [
+      "1\n40 კმ/სთ სიჩქარით",
+      "2\n60 კმ/სთ სიჩქარით",
+      "3\nარა უმეტეს იმ სიჩქარით, რომელიც მითითებულია საქართველოს კანონმდებლობით დადგენილი წესით უფლებამოსილი ორგანოს (უწყების) მიერ გაცემულ შეთანხმებაში"
+    ]
+  },
+  {
+    "id": 453,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "ავტომაგისტრალებზე, ასევე ავტომაგისტრალების შესასვლელებზე და გამოსასვლელებზე, უფლებამოსილი ორგანოსთან (უწყებასთან) შეთანხმების გარეშე იკრძალება იმ ავტომობილების (მისაბმელებით ან მათ გარეშე) მოძრაობა, რომელთა კონსტრუქციული სიჩქარე არ აღემატება:",
+    "answers": [
+      "1\n40 კმ/სთ-ს",
+      "2\n60 კმ/სთ-ს",
+      "3\n90 კმ/სთ-ს",
+      "4\n110 კმ/სთ-ს"
+    ]
+  },
+  {
+    "id": 454,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "რა მაქსიმალური სიჩქარით შეუძლია მოძრაობის გაგრძელება სატვირთო ავტომობილის მძღოლს, თუ ბუქსირება ხდება ხისტი გადაბმით?",
+    "answers": [
+      "1\n50 კმ/სთ სიჩქარით",
+      "2\n60 კმ/სთ სიჩქარით",
+      "3\n80 კმ/სთ სიჩქარით"
+    ]
+  },
+  {
+    "id": 455,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "საცნობი ნიშანი „ავტომატარებელი“ უნდა ჩაირთოს:",
+    "answers": [
+      "1\nმხოლოდ დღე-ღამის ბნელ დროს ავტომატარებლის მოძრაობისას",
+      "2\nავტომატარებლის მოძრაობისას, ხოლო დღე-ღამის ბნელ დროს და არასაკმარისი ხილვადობის პირობებში – მისი გაჩერებისა და დგომის პერიოდშიც",
+      "3\nმხოლოდ ავტომატარებლის მოძრაობისას არასაკმარისი ხილვადობის პერიოდში"
+    ]
+  },
+  {
+    "id": 456,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "დღის ნათელ დროს გზაზე მოძრავი არაგაბარიტულ (მსხვილგაბარიტიანი) ან ზენორმატიულ (მძიმეწონიანი) მექანიკური სატრანსპორტო საშუალების აღნიშვნის მიზნით სავალდებულოა ჩაირთოს:",
+    "answers": [
+      "1\nახლო განათების ფარები და უკანა საგაბარიტო სინათლეები",
+      "2\nნისლსაწინააღმდეგო ფარები",
+      "3\nშორი განათების ფარები"
+    ]
+  },
+  {
+    "id": 457,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "დასაშვებია თუ არა სქელი ნისლის, ხშირი თოვის, ძლიერი წვიმის დროს ან ანალოგიურ პირობებში, გზაზე გაჩერების ან დგომის დროს, მექანიკური სატრანსპორტო საშუალებებზე და მათი მისაბმელებზე, წინა და უკანა საგაბარიტო სინათლეებთან ერთად დამატებით ჩართული იქნას ახლო განათების, წინა და უკანა ნისლსაწინააღმდეგო ფარები?",
+    "answers": [
+      "1\nდაუშვებელია",
+      "2\nდასაშვებია"
+    ]
+  },
+  {
+    "id": 458,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "იმ საჭაპნო ტრანსპორტზე, რომლის სიგანე 1 მ-ს არ აღემატება, სავალდებულოა დაყენდეს:",
+    "answers": [
+      "1\nსულ მცირე ერთი წინა თეთრი ან ყვითელი სელექციური სინათლე",
+      "2\nწინ - ერთი თეთრი სინათლე და უკან - ერთი წითელი სინათლე",
+      "3\nუკან, მარცხენა მხარეს, ან ცენტრში - ერთი შუქამრეკლი მოწყობილობა"
+    ]
+  },
+  {
+    "id": 459,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "სავალ ნაწილზე ღამის საათებში მოძრაობისას ქვეითთა ჯგუფებმა, რომლებსაც ხელმძღვანელები მეთაურობენ ან სვლით მიდიან, მარცხენა მხრიდან უნდა იქონიონ:",
+    "answers": [
+      "1\nსულ მცირე ერთი თეთრი სელექციური სინათლე წინ და ერთი თეთრი სელექციური სინათლე უკან",
+      "2\nსულ მცირე ერთი თეთრი ან ყვითელი სელექციური სინათლე წინ და ერთი წითელი სინათლე უკან ან ყვითელი შუქი წინ და უკან",
+      "3\nსულ მცირე ერთი წითელი სელექციური სინათლე წინ და ერთი ყვითელი სინათლე უკან"
+    ]
+  },
+  {
+    "id": 460,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "რა სახისაა სათიბელას მჭრელი აპარატები?",
+    "answers": [
+      "1\nთითებიან-სეგმენტებიანი, უთითებო და როტაციული",
+      "2\nუთითებო და როტაციული",
+      "3\nკბილებიანი და თითებიან-სეგმენტიანი",
+      "4\nკბილებიანი, უთითებო და როტაციული"
+    ]
+  },
+  {
+    "id": 461,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "რა დანიშნულება აქვს ფორცხებს?",
+    "answers": [
+      "1\nთივის ან ჩალის ღვარეულებიდან აკრეფა",
+      "2\nღვარეულიდან მოთიბული მასის აკრეფა და მინდორში ბულულების დადგმა",
+      "3\nგამშრალი და ახლადმოთიბული ბალახის ზოლებად და ღვარეულებად მოგროვება"
+    ]
+  },
+  {
+    "id": 462,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "რაში იყენებენ წნეხამკრეფებს?",
+    "answers": [
+      "1\nთივის ან ჩალის ღვარეულებიდან ასაკრეფად, დასაწნეხად და დაწნეხილი მასის შესაკვრელად",
+      "2\nღვარეულიდან მოთიბული მასის ასაკრეფად და მინდორში ბულულების დასადგმელად",
+      "3\nთივის ან ჩალის ზვინების დასადგმელად",
+      "4\nგამშრალი და ახლადმოთიბული ბალახის ზოლებად და ღვარეულებად მოსაფორცხად"
+    ]
+  },
+  {
+    "id": 463,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "რა ოპერაციებს მოიცავს თავთავიანი კულტურების აღების ტექნოლოგია?",
+    "answers": [
+      "1\nღეროების მოჭრა, გალეწვა, ჩელხიდან მარცვლის მოცილება",
+      "2\nღეროების მოჭრა, გალეწვა, ჩელხიდან მარცვლის მოცილება და მარცვლიდან მინარევების მოცილება",
+      "3\nღეროების მოჭრა, გალეწვა, ჩელხიდან მარცვლის მოცილება და აწონვა",
+      "4\nღეროების მოჭრა, გალეწვა, მარცვლის აწონვა, თივის ბულულების დადგმა"
+    ]
+  },
+  {
+    "id": 464,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "როგორი სახის სალეწი აპარატები გამოიყენება მარცვლეულის ამღებ კომბაინში?",
+    "answers": [
+      "1\nთამასებიანი და ჯაჭვებიანი",
+      "2\nჯაჭვებიანი და დეზებიანი",
+      "3\nჯაჭვებიანი, კბილებიანი და როტორული",
+      "4\nთამასებიანი, კბილებიანი და როტორული"
+    ]
+  },
+  {
+    "id": 465,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "რა ამოცანა აქვს მარცვლეულის გაწმენდას?",
+    "answers": [
+      "1\nერთნაირი ზომისა და ფორმის მარცვლის მიღება",
+      "2\nყველა გარეშე მინარევების მოცილება და ძირითადი კულტურების მარცვლის სუფთა სახით მიღება",
+      "3\nდაზიანებული მარცვლის მოცილება და ძირითადი კულტურების მარცვლის სუფთა სახით მიღება",
+      "4\nდაზიანებული მარცვლის მოცილება და ერთნაირი ზომის მარცვლის მიღება"
+    ]
+  },
+  {
+    "id": 466,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "რა მანქანები შედის მარცვლეულის საწმენდ პუნქტში?",
+    "answers": [
+      "1\nკომბაინები",
+      "2\nსაწმენდ-სახარისხებლები",
+      "3\nსალეწები",
+      "4\nსამკალები"
+    ]
+  }
+]

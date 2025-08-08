@@ -1,0 +1,212 @@
+[
+  {
+    "id": 84,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct.mp4",
+    "wrongVideo": "assets/videos/wrong.mp4",
+    "previewVideo": "assets/videos/preview.mp4",
+    "question": "სურათზე მითითებულ ადგილას ავტომობილის იძულებით გაჩერების შემთხვევაში მძღოლმა:",
+    "answers": [
+      "მხოლოდ უნდა ჩართოს საავარიო შუქსიგნალიზაცია",
+      "მხოლოდ შესაბამისი ნიშნით უნდა მონიშნოს ავტომობილი საკმარის მანძილზე",
+      "უნდა ჩართოს საავარიო შუქსიგნალიზაცია და შესაბამისი ნიშნით მონიშნოს ავტომობილი საკმარის მანძილზე"
+    ]
+  },
+  {
+    "id": 85,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct.mp4",
+    "wrongVideo": "assets/videos/wrong.mp4",
+    "previewVideo": "assets/videos/preview.mp4",
+    "question": "გზაზე გასასვლელ ადგილზე გაქანების ზოლის არსებობის შემთხვევაში, მსუბუქი ავტომობილის მძღოლს უფლება აქვს იმოძრაოს:",
+    "answers": [
+      "მხოლოდ A მიმართულებით",
+      "მხოლოდ B მიმართულებით",
+      "როგორც A, ასევე B მიმართულებით"
+    ]
+  },
+  {
+    "id": 86,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct.mp4",
+    "wrongVideo": "assets/videos/wrong.mp4",
+    "previewVideo": "assets/videos/preview.mp4",
+    "question": "წითელი ავტომობილის მძღოლი გასცდა მარჯვნივ მოსახვევს. ეკრძალება თუ არა მას მოსახვევში შესასვლელად ისრის მიმართულებით უკუსვლით მოძრაობა?",
+    "answers": [
+      "ეკრძალება",
+      "არ ეკრძალება"
+    ]
+  },
+  {
+    "id": 87,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct.mp4",
+    "wrongVideo": "assets/videos/wrong.mp4",
+    "previewVideo": "assets/videos/preview.mp4",
+    "question": "მსუბუქი ავტომობილის მძღოლი გასცდა სავალი ნაწილების განივი შეერთების ადგილს. ეკრძალება თუ არა მას ისრის მიმართულებით უკუსვლით მოძრაობა?",
+    "answers": [
+      "ეკრძალება",
+      "არ ეკრძალება"
+    ]
+  },
+  {
+    "id": 88,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct.mp4",
+    "wrongVideo": "assets/videos/wrong.mp4",
+    "previewVideo": "assets/videos/preview.mp4",
+    "question": "დამუხრუჭების ზოლის არსებობის შემთხვევაში მძღოლი, რომელიც აპირებს მოხვევას ვალდებულია:",
+    "answers": [
+      "წინასწარ შეანელოს სიჩქარე და მოხვევის მანევრი შეასრულოს დამუხრუჭების ზოლზე გადაუსვლელად",
+      "დროულად გადაადგილდეს დამუხრუჭების ზოლზე და შემდეგ შეანელოს სიჩქარე",
+      "მოხვევის მანევრის შესრულებამდე გაჩერდეს დამუხრუჭების ზოლზე"
+    ]
+  },
+  {
+    "id": 89,
+    "correctAnswer": 3,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct.mp4",
+    "wrongVideo": "assets/videos/wrong.mp4",
+    "previewVideo": "assets/videos/preview.mp4",
+    "question": "ქვემოთ ჩამოთვლილი, რომელი საგზაო მოძრაობის მონაწილეებს არ ეკრძალებათ ავტომაგისტრალებზე, აგრეთვე ავტომაგისტრალების შესასვლელებზე და გამოსასვლელებზე მოძრაობა?",
+    "answers": [
+      "მოპედის მძღოლებს",
+      "ქვეითებს",
+      "ორბორბლიანი ელექტროთვითმგორავების მძღოლებს",
+      "ავტომატარებლების მძღოლებს"
+    ]
+  },
+  {
+    "id": 90,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct.mp4",
+    "wrongVideo": "assets/videos/wrong.mp4",
+    "previewVideo": "assets/videos/preview.mp4",
+    "question": "ავტომაგისტრალზე, ასევე ავტომაგისტრალის შესასვლელსა და გამოსასვლელზე აკრძალული არ არის:",
+    "answers": [
+      "სატრანსპორტო საშუალების მობრუნება ან უკუსვლით მოძრაობა",
+      "სატრანსპორტო საშუალებით ცენტრალურ გამყოფ ზოლსა და გზის ორივე სავალი ნაწილის განივ შეერთებაზე გასვლა",
+      "მეორე ზოლის იქეთ, იმ მგზავრთა გადაყვანისათვის განკუთვნილი ავტომობილით მოძრაობა, რომლის ნებადართული მაქსიმალური მასა 3,5 ტონას აღემატება",
+      "სასწავლო სვლა"
+    ]
+  },
+  {
+    "id": 91,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct.mp4",
+    "wrongVideo": "assets/videos/wrong.mp4",
+    "previewVideo": "assets/videos/preview.mp4",
+    "question": "ავტომაგისტრალიდან გამოსასვლელად მსუბუქი ავტომობილის მძღოლს უფლება აქვს იმოძრაოს:",
+    "answers": [
+      "A მიმართულებით",
+      "B მიმართულებით",
+      "როგორც A, ასევე B მიმართულებით"
+    ]
+  },
+  {
+    "id": 92,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct.mp4",
+    "wrongVideo": "assets/videos/wrong.mp4",
+    "previewVideo": "assets/videos/preview.mp4",
+    "question": "ავტომაგისტრალზე შესასვლელად მსუბუქი ავტომობილის მძღოლს უფლება აქვს იმოძრაოს:",
+    "answers": [
+      "მხოლოდ A მიმართულებით",
+      "მხოლოდ B მიმართულებით",
+      "როგორც A, ასევე B მიმართულებით"
+    ]
+  },
+  {
+    "id": 93,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct.mp4",
+    "wrongVideo": "assets/videos/wrong.mp4",
+    "previewVideo": "assets/videos/preview.mp4",
+    "question": "ისრის მიმართულებით მოძრაობის შემთხვევაში უპირატესობით სარგებლობს:",
+    "answers": [
+      "მსუბუქი ავტომობილის მძღოლი",
+      "მოტოციკლის მძღოლი"
+    ]
+  },
+  {
+    "id": 94,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct.mp4",
+    "wrongVideo": "assets/videos/wrong.mp4",
+    "previewVideo": "assets/videos/preview.mp4",
+    "question": "რომელი ავტომობილის მძღოლი დაარღვევს საგზაო მოძრაობის წესებს ისრის მიმართულებით მოძრაობის შემთხვევაში?",
+    "answers": [
+      "მხოლოდ სატვირთო ავტომობილის მძღოლი",
+      "ორივე ავტომობილის მძღოლი",
+      "მხოლოდ მსუბუქი ავტომობილის მძღოლი",
+      "არცერთი ავტომობილის მძღოლი"
+    ]
+  },
+  {
+    "id": 95,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct.mp4",
+    "wrongVideo": "assets/videos/wrong.mp4",
+    "previewVideo": "assets/videos/preview.mp4",
+    "question": "არღვევს თუ არა საგზაო მოძრაობის წესებს მსუბუქი ავტომობილის მძღოლი ავტომაგისტრალზე მითითებულ ადგილას იძულებით გაჩერების შემთხვევაში?",
+    "answers": [
+      "არ არღვევს",
+      "არღვევს"
+    ]
+  },
+  {
+    "id": 96,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct.mp4",
+    "wrongVideo": "assets/videos/wrong.mp4",
+    "previewVideo": "assets/videos/preview.mp4",
+    "question": "მოცემულ სიტუაციაში, რომელი სატრანსპორტო საშუალების მძღოლს არ ეკრძალება ისრის მიმართულებით მოძრაობა?",
+    "answers": [
+      "მხოლოდ სატვირთო ავტომობილის მძღოლს",
+      "მხოლოდ მოპედის მძღოლს",
+      "მხოლოდ მსუბუქი ავტომობილის მძღოლს",
+      "ყველა სატრანსპორტო საშუალების მძღოლს"
+    ]
+  },
+  {
+    "id": 97,
+    "correctAnswer": 3,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct.mp4",
+    "wrongVideo": "assets/videos/wrong.mp4",
+    "previewVideo": "assets/videos/preview.mp4",
+    "question": "სატვირთო ავტომობილის მძღოლი ასრულებს საგზაო-სარემონტო სამუშაოებს. რომელი ავტომობილის მძღოლს ეკრძალება ისრის მიმართულებით მოძრაობა?",
+    "answers": [
+      "მხოლოდ სატვირთო ავტომობილის მძღოლს",
+      "მხოლოდ მსუბუქი ავტომობილის მძღოლს",
+      "ორივე ავტომობილის მძღოლს",
+      "არცერთი ავტომობილის მძღოლს"
+    ]
+  },
+  {
+    "id": 98,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct.mp4",
+    "wrongVideo": "assets/videos/wrong.mp4",
+    "previewVideo": "assets/videos/preview.mp4",
+    "question": "მოცემულ სიტუაციაში, არღვევს თუ არა მსუბუქი ავტომობილის მძღოლი სატრანსპორტო საშუალების იძულებით გაჩერების წესებს?",
+    "answers": [
+      "არ არღვევს",
+      "არღვევს"
+    ]
+  }
+]

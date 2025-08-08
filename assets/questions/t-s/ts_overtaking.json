@@ -1,0 +1,457 @@
+[
+  {
+    "id": 417,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემულ სიტუაციაში, ეკრძალება თუ არა მსუბუქი ავტომობილის მძღოლს გასწრება?",
+    "answers": [
+      "1\nეკრძალება",
+      "2\nარ ეკრძალება"
+    ]
+  },
+  {
+    "id": 418,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "აქვს თუ არა უფლება მსუბუქი ავტომობილის მძღოლს, გააგრძელოს მოძრაობა ისრის მიმართულებით?",
+    "answers": [
+      "1\nაქვს უფლება",
+      "2\nარ აქვს უფლება"
+    ]
+  },
+  {
+    "id": 419,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "ეკრძალება თუ არა რუხი მსუბუქი ავტომობილის მძღოლს ისრის მიმართულებით გასწრება?",
+    "answers": [
+      "1\nეკრძალება",
+      "2\nარ ეკრძალება"
+    ]
+  },
+  {
+    "id": 420,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "აქვს თუ არა მწვანე მსუბუქი ავტომობილის მძღოლს ისრის მიმართულებით გასწრების უფლება?",
+    "answers": [
+      "1\nაქვს უფლება",
+      "2\nარ აქვს უფლება"
+    ]
+  },
+  {
+    "id": 421,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "აქვს თუ არა რუხი მსუბუქი ავტომობილის მძღოლს ისრის მიმართულებით გასწრების უფლება?",
+    "answers": [
+      "1\nაქვს უფლება",
+      "2\nარ აქვს უფლება"
+    ]
+  },
+  {
+    "id": 422,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "აქვს თუ არა წითელი ავტომობილის მძღოლს ისრის მიმართულებით გასწრების უფლება?",
+    "answers": [
+      "1\nაქვს უფლება",
+      "2\nარ აქვს უფლება"
+    ]
+  },
+  {
+    "id": 423,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "ეკრძალება თუ არა დაუსახლებელ პუნქტში მსუბუქი ავტომობილის მძღოლს ისრის მიმართულებით გასწრება, თუ ტრაქტორი მოძრაობს 30 კმ/სთ სიჩქარით?",
+    "answers": [
+      "1\nეკრძალება",
+      "2\nარ ეკრძალება"
+    ]
+  },
+  {
+    "id": 424,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "დაარღვეს თუ არა მსუბუქი ავტომობილის მძღოლი საგზაო მოძრაობის წესებს ისრის მიმართულებით მოძრაობის შემთხვევაში?",
+    "answers": [
+      "1\nდაარღვევს",
+      "2\nარ დაარღვევს"
+    ]
+  },
+  {
+    "id": 425,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "თუ ქვეითმა ვერ მოასწრო გზაზე გადასვლა, უფლება აქვს შეჩერდეს:",
+    "answers": [
+      "1\nმხოლოდ უსაფრთხოების კუნძულზე",
+      "2\nმხოლოდ ურთიერთსაპირისპირო მიმართულებით მოძრავი სატრანსპორტო ნაკადების გამყოფ ზოლზე ან ხაზზე",
+      "3\nროგორც უსაფრთხოების კუნძულზე, ასევე ურთიერთსაპირისპირო მიმართულებით მოძრავი სატრანსპორტო ნაკადების გამყოფ ზოლზე ან ხაზზე"
+    ]
+  },
+  {
+    "id": 426,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემულ სიტუაციაში, ეკრძალება თუ არა მსუბუქი ავტომობილის მძღოლს გასწრება?",
+    "answers": [
+      "1\nეკრძალება",
+      "2\nარ ეკრძალება"
+    ]
+  },
+  {
+    "id": 427,
+    "correctAnswer": 3,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "გასწრების დაწყების წინ მძღოლი უნდა დარწმუნდეს:",
+    "answers": [
+      "1\nმხოლოდ იმაში, რომ მის უკან მომავალი არცერთი სატრანსპორტო საშუალების მძღოლს გასწრება არ დაუწყია",
+      "2\nმხოლოდ იმაში, რომ მოძრაობის იმავე ზოლზე მის წინ მოძრავი სატრანსპორტო საშუალების მძღოლს არ მიუცია სიგნალი, რომ აპირებს გაუსწროს სხვა სატრანსპორტო საშუალებას",
+      "3\nმხოლოდ იმაში, რომ მოძრაობის ზოლი, რომელზეც აპირებს გასვლას, საკმარის მანძილზე თავისუფალია, ამასთან ორი სატრანსპორტო საშუალების სიჩქარეთა ფარდობა საკმარისად მოკლე დროში გასწრების საშუალებას იძლევა",
+      "4\nამ ბილეთში ჩამოთვლილ ყველა გარემოებაში"
+    ]
+  },
+  {
+    "id": 428,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "დასაშვებია თუ არა იმ სატრანსპორტო საშუალების გასწრება, რომელიც უახლოვდება სავალ ნაწილზე შესაბამისად აღნიშნულ ქვეითთა გადასასვლელს, ან რომელიც შეჩერდა უშუალოდ ამ გადასასვლელის წინ?",
+    "answers": [
+      "1\nდასაშვებია თუ ქვეითთა გადასასვლელზე არ მოძრაობს ქვეითი, ამასთან მხოლოდ საკმარისად შემცირებული სიჩქარით, რათა უზრუნველყოფილი იქნეს დროული გაჩერება გადასასვლელზე ქვეითების აღმოჩენის შემთხვევაში",
+      "2\nქვეითთა გადასასვლელზე, აგრეთვე მათ წინ არანაკლებ 100 მეტრის მანძილზე გასწრება დაუშვებელია",
+      "3\nდასაშვებია მხოლოდ დაუსახლებელ პუნქტში, იმ გზაზე სადაც ნებადართული მაქსიმალური სიჩქარის ზღვარი 60 კმ/სთ-ზე მეტია"
+    ]
+  },
+  {
+    "id": 429,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "ეკრძალება თუ არა მსუბუქი ავტომობილის მძღოლს ისრის მიმართულებით მოძრაობა?",
+    "answers": [
+      "1\nეკრძალება",
+      "2\nარ ეკრძალება"
+    ]
+  },
+  {
+    "id": 430,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "დაარღვევს თუ არა მსუბუქი ავტომობილის მძღოლი საგზაო მოძრაობის წესებს ისრის მიმართულებით მოძრაობის შემთხვევაში?",
+    "answers": [
+      "1\nდაარღვევს",
+      "2\nარ დაარღვევს"
+    ]
+  },
+  {
+    "id": 431,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "ეკრძალება თუ არა მსუბუქი ავტომობილის მძღოლს ისრის მიმართულებით გასწრება, თუ ტრაქტორი მოძრაობს 25 კმ/სთ სიჩქარით?",
+    "answers": [
+      "1\nეკრძალება",
+      "2\nარ ეკრძალება"
+    ]
+  },
+  {
+    "id": 432,
+    "correctAnswer": 3,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "რომელი ავტომობილის მძღოლს ეკრძალება ისრის მიმართულებით მოძრაობა, თუ ტრაქტორი მოძრაობს 25 კმ/სთ სიჩქარით, ხოლო მოპედი - 35 კმ/სთ სიჩქარით?",
+    "answers": [
+      "1\nმხოლოდ ლურჯი მსუბუქი ავტომობილის მძღოლს",
+      "2\nმხოლოდ ავტობუსის მძღოლს",
+      "3\nროგორც ავტობუსის მძღოლს, ასევე ლურჯი მსუბუქი ავტომობილის მძღოლს",
+      "4\nარცერთი ავტომობილის მძღოლს"
+    ]
+  },
+  {
+    "id": 433,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "ეკრძალება თუ არა მსუბუქი ავტომობილის მძღოლს ისრის მიმართულებით გასწრება, თუ მოცემულ გზის მონაკვეთზე ხილვადობა შეზღუდულია?",
+    "answers": [
+      "1\nეკრძალება",
+      "2\nარ ეკრძალება"
+    ]
+  },
+  {
+    "id": 434,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემულ სიტუაციაში, რომელ სატრასპორტო საშუალების მძღოლს ეკრძალება ისრის მიმართულებით მოძრაობა, თუ მობუქსირე მოტოციკლს დაწყებული აქვს დაბრკოლების შემოვლა?",
+    "answers": [
+      "1\nმხოლოდ მობუქსირე და საბუქსირე მოტოციკლის მძღოლებს",
+      "2\nმხოლოდ მსუბუქი ავტომობილის მძღოლს",
+      "3\nროგორც მობუქსირე და საბუქსირე მოტოციკლის მძღოლებს, ასევე მსუბუქი ავტომობილის მძღოლს"
+    ]
+  },
+  {
+    "id": 435,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "გზაზე მოძრაობისას მძღოლმა უნდა გაითვალისწინოს, რომ გასწრებისას ყველაზე უფრო ხშირად ავარიული სიტუაცია იქმნება:",
+    "answers": [
+      "1\nმხოლოდ დისტანციის დაუცველობის გამო",
+      "2\nმხოლოდ საპირისპირო მიმართულებით მოძრავი სატრანსპორტო საშუალებების მიმართ არასაკმარისი ყურადღების გამოჩენის გამო",
+      "3\nროგორც დისტანციის დაუცველობის, ასევე საპირისპირო მიმართულებით მოძრავი სატრანსპორტო საშუალებების მიმართ არასაკმარისი ყურადღების გამოჩენის გამო"
+    ]
+  },
+  {
+    "id": 436,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "გზაზე, რომელზეც თანმხვედრი მიმართულებით მოძრაობისთვის სულ მცირე ორი ზოლია, აქვს თუ არა უფლება მძღოლს დარჩეს პირველი გასწრების დროს დაკავებულ მოძრაობის ზოლზე, თუ ადრე დაკავებულ ზოლზე დაბრუნებისთანავე ან მოკლე დროში მოუწევს ახალი გასწრების დაწყება?",
+    "answers": [
+      "1\nარა აქვს უფლება",
+      "2\nუფლება აქვს, თუ წინასწარ დარწმუნდება, რომ ეს არ შეუქმნის დაბრკოლებას მის უკან მეტი სიჩქარით მოძრავ სატრანსპორტო საშუალების მძღოლს"
+    ]
+  },
+  {
+    "id": 437,
+    "question": "გარდა გზიდან მარცხენა მხრიდან გასვლის შემთხვევისა, მძღოლი, რომელიც დარწმუნდება, რომ მის უკან მომავალი მძღოლი აპირებს გასწრებას ვალდებულია:",
+    "answers": [
+      "მიუახლოვდეს გზის სავალი ნაწილის მარჯვენა კიდეს და გაზარდოს სიჩქარე",
+      "დაიკავოს თანმხვედრი მიმართულების უკიდურესი მარცხენა მხარე და შეამციროს სიჩქარე",
+      "შეძლებისდაგვარად მიუახლოვდეს გზის სავალი ნაწილის მარჯვენა კიდეს და არ გაზარდოს სიჩქარე"
+    ],
+    "correctAnswer": 3,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4"
+  },
+  {
+    "id": 438,
+    "question": "ეკრძალება თუ არა გასასწრები სატრანსპორტო საშუალების მძღოლს ხელი შეუშალოს გასწრებას მოძრაობის სიჩქარის მომატებით ან სხვა მოქმედებით?",
+    "answers": [
+      "ეკრძალება",
+      "არ ეკრძალება"
+    ],
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4"
+  },
+  {
+    "id": 439,
+    "question": "„გასწრება“ ნიშნავს:",
+    "answers": [
+      "დაკავებული ზოლიდან გამოსვლით, იმავე ზოლში თანხვდენილი მიმართულებით, წინ მოძრავი ერთი ან რამდენიმე სატრანსპორტო საშუალების გადასწრებას",
+      "თანხვედრი მიმართულებით მოძრაობის ზოლებში სატრანსპორტო საშუალების უფრო სწრაფ მოძრაობას, ვიდრე სავალი ნაწილის ნაპირთან ახლოს მდებარე ზოლებში მოძრავი სატრანსპორტო საშუალისა",
+      "მეზობელ მოძრაობის ზოლში საპირისპირო მიმართულებით მოძრავი ერთი ან რამდენიმე სატრანსპორტო საშუალების გვერდის აქცევას"
+    ],
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4"
+  },
+  {
+    "id": 440,
+    "question": "საგზაო მოძრაობის დროს ხმოვანი და მანათობელი სიგნალების მიცემა, საგზაო მოძრაობის სხვა მონაწილეების მიმართ, მძღოლს:",
+    "answers": [
+      "ანიჭებს უპირატესობას",
+      "არ ანიჭებს უპირატესობას",
+      "არ ანიჭებს უპირატესობას მხოლოდ ოპერატიული სატრანსპორტო საშუალებების მიმართ",
+      "ანიჭებს უპირატესობას საგზაო მოძრაობის იმ კონკრეტულ მონაწილესთან შედარებით, ვის მიმართაც გამოიყენება აღნიშნული ხმოვანი და მანათობელი სიგნალები"
+    ],
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4"
+  },
+  {
+    "id": 441,
+    "question": "მძღოლმა ხმოვანი სიგნალი შეიძლება გამოიყენოს:",
+    "answers": [
+      "მხოლოდ დროული გაფრთხილებისთვის საგზაო-სატრანსპორტო შემთხვევის თავიდან ასაცილებლად",
+      "მხოლოდ დასახლებული პუნქტების გარეთ, როდესაც საჭიროა სხვა სატრანსპორტო საშუალების მძღოლის გაფრთხილება გასწრების განზრახვის შესახებ",
+      "ამ ბილეთში ჩამოთვლილ ნებისმიერ შემთხვევაში"
+    ],
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4"
+  },
+  {
+    "id": 442,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "თუ გასწრებისას აღმოჩნდა დაბრკოლება ან საფრთხე, რომელიც გასწრების დაწყებამდე მძღოლს არ შეეძლო გაეთვალისწინებინა, მძღოლი ვალდებულია:",
+    "answers": [
+      "1\nგაზარდოს სისწრაფე, რათა დროულად დაასრულოს გასწრების მანევრი",
+      "2\nმისცეს ხმოვანი სიგნალი და გააგრძელოს გასწრების მანევრის შესრულება",
+      "3\nშეწყვიტოს გასწრება"
+    ]
+  },
+  {
+    "id": 443,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "რას ეწოდება ფრეზის კინემატიკური რეჟიმი?",
+    "answers": [
+      "1\nფრეზის წრიული სიჩქარის ფარდობას მანქანის გადაადგილების სიჩქარესთან",
+      "2\nმანქანის გადაადგილების სიჩქარის ფარდობას ფრეზის წრიულ სიჩქარესთან",
+      "3\nფრეზის წრიული სიჩქარის კვადრატის ფარდობას მანქანის სამუშაო სიჩქარესთან",
+      "4\nმანქანის გადაადგილების სიჩქარის კვადრატის ფარდობას ფრეზის წრიულ სიჩქარესთან"
+    ]
+  },
+  {
+    "id": 444,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "როგორი ტიპისაა თავთავიანი კულტურების სათესების გამომთესი აპარატი?",
+    "answers": [
+      "1\nფრთებიანი",
+      "2\nდისკოსებური",
+      "3\nკოჭისებური",
+      "4\nთეფშისებური"
+    ]
+  },
+  {
+    "id": 445,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "როგორი გამომთესი აპარატი გამოიყენება სიმინდი, მზესუმზირა, სოიო, ლობიო და სხვა სათოხნი კულტურების სათესებში?",
+    "answers": [
+      "1\nკოჭისებური",
+      "2\nდისკოსებური",
+      "3\nთეფშისებური",
+      "4\nფრთებიანი"
+    ]
+  },
+  {
+    "id": 446,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "რა პრინციპით ხორციელდება პნევმატურ სათესებში თესლის გამოთესვა?",
+    "answers": [
+      "1\nვაკუუმის საშუალებით",
+      "2\nსათესი თვლის ბრუნთა რიცხვის საშუალებით",
+      "3\nძალამრთმევი ლილვის საშუალებით"
+    ]
+  },
+  {
+    "id": 447,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "რომელია სასოფლო-სამეურნეო კულტურების მოვლა-მოყვანის ტექნოლოგია?",
+    "answers": [
+      "1\nქვების აკრეფა და ნიადაგის ზედაპირის მოშანდაკება",
+      "2\nორმოების ამოთხრა",
+      "3\nსასუქის მოფანტვა, ხვნა, ფარცხვა, თესვისწინა მოსწორება, თესვა, კულტივაცია, მოსავლის აღება",
+      "4\nბორცვების მოჭრა და დატერასება"
+    ]
+  },
+  {
+    "id": 448,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "რა დანიშნულება აქვს სათიბელას?",
+    "answers": [
+      "1\nთივის ან ჩალის ღვარეულებიდან აკრეფა, დაწნეხვა და დაწნეხილი მასის შეკვრა",
+      "2\nგამშრალი და ახლადმოთიბული ბალახის ზოლებად და ღვარეულებად მოგროვება",
+      "3\nბუნებრივი და ნათესი ბალახების მოთიბვა"
+    ]
+  },
+  {
+    "id": 449,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "რა არის სათიბელას ძირითადი მუშა ორგანო?",
+    "answers": [
+      "1\nჩარჩო",
+      "2\nმჭრელი აპარატი",
+      "3\nთითებიანი ძელი",
+      "4\nჭრის საწინააღმდეგო ფირფიტა"
+    ]
+  }
+]

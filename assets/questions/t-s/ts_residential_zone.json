@@ -1,0 +1,246 @@
+[
+  {
+    "id": 587,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "თუ ხილვადობის ზონაში არ არის ქვეითთა გადასასვლელი ან გზაჯვარედინი, ქვეითის გზაზე გადასვლა ნებადართულია გზის სავალი ნაწილის ღერძის პერპენდიკულარულად, იმ მონაკვეთში, სადაც:",
+    "answers": [
+      "1\nგამყოფი ზოლია და გზა ორივე მხრიდან კარგად ჩანს",
+      "2\nარ არის გამყოფი ზოლი ან ღობურა და გზა ორივე მხრიდან კარგად ჩანს"
+    ]
+  },
+  {
+    "id": 588,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "აქვთ თუ არა უფლება საცხოვრებელ ზონაში მოძრავ ქვეითებს უსაფუძვლოდ შეაფერხონ თეთრი ავტომობილის მოძრაობა?",
+    "answers": [
+      "1\nაქვთ უფლება, ვინაიდან საცხოვრებელ ზონაში ქვეითს უპირატესობა აქვს სხვა საგზაო მოძრაობის მონაწილეების მიმართ",
+      "2\nარ აქვთ უფლება"
+    ]
+  },
+  {
+    "id": 589,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "საცხოვრებელ ზონაში მსუბუქი ავტომობილის მძღოლს უფლება აქვს იმოძრაოს არაუმეტეს:",
+    "answers": [
+      "1\n20 კმ/სთ სიჩქარით",
+      "2\n40 კმ/სთ სიჩქარით",
+      "3\n60 კმ/სთ სიჩქარით"
+    ]
+  },
+  {
+    "id": 590,
+    "correctAnswer": 3,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "ქვემოთ ჩამოთვლილი რომელი ქმედების განხორციელება არ არის აკრძალული ქვეითთა ზონებად გამოცხადებულ ადგილებში და საცხოვრებელ ზონებში?",
+    "answers": [
+      "1\nავტოსატრანსპორტო საშუალებათა გამჭოლი მოძრაობა",
+      "2\nსასწავლო სვლა",
+      "3\nჩართული ძრავით სატრანსპორტო საშუალების დგომა",
+      "4\nიმ ავტომობილით გადაადგილება, რომლის კონსტრუქციული სიჩქარე აღემატება 120 კმ/სთ"
+    ]
+  },
+  {
+    "id": 591,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "ქვეითთა ზონებად გამოცხადებულ ადგილებში და საცხოვრებელ ზონებში სხვა საგზაო მოძრაობის მონაწილეთა მიმართ მოძრაობის უპირატესობა ენიჭებათ:",
+    "answers": [
+      "1\nმძღოლებს",
+      "2\nქვეითებს"
+    ]
+  },
+  {
+    "id": 592,
+    "correctAnswer": 3,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემული საგზაო ნიშნების კომბინაციიდან რომელი იდგმება დაუსახლებელ პუნქტში, რკინიგზის უშლაგბაუმო გადასასვლელამდე, 150-300 მეტრის მანძილზე, გზის მარცხენა მხარეს?",
+    "answers": [
+      "1\nIII",
+      "2\nIV",
+      "3\nII",
+      "4\nI"
+    ]
+  },
+  {
+    "id": 593,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემული საგზაო ნიშნებიდან რომელი აღნიშნავს სანაპიროზე ან წყალსაცავის ნაპირზე გასასვლელს?",
+    "answers": [
+      "1\nმხოლოდ I და II",
+      "2\nმხოლოდ II",
+      "3\nმხოლოდ III",
+      "4\nმხოლოდ I და IV"
+    ]
+  },
+  {
+    "id": 594,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემული საგზაო ნიშნებიდან, რომელი აღნიშნავს გზის მონაკვეთს სახიფათო მოსახვევებით?",
+    "answers": [
+      "1\nIV",
+      "2\nIII",
+      "3\nII",
+      "4\nI"
+    ]
+  },
+  {
+    "id": 595,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემული საგზაო ნიშნებიდან რომელი აფრთხილებს ციცაბოაღმართიან გზის მონაკვეთთან მიახლოების თაობაზე?",
+    "answers": [
+      "1\nII",
+      "2\nI",
+      "3\nIV",
+      "4\nIII"
+    ]
+  },
+  {
+    "id": 596,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემული საგზაო ნიშნებიდან რომელი აღნიშნავს გზის მონაკვეთს, რომლის სავალი ნაწილის სიგანე ვიწროვდება მარცხენა მხრიდან?",
+    "answers": [
+      "1\nI",
+      "2\nII",
+      "3\nIII",
+      "4\nIV"
+    ]
+  },
+  {
+    "id": 597,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემული საგზაო ნიშნებიდან რომელი აღნიშნავს გზის მონაკვეთს, რომელიც გადის პირუტყვის (საქონლის) სადგომთან, ფერმებთან ან/და პირუტყვის (საქონლის) მუდმივი გადარეკვის ადგილთან, სადაც მოსალოდნელია მათი სავალ ნაწილზე გამოჩენა?",
+    "answers": [
+      "1\nI",
+      "2\nII",
+      "3\nIII",
+      "4\nIV"
+    ]
+  },
+  {
+    "id": 598,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემული საგზაო ნიშნებიდან რომელი აღნიშნავს ნაკრძალთან, სანადირო მეურნეობასთან, ტყის მასივთან გამავალ გზის მონაკვეთებს ან სხვა უბნებს, სადაც მოსალოდნელია გარეული ცხოველების გამოჩენა?",
+    "answers": [
+      "1\nI",
+      "2\nII",
+      "3\nIII",
+      "4\nIV"
+    ]
+  },
+  {
+    "id": 599,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "საერთაშორისო სტანდარტით ტრაქტორებს უტარდებათ:",
+    "answers": [
+      "1\nყოველი ცვლის, პერიოდული და სეზონური ტექნიკური მომსახურება, მიმდინარე რემონტი და კაპიტალური რემონტი",
+      "2\nყოველი ცვლის და სეზონური ტექნიკური მომსახურება, მიმდინარე რემონტი და კაპიტალური რემონტი",
+      "3\nყოველი ცვლის, პერიოდული და სეზონური ტექნიკური მომსახურება, აგრეთვე მიმდინარე რემონტი",
+      "4\nპერიოდული და სეზონური ტექნიკური მომსახურება, მიმდინარე რემონტი და კაპიტალური რემონტი"
+    ]
+  },
+  {
+    "id": 600,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "ღია არხების გაწმენდა წარმოებს:",
+    "answers": [
+      "1\nაქტიური და პასიური მუშა ორგანოებიანი არხსაწმენდი მანქანებით",
+      "2\nუწყვეტი ქმედების არხსაწმენდი მანქანით",
+      "3\nფრეზული არხსაწმენდი მანქანებით"
+    ]
+  },
+  {
+    "id": 601,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "ღია არხების გაყვანა წარმოებს:",
+    "answers": [
+      "1\nმხოლოდ აქტიური და გუთნისებური არხსათხრელი მანქანებით",
+      "2\nმხოლოდ აქტიური და კომბინირებული მუშა ორგანოიანი არხსათხრელი მანქანებით",
+      "3\nროგორც აქტიური და კომბინირებული, ასევე გუთნისებური მუშა ორგანოიანი არხსათხრელი მანქანებით"
+    ]
+  },
+  {
+    "id": 602,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "უწყვეტი ქმედების არხსაწმენდი მანქანის ციცხვებს შორის მანძილი აიღება შემდეგ ზღვრებში:",
+    "answers": [
+      "1\n0,2 მეტრიდან 0,4 მეტრამდე",
+      "2\n0,4 მეტრიდან 0,6 მეტრამდე",
+      "3\n0,6 მეტრიდან 1,0 მეტრამდე"
+    ]
+  },
+  {
+    "id": 603,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "კავალირების მოსწორება წარმოებს:",
+    "answers": [
+      "1\nბულდოზერის ფრთის საშუალებით",
+      "2\nერთციცხვიანი ექსკავატორით",
+      "3\nფრეზული მუშა ორგანოთი"
+    ]
+  }
+]

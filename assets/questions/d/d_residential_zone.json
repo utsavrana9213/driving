@@ -1,0 +1,128 @@
+[
+  {
+    "id": 8181,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "თუ ხილვადობის ზონაში არ არის ქვეითთა გადასასვლელი ან გზაჯვარედინი, ქვეითის გზაზე გადასვლა ნებადართულია გზის სავალი ნაწილის ღერძის პერპენდიკულარულად, იმ მონაკვეთში, სადაც:",
+    "answers": [
+      "გამყოფი ზოლია და გზა ორივე მხრიდან კარგად ჩანს",
+      "არ არის გამყოფი ზოლი ან ღობურა და გზა ორივე მხრიდან კარგად ჩანს"
+    ]
+  },
+  {
+    "id": 8182,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "აქვთ თუ არა უფლება საცხოვრებელ ზონაში მოძრავ ქვეითებს უსაფუძვლოდ შეაფერხონ თეთრი ავტომობილის მოძრაობა?",
+    "answers": [
+      "აქვთ უფლება, ვინაიდან საცხოვრებელ ზონაში ქვეითს უპირატესობა აქვს სხვა საგზაო მოძრაობის მონაწილეების მიმართ",
+      "არ აქვთ უფლება"
+    ]
+  },
+  {
+    "id": 8183,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "საცხოვრებელ ზონაში მსუბუქი ავტომობილის მძღოლს უფლება აქვს იმოძრაოს არაუმეტეს:",
+    "answers": [
+      "20 კმ/სთ სიჩქარით",
+      "40 კმ/სთ სიჩქარით",
+      "60 კმ/სთ სიჩქარით"
+    ]
+  },
+  {
+    "id": 8184,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "რომელი ავტომობილს მძღოლს წარმოექმნება გზის დათმობის ვალდებულება ისრის მიმართულებით მოძრაობის შემთხვევაში?",
+    "answers": [
+      "მსუბუქი ავტომობილის მძღოლს",
+      "ავტობუსის მძღოლს"
+    ]
+  },
+  {
+    "id": 8185,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "ქვეითთა ზონებად გამოცხადებულ ადგილებში და საცხოვრებელ ზონებში სხვა საგზაო მოძრაობის მონაწილეთა მიმართ მოძრაობის უპირატესობა ენიჭებათ:",
+    "answers": [
+      "მძღოლებს",
+      "ქვეითებს"
+    ]
+  },
+  {
+    "id": 8186,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემული საგზაო ნიშნებიდან რომელი აღნიშნავს მცირერადიუსიან ან შეზღუდულ ხილვადობის მქონე გზის სახიფათო მოსახვევს?",
+    "answers": [
+      "III",
+      "IV",
+      "I",
+      "II"
+    ]
+  },
+  {
+    "id": 8187,
+    "correctAnswer": 3,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემული საგზაო ნიშნებიდან რომელი აღნიშნავს გზის მონაკვეთს, რომელზედაც სიჩქარის იძულებით შემცირებისათვის მოწყობილია ხელოვნური უსწორმასწორობა?",
+    "answers": [
+      "მხოლოდ II და III",
+      "მხოლოდ I და IV",
+      "მხოლოდ III",
+      "მხოლოდ II"
+    ]
+  },
+  {
+    "id": 8188,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემული საგზაო ნიშნებიდან რომელი აღნიშნავს გზის მონაკვეთს, რომლის გზისპირის მდგომარეობა არ შეესაბამება არსებულ სტანდარტებს?",
+    "answers": [
+      "I",
+      "II",
+      "III",
+      "IV"
+    ]
+  },
+  {
+    "id": 8189,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემული საგზაო ნიშნებიდან რომელი აღნიშნავს გზის მონაკვეთს, რომელიც გადის პირუტყვის (საქონლის) სადგომთან, ფერმებთან ან/და პირუტყვის (საქონლის) მუდმივი გადარეკვის ადგილთან, სადაც მოსალოდნელია მათი სავალ ნაწილზე გამოჩენა?",
+    "answers": [
+      "I",
+      "II",
+      "III",
+      "IV"
+    ]
+  }
+]

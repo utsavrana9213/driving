@@ -1,0 +1,477 @@
+[
+  {
+    "id": 8112,
+    "question": "ეკრძალება თუ არა მძღოლს ისრით მითითებულ ადგილზე ავტომობილით დგომა?",
+    "answers": [
+      "1\nეკრძალება",
+      "2\nარ ეკრძალება"
+    ],
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_8112.mp4",
+    "wrongVideo": "assets/videos/wrong_8112.mp4",
+    "previewVideo": "assets/videos/preview_8112.mp4"
+  },
+  {
+    "id": 8113,
+    "question": "მოცემულ სიტუაციაში მხოლოდ სამარშუტო ყვითელი ავტობუსის მძღოლი აწარმოებს მგზავრთა ჩასხდომა-გადმოსხდომას. რომელი ავტომობილის მძღოლი არ არღვევს გაჩერების წესებს?",
+    "answers": [
+      "1\nმხოლოდ მსუბუქი ავტომობილის მძღოლი",
+      "2\nმხოლოდ სამარშუტო ყვითელი ავტობუსის მძღოლი",
+      "3\nმხოლოდ სატვირთო ავტომობილის მძღოლი",
+      "4\nარცერთი ავტომობილის მძღოლი"
+    ],
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_8113.mp4",
+    "wrongVideo": "assets/videos/wrong_8113.mp4",
+    "previewVideo": "assets/videos/preview_8113.mp4"
+  },
+  {
+    "id": 8114,
+    "question": "რომელი სატრანსპორტო საშუალებაა დაყენებული დგომის წესების დარღვევით, თუ მხოლოდ წითელი ავტომობილის მძღოლი დადგა ხანგრძლივი დასვენების მიზნით?",
+    "answers": [
+      "1\nშავი ავტომობილი",
+      "2\nწითელი ავტომობილი",
+      "3\nორივე ავტომობილი",
+      "4\nარცერთი ავტომობილი"
+    ],
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_8114.mp4",
+    "wrongVideo": "assets/videos/wrong_8114.mp4",
+    "previewVideo": "assets/videos/preview_8114.mp4"
+  },
+  {
+    "id": 8115,
+    "question": "აქვს თუ არა უფლება მსუბუქი ავტომობილის მძღოლს გაჩერდეს ისრით მითითებულ ადგილას მგზავრთა ჩასხდომის მიზნით?",
+    "answers": [
+      "1\nაქვს უფლება",
+      "2\nარ აქვს უფლება"
+    ],
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_8115.mp4",
+    "wrongVideo": "assets/videos/wrong_8115.mp4",
+    "previewVideo": "assets/videos/preview_8115.mp4"
+  },
+  {
+    "id": 8116,
+    "question": "აქვს თუ არა უფლება ყვითელი ავტობუსის მძღოლს, გაჩერდეს ისრით მითითებულ ადგილას მგზავრთა ჩასხდომის მიზნით?",
+    "answers": [
+      "1\nაქვს უფლება",
+      "2\nარ აქვს უფლება"
+    ],
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_8116.mp4",
+    "wrongVideo": "assets/videos/wrong_8116.mp4",
+    "previewVideo": "assets/videos/preview_8116.mp4"
+  },
+  {
+    "id": 8117,
+    "question": "რომელი ავტომობილის მძღოლი დაარღვევს საგზაო მოძრაობის წესებს ხიდზე ისრით მითითებულ ადგილას გაჩერების შემთხვევაში?",
+    "answers": [
+      "1\nმხოლოდ თეთრი ავტომობილის მძღოლი",
+      "2\nმხოლოდ წითელი ავტომობილის მძღოლი",
+      "3\nორივე ავტომობილის მძღოლი",
+      "4\nარცერთი ავტომობილის მძღოლი"
+    ],
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_8117.mp4",
+    "wrongVideo": "assets/videos/wrong_8117.mp4",
+    "previewVideo": "assets/videos/preview_8117.mp4"
+  },
+  {
+    "id": 8118,
+    "question": "რომელი ავტომობილის მძღოლი არღვევს საგზაო მოძრაობის წესებს სურათზე მითითებულ ადგილას გაჩერების შემთხვევაში?",
+    "answers": [
+      "1\nორივე ავტომობილის მძღოლი",
+      "2\nარცერთი ავტომობილის მძღოლი",
+      "3\nმხოლოდ წითელი ავტომობილის მძღოლი",
+      "4\nმხოლოდ თეთრი ავტომობილის მძღოლი"
+    ],
+    "correctAnswer": 3,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_8118.mp4",
+    "wrongVideo": "assets/videos/wrong_8118.mp4",
+    "previewVideo": "assets/videos/preview_8118.mp4"
+  },
+  {
+    "id": 8119,
+    "question": "დაარღვეს თუ არა მსუბუქი ავტომობილის მძღოლი საგზაო მოძრაობის წესებს მითითებულ ადგილას ავტომობილის სადგომზე დაყენების შემთხვევაში, თუ ამით დაბრკოლებას უქმნის ქვეითებს?",
+    "answers": [
+      "1\nდაარღვევს",
+      "2\nარ დაარღვევს"
+    ],
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_8119.mp4",
+    "wrongVideo": "assets/videos/wrong_8119.mp4",
+    "previewVideo": "assets/videos/preview_8119.mp4"
+  },
+  {
+    "id": 8120,
+    "question": "აქვს თუ არა უფლება ავტობუსის მძღოლს, გაჩერდეს ისრით მითითებულ ადგილას, თუ მოცემულ გზას თითოეული მიმართულებისათვის ერთი სამოძრაო ზოლი გააჩნია?",
+    "answers": [
+      "1\nარ აქვს უფლება",
+      "2\nაქვს უფლება"
+    ],
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_8120.mp4",
+    "wrongVideo": "assets/videos/wrong_8120.mp4",
+    "previewVideo": "assets/videos/preview_8120.mp4"
+  },
+  {
+    "id": 8121,
+    "question": "მოცემულ სიტუაციაში, ეკრძალება თუ არა მძღოლს სატვირთო ავტომობილის მონიშნულ ადგილზე დაყენება?",
+    "answers": [
+      "1\nეკრძალება",
+      "2\nარ ეკრძალება"
+    ],
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_8121.mp4",
+    "wrongVideo": "assets/videos/wrong_8121.mp4",
+    "previewVideo": "assets/videos/preview_8121.mp4"
+  },
+  {
+    "id": 8122,
+    "question": "დაარღვეს თუ არა მსუბუქი ავტომობილის მძღოლი საგზაო მოძრაობის წესებს ისრით მითითებულ ადგილას ავტომობილის სადგომზე დაყენების შემთხვევაში?",
+    "answers": [
+      "1\nდაარღვევს",
+      "2\nარ დაარღვევს"
+    ],
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_8122.mp4",
+    "wrongVideo": "assets/videos/wrong_8122.mp4",
+    "previewVideo": "assets/videos/preview_8122.mp4"
+  },
+  {
+    "id": 8123,
+    "question": "რომელი სატრანსპორტო საშუალებაა დაყენებული დგომის წესების დარღვევით?",
+    "answers": [
+      "1\nმხოლოდ მოტოციკლი",
+      "2\nმხოლოდ მსუბუქი ავტომობილი",
+      "3\nორივე სატრანსპორტო საშუალება",
+      "4\nარცერთი სატრანსპორტო საშუალება"
+    ],
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_8123.mp4",
+    "wrongVideo": "assets/videos/wrong_8123.mp4",
+    "previewVideo": "assets/videos/preview_8123.mp4"
+  },
+  {
+    "id": 8124,
+    "question": "რომელი ავტომობილია დაყენებული დგომის წესების დარღვევით დაუსახლებელ პუნქტში?",
+    "answers": [
+      "1\nორივე ავტომობილი",
+      "2\nარცერთი ავტომობილი",
+      "3\nწითელი ავტომობილი",
+      "4\nმწვანე ავტომობილი"
+    ],
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_8124.mp4",
+    "wrongVideo": "assets/videos/wrong_8124.mp4",
+    "previewVideo": "assets/videos/preview_8124.mp4"
+  },
+  {
+    "id": 8125,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "დაარღვეს თუ არა თეთრი ავტომობილის მძღოლი საგზაო მოძრაობის წესებს, სურათზე მითითებულ ადგილას გაჩერების შემთხვევაში?",
+    "answers": [
+      "დაარღვევს",
+      "არ დაარღვევს"
+    ]
+  },
+  {
+    "id": 8126,
+    "correctAnswer": 3,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "გზის სავალ ნაწილზე სატრანსპორტო საშუალებების გაჩერება აკრძალულია:",
+    "answers": [
+      "მხოლოდ გზაზე გამავალი ტრამვაის და რკინიგზის ლიანდაგებზე, ან მათ ახლოს, თუ ამას შეუძლია გააძნელოს ტრამვაის ან მატარებლების მოძრაობა",
+      "მხოლოდ იმ ადგილებზე, სადაც სატრანსპორტო საშუალება საგზაო მოძრაობის სხვა მონაწილეებს უფარავს შუქნიშნის სიგნალებს ან საგზაო ნიშნებს",
+      "მხოლოდ ნელმავალი სატრანსპორტო საშუალებების მოძრაობისათვის განკუთვნილ, შესაბამის საგზაო ნიშნით აღნიშნულ დამატებით მოძრაობის ზოლზე",
+      "ამ ბილეთში ჩამოთვლილ ნებისმიერ შემთხვევაში"
+    ]
+  },
+  {
+    "id": 8127,
+    "correctAnswer": 3,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "რომელი ავტომობილის მძღოლი დაარღვევს საგზაო მოძრაობის წესებს, ხიდზე მგზავრთა ჩასხდომის მიზნით ისრით მითითებულ ადგილზე გაჩერების შემთხვევაში?",
+    "answers": [
+      "ორივე ავტომობილის მძღოლი",
+      "მხოლოდ თეთრი ავტომობილის მძღოლი",
+      "მხოლოდ მწვანე ავტომობილის მძღოლი",
+      "არცერთი ავტომობილის მძღოლი"
+    ]
+  },
+  {
+    "id": 8128,
+    "correctAnswer": 3,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემულ სიტუაციაში, რომელი სატრანსპორტო საშუალების მძღოლი არღვევს საგზაო მოძრაობის წესებს, თუ ხიდზე მგზავრთა ჩასხდომის მიზნით მსუბუქი ავტომობილი ისრის მიმართულებით მოძრაობს უკუსვლით, ხოლო - მოტოციკლი ახორციელებს ისრის მიმართულებით მობრუნებას?",
+    "answers": [
+      "მხოლოდ მოტოციკლის მძღოლი",
+      "მხოლოდ ავტომობილის მძღოლი",
+      "არცერთი სატრანსპორტო საშუალების მძღოლი",
+      "ორივე სატრანსპორტო საშუალების მძღოლები"
+    ]
+  },
+  {
+    "id": 8129,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "აქვს თუ არა უფლება მსუბუქი ავტომობილის მძღოლს გააგრძელოს მოძრაობა ისრის მიმართულებით, თუ მონიშნულ გაჩერებაზე მყოფ ტრამვაიში მგზავრების ჩასხდომა-გადმოსხდომა არ წარმოებს?",
+    "answers": [
+      "აქვს უფლება",
+      "არ აქვს უფლება"
+    ]
+  },
+  {
+    "id": 8130,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მსუბუქი ავტომობილის მძღოლს განზრახული აქვს გზაჯვარედინზე მარჯვნივ მოხვევა, ის არ დაარღვევს საგზაო მოძრაობის წესებს, თუ:",
+    "answers": [
+      "გაუსწრებს ავტობუსს, გადავა მარჯვენა ზოლში და იქედან მოუხვევს მარჯვნივ",
+      "გაუსწრებს ავტობუსს და მარჯვნივ მოუხვევს მეორე ზოლიდან",
+      "გაატარებს ავტობუსს, გადავა მარჯვენა ზოლში და იქედან მოუხვევს მარჯვნივ",
+      "გაატარებს ავტობუსს და მარჯვნივ მოუხვევს მეორე ზოლიდან"
+    ]
+  },
+  {
+    "id": 8131,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "აქვს თუ არა უფლება მსუბუქი ავტომობილის მძღოლს გაჩერდეს დასახლებულ პუნქტში, სურათზე მითითებულ ადგილას მგზავრთა ჩასხდომის მიზნით?",
+    "answers": [
+      "არ აქვს უფლება",
+      "აქვს უფლება"
+    ]
+  },
+  {
+    "id": 8132,
+    "correctAnswer": 3,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "ქვემოთ ჩამოთვლილი, რომელ ადგილებში გავლამდეა ვალდებული ავტობუსისა და სატვირთო ავტომობილის მძღოლი დარწმუნდეს გავლის უსაფრთხოებაში?",
+    "answers": [
+      "მხოლოდ ხიდებისა და ესტაკადების ქვეშ",
+      "მხოლოდ მაღალძაბვის გადამცემის ქვეშ",
+      "მხოლოდ გვირაბებში ან სხვა მსგავს ადგილებში",
+      "ამ ბილეთში ჩამოთვლილ ნებისმიერ ადგილას"
+    ]
+  },
+  {
+    "id": 8133,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "სამარშუტო სატრანსპორტო საშუალების ან ტაქსის კონსტრუქციულად გამოყოფილი გაჩერების ადგილებიდან, ხოლო მათი არარსებობის შემთხვევაში – სამარშრუტო სატრანსპორტო საშუალების ან ტაქსის გაჩერების მაჩვენებლიდან, თუ ეს აბრკოლებს სამარშუტო სატრანსპორტო საშუალებების მოძრაობას, სატრანსპორტო საშუალებების გაჩერება აკრძალულია:",
+    "answers": [
+      "15 მეტრზე ახლოს",
+      "25 მეტრზე ახლოს",
+      "30 მეტრზე ახლოს"
+    ]
+  },
+  {
+    "id": 8134,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "აკრძალულია თუ არა სატრანსპორტო საშუალებების გაჩერება იმ ესტაკადების, ხიდებისა და გზაგამტარების ქვეშ, სადაც არარსებობს გაჩერებისათვის სპეციალურად გამოყოფილი ადგილები?",
+    "answers": [
+      "აკრძალული, მხოლოდ იმ სატრანსპორტო საშუალებების გაჩერება, რომელთა ნებადართული მაქსიმალური მასა 3,5 ტონაზე მეტია",
+      "აკრძალულია",
+      "არ არის აკრძალული"
+    ]
+  },
+  {
+    "id": 8135,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "„გაჩერება“ ნიშნავს:",
+    "answers": [
+      "სატრანსპორტო საშუალების მოძრაობის წინასწარგანზრახულ შეწყვეტას სატრანსპორტო ნაკადში",
+      "სატრანსპორტო საშუალების მოძრაობის წინასწარგანზრახულ შეწყვეტას საგზაო მოძრაობის ორგანიზების ტექნიკური საშუალებების ან მარეგულირებელის მოთხოვნათა გამო",
+      "სატრანსპორტო საშუალების მოძრაობის წინასწარგანზრახულ შეწყვეტას 5 წუთამდე, ან უფრო მეტი ხნით, თუ ეს აუცილებელია მგზავრთა ჩასხდომა-გადმოსხდომისათვის ან სატრანსპორტო საშუალების დატვირთვა-გადმოტვირთვისათვის"
+    ]
+  },
+  {
+    "id": 8136,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "„დგომა“ ნიშნავს:",
+    "answers": [
+      "სატრანსპორტო საშუალების მოძრაობის წინასწარგანზრახულ შეწყვეტას 5 წუთამდე, ან უფრო მეტი ხნით, თუ ეს აუცილებელია მგზავრთა ჩასხდომა-გადმოსხდომისათვის ან სატრანსპორტო საშუალების დატვირთვა-გადმოტვირთვისათვის",
+      "სატრან스პორტო საშუალების მოძრაობის გამიზნულად შეწყვეტას 5 წუთზე მეტი ხნით, თუ ეს აუცილებელი არ არის მგზავრთა ჩასხდომა-გადმოსხდომისათვის ან სატრანსპორტო საშუალების დატვირთვა-გადმოტვირთვისათვის"
+    ]
+  },
+  {
+    "id": 8137,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "ნებადართულია თუ არა სატრანსპორტო საშუალების დგომა სავალი ნაწილის მარცხენა მხარეს?",
+    "answers": [
+      "ნებადართულია მხოლოდ დაუსახლებელ პუნქტებში",
+      "ნებადართულია მხოლოდ დასახლებულ პუნქტში იმ გზაზე, სადაც თითოეული მიმართულებისათვის ერთი სამოძრაო ზოლია, შუაში ტრამვაის ლიანდაგების გარეშე",
+      "ნებადართულია ნებისმიერ გზაზე, რომლის შუაში არ არის ტრამვაის ლიანდაგი",
+      "არ არის ნებადართული"
+    ]
+  },
+  {
+    "id": 8138,
+    "correctAnswer": 3,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "სატრანსპორტო საშუალების დგომა არ არის აკრძალული:",
+    "answers": [
+      "გაჩერების ამკრძალავი საგზაო ნიშნის მოქმედების ზონაში",
+      "გზის სავალ ნაწილზე რკინიგზის გადასასვლელთან 50 მეტრზე ახლოს",
+      "ეზოდან ავტომობილის გამოსასვლელთან",
+      "ამ ბილეთში ჩამოთვლილ ყველა ადგილას აკრძალულია"
+    ]
+  },
+  {
+    "id": 8139,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "სატრანსპორტო საშუალების მძღოლმა საავარიო შუქსიგნალიზაცია უნდა გამოიყენოს:",
+    "answers": [
+      "მოსალოდნელი საფრთხის შესახებ სხვა საგზაო მოძრაობის მონაწილეთა გაფრთხილებისათვის",
+      "სხვა საგზაო მოძრაობის მონაწილეებთან შედარებით უპირატესობის მოსაპოვებლად"
+    ]
+  },
+  {
+    "id": 8140,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "სატრანსპორტო საშუალების მძღოლი ვალდებულია საავარიო შუქსიგნალიზაცია (მისი არსებობისას) ჩართოს:",
+    "answers": [
+      "იმ ადგილას იძულებითი გაჩერების დროს, სადაც გაჩერება აკრძალულია",
+      "გზაჯვარედინის მიღმა მობრუნებისას",
+      "ქვეითთა გადასასვლელზე მაღალი სიჩქარით გავლისას"
+    ]
+  },
+  {
+    "id": 8141,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "სურათზე მითითებულ რომელ ადგილას გაჩერების შემთხვევაში დაარღვეს ბავშვთა ჯგუფის გადამყვანი ავტობუსის მძღოლი საგზაო მოძრაობის წესებს, თუ არ ჩართავს საავარიო შუქსიგნალიზაციას?",
+    "answers": [
+      "მხოლოდ A ადგილას",
+      "მხოლოდ B ადგილას",
+      "როგორც A, ასევე B ადგილას"
+    ]
+  },
+  {
+    "id": 8142,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "არღვეს თუ არა ბავშვთა ჯგუფის გადამყვანი ავტობუსის მძღოლი საგზაო მოძრაობის წესებს სურათზე მითითებულ ადგილას გაჩერების შემთხვევაში, თუ ავტობუსზე ჩართული არ არის საავარიო შუქსიგნალიზაცია?",
+    "answers": [
+      "არღვევს",
+      "არ არღვევს"
+    ]
+  },
+  {
+    "id": 8143,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "აქვს თუ არა უფლება მსუბუქი ავტომობილის მძღოლს მგზავრის ჩამოსმის მიზნით გაჩერდეს ისრით მითითებულ ადგილას?",
+    "answers": [
+      "აქვს უფლება",
+      "არ აქვს უფლება"
+    ]
+  },
+  {
+    "id": 8144,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მსუბუქი ავტომობილის მძღოლს უფლება აქვს გაჩერდეს:",
+    "answers": [
+      "მხოლოდ A ადგილას",
+      "მხოლოდ B ადგილას",
+      "არც A და ასევე არც B ადგილას"
+    ]
+  },
+  {
+    "id": 8145,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მსუბუქი ავტომობილის მძღოლს უფლება აქვს გაჩერდეს:",
+    "answers": [
+      "მხოლოდ A ადგილას",
+      "მხოლოდ B ადგილას",
+      "როგორც A ადგილას, B ასევე ადგილას"
+    ]
+  }
+]

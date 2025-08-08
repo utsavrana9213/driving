@@ -1,0 +1,334 @@
+[
+  {
+    "id": 523,
+    "correctAnswer": 3,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_20.mp4",
+    "wrongVideo": "assets/videos/wrong_20.mp4",
+    "previewVideo": "assets/videos/preview_20.mp4",
+    "question": "რომელი სატრანსპორტო საშუალების მძღოლის მიმართ წარმოექმნება გზის დათმობის ვალდებულება მსუბუქი ავტომობილის მძღოლს ისრის მიმართულებით მოძრაობის შემთხვევაში?",
+    "answers": [
+      "1\nმხოლოდ სატვირთო ავტომობილის მძღოლის მიმართ",
+      "2\nმხოლოდ ტრამვაის მძღოლის მიმართ",
+      "3\nყველა სატრანსპორტო საშუალების მძღოლის მიმართ",
+      "4\nარც ერთი სატრანსპორტო საშუალების მძღოლის მიმართ"
+    ]
+  },
+  {
+    "id": 524,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_20.mp4",
+    "wrongVideo": "assets/videos/wrong_20.mp4",
+    "previewVideo": "assets/videos/preview_20.mp4",
+    "question": "რა თანამიმდევრობით უნდა გაიარონ გზაჯვარედინი სატრანსპორტო საშუალებებმა ისრის მიმართულებით მოძრაობის შემთხვევაში?",
+    "answers": [
+      "1\nჯერ უნდა გაიაროს ლურჯმა ავტომობილმა, შემდეგ - ტრამვაიმ, ბოლოს - მწვანე ავტომობილმა",
+      "2\nჯერ უნდა გაიაროს ტრამვაიმ, შემდეგ - ლურჯმა ავტომობილმა, ბოლოს - მწვანე ავტომობილმა",
+      "3\nჯერ უნდა გაიაროს ტრამვაიმ და მწვანე ავტომობილმა, ბოლოს - ლურჯმა ავტომობილმა"
+    ]
+  },
+  {
+    "id": 525,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_20.mp4",
+    "wrongVideo": "assets/videos/wrong_20.mp4",
+    "previewVideo": "assets/videos/preview_20.mp4",
+    "question": "რომელი ავტომობილის მძღოლს ენიჭება უპირატესობა ისრის მიმართულებით მოძრაობის შემთხვევაში, თუ საგზაო ნიშნები დაფარულია თოვლით?",
+    "answers": [
+      "1\nთეთრი ავტომობილის მძღოლს",
+      "2\nწითელი ავტომობილის მძღოლს"
+    ]
+  },
+  {
+    "id": 526,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_20.mp4",
+    "wrongVideo": "assets/videos/wrong_20.mp4",
+    "previewVideo": "assets/videos/preview_20.mp4",
+    "question": "რა თანამიმდევრობით უნდა გაიარონ გზაჯვარედინი სატრანსპორტო საშუალებებმა ისრის მიმართულებით მოძრაობის შემთხვევაში, თუ ტექნიკური სამსახურის ავტომობილს ჩართული აქვს ყვითელი მოელვარე სპეციალური ციმციმა სიგნალი?",
+    "answers": [
+      "1\nჯერ უნდა გაიაროს ავტობუსმა, შემდეგ - სატვირთო ავტომობილმა, ბოლოს - ტექნიკური სამსახურის ავტომობილმა",
+      "2\nჯერ უნდა გაიაროს სატვირთო ავტომობილმა, შემდეგ - ავტობუსმა, ბოლოს - ტექნიკური სამსახურის ავტომობილმა",
+      "3\nჯერ უნდა გაიაროს სატვირთო ავტომობილმა, შემდეგ - ტექნიკური სამსახურის ავტომობილმა, ბოლოს - ავტობუსმა"
+    ]
+  },
+  {
+    "id": 527,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_20.mp4",
+    "wrongVideo": "assets/videos/wrong_20.mp4",
+    "previewVideo": "assets/videos/preview_20.mp4",
+    "question": "რომელი ავტომობილის მძღოლს წარმოექმნება გზის დათმობის ვალდებულება ისრის მიმართულებით მოძრაობის შემთხვევაში?",
+    "answers": [
+      "1\nთეთრი ავტომობილის მძღოლს",
+      "2\nრუხი ავტომობილის მძღოლს"
+    ]
+  },
+  {
+    "id": 528,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_20.mp4",
+    "wrongVideo": "assets/videos/wrong_20.mp4",
+    "previewVideo": "assets/videos/preview_20.mp4",
+    "question": "რომელი სატრანსპორტო საშუალების მძღოლს ენიჭება უპირატესობა ისრის მიმართულებით მოძრაობის შემთხვევაში?",
+    "answers": [
+      "1\nმსუბუქი ავტომობილის მძღოლს",
+      "2\nტრამვაის მძღოლს"
+    ]
+  },
+  {
+    "id": 529,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_20.mp4",
+    "wrongVideo": "assets/videos/wrong_20.mp4",
+    "previewVideo": "assets/videos/preview_20.mp4",
+    "question": "ვალდებულია თუ არა მსუბუქი ავტომობილის მძღოლი გზა დაუთმოს ქვეითებს ისრის მიმართულებით მოძრაობის შემთხვევაში?",
+    "answers": [
+      "1\nვალდებულია",
+      "2\nარ არის ვალდებული"
+    ]
+  },
+  {
+    "id": 530,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_20.mp4",
+    "wrongVideo": "assets/videos/wrong_20.mp4",
+    "previewVideo": "assets/videos/preview_20.mp4",
+    "question": "აქვს თუ არა უფლება მძღოლს გავიდეს გზაჯვარედინზე, რომელზეც შექმნილია ისეთი ხერგილი, რომ იგი სავარაუდოდ, იძულებული გახდება გაჩერდეს გზაჯვარედინზე და ამით განივი მიმართულებით მოძრაობისთვის შექმნას დაბრკოლება?",
+    "answers": [
+      "1\nაქვს უფლება, თუ შუქნიშნის სიგნალი იძლევა მოძრაობის უფლებას",
+      "2\nარ აქვს უფლება"
+    ]
+  },
+  {
+    "id": 531,
+    "correctAnswer": 3,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_20.mp4",
+    "wrongVideo": "assets/videos/wrong_20.mp4",
+    "previewVideo": "assets/videos/preview_20.mp4",
+    "question": "„T“ კატეგორიის სატრანსპორტო საშუალების მართვის უფლების მქონე პირს, უფლება აქვს მართოს:",
+    "answers": [
+      "1\nმხოლოდ სასოფლო-სამეურნეო სამუშაოების შესასრულებლად განკუთვნილი თვლიანი ან მუხლუხა სასოფლო-სამეურნეო მანქანა",
+      "2\nსაგზაო-სამშენებლო სამუშაოების შესასრულებლად განკუთვნილი თვლიანი ან მუხლუხა სპეციალიზებული თვითმავალი მანქანა",
+      "3\nმხოლოდ სატყეო სამუშაოების შესასრულებლად განკუთვნილი თვლიანი ან მუხლუხა სასოფლო-სამეურნეო მანქანა",
+      "4\nსასოფლო-სამეურნეო, სამელიორაციო ან სატყეო სამუშაოების შესასრულებლად განკუთვნილი თვლიანი ან მუხლუხა სასოფლო-სამეურნეო მანქანა, აგრეთვე „T“ კატეგორიის მექანიკური სატრანსპორტო საშუალება, გადაბმული მისაბმელით"
+    ]
+  },
+  {
+    "id": 532,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_20.mp4",
+    "wrongVideo": "assets/videos/wrong_20.mp4",
+    "previewVideo": "assets/videos/preview_20.mp4",
+    "question": "„S“ კატეგორიის სატრანსპორტო საშუალების მართვის უფლების მქონე პირს, უფლება აქვს მართოს:",
+    "answers": [
+      "1\nსასოფლო-სამეურნეო სამუშაოების შესასრულებლად განკუთვნილი თვლიანი ან მუხლუხა სასოფლო-სამეურნეო მანქანა",
+      "2\nსაგზაო-სამშენებლო სამუშაოების შესასრულებლად განკუთვნილი თვლიანი ან მუხლუხა სპეციალიზებული თვითმავალი მანქანა, რომლის კონსტრუქციული სიჩქარე არის 6 კმ/სთ-ზე მეტი და 45 კმ/სთ-ზე ნაკლები, აგრეთვე „S“ კატეგორიის მექანიკური სატრანსპორტო საშუალება, გადაბმული მისაბმელთან",
+      "3\n„S“ კატეგორიის სატრანსპორტო საშუალებას საქართველოს კანონმდებლობა არ ითვალისწინებს"
+    ]
+  },
+  {
+    "id": 533,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_20.mp4",
+    "wrongVideo": "assets/videos/wrong_20.mp4",
+    "previewVideo": "assets/videos/preview_20.mp4",
+    "question": "„C1“ ქვეკატეგორიის სატრანსპორტო საშუალების მართვის უფლების მქონე პირს უფლება აქვს მართოს თვლიანი სასოფლო-სამეურნეო ტრაქტორი, რომლის ნებადართული მაქსიმალური მასა:",
+    "answers": [
+      "1\nაღემატება 8250 კგ-ს, მაგრამ არ აღემატება 12000 კგ-ს",
+      "2\nარ აღემატება 8250 კგ-ს"
+    ]
+  },
+  {
+    "id": 534,
+    "question": "„C1“ ქვეკატეგორიის სატრანსპორტო საშუალების მართვის უფლების მქონე პირს უფლება აქვს მართოს თვლიანი სასოფლო-სამეურნეო ტრაქტორი გადაბმული მისაბმელით, თუ ასეთი შემადგენლობის საერთო ნებადართული მაქსიმალური მასა:",
+    "answers": [
+      "1\nარ აღემატება 8250 კგ-ს",
+      "2\nაღემატება 8250 კგ-ს, მაგრამ არ აღემატება 12000 კგ-ს"
+    ],
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_20.mp4",
+    "wrongVideo": "assets/videos/wrong_20.mp4",
+    "previewVideo": "assets/videos/preview_20.mp4"
+  },
+  {
+    "id": 535,
+    "question": "„C“ კატეგორიის სატრანსპორტო საშუალების მართვის უფლების მქონე პირს, უფლება აქვს მართოს თვლიანი სასოფლო-სამეურნეო ტრაქტორი, რომლის ნებადართული მაქსიმალური მასა:",
+    "answers": [
+      "1\nაღემატება 12000 კგ-ს",
+      "2\nარ აღემატება 12000 კგ-ს"
+    ],
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_20.mp4",
+    "wrongVideo": "assets/videos/wrong_20.mp4",
+    "previewVideo": "assets/videos/preview_20.mp4"
+  },
+  {
+    "id": 536,
+    "question": "„C“ კატეგორიის სატრანსპორტო საშუალების მართვის უფლების მქონე პირს, უფლება აქვს მართოს თვლიანი სასოფლო-სამეურნეო ტრაქტორი გადაბმული მისაბმელით, თუ ასეთი შემადგენლობის საერთო ნებადართული მაქსიმალური მასა:",
+    "answers": [
+      "1\nარ აღემატება 12000 კგ-ს",
+      "2\nაღემატება 12000 კგ-ს"
+    ],
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_20.mp4",
+    "wrongVideo": "assets/videos/wrong_20.mp4",
+    "previewVideo": "assets/videos/preview_20.mp4"
+  },
+  {
+    "id": 537,
+    "question": "გზაჯვარედინზე, მოცემული საგზაო მონიშვნის არსებობისას, მსუბუქი ავტომობილის მძღოლს უფლება აქვს მოძრაობა გააგრძელოს:",
+    "answers": [
+      "1\nმხოლოდ A მიმართულებით",
+      "2\nმხოლოდ B მიმართულებით",
+      "3\nმხოლოდ C მიმართულებით",
+      "4\nროგორც A და B, ასევე C მიმართულებით"
+    ],
+    "correctAnswer": 3,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_21.mp4",
+    "wrongVideo": "assets/videos/wrong_21.mp4",
+    "previewVideo": "assets/videos/preview_21.mp4"
+  },
+  {
+    "id": 538,
+    "question": "რომელი სატრანსპორტო საშუალების მძღოლს წარმოექმნება გზის დათმობის ვალდებულება ისრის მიმართულებით მოძრაობის შემთხვევაში?",
+    "answers": [
+      "1\nმსუბუქი ავტომობილს მძღოლს",
+      "2\nტრაქტორის მძღოლს"
+    ],
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_21.mp4",
+    "wrongVideo": "assets/videos/wrong_21.mp4",
+    "previewVideo": "assets/videos/preview_21.mp4"
+  },
+  {
+    "id": 539,
+    "question": "რა სისტემებისგან შედგება ტრაქტორის ძრავა?",
+    "answers": [
+      "1\nკვების სისტემა, ანთების სისტემა, შეზეთვის სისტემა, გაგრილების სისტემა, გაშვების სისტემა",
+      "2\nშერევის სისტემა, შეკუმშვის სისტემა, გაფართოების სისტემა, ანთების სისტემა",
+      "3\nმიწოდების სისტემა, მართვის სისტემა, დამუხრუჭების სისტემა, აჩქარების სისტემა, გადაცემის სისტემა"
+    ],
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_21.mp4",
+    "wrongVideo": "assets/videos/wrong_21.mp4",
+    "previewVideo": "assets/videos/preview_21.mp4"
+  },
+  {
+    "id": 540,
+    "question": "რა დანიშნულება აქვს ტრანსმისიას?",
+    "answers": [
+      "1\nცვლის ტრაქტორის სიჩქარეს",
+      "2\nანაწილებს მომენტებს წინა და უკანა თვლებზე",
+      "3\nძრავის მაბრუნ მომენტს გადასცემს წამყვანთვლებს"
+    ],
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_21.mp4",
+    "wrongVideo": "assets/videos/wrong_21.mp4",
+    "previewVideo": "assets/videos/preview_21.mp4"
+  },
+  {
+    "id": 541,
+    "question": "როგორი სახის ტრანსმისიები არსებობს?",
+    "answers": [
+      "1\nსაფეხურიანი, უსაფეხურო, კომბინირებული",
+      "2\nმექანიკური, ჰიდრავლიკური, კომბინირებული",
+      "3\nერთსაფეხურიანი, ორსაფეხურიანი, მრავალსაფეხურიანი"
+    ],
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_21.mp4",
+    "wrongVideo": "assets/videos/wrong_21.mp4",
+    "previewVideo": "assets/videos/preview_21.mp4"
+  },
+  {
+    "id": 542,
+    "question": "გადაცემათა კოლოფები კლასიფიცირდება შემდეგნაირად:",
+    "answers": [
+      "1\nმექანიკური, ჰიდრომექანიკური და ელექტრომექანიკური",
+      "2\nელექტრული და ავტომატური",
+      "3\nნახევრადავტომატური, სინქრონული"
+    ],
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_21.mp4",
+    "wrongVideo": "assets/videos/wrong_21.mp4",
+    "previewVideo": "assets/videos/preview_21.mp4"
+  },
+  {
+    "id": 543,
+    "question": "ტექნიკურ ნაკეთობას ეწოდება მუშაუნარიანი თუ:",
+    "answers": [
+      "1\nმას შეუძლია შეასრულოს ის ფუნქცია, რომელიც ტექნიკური დოკუმენტაციის მოთხოვნებით არის დადგენილი",
+      "2\nის აკმაყოფილებს გარეგანი დიზაინის მოთხოვნებს",
+      "3\nის აკმაყოფილებს უსაფრთხოების ტექნიკის ყველა მოთხოვნას",
+      "4\nარ არის გასული მისი მორალური ცვეთის ვადა"
+    ],
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_21.mp4",
+    "wrongVideo": "assets/videos/wrong_21.mp4",
+    "previewVideo": "assets/videos/preview_21.mp4"
+  },
+  {
+    "id": 544,
+    "question": "მტყუნება ეწოდება:",
+    "answers": [
+      "1\nმანქანის გაუმართავ მდგომარეობაში ყოფნას",
+      "2\nმანქანის რესურსის ამოწურვას",
+      "3\nტექნიკური ნაკეთობის ენერგეტიკული მაჩვენებლების გაუარესებას",
+      "4\nმოვლენას, რომელიც იწვევს ტექნიკური ნაკეთობის მუშაუნარიანობის დაკარგვას"
+    ],
+    "correctAnswer": 3,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_21.mp4",
+    "wrongVideo": "assets/videos/wrong_21.mp4",
+    "previewVideo": "assets/videos/preview_21.mp4"
+  },
+  {
+    "id": 545,
+    "question": "საიმედობა წარმოადგენს მანქანის:",
+    "answers": [
+      "1\nთვისებას, შეინარჩუნოს მოცემული ფუნქციის შესრულების უნარი საექსპლოატაციო მაჩვენებლების შეცვლის გარეშე",
+      "2\nმდგრადი მოძრაობის შენარჩუნების უნარს",
+      "3\nმუშა ორგანოების უმტყუვნო მუშაობის უნარს დროის განსაზღვრულ შუალედში",
+      "4\nმოცემული პროცესის მაღალხარისხოვნად შესრულების უნარს"
+    ],
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_21.mp4",
+    "wrongVideo": "assets/videos/wrong_21.mp4",
+    "previewVideo": "assets/videos/preview_21.mp4"
+  },
+  {
+    "id": 546,
+    "question": "თუ არარეგულირებული ქვეითთა გადასასვლელის წინ გაჩერებული სატრანსპორტო საშუალების გამო, გადასასვლელზე ნაწილობრივ შეზღუდულია მხედველობა, გადასავლელთან მოახლოებულ მძღოლს მოძრაობის გაგრძელების უფლება აქვს:",
+    "answers": [
+      "1\nმხოლოდ მას შემდეგ, რაც დარწმუნდება, გადასასვლელზე შესული ან შემავალი ქვეითის არარსებობაში",
+      "2\nმხოლოდ ხმოვანი სიგნალის გამოყენების შემდეგ",
+      "3\nსიჩქარის შეუცვლელად, მიუხედავად გადასასვლელზე არსებული სიტუაციისა"
+    ],
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_21.mp4",
+    "wrongVideo": "assets/videos/wrong_21.mp4",
+    "previewVideo": "assets/videos/preview_21.mp4"
+  }
+]

@@ -1,0 +1,230 @@
+[
+  {
+    "id": 196,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემული დაფებიდან რომელი მიუთითებს მანძილს ნიშნიდან სახიფათო მონაკვეთის დასაწყისამდე, სათანადო შეზღუდვის შემოტანის ადგილამდე ან წინ, მოძრაობის მიმართულებით არსებულ გარკვეულ ობიექტამდე (ადგილამდე)?",
+    "answers": [
+      "1\nII",
+      "2\nI",
+      "3\nIV",
+      "4\nIII"
+    ]
+  },
+  {
+    "id": 197,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემული დამატებითი ინფორმაციის ნიშნებიდან (დაფებიდან) რომელი მიუთითებს დგომა-გაჩერების ამკრძალავი ნიშნების მოქმედების ზონას?",
+    "answers": [
+      "1\nმხოლოდ I და III",
+      "2\nმხოლოდ I",
+      "3\nმხოლოდ II",
+      "4\nმხოლოდ III"
+    ]
+  },
+  {
+    "id": 198,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემული დამატებითი ინფორმაციის ნიშნებიდან (დაფებიდან) რომელი მიუთითებს დგომა-გაჩერების ამკრძალავი ნიშნების მოქმედების ზონას მოედნის, შენობის, ფასადისა და ა. შ. ერთი მხარის გასწვრივ?",
+    "answers": [
+      "1\nმხოლოდ II და IV",
+      "2\nმხოლოდ I და III",
+      "3\nმხოლოდ II",
+      "4\nმხოლოდ IV"
+    ]
+  },
+  {
+    "id": 199,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემული დამატებითი ინფორმაციის ნიშნებიდან (დაფებიდან) რომელი მიუთითებს გზაჯვარედინის წინ დადგმული ნიშნის მოქმედების მიმართულებას ან მოძრაობის მიმართულებას უშუალოდ გზასთან მდებარე აღნიშნული ობიექტისაკენ?",
+    "answers": [
+      "1\nმხოლოდ I",
+      "2\nმხოლოდ I და III",
+      "3\nმხოლოდ II",
+      "4\nმხოლოდ II და III"
+    ]
+  },
+  {
+    "id": 200,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემული საგზაო ნიშნების კომბინაციიდან, რომლის მოქმედება ვრცელდება სამუშაო დღეებში?",
+    "answers": [
+      "1\nმხოლოდ III",
+      "2\nმხოლოდ I და IV",
+      "3\nმხოლოდ II და III",
+      "4\nმხოლოდ I"
+    ]
+  },
+  {
+    "id": 201,
+    "correctAnswer": 3,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემული საგზაო ნიშნების კომბინაციიდან, რომელი მიუთითებს კვირის დღეებზე, როცა მოქმედებს ნიშანი?",
+    "answers": [
+      "1\nმხოლოდ III და IV",
+      "2\nმხოლოდ I",
+      "3\nმხოლოდ II და III",
+      "4\nყველა"
+    ]
+  },
+  {
+    "id": 202,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემული საგზაო ნიშნების კომბინაციიდან, რომლის მოქმედება არ ვრცელდება სატრანსპორტო საშუალებებზე, რომლებზედაც დადგმულია საცნობი ნიშანი „შეზღუდული შესაძლებლობის მქონე პირი”?",
+    "answers": [
+      "1\nმხოლოდ I",
+      "2\nმხოლოდ II",
+      "3\nორივეს"
+    ]
+  },
+  {
+    "id": 203,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემული საგზაო ნიშნების კომბინაცია მძღოლს მიუთითებს, რომ გასწრება აკრძალულია:",
+    "answers": [
+      "1\nდღე-ღამის ბნელ დროს",
+      "2\nღრუბლიან ამინდში",
+      "3\nროცა გზის სავალი ნაწილის საფარი სველია"
+    ]
+  },
+  {
+    "id": 204,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემული საგზაო ნიშნები მძღოლს აწვდის ინფორმაციას, რომ ნიშნის დადგმის ადგილიდან წინ:",
+    "answers": [
+      "1\n400 მეტრის მანძილზე უსწორმასწორო გზაა, სადაც რეკომენდებულია მოძრაობა 30 კმ/სთ-ში სიჩქარით",
+      "2\n400 მეტრის შემდეგ იწყება უსწორმასწორო გზა, სადაც რეკომენდებულია მოძრაობა 30 კმ/სთ-ში სიჩქარით",
+      "3\n150-300 მეტრის შემდეგ იწყება 400 მეტრის სიგრძის უსწორმასწორო გზა, სადაც რეკომენდებულია მოძრაობა 30 კმ/სთ-ში სიჩქარით"
+    ]
+  },
+  {
+    "id": 205,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემული საგზაო ნიშანი მძღოლს მიუთითებს, რომ ნიშნების დადგმის ადგილიდან წინ:",
+    "answers": [
+      "1\n300 მეტრის მანძილზე მოძრაობა აკრძალულია 50 კმ/სთ მეტი სიჩქარით",
+      "2\n300 მეტრის შემდეგ მოძრაობა აკრძალულია 50 კმ/სთ მეტი სიჩქარით"
+    ]
+  },
+  {
+    "id": 206,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემული საგზაო ნიშნების კომბინაცია მძღოლს მიუთითებს, რომ ნიშნების დადგმის ადგილიდან წინ:",
+    "answers": [
+      "1\n300 მეტრის მანძილზე მოძრაობა ნებადართულია, არაუმეტეს 50 კმ/სთ სიჩქარით",
+      "2\n300 მეტრის შემდეგ მოძრაობა ნებადართულია, არაუმეტეს 50 კმ/სთ სიჩქარით"
+    ]
+  },
+  {
+    "id": 207,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "რომელ სიჩქარეზე ანვითარებს მუხლუხა ტრაქტორი ნომინალურ წევის ძალას?",
+    "answers": [
+      "1\n3 კმ/სთ სიჩქარისას",
+      "2\n5 კმ/სთ სიჩქარისას",
+      "3\n20 კმ/სთ სიჩქარისას"
+    ]
+  },
+  {
+    "id": 208,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მუშა ორგანოს გადაადგილების წესის მიხედვით საგზაო-სამშენებლო მანქანები იყოფა:",
+    "answers": [
+      "1\nაქტიურ და პასიურ ჯგუფებად",
+      "2\nმხოლოდ აქტიურ ჯგუფად",
+      "3\nმხოლოდ პასიურ ჯგუფად"
+    ]
+  },
+  {
+    "id": 209,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მიწასათხრელი მანქანები იყოფა:",
+    "answers": [
+      "1\nერთციცხვიან და ორციცხვიან ჯგუფებად",
+      "2\nორციცხვიან და სამციცხვიან ჯგუფებად",
+      "3\nერთციცხვიან და მრავალციცხვიან ჯგუფებად"
+    ]
+  },
+  {
+    "id": 210,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "ექსკავატორი ითვლება უნივერასალურად, თუ მასზე შეიძლება დავაყენოთ:",
+    "answers": [
+      "1\nარანაკლებ სამი მუშა ორგანო",
+      "2\nარანაკლებ ოთხი მუშა ორგანო",
+      "3\nარანაკლებ ხუთი მუშა ორგანო"
+    ]
+  },
+  {
+    "id": 211,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "რამდენია ერთციცხვიანი ექსკავატორების სიმძლავრე?",
+    "answers": [
+      "1\n10-დან 1200 კვტ-მდე",
+      "2\n5-დან 2200 კვტ-მდე",
+      "3\n15-დან 1500 კვტ-მდე"
+    ]
+  }
+]

@@ -1,0 +1,254 @@
+[
+  {
+    "id": 660,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "რომელი ავტომობილის მძღოლს წარმოექმნება გზის დათმობის ვალდებულება ისრის მიმართულებით მოძრაობის შემთხვევაში, თუ მსუბუქი ავტომობილი გამოდის ავტოგასამართი სადგურის ტერიტორიიდან?",
+    "answers": [
+      "1\nმსუბუქი ავტომობილის მძღოლს",
+      "2\nმოპედის მძღოლს"
+    ]
+  },
+  {
+    "id": 661,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "ველოსიპედისა და მოპედის ჯგუფების გზის სავალ ნაწილზე მოძრაობის შემთხვევაში, გასწრების გასაადვილებლად, ჯგუფებს შორის მანძილი უნდა შეადგენდეს:",
+    "answers": [
+      "1\n40-60 მეტრს",
+      "2\n60-80 მეტრს",
+      "3\n80-100 მეტრს"
+    ]
+  },
+  {
+    "id": 662,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "ველოსიპედის მოძრაობის ზოლის ან ველობილიკის ან გვერდულას არარსებობისას, გზის სავალ ნაწილზე გართულებული მოძრაობის შემთხვევაში, თუ არ შეფერხებს ქვეითთა მოძრაობას, ტროტუარზე გადაადგილების უფლება აქვს:",
+    "answers": [
+      "1\nველოსიპედის მძღოლს",
+      "2\nმოპედის მძღოლს",
+      "3\nამ ბილეთში ჩამოთვლილი ორივე სატრანსპორტო საშუალების მძღოლს",
+      "4\nამ ბილეთში ჩამოთვლილი არცერთი სატრანსპორტო საშუალების მძღოლს"
+    ]
+  },
+  {
+    "id": 663,
+    "correctAnswer": 3,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემული საგზაო ნიშნებიდან რომელი მიუთითებს გზას ან სავალ ნაწილს, რომელზედაც სატრანსპორტო საშუალებების მოძრაობა მთელ სიგანეზე ხორციელდება ერთი მიმართულებით?",
+    "answers": [
+      "1\nI",
+      "2\nII",
+      "3\nIII",
+      "4\nIV"
+    ]
+  },
+  {
+    "id": 664,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემული საგზაო ნიშანი მიუთითებს:",
+    "answers": [
+      "1\nორმხრივმოძრაობიანი გზის დასასრულს",
+      "2\nრევერსული მოძრაობიანი გზის მონაკვეთის დასასრულს",
+      "3\nგაქანების ზოლის დასასრულს"
+    ]
+  },
+  {
+    "id": 665,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "საცნობი ნიშნი „ავტომატარებელი” სავალდებულოა დამაგრდეს:",
+    "answers": [
+      "1\nმხოლოდ ავტომატარებელზე",
+      "2\nმხოლოდ შესახსრებულ ავტობუსზე",
+      "3\nროგორც ავტომატარებელზე, ასევე შესახსრებულ ავტობუსზე"
+    ]
+  },
+  {
+    "id": 666,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "რომელი საცნობი ნიშანი მაგრდება ავტომატარებელზე და შესახსრებულ ავტობუსზე?",
+    "answers": [
+      "1\nმხოლოდ I",
+      "2\nმხოლოდ II",
+      "3\nმხოლოდ III",
+      "4\nსამივე"
+    ]
+  },
+  {
+    "id": 667,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "რომელი საცნობი ნიშანი მაგრდება მსხვილგაბარიტიანი ტვირთის გადამტანი სატრანსპორტო საშუალების წინა და უკანა მხარეს?",
+    "answers": [
+      "1\nმხოლოდ III",
+      "2\nმხოლოდ II",
+      "3\nმხოლოდ I"
+    ]
+  },
+  {
+    "id": 668,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "რომელი საცნობი ნიშანი მაგრდება იმ სატრანსპორტო საშუალების უკანა მხარეს, რომლის სიგრძე ტვირთით ან უმისოდ აღემატება 20 მეტრს, და ავტომატარებელზე ორი ან მეტი მისაბმელით?",
+    "answers": [
+      "1\nმხოლოდ III",
+      "2\nმხოლოდ II",
+      "3\nმხოლოდ I"
+    ]
+  },
+  {
+    "id": 669,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "რომელ სატრანსპორტო საშუალების მძღოლს წარმოექმნება გზის დათმობის ვალდებულება ისრის მიმართულებით მოძრაობის შემთხვევაში?",
+    "answers": [
+      "1\nველოსიპედის მძღოლს",
+      "2\nმსუბუქი ავტომობილის მძღოლს"
+    ]
+  },
+  {
+    "id": 670,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "თუ სატრანსპორტო საშუალების წინ გზის სავალ ნაწილზე გადადის საქონლის ჯოგი, მძღოლმა უნდა გაითვალისწინოს, რომ:",
+    "answers": [
+      "1\nჯოგის გადასვლის შემდეგ გზის სავალ ნაწილზე აღარ შეიძლება გამოვიდეს ცალკეული საქონელი",
+      "2\nჯოგის გადასვლის შემდეგ გზის სავალ ნაწილზე კიდე შეიძლება გამოვიდეს ჯოგს ჩამორჩენილი ცალკეული საქონელი"
+    ]
+  },
+  {
+    "id": 671,
+    "correctAnswer": 3,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "თუ სატრანსპორტო საშუალების წინ ქვეითთა გადასასვლელზე გადაადგილდება მოხუცი ქვეითი, მძღოლმა უნდა გაითვალისწინოს:",
+    "answers": [
+      "1\nმხოლოდ გარემოება, რომ ის სავალ ნაწილზე მოძრაობს უფრო ნელა ვიდრე სხვა საგზაო მოძრაობის მონაწილეები",
+      "2\nმხოლოდ გარემოება, რომ ის შეიძლება ნახევარი გზიდან მობრუნდეს უკან",
+      "3\nმხოლოდ გარემოება, რომ მან შეიძლება დაკარგოს წონასწორობა და წაიქცეს",
+      "4\nრომ შეიძლება წარმოიშვას ამ ბილეთში ჩამოთვლილი ნებისმიერი გარემოება"
+    ]
+  },
+  {
+    "id": 672,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "რისი საშუალებით ხდება ბულდოზერის ფრთის აწევა და დაშვება?",
+    "answers": [
+      "1\nდომკრატის",
+      "2\nჰიდრავლიკური ცილინდრებით",
+      "3\nმექანიკური საშუალებით"
+    ]
+  },
+  {
+    "id": 673,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "რა სისქის ყრილის გასამკვრივებლად გამოიყენება სატკეპნი მანქანები?",
+    "answers": [
+      "1\n0,4 – 2,0 მეტრი სისქის",
+      "2\n0,8 – 1,5 მეტრი სისქის",
+      "3\n0,1 – 1,0 მეტრი სისქის"
+    ]
+  },
+  {
+    "id": 674,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "არხის ფერდისა და ფსკერის მოსწორება წარმოებს:",
+    "answers": [
+      "1\nპასიური დანით",
+      "2\nციცხვებიანი დანით",
+      "3\nციცხვებიანი როტორით"
+    ]
+  },
+  {
+    "id": 675,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "ნაკერების დაჭრა მოპირკეთებულ ბეტონში წარმოებს:",
+    "answers": [
+      "1\nარხის გრძივი მიმართულებით",
+      "2\nარხის გრძივი და განივი მიმართულებით",
+      "3\nარხის ფერდის მიმართულებით"
+    ]
+  },
+  {
+    "id": 676,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "ღია არხის პერიმეტრზე მოპირკეთებულ ბეტონში ნაკერების დაჭრა წარმოებს:",
+    "answers": [
+      "1\nგრძივი მიმართულებით - გილიოტინისებური დანით; განივი მიმართულებით - ანკერული დანით",
+      "2\nგრძივი მიმართულებით - ანკერული დანით. განივი მიმართულებით - V-ს ფორმის დანი"
+    ]
+  },
+  {
+    "id": 677,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "გუთნისებური ფრთიანი არხსათხრელი მანქანის სამუშაო ორგანოებია:",
+    "answers": [
+      "1\nბრტყელი სახნისი, ფრთა, ფრთისებრი ზედაპირი, ფრთოვანები",
+      "2\nსახნისი, ველის ფიცარი, წინამხვნელი, საკვეთელი",
+      "3\nოვალური ფრთა, ფრთისებრი ზედაპირი, გრუნტის მჭრელი, საკვეთელი"
+    ]
+  }
+]

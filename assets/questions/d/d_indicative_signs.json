@@ -1,0 +1,206 @@
+[
+  {
+    "id": 1003,
+    "correctAnswer": 3,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მსუბუქი ავტომობილის მძღოლს უფლება აქვს მოძრაობა გააგრძელოს:",
+    "answers": [
+      "1\nმხოლოდ A, C და D მიმართულებით",
+      "2\nA, B, C და D მიმართულებით",
+      "3\nმხოლოდ B და C მიმართულებით",
+      "4\nმხოლოდ D მიმართულებით"
+    ]
+  },
+  {
+    "id": 1004,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მსუბუქი ავტომობილის მძღოლს უფლება აქვს იმოძრაოს:",
+    "answers": [
+      "1\nმხოლოდ A მიმართულებით",
+      "2\nმხოლოდ B მიმართულებით",
+      "3\nროგორც A, ასევე B მიმართულებით"
+    ]
+  },
+  {
+    "id": 1005,
+    "correctAnswer": 3,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემულ სიტუაციაში, მოსახვევს გაცდენილი ავტომობილის მძღოლს, მარჯვენა მოსახვევში შესვლის მიზნით:",
+    "answers": [
+      "1\nუფლება აქვს მოაბრუნოს ავტომობილი A მიმართულებით",
+      "2\nუფლება აქვს იმოძრაოს უკუსვლით B მიმართულებით",
+      "3\nუფლება აქვს იმოძრაოს როგორც A, ასევე B მიმართულებით",
+      "4\nმოძრაობა ეკრძალება როგორც A, ასევე B მიმართულებით"
+    ]
+  },
+  {
+    "id": 1006,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემული საგზაო ნიშნებიდან რომელი ადგენს გზაზე მოძრაობის მინიმალური სიჩქარის ზღვარს?",
+    "answers": [
+      "1\nIV",
+      "2\nIII",
+      "3\nII",
+      "4\nI"
+    ]
+  },
+  {
+    "id": 1007,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემული საგზაო ნიშნებიდან რომელი აღნიშნავს გზის მონაკვეთს, რომელზეც მოძრავ სატრანსპორტო საშუალებას, არანაკლებ ორ წამყვან საბურავზე, სავალდებულოა დამაგრებული ჰქონდეს მოცურების საწინააღმდეგო ჯაჭვები?",
+    "answers": [
+      "1\nIII",
+      "2\nIV",
+      "3\nI",
+      "4\nII"
+    ]
+  },
+  {
+    "id": 1008,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "რომელი ავტომობილის მძღოლი დაარღვევს საგზაო მოძრაობის წესებს ისრის მიმართულებით მოძრაობის შემთხვევაში, თუ ისინი შედიან ეზოს ტერიტორიაზე?",
+    "answers": [
+      "1\nთეთრი ავტომობილის მძღოლი",
+      "2\nყვითელი ავტომობილის მძღოლი",
+      "3\nორივე ავტომობილის მძღოლი",
+      "4\nარცერთი ავტომობილის მძღოლი"
+    ]
+  },
+  {
+    "id": 1009,
+    "correctAnswer": 3,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მსუბუქი ავტომობილის მძღოლს მოძრაობის გაგრძელების უფლება აქვს:",
+    "answers": [
+      "1\nმხოლოდ პირდაპირ და მარჯვნივ",
+      "2\nმხოლოდ პირდაპირ და მარცხნივ",
+      "3\nმხოლოდ პირდაპირ",
+      "4\nყველა მიმართულებით"
+    ]
+  },
+  {
+    "id": 1010,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მსუბუქი ავტომობილის მძღოლს მოძრაობის გააგრძელების უფლება აქვს:",
+    "answers": [
+      "1\nმხოლოდ პირდაპირ",
+      "2\nმხოლოდ მარჯვნივ",
+      "3\nპირდაპირ და მარჯვნივ"
+    ]
+  },
+  {
+    "id": 1011,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მსუბუქი ავტომობილის მძღოლს მოძრაობის გაგრძელების უფლება აქვს:",
+    "answers": [
+      "1\nმხოლოდ მარცხნივ",
+      "2\nმხოლოდ უკუმიმართულებით (მობრუნება)",
+      "3\nმარცხნივ და უკუმიმართულებით (მობრუნება)"
+    ]
+  },
+  {
+    "id": 1012,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემულ სიტუაციაში, ეკრძალება თუ არა მსუბუქი ავტომობილის მძღოლს ისრის მიმართულებით მობრუნება?",
+    "answers": [
+      "1\nეკრძალება",
+      "2\nარ ეკრძალება"
+    ]
+  },
+  {
+    "id": 1013,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემულ სიტუაციაში, მსუბუქი ავტომობილის მძღოლს მოძრაობის გააგრძელების უფლება აქვს:",
+    "answers": [
+      "1\nმხოლოდ A მიმართულებით",
+      "2\nმხოლოდ B მიმართულებით",
+      "3\nროგორც A, ასევე B მიმართულებით"
+    ]
+  },
+  {
+    "id": 1014,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემული საგზაო ნიშნებიდან რომელი აღნიშნავს მობრუნების ადგილს?",
+    "answers": [
+      "1\nმხოლოდ II",
+      "2\nმხოლოდ I",
+      "3\nმხოლოდ IV",
+      "4\nმხოლოდ III"
+    ]
+  },
+  {
+    "id": 1015,
+    "correctAnswer": 3,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემული საგზაო ნიშნებიდან რომელის მოქმედება ვრცელდება მხოლოდ სავალი ნაწილების იმ გადაკვეთაზე, რომლის წინაც ისინია დადგმული?",
+    "answers": [
+      "1\nმხოლოდ I და II",
+      "2\nმხოლოდ I და III",
+      "3\nმხოლოდ II და IV",
+      "4\nყველასი"
+    ]
+  },
+  {
+    "id": 1016,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემული საგზაო ნიშნებიდან რომლის მოქმედება არ ვრცელდება ნიშნის დადგმის ადგილიდან მის შემდეგ მდებარე უახლოეს გზაჯვარედინამდე?",
+    "answers": [
+      "1\nმხოლოდ I და IV",
+      "2\nმხოლოდ IV",
+      "3\nმხოლოდ II და III",
+      "4\nმხოლოდ III"
+    ]
+  }
+]

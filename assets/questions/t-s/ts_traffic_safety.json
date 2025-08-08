@@ -1,0 +1,1084 @@
+[
+  {
+    "id": 769,
+    "correctAnswer": 3,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "თუ შუქნიშანის წინ დგანან ბავშვები, შუქნიშანთან მიახლოებული სატრანსპორტო საშუალების მძღოლმა უნდა გაითვალისწინოს:",
+    "answers": [
+      "მხოლოდ ის გარემოება რომ ბავშვები შეიძლება სავალ ნაწილზე გადმოვიდნენ შუქნიშნის მწვანე მაშუქი სიგნალის ყვითელი სიგნალით შეცვლისთანავე",
+      "მხოლოდ ის გარემოება რომ ჯგუფიდან ხელის კვრით რომელიმე ბავშვს შეიძლება აიძულონ სავალ ნაწილზე გადმოსვლა",
+      "მხოლოდ ის გარემოება რომ შეიძლება ბავშვები სავალ ნაწილზე გადმოვიდნენ მათთვის მოძრაობის ნებადამრთველი შუქნიშნის სიგნალის ჩართვამდე",
+      "ამ ბილეთში ჩამოთვლილი ყველა გარემოება"
+    ]
+  },
+  {
+    "id": 770,
+    "correctAnswer": 3,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "საქართველოს შინაგან საქმეთა სამინისტროს უფლებამოსილი პირების გარდა, კანონმდებლობით მინიჭებული უფლებამოსილების ფარგლებში საგზაო მოძრაობის რეგულირება აგრეთვე შეიძლება განახორციელონ:",
+    "answers": [
+      "მხოლოდ მაშველებმა და პირებმა, რომლებიც მონაწილეობენ სამაშველო სამუშაოებში",
+      "მხოლოდ რკინიგზის თანამშრომლებმა",
+      "მხოლოდ საბორნე გადაზიდვის ორგანიზატორებმა",
+      "ამ ბილეთში ჩამოთვლილმა ნებისმიერმა პირმა"
+    ]
+  },
+  {
+    "id": 771,
+    "correctAnswer": 3,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "გარდა კანონით განსაზღვრული მაქსიმალური სიჩქარის შეზღუდვისა, მძღოლს ეკრძალება გადააჭარბოს:",
+    "answers": [
+      "მხოლოდ სატრანსპორტო საშუალებისათვის დადგენილი მაქსიმალური კონსტრუქციული სიჩქარეს",
+      "მხოლოდ სატრანსპორტო საშუალებაზე დამაგრებულ საცნობ ნიშანზე „სიჩქარის შეზღუდვა” მითითებული სიჩქარეს",
+      "მხოლოდ საგზაო ნიშნით დადგენილი მაქსიმალური სიჩქარეს",
+      "როგორც სატრანსპორტო საშუალებისათვის დადგენილი მაქსიმალური კონსტრუქციულ, ასევე სატრანსპორტო საშუალებაზე დამაგრებულ საცნობ ნიშანზე „სიჩქარის შეზღუდვა” მითითებულ და საგზაო ნიშნით დადგენილ მაქსიმალურ სიჩქარეს"
+    ]
+  },
+  {
+    "id": 772,
+    "correctAnswer": 3,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "ქვემოთ ჩამოთვლილი რომელი ფაქტორი არ ახდენს ზეგავლენას მძღოლის მოქმედებაზე?",
+    "answers": [
+      "უძილობა",
+      "დაღლილობა",
+      "ალკოჰოლის მიღება",
+      "ამ ბილეთში ჩამოთვლილი არც ერთი პასუხი არ არის სწორი"
+    ]
+  },
+  {
+    "id": 773,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "დასაშვებია თუ არა სატრანსპორტო საშუალების მართვისას მძღოლის მიერ მობილური კომუნიკაციის საშუალებით სარგებლობა?",
+    "answers": [
+      "დაუშვებელია ნებისმიერ შემთხვევაში",
+      "დასაშვებია, თუ იგი სარგებლობს მობილური კომუნიკაციის ხმამაღალი საუბრის ფუნქციით და ორივე ხელი თავისუფალი აქვს სატრანსპორტო საშუალების სამართავად",
+      "დასაშვებია, თუ ერთი ხელი თავისუფალი აქვს სატრანსპორტო საშუალების სამართავად"
+    ]
+  },
+  {
+    "id": 774,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "ქვემოდ ჩამოთვლილი რომელი უწესრიგობის დროს ეკრძალება მძღოლს სატრანსპორტო საშუალებით მოძრაობა?",
+    "answers": [
+      "მხოლოდ ხმოვანი სიგნალის გაუმართაობის დროს",
+      "მხოლოდ საჭის მექანიზმის გაუმართაობის დროს",
+      "მხოლოდ ნისლსაწინააღმდეგო ფარნების გაუმართაობის დროს",
+      "ამ ბილეთში ჩამოთვლილ ნებისმიერ შემთხვევაში"
+    ]
+  },
+  {
+    "id": 775,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "ნისლის, წვიმის, ან თოვის დროს, მექანიკური სატრანსპორტო საშუალების მართვა აკრძალულია:",
+    "answers": [
+      "ნისლსაწინააღმდეგო ფარების არ არსებობის შემთხვევაში",
+      "საავარიო გაჩერების ნიშნის არ არსებობის შემთხვევაში",
+      "მძღოლის მხარეს არსებული მინასაწმენდის უმოქმედობის შემთხვევაში",
+      "ამ ბილეთში ჩამოთვლილ ნებისმიერ შემთხვევაში"
+    ]
+  },
+  {
+    "id": 776,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მძღოლმა უნდა გააცნობიეროს, რომ ყველაზე უფრო ხშირად გზა მოყინულია:",
+    "answers": [
+      "გვირაბებში, რომლებშიც არ არის ხელოვნური განათება",
+      "ხიდზე, გზაგამტარსა და ესტაკადაზე",
+      "დასახლებული პუნქტების ცენტრალურ ქუჩებზე"
+    ]
+  },
+  {
+    "id": 777,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "გზის ნათელი მონაკვეთიდან ბნელ მონაკვეთზე გასვლისას, მძღოლმა უნდა გაითვალისწინოს, რომ:",
+    "answers": [
+      "სავალდებულოა ნისლსაწინააღმდეგო ფარების ჩართვა",
+      "იზრდება სატრანსპორტო საშუალების დამუხრუჭებისათვის საჭირო დრო და მანძილი",
+      "თვალი ნელა ეჩვევა სიბნელეს, რის გამოც მძღოლის წინ არსებული შესაძლო დაბრკოლებები რთული შესამჩნევია"
+    ]
+  },
+  {
+    "id": 778,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "ღამე ცუდად ან არათანაბრად განათებულ გზის მონაკვეთებზე მოძრაობისას, მძღოლმა უნდა გაითვალისწინოს, რომ:",
+    "answers": [
+      "გართულებულია საგზაო მოძრაობის მონაწილეთა მიერ ერთმანეთის შემჩნევა",
+      "იზრდება სატრანსპორტო საშუალების დამუხრუჭებისათვის საჭირო დრო და მანძილი",
+      "სავალდებულოა საავარიო შუქსიგნალიზაციის ჩართვა"
+    ]
+  },
+  {
+    "id": 779,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოყინულ გზის მონაკვეთზე მძღოლმა:",
+    "answers": [
+      "შეძლებისდაგვარად თავი უნდა აარიდოს დამუხრუჭებას, სიჩქარის ცვლილებასა და მიმართულების მკვეთრ შეცვლას",
+      "დამუხრუჭებისათვის დამატებით უნდა გამოიყენოს ხელის მუხრუჭი",
+      "მიმართულების შეცვლა უნდა განახორციელოს საჭის მკვეთრი მობრუნებითა და სიჩქარის მომატებით"
+    ]
+  },
+  {
+    "id": 780,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "წვიმისა და თოვის დროს მოძრაობისას, მძღოლმა უნდა:",
+    "answers": [
+      "შეამციროს დისტანცია მასსა და მის წინ მიმავალ სატრანსპორტო საშუალებას შორის",
+      "შეამციროს სიჩქარე და გაზარდოს დისტანცია მასსა და მის წინ მიმავალ სატრანსპორტო საშუალებას შორის",
+      "ჩართოს საავარიო შუქსიგნალიზაცია"
+    ]
+  },
+  {
+    "id": 781,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "წვიმისა და თოვის დროს მოძრაობისას მძღოლმა უნდა გაითვალისწინოს, რომ:",
+    "answers": [
+      "აკრძალულია უკუსვლით მოძრაობა",
+      "მიზანშეწონილია მასსა და მის წინ მიმავალ სატრან스პორტო საშუალებას შორის დისტანციის შემცირება",
+      "იზრდება სატრანსპორტო საშუალების დამუხრუჭებისათვის საჭირო დრო და მანძილი, ამასთან, ნალექი აუარესებს ხილვადობას"
+    ]
+  },
+  {
+    "id": 782,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "წვიმის დაწყებისას გზის ზედაპირი ტალახიანდება და ქმნის მოცურების საშიშროებას, რის გამოც მძღოლმა უნდა:",
+    "answers": [
+      "შეამციროს სიჩქარე მდორე დამუხრუჭებით",
+      "შეამციროს სიჩქარე მკვეთრი დამუხრუჭებით",
+      "გაზარდოს სიჩქარე"
+    ]
+  },
+  {
+    "id": 783,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მძღოლმა უნდა გაითვალისწინოს, რომ:",
+    "answers": [
+      "მოსახვევში მუხრუჭის მკვეთრად გამოყენებამ ან/და მაღალი სიჩქარით შესვლამ შესაძლოა გამოიწვიოს სატრანსპორტო საშუალების მართვაზე კონტროლის დაკარგვა",
+      "მოსახვევში შესასვლელად სიჩქარის შემცირება უნდა განხორციელდეს მკვეთრი დამუხრუჭებით",
+      "მიზანშეწონილია მოხვევა განხორციელდეს მაღალი სიჩქარით"
+    ]
+  },
+  {
+    "id": 784,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "გზაზე წყლის გუბეების არსებობისას მძღოლმა უნდა გაითვალისწინოს, რომ:",
+    "answers": [
+      "მიზანშეწონილია გუბეში გავლისას სიჩქარის გაზრდა",
+      "გართულებულია სატრანსპორტო საშუალების მართვა და დამუხრუჭება, ამასთან, დიდია სატრანსპორტო საშუალების მოცურების ალბათობა",
+      "მიზანშეწონილია მასსა და მის წინ მიმავალ სატრანსპორტო საშუალებას შორის დისტანციის შემცირება"
+    ]
+  },
+  {
+    "id": 785,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "თუ სატრანსპორტო საშუალების მართვისას მძღოლი გრძნობს დაღლილობას, მიზანშეწონილია:",
+    "answers": [
+      "სატრანსპორტო საშუალების სიჩქარის მომატება",
+      "კოფეინის შემცველი სითხის მიღება",
+      "სატრანსპორტო საშუალების გაჩერება და დასვენება, შესაძლებლობის შემთხვევაში საჭესთან სხვა მძღოლის დასმა"
+    ]
+  },
+  {
+    "id": 786,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "თუ მძღოლი გზაზე ამჩნევს სხვა სატრანსპორტო საშუალების მძღოლს, რომელიც აგრესიულად არის განწყობილი და გამომწვევად იქცევა, მან:",
+    "answers": [
+      "უნდა შეინარჩუნოს სიმშვიდე და აკონტროლოს თავისი სატრანსპორტო საშუალება",
+      "ორი გაბმული და ერთი მოკლე ხმოვანი სიგნალის მიცემით უნდა მოუწოდოს აგრესიულ მძღოლს სიმშვიდისაკენ",
+      "თვითონაც უნდა გამოიჩინოს აგრესიულობა"
+    ]
+  },
+  {
+    "id": 787,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "დიდი ხნის განმავლობაში მაღალი სიჩქარით სატრანსპორტო საშუალებით მოძრაობა იწვევს:",
+    "answers": [
+      "სატრანსპორტო საშუალების სამუხრუჭო სისტემის მწყობრიდან გამოსვლას",
+      "მძღოლის კონცენტრაციისა და მაღალი სიჩქარის შეგრძნების დაქვეითებას",
+      "ამ ბილეთში ჩამოთვლილ ყველა გარემოებას"
+    ]
+  },
+  {
+    "id": 788,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მძღოლმა სატრანსპორტო საშუალება უნდა მართოს:",
+    "answers": [
+      "აგრესიულად, როგორც უპირატესმა გზაზე",
+      "მშვიდად, თუმცა უნდა ცდილობდეს თავის გამოჩენას, როგორც უპირატესი გზაზე",
+      "მშვიდად და არ უნდა იჩენდეს აგრესიულობას, არ უნდა ცდილობდეს თავის გამოჩენას, როგორც უპირატესი გზაზე"
+    ]
+  },
+  {
+    "id": 789,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "დასაშვებია თუ არა სატრანსპორტო საშუალების მართვა ნარკოტიკული სიმთვრალის მდგომარეობაში მყოფი იმ პირის მიერ, რომელსაც ნარკოტიკული საშუალება მოხმარებული აქვს სამედიცინი მიზნებისათვის, ექიმის დანიშნულებით?",
+    "answers": [
+      "დასაშვებია",
+      "არ არის დასაშვები"
+    ]
+  },
+  {
+    "id": 790,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "დასაშვებია თუ არა სატრანსპორტო საშუალების მართვა ფსიქოტროპული სიმთვრალის მდგომარეობაში მყოფი იმ პირის მიერ, რომელსაც ფსიქოტროპული საშუალება მოხმარებული აქვს სამედიცინი მიზნებისათვის, ექიმის დანიშნულებით?",
+    "answers": [
+      "დასაშვებია",
+      "არ არის დასაშვები"
+    ]
+  },
+  {
+    "id": 791,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "აკრძალულია თუ არა სატრანსპორტო საშუალების სამართავად გადაცემა ნარკოტიკული სიმთვრალის მდგომარეობაში მყოფი იმ პირისათვის, რომელსაც ნარკოტიკული საშუალება მოხმარებული აქვს სამედიცინი მიზნებისათვის, ექიმის დანიშნულებით?",
+    "answers": [
+      "აკრძალულია",
+      "არ არის აკრძალული"
+    ]
+  },
+  {
+    "id": 792,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "აკრძალულია თუ არა სატრანსპორტო საშუალების სამართავად გადაცემა ფსიქოტროპული სიმთვრალის მდგომარეობაში მყოფი იმ პირისათვის, რომელსაც ფსიქოტროპული საშუალება მოხმარებული აქვს სამედიცინი მიზნებისათვის, ექიმის დანიშნულებით?",
+    "answers": [
+      "აკრძალულია",
+      "არ არის აკრძალული"
+    ]
+  },
+  {
+    "id": 793,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "აკრძალულია თუ არა სატრანსპორტო საშუალების მართვა იმ პირის მიერ, რომელიც განიცდის ისეთი სამკურნალო პრეპარატების ზემოქმედებას, რომლებიც აქვეითებენ რეაქციასა და ყურადღებას?",
+    "answers": [
+      "არ არის აკრძალული, თუ აღნიშნული პრეპარატების მიღება განხორციელდა სამედიცინო მიზნებისათვის, ექიმის დანიშნულებით",
+      "არ არის აკრძალული, თუ პირი გადაადგილდება სიფრთხილის აუცილებელი ზომების გამოყენებით",
+      "აკრძალულია"
+    ]
+  },
+  {
+    "id": 794,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "აკრძალულია თუ არა სატრანსპორტო საშუალების სამართავად გადაცემა იმ პირისათვის, რომელიც განიცდის ისეთი სამკურნალო პრეპარატების ზემოქმედებას, რომლებიც აქვეითებენ რეაქციასა და ყურადღებას?",
+    "answers": [
+      "აკრძალულია",
+      "არ არის აკრძალული, თუ აღნიშნული პრეპარატების მიღება განხორციელდა სამედიცინო მიზნებისათვის ექიმის დანიშნულებით",
+      "არ არის აკრძალული, თუ პირი გადაადგილდება სიფრთხილის აუცილებელი ზომების გამოყენებით"
+    ]
+  },
+  {
+    "id": 795,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "აკრძალულია თუ არა სატრანსპორტო საშუალების მართვა იმ პირის მიერ, რომელიც იმყოფება ნარკოტიკული სიმთვრალის მდგომარეობაში?",
+    "answers": [
+      "არ არის აკრძალული, თუ მას ნარკოტიკული საშუალება მოხმარებული აქვს სამედიცინი მიზნებისათვის, ექიმის დანიშნულებით",
+      "არ არის აკრძალული, თუ იგი აღნიშნულის თაობაზე წინასწარ გააფრთხილებს პოლიციის შესაბამის სამსახურს",
+      "აკრძალულია"
+    ]
+  },
+  {
+    "id": 796,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "აკრძალულია თუ არა სატრანსპორტო საშუალების მართვა იმ პირის მიერ, რომელიც იმყოფება ფსიქოტროპული სიმთვრალის მდგომარეობაში?",
+    "answers": [
+      "აკრძალულია",
+      "არ არის აკრძალული, თუ აღნიშნული პრეპარატის მიღება განხორციელდა სამედიცინი მიზნებისათვის, ექიმის დანიშნულებით",
+      "არ არის აკრძალული, თუ იგი გადაადგილდება სიფრთხილის აუცილებელი ზომების გამოყენებით"
+    ]
+  },
+  {
+    "id": 797,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "აკრძალულია თუ არა სატრანსპორტო საშუალების მართვა იმ პირის მიერ, რომელიც იმყოფება ალკოჰოლური სიმთვრალის მდგომარეობაში?",
+    "answers": [
+      "აკრძალულია",
+      "არ არის აკრძალული, თუ მძღოლი საქართველოს ტერიტორიაზე იმყოფება საერთაშორისო მოძრაობაში",
+      "არ არის აკრძალული, თუ იგი გადაადგილდება სიფრთხილის აუცილებელი ზომების გამოყენებით"
+    ]
+  },
+  {
+    "id": 798,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "სველი ზედაპირის მქონე გზაზე მოძრაობისას მძღოლმა უნდა გაითვალისწინოს, რომ:",
+    "answers": [
+      "მოსახვევში მუხრუჭის მკვეთრად გამოყენებამ ან/და მაღალი სიჩქარით შესვლამ შესაძლოა გამოიწვიოს სატრანსპორტო საშუალების მართვაზე კონტროლის დაკარგვა",
+      "მუხრუჭის მკვეთრი გამოყენება ამცირებს სატრანსპორტო საშუალების მოცურების ალბათობას",
+      "მოსახვევში შესვლისას სატრანსპორტო საშუალების მოცურების საშიშროების თავიდან ასაცილებლად მიზანშეწონილია სიჩქარის შემცირება მუხრუჭის მკვეთრი გამოყენებით"
+    ]
+  },
+  {
+    "id": 799,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "სატრანსპორო საშულების მოცურების საშიშროება უფრო მაღალია:",
+    "answers": [
+      "წვიმის დასაწყისში",
+      "წვიმის პერიოდში, მისი დაწყებიდან 30 წუთის შემდეგ",
+      "წვიმის დასრულების შემდეგ"
+    ]
+  },
+  {
+    "id": 800,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "წვიმიან ამინდში მოძრაობისას მძღოლმა განსაკუთრებული ყურადღება უნდა გამოიჩინოს:",
+    "answers": [
+      "ტვირთის გადამზიდავი ავტომობილების მიმართ, რადგან მაღალია ავტომობილის ძარიდან ტვირთის გზაზე გადმოვარდნის საშიშროება",
+      "ქვეითთა მიმართ, რადგან ქვეითთა შესაძლო სიჩქარის გამო შეიძლება შეიქმნას საფრთხის შემცველი სიტუაცია",
+      "ნელმავალი სატრანსპორტო საშუალების მიმართ"
+    ]
+  },
+  {
+    "id": 801,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "თუ მძღოლი სხვა გზაზე შესასვლელად მოხვევას ასრულებს, რომლის შესასვლელთანაც მდებარეობს ქვეითთა გადასასვლელი, მან ეს უნდა შეასრულოს:",
+    "answers": [
+      "მხოლოდ დაბალი სიჩქარით, ხოლო საჭიროების შემთხვევაში გაჩერდეს და გაატაროს გადასასვლელზე შესული ან შემავალი ქვეითები",
+      "ნებიმიერი სიჩქარით, ვინაიდან გადასასვლელზე შესული ან შემავალი ქვეითების მიმართ სარგებლობს პრიორიტეტით",
+      "მხოლოდ მაღალი სიჩქარით, რათა დროულად გაიაროს გზის აღნიშნული მონაკვეთი"
+    ]
+  },
+  {
+    "id": 802,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "აქვს თუ არა უფლება მძღოლს განსაკუთრებული საფუძვლის გარეშე, მეტისმეტად დაბალი სიჩქარით მოძრაობით გაართულოს სხვა სატრანსპორტო საშუალებების გადაადგილება?",
+    "answers": [
+      "აქვს უფლება, ვინაიდან საგზაო მოძრაობის წესების მიხედვით აკრძალულია მხოლოდ ნებადართული მაქსიმალური სიჩქარის გადაჭარბება",
+      "აქვს უფლება, თუ იგი მოძრაობს უკიდურეს მარჯვენა მოძრაობის ზოლში",
+      "არა აქვს უფლება"
+    ]
+  },
+  {
+    "id": 803,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "თუ საგზაო მოძრაობის წესების მოთხოვნათა შესაბამისად მძღოლი ვალდებულია გზა დაუთმოს სხვა საგზაო მოძრაობის მონაწილეებს, მან გზის დათმობის თაობაზე თავისი განზრახვა უნდა გამოხატოს ნათლად:",
+    "answers": [
+      "სიჩქარის შემცირებით ან გაჩერებით",
+      "ხმოვანი ან მაშუქი სიგნალის მიცემით",
+      "ამ ბილეთში ჩამოთვლილი ნებისმიერი მოქმედებით"
+    ]
+  },
+  {
+    "id": 804,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "როგორ მოქმედებს ალკოჰოლო მძღოლის რეაქციაზე?",
+    "answers": [
+      "გავლენას არ ახდენს რეაქციაზე",
+      "ამცირებს რეაქციის დროს",
+      "ზრდის რეაქციის დროს"
+    ]
+  },
+  {
+    "id": 805,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "თუ მთის გზებზე და ანალოგიური მახასიათებლების მქონე დიდი დახრილობის გზებზე, ორი ერთ და იგივე კატეგორიის სატრანსპორტო საშუალებებიდან გვერდის აქცევის მიზნით ერთ-ერთმა უნდა იმოძრაოს უკუსვლით, მაშინ უკუსვლით მოძრაობის ვალდებულება წარმოექმნება:",
+    "answers": [
+      "აღმერთზე მოძრავ სატრანსპორტო საშუალების მძღოლს",
+      "დაღმართზე მოძრავ სატრანსპორტო საშუალების მძღოლს, იმ შემთხვევის გარდა, როცა აშკარად ნათელია, რომ აღმართზე მოძრავ სატრანსპორტო საშუალების მძღოლს გაცილებით იოლად შეუძლია ასეთი მანევრის შესრულება, კერძოდ თუ ის იმყოფება გვერდის ასაქცევ ადგილთან ახლოს",
+      "დაღმართზე მოძრავ სატრანსპორტო საშუალების მძღოლს, მიუხედავად იმისა, თუ რომელი სატრანსპორტო საშუალებასთან ახლოს იმყოფება გვერდის ასაქცევი ადგილი და რომელი მძღოლისთვის უფრო იოლია ამ მანევრის შესრულება"
+    ]
+  },
+  {
+    "id": 806,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "თუ მთის გზებზე და ანალოგიური მახასიათებლების მქონე დიდი დახრილობის გზებზე, ორი სატრანსპორტო საშუალებებიდან გვერდის აქცევის მიზნით ერთ-ერთმა უნდა იმოძრაოს უკუსვლით, მაშინ სატრანსპორტო საშუალებათა შემადგენლობებს უპირატესობა ენიჭებათ:",
+    "answers": [
+      "მხოლოდ მსუბუქი ავტომობილების მძღოლების მიმართ",
+      "მხოლოდ ავტობუსებისა და სატვირთო ავტომობილების მძღოლების მიმართ",
+      "ყველა სხვა კატეგორიის სატრანსპორტო საშუალების მძღოლების მიმართ"
+    ]
+  },
+  {
+    "id": 807,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "თუ მთის გზებზე და ანალოგიური მახასიათებლების მქონე დიდი დახრილობის გზებზე, ორი სატრანსპორტო საშუალებებიდან გვერდის აქცევის მიზნით ერთ-ერთმა უნდა იმოძრაოს უკუსვლით, მაშინ ავტობუსების მძღოლებს უპირატესობა ენიჭებათ:",
+    "answers": [
+      "მხოლოდ სატრანსპორტო საშუალებათა შემადგენლობების მძღოლების მიმართ",
+      "მხოლოდ სატვირთო და მსუბუქი ავტომობილების მძღოლების მიმართ",
+      "ყველა სატრანსპორტო საშუალებების მიმართ"
+    ]
+  },
+  {
+    "id": 808,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "ახდენს თუ არა გავლენას მოძრაობის უსაფრთხოებაზე მძღოლის ემოციური მდგომარეობა?",
+    "answers": [
+      "დიახ, ახდენს",
+      "არ ახდენს"
+    ]
+  },
+  {
+    "id": 809,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "როგორ მოქმედებს მძღოლის გადაღლილობა მის ყურადღებასა და რეაქციაზე საგზაო მოძრაობაში მონაწილეობისას?",
+    "answers": [
+      "ყურადღება ქვეითდება, რეაქციის დრო იზრდება",
+      "ყურადღება ქვეითდება, რეაქციის დრო მცირდება",
+      "არ იცვლება ყურადღება და არც რეაქციის დრო"
+    ]
+  },
+  {
+    "id": 810,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "აკრძალულია სატრანსპორტო საშუალების შემდგომი მოძრაობა:",
+    "answers": [
+      "მუშა სამუხრუჭო სისტემის გაუმართაობისას",
+      "კვების სისტემის ჰერმეტულობის დარღვევისას",
+      "მაყუჩის გაუმართაობისას",
+      "ამ ბილეთში ჩამოთვლილი ნებისმიერი გარემოების არსებობისას"
+    ]
+  },
+  {
+    "id": 811,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მძღოლი ვალდებულია შეამოწმოს და უზრუნველყოს სატრანსპორტო საშუალების ტექნიკური გამართულობა:",
+    "answers": [
+      "მხოლოდ მგზავრობის დაწყებამდე",
+      "მგზავრობის დაწყებამდე და მგზავრობისას",
+      "მხოლოდ მგზავრობისას"
+    ]
+  },
+  {
+    "id": 812,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "აკრძალულია სატრანსპორტო საშუალების შემდგომი მოძრაობა, თუ:",
+    "answers": [
+      "არ მუშაობს გატაცების საწინააღმდეგო მოწყობილობა",
+      "გაუმართავია სატრანსპორტო საშუალების შემადგენლობაში მისაბმელი მოწყობილობა",
+      "არ მუშაობს სპიდომეტრი",
+      "ამ ბილეთში ჩამოთვლილ ნებისმიერ შემთხვევაში"
+    ]
+  },
+  {
+    "id": 813,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მძღოლს ეკრძალება სატრანსპორტო საშუალების შემდგომი მოძრაობა, თუ:",
+    "answers": [
+      "გაუმართავია გადამუშავებული აირების გამოშვების სისტემა",
+      "არ არის სატრანსპორტო საშუალების კონსტრუქციით გათვალისწინებული უკანა ხედვის სარკე",
+      "მძღოლის მხარეს არსებული მინასაწმენდი უმოქმედოა ნისლის, წვიმის ან თოვის დროს",
+      "უსაფრთხოების ღვედები არამუშა მდგომარეობაშია"
+    ]
+  },
+  {
+    "id": 814,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "დღე-ღამის ბნელ დროს და არასაკმარისი ხილვადობის პირობებში შემხვედრი სატრანსპორტო საშუალების სიჩქარეს აღვიქვამთ:",
+    "answers": [
+      "უფრო მეტად, ვიდრე რეალურადაა",
+      "უფრო ნაკლებად, ვიდრე რეალურადაა",
+      "ისე, როგორც რეალურადაა"
+    ]
+  },
+  {
+    "id": 815,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მექანიკური გადაცემათა კოლოფის მქონე სატრანსპორტო საშუალების მოძრაობის დაწყებისას ჩართული პირველი გადაცემით ხანგრძლივი გაქნების დროს საწვავის ხარჯი:",
+    "answers": [
+      "იზრდება",
+      "მცირდება",
+      "არ იცვლება"
+    ]
+  },
+  {
+    "id": 816,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "სატრანსპორტო საშუალება გადაყირავების წინააღმდეგ უფრო მდგრადია, თუ მისი სიმძიმის ცენტრი მდებარეობს:",
+    "answers": [
+      "დაბლა",
+      "მაღლა"
+    ]
+  },
+  {
+    "id": 817,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მჭიდრო სატრანსპოტო ნაკადში მოძრაობისას ავარიული სიტუაციის წარმოქმნის ალბათობა ნაკლებია, თუ თქვენი სატრანსპორტო საშუალების სიჩქარე სატრანსპორტო ნაკადის:",
+    "answers": [
+      "სიჩქარეზე საგრძნობლად მეტია",
+      "სიჩქარეზე საგრძნობლად ნაკლებია",
+      "სიჩქარის ტოლია"
+    ]
+  },
+  {
+    "id": 818,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოსახვევში მოძრაობისას უკანა წამყვანღერძიანი ავტომობილის უკანა ხიდის მოცურების შემთხვევაში მძღოლმა უნდა:",
+    "answers": [
+      "დაამუხრუჭოს და მოაბრუნოს საჭე მოცურების მხარეს",
+      "ოდნავ შეამციროს საწვავის მიწოდება და საჭე მოაბრუნოს მოცურების მხარეს",
+      "ოდნავ მოუმატოს საწვავის მიწოდება და არ შეცვალოს საჭის მდგომარეობა"
+    ]
+  },
+  {
+    "id": 819,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "სავალ ნაწილზე ღრმა თოვლის არსებობისას, გრუნტოვან გზაზე მოძრაობის შემთხვევაში სატრანსპორტო საშუალების მძღოლმა უნდა იმოძრაოს:",
+    "answers": [
+      "წინასწარ შერჩეული დაბალი გადაცემით და სიჩქარით, მკვეთრი მობრუნებებისა და გაჩერებების გარეშე",
+      "გზის საფარის მდგომარეობის შესაბამისად გადაცემისა და სიჩქარის ცვლილებით"
+    ]
+  },
+  {
+    "id": 820,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "აღმართზე მოძრაობის დაწყების შემთხვევაში, რომელ მომენტშია მიზანშეწონილი სადგომი მუხრუჭის ბერკეტის დაშვება?",
+    "answers": [
+      "მოძრაობის დაწყებამდე",
+      "მოძრაობის დაწყების შემდეგ",
+      "მოძრაობის დაწყებისთან ერთდროულად"
+    ]
+  },
+  {
+    "id": 821,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოსახვევში სატრანსპორტო საშუალების მოძრაობის სიჩქარის გაზრდის შემთხვევაში ცენტრიდანული ძალის მნიშვნელობა:",
+    "answers": [
+      "მცირდება",
+      "იზრდება",
+      "არ იცვლება"
+    ]
+  },
+  {
+    "id": 822,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "თუ სატრანსპორტო საშუალების მძღოლი სწორ გზაზე მოძრაობისას მოულოდნელად მოხვდა მოლიპულ მოკლე მონაკვეთზე, მან უნდა:",
+    "answers": [
+      "ერთჯერადი მკვეთრი დამუხრუჭებით შეანელოს მოძრაობის სიჩქარე",
+      "მრავალჯერადი მდორე დამუხრუჭებით შეანელოს მოძრაობის სიჩქარე",
+      "მოძრაობის სიჩქარის შეუცვლელად გააგრძელოს მოძრაობა იმავე ტრაექტორიით"
+    ]
+  },
+  {
+    "id": 823,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "წყლის დაბრკოლების გადალახვის შემდეგ სამუხრუჭო ხუნდების დასველების შემთხვევაში, სატრანსპორტო საშუალების მძღოლმა მუხრუჭის ეფექტურობის აღსადგენად უნდა:",
+    "answers": [
+      "გააგრძელოს მოძრაობა და გააშროს სამუხრუჭე ხუნდები სატერფულზე ფეხის მრავალჯერადი ხანმოკლე დაჭერით",
+      "იმოძრაოს სადგომი მუხრუჭის ნახევრად ამოწეული ბერკეტით",
+      "გააგრძელოს მოძრაობა სიფრთხილით, სარემონტო ადგილამდე"
+    ]
+  },
+  {
+    "id": 824,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "დღე-ღამის ბნელ დროს ან არასაკმარისი ხილვადობის პირობებში, სატრანსპორტო საშუალების მოძრაობის სიჩქარე მძღოლმა უნდა შეარჩიოს ისე, რომ გასაჩერებელი მანძილი იყოს:",
+    "answers": [
+      "მხედველობის არეზე მეტი",
+      "მხედველობის არეზე ნაკლები"
+    ]
+  },
+  {
+    "id": 825,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "დამუხრუჭებით გამოწვეული მოცურების შესაწყვეტად სატრანსპორტო საშუალების მძღოლმა, უნდა:",
+    "answers": [
+      "გამორთოს გადაბმულობა",
+      "შეწყვიტოს დამუხრუჭება",
+      "გააგრძელოს დამუხრუჭება სატერფულზე დაწოლის შეუცვლელად"
+    ]
+  },
+  {
+    "id": 826,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოსახვევში მოძრაობისას მოხვევის ცენტრის საწინააღმდეგო მხარეს მოძრავი წინა და მოხვევის მხარეს მოძრავი უკანა თვლებამდე მოხვევის ცენტრიდან გავლებული რადიუსების სხვაობას ეწოდება:",
+    "answers": [
+      "ავტომობილის მოხვევის რადიუსი",
+      "ავტომობილის დინამიკური დერეფანი",
+      "ავტომობილის დასაშვები ინტერვალი"
+    ]
+  },
+  {
+    "id": 827,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მუშაობის პერიოდში მიწაში თუ აღმოჩენილი იქნა რაიმე სადენი, მაშინ?",
+    "answers": [
+      "მუშაობა უნდა გაგრძელდეს სიფრთხილის დაცვით",
+      "დაუყოვნებლივ უნდა შეწყდეს მუშაობა",
+      "დაუყოვნებლივ უნდა შეწყდეს მუშაობა და გაგრძელდეს მხოლოდ ოფიციალური თანხმობის მიღების შემდეგ"
+    ]
+  },
+  {
+    "id": 828,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მექანიზმის მუშა მდგომარეობაში მოყვანისას ან მისი გადაადგილების წინ სამუშაო ადგილის გარეშე პირებისგან განთავისუფლების მიზნით მემანქანემ:",
+    "answers": [
+      "უნდა მისცეს ხმოვანი სიგნალი",
+      "გამაფრთხილებელი სიგნალი უნდა მისცეს ხელით",
+      "უნდა ჩავიდეს სამუშაო ადგილზე და პირადად გააფრთხილოს გარეშე პირები"
+    ]
+  },
+  {
+    "id": 829,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "სამუშაოს დაწყების წინ, სამუშაო ადგილზე უნდა გაკეთდეს ტრაფარეტი წარწერით?",
+    "answers": [
+      "„შესვლა აკრძალულია“",
+      "მიმდინარე სამუშაოების შესახებ",
+      "მემანქანის გვარი, სახელი და მამის სახელი"
+    ]
+  },
+  {
+    "id": 830,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "ექსკალატორზე შეიძლება თუ არა უცხო პირთა დაშვება?",
+    "answers": [
+      "შეიძლება მემანქანესთან ერთად",
+      "არ შეიძლება",
+      "შეიძლება ხელმძღვანელობის თანხმობით"
+    ]
+  },
+  {
+    "id": 831,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "ექსკალატორიდან ჩამოსვლის შემთხვევაში აუცილებელია:",
+    "answers": [
+      "მხოლოდ გამოირთოს ყველა გამშვები",
+      "მხოლოდ ყველა გამშვები დაყენდეს ნეიტრალურ მდგომარეობაში",
+      "ამ ბილეთში ჩამოთვლილი ყველა მოქმედების შესრულება"
+    ]
+  },
+  {
+    "id": 832,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "შეიძლება თუ არა მექანიზმის მუშა მდგომარეობაში დატოვება?",
+    "answers": [
+      "დიახ",
+      "შეიძლება 15-20 წუთის განმავლობაში",
+      "არა"
+    ]
+  },
+  {
+    "id": 833,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "შეიძლება თუ არა ექსკალატორის ციცხვის დატვირთულ მდგომარეობაში მიწიდან მოცილებით დატოვება?",
+    "answers": [
+      "შეიძლება ნებისმიერ სიმაღლეზე",
+      "შეიძლება მიწიდან 1-1,5 მეტრის სიმაღლეზე",
+      "აუცილებელია ციცხვი დავუშვათ მიწაზე"
+    ]
+  },
+  {
+    "id": 834,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მექანიკური სატრანსპორტო საშუალების მართვის როგორი სტილი უზრუნველყოფს საწვავის ნაკლებ ხარჯს?",
+    "answers": [
+      "მდორე აჩქარება მკვეთრი შენელებით",
+      "ხშირი და მკვეთრი აჩქარება მდორე შენელებით",
+      "მდორე აჩქარება მდორე შენელებით"
+    ]
+  },
+  {
+    "id": 835,
+    "correctAnswer": 3,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "რომელი მექანიზმი გამოიყენება შიგაწვის ძრავებში?",
+    "answers": [
+      "სათბობგამანაწილებელი მექანიზმი",
+      "ზეთის გამანაწილებელი მექანიზმი",
+      "წყლის გაგრილების მექანიზმი",
+      "აირგამანაწილებელი მექანიზმი"
+    ]
+  },
+  {
+    "id": 836,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოძრაობის საპირისპირო მიმართულების ზოლზე გადასვლით გასწრების მანევრის შესრულებისას, საავარიო სიტუაციის შექმნის ერთ-ერთი ძირითადი მიზეზია ის გარემოება, რომ მძღოლი საპირისპირო მიმართულებით მოძრავ სატრანსპორტო საშუალების სიჩქარეს აფასებს, როგორც:",
+    "answers": [
+      "უფრო ნაკლებს ვიდრე სინამდვილეშია",
+      "უფრო მეტს ვიდრე სინამდვილეშია"
+    ]
+  },
+  {
+    "id": 837,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "რომელი გადაცემა გამოიყენება მბრუნავ ლილვებს შორის თუ მათი გეომეტრიული ღერძები ერთმანეთს არ ემთხვევა და შეადგენს ცვლად კუთხეს?",
+    "answers": [
+      "ჭიახრახნული გადაცემა",
+      "კბილანური გადაცემა",
+      "კარდანული გადაცემა"
+    ]
+  },
+  {
+    "id": 838,
+    "correctAnswer": 3,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "რომელი დენის წყაროდან იკვებება ყველა მომხმარებელი ძრავას დაბალ ბრუნთა სიხშირეზე მუშაობის დროს?",
+    "answers": [
+      "გენერატორიდან",
+      "გამანაწილებელიდან",
+      "საიდუნქციო კოჭიდან",
+      "აკუმლიატორიდან"
+    ]
+  },
+  {
+    "id": 839,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "რომელი დენის წყაროდან იკვებება ყველა მომხმარებელი ძრავას საშუალო და მაღალ ბრუნთა სიხშირეზე მუშაობის დროს?",
+    "answers": [
+      "გენერატორიდან",
+      "გამანაწილებელიდან",
+      "საიდუნქციო კოჭიდან",
+      "აკუმლიატორიდან"
+    ]
+  },
+  {
+    "id": 840,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "სატრანსპორტო საშუალების სიჩქარის გაზრდისას როგორ იცვლება მძღოლის მხედველობის არე?",
+    "answers": [
+      "მხედველობის არე ფართოვდება",
+      "მხედველობის არე ვიწროვდება",
+      "მხედველობის არე არ იცვლება"
+    ]
+  },
+  {
+    "id": 841,
+    "correctAnswer": 3,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "ჩამოთვლილიდან რამ შეიძლება გამოიწვიოს სატრანსპორტო საშუალების მართვის უნარის გაუარესება?",
+    "answers": [
+      "მხოლოდ იმ სამკურნალო პრეპარატის მიღებამ, რომელიც აქვეითებს რეაქციას და ყურადღებას",
+      "მხოლოდ ძლიერმა დაღლილობამ ან უძილობამ",
+      "მხოლოდ ალკოჰოლურმა, ნარკოტიკულმა ან ფსიქოტროპულმა თრობამ",
+      "ამ ბილეთში ჩამოთვლილმა ნებისმიერმა გარემოებამ"
+    ]
+  },
+  {
+    "id": 842,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "საავარიო სიტუაციის წარმოქმნის საფრხე იზრდება:",
+    "answers": [
+      "მხოლოდ იმ შემთხვევაში, თუ მძღოლი სათანადოდ არ იცავს დისტანციას ან გვერდით ინტერვალს სხვა სატრანსპორტო საშუალებების მიმართ",
+      "მხოლოდ იმ შემთხვევაში, თუ მძღოლი მანევრს იწყებს ისე, რომ არ რწმუნდება მის უსაფრთხოებაში",
+      "ამ ბილეთში ჩამოთვლილ ნებისმიერ შემთხვევაში"
+    ]
+  },
+  {
+    "id": 843,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "დღე-ღამის ბნელ დროს საპირისპირო მიმართულებიდან მომავალი სატრანსპორტო საშუალების ფარების შუქით თვალის მოჭრის სიძლიერის შემცირების მიზნით, მძღოლისათვის მიზანშეწონილია:",
+    "answers": [
+      "ჩართოს ავტომობილის სალონის განათება",
+      "განახორციელოს მკვეთრი დამუხრუჭება და გაიკეთოს მსუბუქად ტონირებული მზის სათვალე",
+      "შეძლებისდაგვარად მიმართოს მზერა სავალი ნაწილის მარჯვენა ნაპირის მხარეს"
+    ]
+  },
+  {
+    "id": 844,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "რა იგულისხმება, მძღოლის რეაქციის დროში?",
+    "answers": [
+      "დრო საფრთხის აღმოჩენიდან სატრანსპორტო საშუალების სრულ გაჩერებამდე",
+      "დრო საფრთხის აღმოჩენიდან მისი თავიდან აცილებისათვის საჭირო ზომების მიღებამდე",
+      "აუცილებელი დრო აქსელერატორის სატერფულიდან მუხრუჭის სატერფულზე ფეხის გადატანისთვის"
+    ]
+  },
+  {
+    "id": 845,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "ნისლიან ამინდში სატრანსპორტო საშუალებით მოძრაობისას მანძილს საგნებამდე აღვიქვამთ:",
+    "answers": [
+      "უფრო მეტად, ვიდრე რეალურადაა",
+      "უფრო ნაკლებად, ვიდრე რეალურადაა",
+      "ისე, როგორც რეალურადაა"
+    ]
+  }
+]

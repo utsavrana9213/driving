@@ -1,0 +1,716 @@
+[
+  {
+    "id": 323,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_video.mp4",
+    "wrongVideo": "assets/videos/2.mp4",
+    "previewVideo": "assets/videos/3.mp4",
+    "question": "დაარღვეს თუ არა მსუბუქი ავტომობილის მძღოლი საგზაო მოძრაობის წესებს ისრის მიმართულებით მოძრაობის შემთხვევაში, თუ ყვითელი ავტობუსის მძღოლს უკვე დაწყებული აქვს გასწრება?",
+    "answers": [
+      "1\nდაარღვევს",
+      "2\nარ დაარღვევს"
+    ]
+  },
+  {
+    "id": 324,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_video.mp4",
+    "wrongVideo": "assets/videos/2.mp4",
+    "previewVideo": "assets/videos/3.mp4",
+    "question": "ეკრძალება თუ არა თეთრი ავტომობილის მძღოლს ისრის მიმართულებით გასწრება?",
+    "answers": [
+      "1\nეკრძალება",
+      "2\nარ ეკრძალება"
+    ]
+  },
+  {
+    "id": 325,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_video.mp4",
+    "wrongVideo": "assets/videos/2.mp4",
+    "previewVideo": "assets/videos/3.mp4",
+    "question": "მოცემულ სიტუაციაში, ეკრძალება თუ არა მსუბუქი ავტომობილის მძღოლს გასწრება?",
+    "answers": [
+      "1\nეკრძალება",
+      "2\nარ ეკრძალება"
+    ]
+  },
+  {
+    "id": 326,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_video.mp4",
+    "wrongVideo": "assets/videos/2.mp4",
+    "previewVideo": "assets/videos/3.mp4",
+    "question": "აქვს თუ არა უფლება მსუბუქი ავტომობილის მძღოლს, გააგრძელოს მოძრაობა ისრის მიმართულებით?",
+    "answers": [
+      "1\nაქვს უფლება",
+      "2\nარ აქვს უფლება"
+    ]
+  },
+  {
+    "id": 327,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_video.mp4",
+    "wrongVideo": "assets/videos/2.mp4",
+    "previewVideo": "assets/videos/3.mp4",
+    "question": "ეკრძალება თუ არა თეთრი მსუბუქი ავტომობილის მძღოლს ისრის მიმართულებით გასწრება?",
+    "answers": [
+      "1\nეკრძალება",
+      "2\nარ ეკრძალება"
+    ]
+  },
+  {
+    "id": 328,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_video.mp4",
+    "wrongVideo": "assets/videos/2.mp4",
+    "previewVideo": "assets/videos/3.mp4",
+    "question": "ეკრძალება თუ არა რუხი მსუბუქი ავტომობილის მძღოლს ისრის მიმართულებით გასწრება?",
+    "answers": [
+      "1\nეკრძალება",
+      "2\nარ ეკრძალება"
+    ]
+  },
+  {
+    "id": 329,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_video.mp4",
+    "wrongVideo": "assets/videos/2.mp4",
+    "previewVideo": "assets/videos/3.mp4",
+    "question": "აქვს თუ არა მწვანე მსუბუქი ავტომობილის მძღოლს ისრის მიმართულებით გასწრების უფლება?",
+    "answers": [
+      "1\nაქვს უფლება",
+      "2\nარ აქვს უფლება"
+    ]
+  },
+  {
+    "id": 330,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_video.mp4",
+    "wrongVideo": "assets/videos/2.mp4",
+    "previewVideo": "assets/videos/3.mp4",
+    "question": "აქვს თუ არა რუხი მსუბუქი ავტომობილის მძღოლს ისრის მიმართულებით გასწრების უფლება?",
+    "answers": [
+      "1\nაქვს უფლება",
+      "2\nარ აქვს უფლება"
+    ]
+  },
+  {
+    "id": 331,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_video.mp4",
+    "wrongVideo": "assets/videos/2.mp4",
+    "previewVideo": "assets/videos/3.mp4",
+    "question": "აქვს თუ არა წითელი ავტომობილის მძღოლს ისრის მიმართულებით გასწრების უფლება?",
+    "answers": [
+      "1\nაქვს უფლება",
+      "2\nარ აქვს უფლება"
+    ]
+  },
+  {
+    "id": 332,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "ეკრძალება თუ არა დაუსახლებელ პუნქტში მსუბუქი ავტომობილის მძღოლს ისრის მიმართულებით გასწრება, თუ ტრაქტორი მოძრაობს 30 კმ/სთ სიჩქარით?",
+    "answers": [
+      "ეკრძალება",
+      "არ ეკრძალება"
+    ]
+  },
+  {
+    "id": 333,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "რომელი ავტომობილის მძღოლს ეკრძალება ისრის მიმართულებით მოძრაობა?",
+    "answers": [
+      "მხოლოდ მწვანე ავტომობილის მძღოლს",
+      "მხოლოდ ყვითელი ავტომობილის მძღოლს",
+      "ორივე ავტომობილის მძღოლს",
+      "არცერთი ავტომობილის მძღოლს"
+    ]
+  },
+  {
+    "id": 334,
+    "correctAnswer": 3,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "რომელი ავტომობილის მძღოლი დაარღვევს საგზაო მოძრაობის წესებს ისრის მიმართულებით მოძრაობის შემთხვევაში?",
+    "answers": [
+      "მხოლოდ სატვირთო ავტომობილის მძღოლი",
+      "მხოლოდ მსუბუქი ავტომობილის მძღოლი",
+      "ორივე ავტომობილის მძღოლი",
+      "არცერთი ავტომობილის მძღოლი"
+    ]
+  },
+  {
+    "id": 335,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "რომელი ავტომობილის მძღოლს ეკრძალება ისრის მიმართულებით მოძრაობა, თუ მოცემული გზის შუა ზოლი ორივე მიმართულებით მოძრაობისათვის გამოიყენება?",
+    "answers": [
+      "მხოლოდ სატვირთო ავტომობილის მძღოლს",
+      "მხოლოდ მსუბუქი ავტომობილის მძღოლს",
+      "ორივე ავტომობილის მძღოლს",
+      "არცერთი ავტომობილის მძღოლს"
+    ]
+  },
+  {
+    "id": 336,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "დაარღვეს თუ არა მსუბუქი ავტომობილის მძღოლი საგზაო მოძრაობის წესებს ისრის მიმართულებით მოძრაობის შემთხვევაში?",
+    "answers": [
+      "დაარღვევს",
+      "არ დაარღვევს"
+    ]
+  },
+  {
+    "id": 337,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "თუ ქვეითმა ვერ მოასწრო გზაზე გადასვლა, უფლება აქვს შეჩერდეს:",
+    "answers": [
+      "მხოლოდ უსაფრთხოების კუნძულზე",
+      "მხოლოდ ურთიერთსაპირისპირო მიმართულებით მოძრავი სატრანსპორტო ნაკადების გამყოფ ზოლზე ან ხაზზე",
+      "როგორც უსაფრთხოების კუნძულზე, ასევე ურთიერთსაპირისპირო მიმართულებით მოძრავი სატრანსპორტო ნაკადების გამყოფ ზოლზე ან ხაზზე"
+    ]
+  },
+  {
+    "id": 338,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "ეკრძალება თუ არა მსუბუქი ავტომობილის მძღოლს ისრის მიმართულებით გასწრება?",
+    "answers": [
+      "ეკრძალება",
+      "არ ეკრძალება"
+    ]
+  },
+  {
+    "id": 339,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "ეკრძალება თუ არა მსუბუქი ავტომობილის მძღოლს ისრის მიმართულებით გასწრება?",
+    "answers": [
+      "ეკრძალება",
+      "არ ეკრძალება"
+    ]
+  },
+  {
+    "id": 340,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "დაარღვევს თუ არა საგზაო მოძრაობის წესებს ლურჯი მსუბუქი ავტომობილის მძღოლი ისრის მიმართულებით მოძრაობის შემთხვევაში, თუ მანძილი აღმართის ბოლომდე 80 მეტრია?",
+    "answers": [
+      "დაარღვევს",
+      "არ დაარღვევს"
+    ]
+  },
+  {
+    "id": 341,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "ეკრძალება თუ არა წითელი ავტომობილის მძღოლს საპირისპირო მოძრაობის ზოლზე გადასვლით გასწრების მანევრის შესრულება?",
+    "answers": [
+      "ეკრძალება",
+      "არ ეკრძალება"
+    ]
+  },
+  {
+    "id": 342,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "ეკრძალება თუ არა მწვანე ავტომობილის მძღოლს ისრის მიმართულებით გასწრება?",
+    "answers": [
+      "ეკრძალება",
+      "არ ეკრძალება"
+    ]
+  },
+  {
+    "id": 343,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "დაარღვევს თუ არა საგზაო მოძრაობის წესებს თეთრი ავტომობილის მძღოლი ისრით მითითებული მანევრის შესრულების შემთხვევაში, თუ მარცხენა მხრიდან ქვეითს დაწყებული აქვს გადასვლა?",
+    "answers": [
+      "დაარღვევს",
+      "არ დაარღვევს"
+    ]
+  },
+  {
+    "id": 344,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემულ სიტუაციაში, ეკრძალება თუ არა მსუბუქი ავტომობილის მძღოლს გასწრება?",
+    "answers": [
+      "ეკრძალება",
+      "არ ეკრძალება"
+    ]
+  },
+  {
+    "id": 345,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "აქვს თუ არა უფლება თეთრი მსუბუქი ავტომობილის მძღოლს დაიწყოს გასწრების მანევრი, თუ ავტობუსის მძღოლს ჩართული აქვს მარცხნივ მოხვევის მაჩვენებელი და დაწყებული აქვს გასწრება?",
+    "answers": [
+      "აქვს უფლება",
+      "არ აქვს უფლება"
+    ]
+  },
+  {
+    "id": 346,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "აქვს თუ არა უფლება სატვირთო ავტომობილის მძღოლს დაიწყოს გასწრების მანევრი, თუ მსუბუქი ავტომობილის მძღოლს ჩართული აქვს მარცხნივ მოხვევის მაჩვენებელი და დაწყებული აქვს გასწრება?",
+    "answers": [
+      "არ აქვს უფლება",
+      "აქვს უფლება"
+    ]
+  },
+  {
+    "id": 347,
+    "correctAnswer": 3,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "გასწრების დაწყების წინ მძღოლი უნდა დარწმუნდეს:",
+    "answers": [
+      "მხოლოდ იმაში, რომ მის უკან მომავალი არცერთი სატრანსპორტო საშუალების მძღოლს გასწრება არ დაუწყია",
+      "მხოლოდ იმაში, რომ მოძრაობის იმავე ზოლზე მის წინ მოძრავი სატრანსპორტო საშუალების მძღოლს არ მიუცია სიგნალი, რომ აპირებს გაუსწროს სხვა სატრანსპორტო საშუალებას",
+      "მხოლოდ იმაში, რომ მოძრაობის ზოლი, რომელზეც აპირებს გასვლას, საკმარის მანძილზე თავისუფალია, ამასთან ორი სატრანსპორტო საშუალების სიჩქარეთა ფარდობა საკმარისად მოკლე დროში გასწრების საშუალებას იძლევა",
+      "ამ ბილეთში ჩამოთვლილ ყველა გარემოებაში"
+    ]
+  },
+  {
+    "id": 348,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "ნებადართულია თუ არა სატრანსპორტო საშუალების გასწრება მარჯვენა მხრიდან?",
+    "answers": [
+      "არ არის ნებადართული",
+      "ნებადართულია იმ შემთხვევაში, თუ მძღოლმა, რომელსაც უსწრებენ მისცა სიგნალი მარცხნივ მოხვევის განზრახვის შესახებ და მიმართა თავისი სატრანსპორტო საშუალება იმისათვის, რომ შეუხვიოს სხვა გზაზე, ან შევიდეს გზის მიმდებარე ტერიტორიაზე, ან გაჩერდეს ამ მხარეს"
+    ]
+  },
+  {
+    "id": 349,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "დასაშვებია თუ არა იმ სატრანსპორტო საშუალების გასწრება, რომელიც უახლოვდება სავალ ნაწილზე შესაბამისად აღნიშნულ ქვეითთა გადასასვლელს, ან რომელიც შეჩერდა უშუალოდ ამ გადასასვლელის წინ?",
+    "answers": [
+      "დასაშვებია თუ ქვეითთა გადასასვლელზე არ მოძრაობს ქვეითი, ამასთან მხოლოდ საკმარისად შემცირებული სიჩქარით, რათა უზრუნველყოფილი იქნეს დროული გაჩერება გადასასვლელზე ქვეითების აღმოჩენის შემთხვევაში",
+      "ქვეითთა გადასასვლელზე, აგრეთვე მათ წინ არანაკლებ 100 მეტრის მანძილზე გასწრება დაუშვებელია",
+      "დასაშვებია მხოლოდ დაუსახლებელ პუნქტში, იმ გზაზე სადაც ნებადართული მაქსიმალური სიჩქარის ზღვარი 60 კმ/სთ-ზე მეტია"
+    ]
+  },
+  {
+    "id": 350,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "ეკრძალება თუ არა მსუბუქი ავტომობილის მძღოლს ისრის მიმართულებით მოძრაობა?",
+    "answers": [
+      "ეკრძალება",
+      "არ ეკრძალება"
+    ]
+  },
+  {
+    "id": 351,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "ისრის მიმართულებით მოძრავი რომელი ავტომობილის მძღოლი არღვევს საგზაო მოძრაობის წესებს?",
+    "answers": [
+      "მხოლოდ წითელი ავტომობილის მძღოლი",
+      "მხოლოდ შავი ავტომობილის მძღოლი",
+      "ორივე ავტომობილის მძღოლი"
+    ]
+  },
+  {
+    "id": 352,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "დაარღვევს თუ არა მსუბუქი ავტომობილის მძღოლი საგზაო მოძრაობის წესებს ისრის მიმართულებით მოძრაობის შემთხვევაში?",
+    "answers": [
+      "დაარღვევს",
+      "არ დაარღვევს"
+    ]
+  },
+  {
+    "id": 353,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "არღვევს თუ არა ლურჯი მსუბუქი ავტომობილის მძღოლი გასწრების წესებს, თუ წითელი მსუბუქი ავტომობილის მძღოლს დაწყებული აქვს გასწრება?",
+    "answers": [
+      "არღვევს",
+      "არ არღვევს"
+    ]
+  },
+  {
+    "id": 354,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "ეკრძალება თუ არა მსუბუქი ავტომობილის მძღოლს ისრის მიმართულებით გასწრება, თუ ტრაქტორი მოძრაობს 25 კმ/სთ სიჩქარით?",
+    "answers": [
+      "ეკრძალება",
+      "არ ეკრძალება"
+    ]
+  },
+  {
+    "id": 355,
+    "correctAnswer": 3,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "რომელი ავტომობილის მძღოლს ეკრძალება ისრის მიმართულებით მოძრაობა, თუ ტრაქტორი მოძრაობს 25 კმ/სთ სიჩქარით, ხოლო მოპედი - 35 კმ/სთ სიჩქარით?",
+    "answers": [
+      "მხოლოდ ლურჯი მსუბუქი ავტომობილის მძღოლს",
+      "მხოლოდ ავტობუსის მძღოლს",
+      "როგორც ავტობუსის მძღოლს, ასევე ლურჯი მსუბუქი ავტომობილის მძღოლს",
+      "არცერთი ავტომობილის მძღოლს"
+    ]
+  },
+  {
+    "id": 356,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "დაარღვევს თუ არა საგზაო მოძრაობის წესებს მსუბუქი ავტომობილის მძღოლი ისრის მიმართულებით მოძრაობის შემთხვევაში?",
+    "answers": [
+      "დაარღვევს",
+      "არ დაარღვევს"
+    ]
+  },
+  {
+    "id": 357,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "ეკრძალება თუ არა მსუბუქი ავტომობილის მძღოლს ისრის მიმართულებით გასწრება, თუ მოცემულ გზის მონაკვეთზე ხილვადობა შეზღუდულია?",
+    "answers": [
+      "ეკრძალება",
+      "არ ეკრძალება"
+    ]
+  },
+  {
+    "id": 358,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "ეკრძალება თუ არა მსუბუქი ავტომობილის მძღოლს ისრის მიმართულებით გასწრება, თუ მოცემულ გზის მონაკვეთზე ხილვადობა შეზღუდულია?",
+    "answers": [
+      "ეკრძალება",
+      "არ ეკრძალება"
+    ]
+  },
+  {
+    "id": 359,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემულ სიტუაციაში, რომელ სატრასპორტო საშუალების მძღოლს ეკრძალება ისრის მიმართულებით მოძრაობა, თუ მობუქსირე მოტოციკლს დაწყებული აქვს დაბრკოლების შემოვლა?",
+    "answers": [
+      "მხოლოდ მობუქსირე და საბუქსირე მოტოციკლის მძღოლებს",
+      "მხოლოდ მსუბუქი ავტომობილის მძღოლს",
+      "როგორც მობუქსირე და საბუქსირე მოტოციკლის მძღოლებს, ასევე მსუბუქი ავტომობილის მძღოლს"
+    ]
+  },
+  {
+    "id": 360,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "რომელი ავტომობილის მძღოლს წარმოექმნება გზის დათმობის ვალდებულება ისრის მიმართულებით მოძრაობის შემთხვევაში?",
+    "answers": [
+      "მსუბუქი ავტომობილის მძღოლს",
+      "სატვირთო ავტომობილის მძღოლს"
+    ]
+  },
+  {
+    "id": 361,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "გზაზე მოძრაობისას მძღოლმა უნდა გაითვალისწინოს, რომ გასწრებისას ყველაზე უფრო ხშირად ავარიული სიტუაცია იქმნება:",
+    "answers": [
+      "მხოლოდ დისტანციის დაუცველობის გამო",
+      "მხოლოდ საპირისპირო მიმართულებით მოძრავი სატრანსპორტო საშუალებების მიმართ არასაკმარისი ყურადღების გამოჩენის გამო",
+      "როგორც დისტანციის დაუცველობის, ასევე საპირისპირო მიმართულებით მოძრავი სატრანსპორტო საშუალებების მიმართ არასაკმარისი ყურადღების გამოჩენის გამო"
+    ]
+  },
+  {
+    "id": 362,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "გზაზე, რომელზეც თანმხვედრი მიმართულებით მოძრაობისთვის სულ მცირე ორი ზოლია, აქვს თუ არა უფლება მძღოლს დარჩეს პირველი გასწრების დროს დაკავებულ მოძრაობის ზოლზე, თუ ადრე დაკავებულ ზოლზე დაბრუნებისთანავე ან მოკლე დროში მოუწევს ახალი გასწრების დაწყება?",
+    "answers": [
+      "არა აქვს უფლება",
+      "უფლება აქვს, თუ წინასწარ დარწმუნდება, რომ ეს არ შეუქმნის დაბრკოლებას მის უკან მეტი სიჩქარით მოძრავ სატრანსპორტო საშუალების მძღოლს"
+    ]
+  },
+  {
+    "id": 363,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "გარდა გზიდან მარცხენა მხრიდან გასვლის შემთხვევისა, მძღოლი, რომელიც დარწმუნდება, რომ მის უკან მომავალი მძღოლი აპირებს გასწრებას ვალდებულია:",
+    "answers": [
+      "მიუახლოვდეს გზის სავალი ნაწილის მარჯვენა კიდეს და გაზარდოს სიჩქარე",
+      "დაიკავოს თანმხვედრი მიმართულების უკიდურესი მარცხენა მხარე და შეამციროს სიჩქარე",
+      "შეძლებისდაგვარად მიუახლოვდეს გზის სავალი ნაწილის მარჯვენა კიდეს და არ გაზარდოს სიჩქარე"
+    ]
+  },
+  {
+    "id": 364,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემულ სიტუაციაში, ეკრძალება თუ არა მსუბუქი ავტომობილის მძღოლს ისრის მიმართულებით გასწრება?",
+    "answers": [
+      "ეკრძალება",
+      "არ ეკრძალება"
+    ]
+  },
+  {
+    "id": 365,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემულ სიტუაციაში, ეკრძალება თუ არა მსუბუქი ავტომობილის მძღოლს ისრის მიმართულებით გასწრება?",
+    "answers": [
+      "ეკრძალება",
+      "არ ეკრძალება"
+    ]
+  },
+  {
+    "id": 366,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "ეკრძალება თუ არა გასასწრები სატრანსპორტო საშუალების მძღოლს ხელი შეუშალოს გასწრებას მოძრაობის სიჩქარის მომატებით ან სხვა მოქმედებით?",
+    "answers": [
+      "ეკრძალება",
+      "არ ეკრძალება"
+    ]
+  },
+  {
+    "id": 367,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "აქვს თუ არა უფლება მძღოლს მოაბრუნოს ავტომობილი ისრის მიმართულებით, თუ გვირაბი აღნიშნულია საგზაო ნიშნით 1.32 (\"გვირაბი\")?",
+    "answers": [
+      "აქვს უფლება, თუ გვირაბი დასახლებულ პუნქტშია",
+      "აქვს უფლება, თუ გვირაბი დაუსახლებელ პუნქტშია",
+      "არ აქვს უფლება"
+    ]
+  },
+  {
+    "id": 368,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "რომელი ავტომობილის მძღოლს ენიჭება უპირატესობა ისრის მიმართულებით მოძრაობის შემთხვევაში?",
+    "answers": [
+      "შავი ავტომობილის მძღოლს",
+      "თეთრი ავტომობილის მძღოლს"
+    ]
+  },
+  {
+    "id": 369,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "ისრით ნაჩვენები რომელი მიმართულებით მოძრაობის შემთხვევაში დაარღვევს მოპედის მძღოლი საგზაო მოძრაობის წესებს?",
+    "answers": [
+      "როგორც A, ასევე B მიმართულებით",
+      "მხოლოდ A მიმართულებით",
+      "მხოლოდ B მიმართულებით"
+    ]
+  },
+  {
+    "id": 370,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "რომელი სატრანსპორტო საშუალების მძღოლს ეკრძალება ისრის მიმართულებით მოძრაობა?",
+    "answers": [
+      "მხოლოდ ველოსიპედის მძღოლს",
+      "მხოლოდ მოპედის მძღოლს",
+      "ორივე სატრანსპორტო საშუალების მძღოლს",
+      "არცერთი სატრანსპორტო საშუალების მძღოლს"
+    ]
+  },
+  {
+    "id": 371,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "ეკრძალება თუ არა მოპედის მძღოლს 40 კმ/სთ სიჩქარით მოძრაობა ისრის მიმართულებით?",
+    "answers": [
+      "ეკრძალება",
+      "არ ეკრძალება"
+    ]
+  },
+  {
+    "id": 372,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "რომელი სატრანსპორტო საშუალების მძღოლს ეკრძალება ისრის მიმართულებით მოძრაობა?",
+    "answers": [
+      "მხოლოდ მოპედის მძღოლს",
+      "ორივე სატრანსპორტო საშუალების მძღოლს",
+      "არცერთი სატრანსპორტო საშუალების მძღოლს",
+      "მხოლოდ მსუბუქი ავტომობილის მძღოლს"
+    ]
+  },
+  {
+    "id": 373,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "რომელი სატრანსპორტო საშუალების მძღოლი დაარღვევს საგზაო მოძრაობის წესებს ისრის მიმართულებით მოძრაობისის შემთხვევაში?",
+    "answers": [
+      "მხოლოდ მსუბუქი ავტომობილის მძღოლი",
+      "მხოლოდ მოტოციკლების მძღოლები",
+      "არცერთი სატრანსპორტო საშუალების მძღოლი"
+    ]
+  },
+  {
+    "id": 374,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_11001.mp4",
+    "wrongVideo": "assets/videos/wrong_11001.mp4",
+    "previewVideo": "assets/videos/preview_11001.mp4",
+    "question": "„გასწრება“ ნიშნავს:",
+    "answers": [
+      "1\nდაკავებული ზოლიდან გამოსვლით, იმავე ზოლში თანხვდენილი მიმართულებით, წინ მოძრავი ერთი ან რამდენიმე სატრანსპორტო საშუალების გადასწრებას",
+      "2\nთანხვედრი მიმართულებით მოძრაობის ზოლებში სატრანსპორტო საშუალების უფრო სწრაფ მოძრაობას, ვიდრე სავალი ნაწილის ნაპირთან ახლოს მდებარე ზოლებში მოძრავი სატრანსპორტო საშუალებისა",
+      "3\nმეზობელ მოძრაობის ზოლში საპირისპირო მიმართულებით მოძრავი ერთი ან რამდენიმე სატრანსპორტო საშუალების გვერდის აქცევას"
+    ]
+  },
+  {
+    "id": 375,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_11002.mp4",
+    "wrongVideo": "assets/videos/wrong_11002.mp4",
+    "previewVideo": "assets/videos/preview_11002.mp4",
+    "question": "თუ გასწრებისას აღმოჩნდა დაბრკოლება ან საფრთხე, რომელიც გასწრების დაწყებამდე მძღოლს არ შეეძლო გაეთვალისწინებინა, მძღოლი ვალდებულია:",
+    "answers": [
+      "1\nგაზარდოს სისწრაფე, რათა დროულად დაასრულოს გასწრების მანევრი",
+      "2\nმისცეს ხმოვანი სიგნალი და გააგრძელოს გასწრების მანევრის შესრულება",
+      "3\nშეწყვიტოს გასწრება"
+    ]
+  }
+]

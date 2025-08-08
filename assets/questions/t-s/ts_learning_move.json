@@ -1,0 +1,188 @@
+[
+  {
+    "id": 627,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემული საგზაო ნიშანი:",
+    "answers": [
+      "1\nკრძალავს სატრანსპორტო საშუალებების მოძრაობას, ნიშანზე აღნიშნულზე ნაკლები დისტანციით",
+      "2\nკრძალავს იმ სატრანსპორტო საშუალებებით, აგრეთვე იმ სატრანსპორტო საშუალებათა შემადგენლობით მოძრაობას, რომლის საერთო ფაქტობრივი მასა აღემატება ნიშანზე მითითებულს",
+      "3\nკრძალავს იმ სატრანსპორტო საშუალებით მოძრაობას, რომლის ფაქტობრივი დატვირთვა რომელიმე ღერძზე აღემატება ნიშანზე აღნიშნულს"
+    ]
+  },
+  {
+    "id": 628,
+    "correctAnswer": 3,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემული საგზაო ნიშნებიდან რომელი კრძალავს იმ სატრანსპორტო საშუალებით, აგრეთვე სატრანსპორტო საშუალებათა შემადგენლობით მოძრაობას, რომელთა გაბარიტული სიგრძე (ტვირთიანად ან უტვირთოდ) აღემატება ნიშანზე აღნიშნულს?",
+    "answers": [
+      "1\nI",
+      "2\nII",
+      "3\nIII",
+      "4\nIV"
+    ]
+  },
+  {
+    "id": 629,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემული საგზაო ნიშნებიდან რომელი კრძალავს ყველა იმ სატრანსპორტო საშუალებით, აგრეთვე სატრანსპორტო საშუალებათა შემადგენლობებით მოძრაობას, რომელთა ნებადართული მაქსიმალური მასა აღემატება ნიშანზე აღნიშნულ ნებადართული მაქსიმალური მასის ზღვარს?",
+    "answers": [
+      "1\nI",
+      "2\nII",
+      "3\nIII",
+      "4\nIV"
+    ]
+  },
+  {
+    "id": 630,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემული საგზაო ნიშანი კრძალავს:",
+    "answers": [
+      "1\nმსუბუქი ავტომობილების მოძრაობას 70 კმ/სთ-ზე მეტი სიჩქარით",
+      "2\nსატრანსპორტო საშუალებებით მოძრაობას ნიშანზე აღნიშნულზე ნაკლები დისტანციით",
+      "3\nერთ რიგში მსუბუქი ავტომობილების მოძრაობას"
+    ]
+  },
+  {
+    "id": 631,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემული საგზაო ნიშანი კრძალავს:",
+    "answers": [
+      "1\nნებისმიერი სახის სატრანსპორტო საშუალების გასწრებას, მიუხედავად მისი სიჩქარისა",
+      "2\nმსუბუქი ავტომობილისაგან განსხვავებული სხვა სატრანსპორტო საშუალებით მოძრაობას",
+      "3\nკრძალავს ნებისმიერი სახის მექანიკური სატრანსპორტო საშუალების გასწრებას (გარდა 30 კმ/სთ-ზე ნაკლები სიჩქარით მოძრავი ტრანსპორტისა)"
+    ]
+  },
+  {
+    "id": 632,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემული საგზაო ნიშნებიდან რომელი აღნიშნავს საგზაო ნიშნის 3.22-ის („სატვირთო ავტომობილით გასწრება აკრძალულია”) მოქმედების ზონის დასასრულს?",
+    "answers": [
+      "1\nI",
+      "2\nII",
+      "3\nIII",
+      "4\nIV"
+    ]
+  },
+  {
+    "id": 633,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემული საგზაო ნიშნებიდან რომლის მოქმედება არ ვრცელდება სამარშრუტო სატრანსპორტო საშუალებაზე?",
+    "answers": [
+      "1\nმხოლოდ I და III",
+      "2\nმხოლოდ II და IV",
+      "3\nმხოლოდ II და III",
+      "4\nმხოლოდ III და IV"
+    ]
+  },
+  {
+    "id": 634,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "როგორი მუშა ორგანო აქვს მრავალციცხვიან არხსაწმენდს?",
+    "answers": [
+      "1\nმთლიანი და არასრული წმენდის",
+      "2\nჯაჭვური და როტორული",
+      "3\nუწყვეტი და წყვეტილი ქმედების"
+    ]
+  },
+  {
+    "id": 635,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "როტაციული მუშა ორგანოებიდან არხების საწმენდად გამოყენებულია?",
+    "answers": [
+      "1\nჰიდროცილინდრები",
+      "2\nფრეზები",
+      "3\nისრის ჰიდროცილინდრები"
+    ]
+  },
+  {
+    "id": 636,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "ხვეტია არხსაწმენდის მუშა ორგანოა?",
+    "answers": [
+      "1\nშნეკი",
+      "2\nუწყვეტი ჯაჭვი ფირფიტებით(ხვეტიებით)",
+      "3\nჯაჭვური ცელი"
+    ]
+  },
+  {
+    "id": 637,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "როგორი სახის გვხვდება დახრილშნეკიანი არხსაწმენდები?",
+    "answers": [
+      "1\nვერტიკალური",
+      "2\nსანაპირო და მცურავი",
+      "3\nკონუსური"
+    ]
+  },
+  {
+    "id": 638,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "სრულპროფილიანი კომბინირებული არხსაწმენდი შედგება:",
+    "answers": [
+      "1\nფრეზისა და გამტყორცნელისაგან",
+      "2\nსახელურისა და ციცხვისაგან",
+      "3\nციცხვისა და დამცლელისაგან"
+    ]
+  },
+  {
+    "id": 639,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "ვერტიკალურ კონუსურშნეკიანი არხსაწმენდი გამოიყენება?",
+    "answers": [
+      "1\nდიდი სიღრმის არხების გასაწმენდად",
+      "2\nსაშუალო სიღრმის არხების გასაწმენდად",
+      "3\nპატარა სიღრმის არხების გასაწმენდად"
+    ]
+  }
+]

@@ -1,0 +1,138 @@
+[
+  {
+    "id": 8171,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "სურათზე მითითებულ ადგილას ავტომობილის იძულებით გაჩერების შემთხვევაში მძღოლმა:",
+    "answers": [
+      "მხოლოდ უნდა ჩართოს საავარიო შუქსიგნალიზაცია",
+      "მხოლოდ შესაბამისი ნიშნით უნდა მონიშნოს ავტომობილი საკმარის მანძილზე",
+      "უნდა ჩართოს საავარიო შუქსიგნალიზაცია და შესაბამისი ნიშნით მონიშნოს ავტომობილი საკმარის მანძილზე"
+    ]
+  },
+  {
+    "id": 8172,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "გზაზე გასასვლელ ადგილზე გაქანების ზოლის არსებობის შემთხვევაში, მსუბუქი ავტომობილის მძღოლს უფლება აქვს იმოძრაოს:",
+    "answers": [
+      "მხოლოდ A მიმართულებით",
+      "მხოლოდ B მიმართულებით",
+      "როგორც A, ასევე B მიმართულებით"
+    ]
+  },
+  {
+    "id": 8173,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "წითელი ავტომობილის მძღოლი გასცდა მარჯვნივ მოსახვევს. ეკრძალება თუ არა მას მოსახვევში შესასვლელად ისრის მიმართულებით უკუსვლით მოძრაობა?",
+    "answers": [
+      "ეკრძალება",
+      "არ ეკრძალება"
+    ]
+  },
+  {
+    "id": 8174,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მსუბუქი ავტომობილის მძღოლი გასცდა სავალი ნაწილების განივი შეერთების ადგილს. ეკრძალება თუ არა მას ისრის მიმართულებით უკუსვლით მოძრაობა?",
+    "answers": [
+      "ეკრძალება",
+      "არ ეკრძალება"
+    ]
+  },
+  {
+    "id": 8175,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "დამუხრუჭების ზოლის არსებობის შემთხვევაში მძღოლი, რომელიც აპირებს მოხვევას ვალდებულია:",
+    "answers": [
+      "წინასწარ შეანელოს სიჩქარე და მოხვევის მანევრი შეასრულოს დამუხრუჭების ზოლზე გადაუსვლელად",
+      "დროულად გადაადგილდეს დამუხრუჭების ზოლზე და შემდეგ შეანელოს სიჩქარე",
+      "მოხვევის მანევრის შესრულებამდე გაჩერდეს დამუხრუჭების ზოლზე"
+    ]
+  },
+  {
+    "id": 8176,
+    "correctAnswer": 3,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "ქვემოთ ჩამოთვლილი, რომელი საგზაო მოძრაობის მონაწილეებს არ ეკრძალებათ ავტომაგისტრალებზე, აგრეთვე ავტომაგისტრალების შესასვლელებზე და გამოსასვლელებზე მოძრაობა?",
+    "answers": [
+      "მოპედის მძღოლებს",
+      "ქვეითებს",
+      "ორბორბლიანი ელექტროთვითმგორავების მძღოლებს",
+      "ავტომატარებლების მძღოლებს"
+    ]
+  },
+  {
+    "id": 8177,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "ავტომაგისტრალზე შესასვლელად მსუბუქი ავტომობილის მძღოლს უფლება აქვს იმოძრაოს:",
+    "answers": [
+      "მხოლოდ A მიმართულებით",
+      "მხოლოდ B მიმართულებით",
+      "როგორც A, ასევე B მიმართულებით"
+    ]
+  },
+  {
+    "id": 8178,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "არღვევს თუ არა საგზაო მოძრაობის წესებს მსუბუქი ავტომობილის მძღოლი ავტომაგისტრალზე მითითებულ ადგილას იძულებით გაჩერების შემთხვევაში?",
+    "answers": [
+      "არ არღვევს",
+      "არღვევს"
+    ]
+  },
+  {
+    "id": 8179,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემულ სიტუაციაში არღვევს თუ არა მძღოლი იძულებით გაჩერებისათვის დადგენილ მოთხოვნებს, თუ გაუმართავი ავტომობილის დაუყოვნებლივ გაყვანა გზიდან შეუძლებელია?",
+    "answers": [
+      "არ არღვევს",
+      "არღვევს"
+    ]
+  },
+  {
+    "id": 8180,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემულ სიტუაციაში, არღვევს თუ არა მსუბუქი ავტომობილის მძღოლი სატრანსპორტო საშუალების იძულებით გაჩერების წესებს?",
+    "answers": [
+      "არ არღვევს",
+      "არღვევს"
+    ]
+  }
+]

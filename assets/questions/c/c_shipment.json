@@ -1,0 +1,330 @@
+[
+  {
+    "id": 563,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct.mp4",
+    "wrongVideo": "assets/videos/wrong.mp4",
+    "previewVideo": "assets/videos/preview.mp4",
+    "question": "ორმხრივ მოძრაობიან გზაზე, რომელსაც არა აქვს გამყოფი ზოლი, ბავშვთა ჯგუფი უნდა გადაადგილდებოდეს:",
+    "answers": [
+      "მოძრაობის მიმართულების მხარეს მდებარე გვერდულზე",
+      "მოძრაობის მიმართულების საწინააღმდეგო მხარეს მდებარე გვერდულაზე"
+    ]
+  },
+  {
+    "id": 564,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct.mp4",
+    "wrongVideo": "assets/videos/wrong.mp4",
+    "previewVideo": "assets/videos/preview.mp4",
+    "question": "ნებადართულია თუ არა მგზავრების იმ რაოდენობით ან ისე გადაყვანა, რომ ეს ხელს უშლიდეს მართვას ან მძღოლს უზღუდავდეს ხედვის არეს?",
+    "answers": [
+      "არ არის ნებადართული",
+      "ნებადართულია, მხოლოდ მძღოლის თანხმობით",
+      "ნებადართულია, მხოლოდ დაუსახლებელ პუნქტებში, მეორეხარისხოვან გზაზე, იმ პირობით, რომ სატრანსპორტო საშუალების სიჩქარე არ უნდა აღემატებოდეს 40 კმ/სთ"
+    ]
+  },
+  {
+    "id": 565,
+    "correctAnswer": 3,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct.mp4",
+    "wrongVideo": "assets/videos/wrong.mp4",
+    "previewVideo": "assets/videos/preview.mp4",
+    "question": "აკრძალული არ არის მგზავრთა გადაყვანა:",
+    "answers": [
+      "ტრაქტორის და სხვა თვითმავალი მანქანების სალონის, ან კაბინის გარეთ",
+      "სატვირთო ავტომობილის მისაბმელით, აგრეთვე მისაბმელ-აგარაკით",
+      "სატვირთო მოტოციკლის ძარით",
+      "მობუქსირე ავტობუსით"
+    ]
+  },
+  {
+    "id": 566,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct.mp4",
+    "wrongVideo": "assets/videos/wrong.mp4",
+    "previewVideo": "assets/videos/preview.mp4",
+    "question": "აკრძალულია თუ არა მგზავრთა გადაყვანა იმ სატრანსპორტო საშუალებით, რომლის ფაქტობრივი მასა აღემატება მის ნებადართულ მაქსიმალურ მასას?",
+    "answers": [
+      "არ არის აკრძალული",
+      "აკრძალულია"
+    ]
+  },
+  {
+    "id": 567,
+    "correctAnswer": 3,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct.mp4",
+    "wrongVideo": "assets/videos/wrong.mp4",
+    "previewVideo": "assets/videos/preview.mp4",
+    "question": "სატრანსპორტო საშუალებაზე ნებისმიერი ტვირთი იმგვარად უნდა მოთავსდეს და აუცილებლობის შემთხვევაში დამაგრდეს, რომ მისი გადაზიდვისას:",
+    "answers": [
+      "მხოლოდ საფრთხე არ შეექმნას საგზაო მოძრაობის სხვა მონაწილეს, ზიანი არ მიადგეს სახელმწიფო, საზოგადოებრივ და კერძო ქონებას, ტვირთი არ ეთრეოდეს და არ ცვიოდეს გზაზე",
+      "მხოლოდ არ იქნეს შეზღუდული ხილვადობა და მხედველობის არე, არ დაირღვეს სატრანსპორტო საშუალების მდგრადობა და არ გაძნელდეს მისი მართვა",
+      "მხოლოდ არ დაიფაროს სინათლეები, სდექ-სიგნალი, მოხვევის მაჩვენებლები, შუქამრეკლი მოწყობილობები, რეგისტრაციის ნომერი და მარეგისტრირებელი სახელმწიფოს განმასხვავებელი ნიშანი, აგრეთვე ამ კანონით განსაზღვრული ხელით მისაცემი სიგნალები",
+      "დაცული იქნეს ამ ბილეთში ჩამოთვლილი ყველა პირობა"
+    ]
+  },
+  {
+    "id": 568,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct.mp4",
+    "wrongVideo": "assets/videos/wrong.mp4",
+    "previewVideo": "assets/videos/preview.mp4",
+    "question": "ტვირთი უნდა აღინიშნოს საცნობი ნიშნით - „არაგაბარიტული (მსხვილგაბარიტიანი) ტვირთი“, თუ ის სატრანსპორტო საშუალების გაბარიტს გარეთ, წინ ან/და უკან გადმოშვერილია:",
+    "answers": [
+      "1,0 მეტრზე მეტად",
+      "არანაკლებ 1,5 მეტრით",
+      "არანაკლებ 2,0 მეტრით"
+    ]
+  },
+  {
+    "id": 569,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct.mp4",
+    "wrongVideo": "assets/videos/wrong.mp4",
+    "previewVideo": "assets/videos/preview.mp4",
+    "question": "ტვირთი უნდა აღინიშნოს საცნობი ნიშნით - „არაგაბარიტული (მსხვილგაბარიტიანი) ტვირთი”, თუ ის გვერდიდან, საგაბარიტო სინათლის გარე ნაპირიდან გადმოშვერილია:",
+    "answers": [
+      "არანაკლებ 2 მეტრით",
+      "არანაკლებ 1,5 მეტრით",
+      "0,4 მეტრზე მეტად"
+    ]
+  },
+  {
+    "id": 570,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct.mp4",
+    "wrongVideo": "assets/videos/wrong.mp4",
+    "previewVideo": "assets/videos/preview.mp4",
+    "question": "სატრანსპორტო საშუალებით ბავშვთა გადაყვანა დასაშვებია:",
+    "answers": [
+      "მხოლოდ დგომით მდგომარეობაში",
+      "ჯდომით მდგომარეობაში, თუ სატრანსპორტო საშუალების კონსტრუქცია ითვალისწინებს დასაჯდომ ადგილებს, ხოლო თუ არ ითვალისწინებს - დგომით მდგომარეობაში",
+      "მხოლოდ ჯდომით მდგომარეობაში"
+    ]
+  },
+  {
+    "id": 571,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct.mp4",
+    "wrongVideo": "assets/videos/wrong.mp4",
+    "previewVideo": "assets/videos/preview.mp4",
+    "question": "გზაზე ან მის სიახლოვეს ბავშვის დანახვის შემთხვევაში, მძღოლმა უნდა:",
+    "answers": [
+      "გააჩეროს სატრანსპორტო საშუალება და ჩართოს საავარიო შუქსიგნალიზაცია",
+      "გამოიჩინოს განსაკუთრებული სიფრთხილე და იმოძრაოს სიჩქარით, რომელიც თავიდან ააცილებს საფრთხეს და აუცილებლობის შემთხვევაში მკვეთრი დამუხრუჭების გარეშე გაჩერების შესაძლებლობას მისცემს",
+      "გაზარდოს სიჩქარე, რათა დროულად გაიაროს აღნიშნული გზის მონაკვეთი"
+    ]
+  },
+  {
+    "id": 572,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct.mp4",
+    "wrongVideo": "assets/videos/wrong.mp4",
+    "previewVideo": "assets/videos/preview.mp4",
+    "question": "გზაზე გაჩერებული ავტობუსის დანახვისას, რომელზეც დამაგრებულია საცნობი ნიშანი -„ბავშვების გადაყვანა“, მძღოლი ვალდებულია:",
+    "answers": [
+      "მისცეს ხმოვანი სიგნალი და გაიაროს შეუჩერებლივ",
+      "გააჩეროს სატრანსპორტო საშუალება და არ დაძრას იგი, სანამ აღნიშნული ავტობუსი არ გააგრძელებს მოძრაობას",
+      "გამოიჩინოს განსაკუთრებული სიფრთხილე და იმოძრაოს სიჩქარით, რომელიც თავიდან ააცილებს საფრთხეს და აუცილებლობის შემთხვევაში მკვეთრი დამუხრუჭების გარეშე შეძლებს გაჩერებას"
+    ]
+  },
+  {
+    "id": 573,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct.mp4",
+    "wrongVideo": "assets/videos/wrong.mp4",
+    "previewVideo": "assets/videos/preview.mp4",
+    "question": "ვალდებულია თუ არა გზაზე მოძრავი სატრანსპორტო საშუალების მძღოლი, გზა დაუთმოს თეთრი ფერის ხელჯოხით მოძრავ უსინათლო ქვეითს, რომელიც კვეთს სავალ ნაწილს?",
+    "answers": [
+      "ვალდებულია ყველა შემთხვევაში",
+      "ვალდებულია, მხოლოდ იმ შემთხვევაში, თუ უსინათლო ქვეითი მოძრაობს რეგულირებულ ქვეითთა გადასასვლელზე",
+      "არ არის ვალდებული"
+    ]
+  },
+  {
+    "id": 574,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct.mp4",
+    "wrongVideo": "assets/videos/wrong.mp4",
+    "previewVideo": "assets/videos/preview.mp4",
+    "question": "რა შემთხვევაშია ვალდებული მძღოლი, გზა დაუთმოს გამყოლ ძაღლთან ერთად მოძრავ უსინათლო ქვეითს?",
+    "answers": [
+      "ვალდებულია ყველა შემთხვევაში",
+      "ვალდებულია, მხოლოდ იმ შემთხვევაში, თუ უსინათლო ქვეითი მოძრაობს რეგულირებულ ქვეითთა გადასასვლელზე",
+      "ვალდებულია, მხოლოდ იმ შემთხვევაში, თუ უსინათლო ქვეითი მოძრაობს არარეგულირებულ ქვეითთა გადასასვლელზე"
+    ]
+  },
+  {
+    "id": 575,
+    "correctAnswer": 3,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_967.mp4",
+    "wrongVideo": "assets/videos/wrong_967.mp4",
+    "previewVideo": "assets/videos/preview_967.mp4",
+    "question": "სატრანსპორტო საშულებაზე გადასაზიდი ტვირთის განთავსებისას ან/და დამაგრებისას ქვემოთ ჩამოთვლილი რომელი მოთხოვნის გათვალისწინება არ არის სავალდებულო?",
+    "answers": [
+      "1\nსაფრთხე არ უნდა შეექმნას სხვა საგზაო მოძრაობის მონაწილეებს, ზიანი არ მიადგეს სახელმწიფო, საზოგადოებრივ და კერძო ქონებას, ტვირთი არ ეთრეოდეს და არ ცვიოდეს გზაზე",
+      "2\nარ უნდა იქნეს შეზღუდული ხილვადობა და მხედველობის არე, არ უნდა დაირღვეს სატრანსპორტო საშუალების მდგრადობა და არ გაძნელდეს მისი მართვა",
+      "3\nარ უნდა დაიფაროს სინათლეები, სდექ-სიგნალი, მოხვევის შუქ-მაჩვენებლები, შუქამრეკლი მოწყობილობები, რეგისტრაციის ნომერი და მარეგისტრირებელი სახელმწიფოს განმასხვავებელი ნიშანი, აგრეთვე ხელით მისაცემი სიგნალები",
+      "4\nამ ბილეთში ჩამოთვლილი ყველა მოთხოვნის გათვალისწინება სავალდებულოა"
+    ]
+  },
+  {
+    "id": 576,
+    "correctAnswer": 3,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_968.mp4",
+    "wrongVideo": "assets/videos/wrong_968.mp4",
+    "previewVideo": "assets/videos/preview_968.mp4",
+    "question": "მოცემული საგზაო ნიშნებიდან რომელი მიუთითებს მოძრაობის მიმართულებას მხოლოდ პირდაპირ?",
+    "answers": [
+      "1\nმხოლოდ II და IV",
+      "2\nმხოლოდ I",
+      "3\nმხოლოდ IV",
+      "4\nმხოლოდ III"
+    ]
+  },
+  {
+    "id": 577,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_969.mp4",
+    "wrongVideo": "assets/videos/wrong_969.mp4",
+    "previewVideo": "assets/videos/preview_969.mp4",
+    "question": "მოცემული საგზაო ნიშნებიდან რომელი რთავს მოძრაობის ნებას მხოლოდ მარჯვენა მიმართულებით?",
+    "answers": [
+      "1\nI",
+      "2\nII",
+      "3\nIII",
+      "4\nIV"
+    ]
+  },
+  {
+    "id": 578,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_970.mp4",
+    "wrongVideo": "assets/videos/wrong_970.mp4",
+    "previewVideo": "assets/videos/preview_970.mp4",
+    "question": "მოცემული საგზაო ნიშანი მიუთითებს:",
+    "answers": [
+      "1\nცალმხრივმოძრაობიან გზაზე ან სავალ ნაწილზე გასვლას",
+      "2\nგამყოფი ზოლის, უსაფრთხოების კუნძულის ან რაიმე დაბრკოლების შემოვლის მიმართულებას მხოლოდ მარჯვნიდან",
+      "3\nცალმხრივ მოძრაობიან გზას"
+    ]
+  },
+  {
+    "id": 579,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_971.mp4",
+    "wrongVideo": "assets/videos/wrong_971.mp4",
+    "previewVideo": "assets/videos/preview_971.mp4",
+    "question": "მოცემული საგზაო ნიშნებიდან რომელი მიუთითებს დაბრკოლების გამყოფი ზოლის, უსაფრთხოების კუნძულის ან რაიმე დაბრკოლების შემოვლის მიმართულებას მხოლოდ მარცხნიდან?",
+    "answers": [
+      "1\nI",
+      "2\nII",
+      "3\nIII",
+      "4\nIV"
+    ]
+  },
+  {
+    "id": 580,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_972.mp4",
+    "wrongVideo": "assets/videos/wrong_972.mp4",
+    "previewVideo": "assets/videos/preview_972.mp4",
+    "question": "მოცემული საგზაო ნიშნებიდან რომელი აღნიშნავს მოძრაობის მიმართულებას მარჯვნივ ან მარცხნივ?",
+    "answers": [
+      "1\nI",
+      "2\nII",
+      "3\nIII",
+      "4\nIV"
+    ]
+  },
+  {
+    "id": 581,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_973.mp4",
+    "wrongVideo": "assets/videos/wrong_973.mp4",
+    "previewVideo": "assets/videos/preview_973.mp4",
+    "question": "მოცემული საგზაო ნიშნებიდან რომელი აღნიშნავს ქვეითთა მოძრაობისათვის განკუთვნილ, გზისგან განცალკევებულ ბილიკს?",
+    "answers": [
+      "1\nI",
+      "2\nII",
+      "3\nIII",
+      "4\nIV"
+    ]
+  },
+  {
+    "id": 582,
+    "correctAnswer": 3,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_974.mp4",
+    "wrongVideo": "assets/videos/wrong_974.mp4",
+    "previewVideo": "assets/videos/preview_974.mp4",
+    "question": "მოცემული საგზაო ნიშნებიდან რომელი მიუთითებს სახიფათო ტვირთის გადამზიდი სატრანსპორტო საშუალებით ნებადართულ მოძრაობის მიმართულებას?",
+    "answers": [
+      "1\nI",
+      "2\nII",
+      "3\nIII",
+      "4\nIV"
+    ]
+  },
+  {
+    "id": 583,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_975.mp4",
+    "wrongVideo": "assets/videos/wrong_975.mp4",
+    "previewVideo": "assets/videos/preview_975.mp4",
+    "question": "აქვს თუ არა უფლება სატვირთო ავტომობილის მძღოლს გააგრძელოს მოძრაობა ისრის მიმართულებით?",
+    "answers": [
+      "1\nაქვს უფლება",
+      "2\nარ აქვს უფლება"
+    ]
+  },
+  {
+    "id": 584,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_976.mp4",
+    "wrongVideo": "assets/videos/wrong_976.mp4",
+    "previewVideo": "assets/videos/preview_976.mp4",
+    "question": "დაარღვეს თუ არა სახიფათო ტვირთის გადამზიდი სატვირთო ავტომობილის მძღოლი საგზაო მოძრაობის წესებს ისრის მიმართულებით მოძრაობის შემთხვევაში?",
+    "answers": [
+      "1\nარ დაარღვევს",
+      "2\nდაარღვევს"
+    ]
+  },
+  {
+    "id": 585,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_977.mp4",
+    "wrongVideo": "assets/videos/wrong_977.mp4",
+    "previewVideo": "assets/videos/preview_977.mp4",
+    "question": "მოცემული საგზაო ნიშნებიდან რომელი მიუთითებს სახიფათო ტვირთის გადამზიდი სატრანსპორტო საშუალებით ნებადართულ მოძრაობის მიმართულებას?",
+    "answers": [
+      "1\nმხოლოდ II",
+      "2\nმხოლოდ I",
+      "3\nმხოლოდ IV",
+      "4\nმხოლოდ III"
+    ]
+  }
+]

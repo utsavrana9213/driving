@@ -1,0 +1,277 @@
+[
+  {
+    "id": 359,
+    "correctAnswer": 3,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "რომელი სატრანსპორტო საშუალების მძღოლი არღვევს საგზაო მოძრაობის წესებს, თუ ყველა სატრანსპორტო საშუალება მოძრაობს 100კმ/სთ სიჩქარით?",
+    "answers": [
+      "მხოლოდ სატვირთო ავტომობილის მძღოლი",
+      "მხოლოდ მწვანე ავტომობილის მძღოლი",
+      "მხოლოდ თეთრი მიკროავტობუსის მძღოლი",
+      "მხოლოდ სატვირთო ავტომობილისა და თეთრი მიკროავტობუსის მძღოლები"
+    ]
+  },
+  {
+    "id": 360,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "გზის ამ მონაკვეთზე „C“ კატეგორიის სატვირთო ავტომობილის მძღოლს უფლება აქვს იმოძრაოს არაუმეტეს:",
+    "answers": [
+      "60 კმ/სთ სიჩქარით",
+      "70 კმ/სთ სიჩქარით",
+      "80 კმ/სთ სიჩქარით",
+      "90 კმ/სთ სიჩქარით"
+    ]
+  },
+  {
+    "id": 361,
+    "correctAnswer": 3,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "რომელი სატრანსპორტო საშუალების მძღოლი არღვევს საგზაო მოძრაობის წესებს, თუ ყველა სატრანსპორტო საშუალება მოძრაობს 100 კმ/სთ სიჩქარით?",
+    "answers": [
+      "მხოლოდ მსუბუქი ავტომობილის მძღოლი",
+      "მხოლოდ მსუბუქი და სატვირთო ავტომობილის მძღოლები",
+      "მხოლოდ მსუბუქი ავტომობილისა და ავტობუსის მძღოლები",
+      "მხოლოდ სატვირთო ავტომობილისა და ავტობუსის მძღოლები"
+    ]
+  },
+  {
+    "id": 362,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოწყობილი ძარით მგზავრების გადაყვანისას „C“ კატეგორიის სატვირთო ავტომობილის მძღოლს უფლება აქვს იმოძრაოს ავტომაგისტრალზე, არაუმეტეს:",
+    "answers": [
+      "60 კმ/სთ სიჩქარით",
+      "70 კმ/სთ სიჩქარით",
+      "80 კმ/სთ სიჩქარით",
+      "90 კმ/სთ სიჩქარით"
+    ]
+  },
+  {
+    "id": 363,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "დაარღვევს თუ არა საგზაო მოძრაობის წესებს „CE“ კატეგორიის სატვირთო ავტომობილის მძღოლი, თუ იგი მოძრაობას განაგრძობს 70 კმ/სთ სიჩქარით გზის ამ მონაკვეთზე?",
+    "answers": [
+      "დაარღვევს",
+      "არ დაარღვევს"
+    ]
+  },
+  {
+    "id": 364,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "რა მაქსიმალური სიჩქარით მოძრაობის უფლება აქვს „C“ კატეგორიის სატვირთო ავტომობილის მძღოლს გზის მოცემულ მონაკვეთზე?",
+    "answers": [
+      "60 კმ/სთ სიჩქარით",
+      "70 კმ/სთ სიჩქარით",
+      "80 კმ/სთ სიჩქარით",
+      "90 კმ/სთ სიჩქარით"
+    ]
+  },
+  {
+    "id": 365,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "რა მაქსიმალური სიჩქარით მოძრაობის უფლება აქვს „C1“ ქვეკატეგორიის ავტომობილის მძღოლს ყვითელი ავტომობილის ბუქსირებისას დაუსახლებელ პუნქტში?",
+    "answers": [
+      "50 კმ/სთ სიჩქარით",
+      "60 კმ/სთ სიჩქარით",
+      "70 კმ/სთ სიჩქარით",
+      "90 კმ/სთ სიჩქარით"
+    ]
+  },
+  {
+    "id": 366,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემულ სიტუაციაში, არღვევს თუ არა საგზაო მოძრაობის წესებს ისრის მიმართულებით მოძრავი „C“ კატეგორიის სატვირთო ავტომობილის მძღოლი?",
+    "answers": [
+      "არღვევს",
+      "არ არღვევს"
+    ]
+  },
+  {
+    "id": 367,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "რა მაქსიმალური სიჩქარით მოძრაობის გაგრძელების უფლება აქვს „C“ კატეგორიის სატვირთო ავტომობილის მძღოლს დასახლებულ პუნქტში გზის ამ მონაკვეთზე?",
+    "answers": [
+      "50 კმ/სთ სიჩქარით",
+      "60 კმ/სთ სიჩქარით",
+      "70 კმ/სთ სიჩქარით",
+      "90 კმ/სთ სიჩქარით"
+    ]
+  },
+  {
+    "id": 368,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "რა მაქსიმალური სიჩქარით მოძრაობის გაგრძელების უფლება აქვს „B“ კატეგორიის მაბუქსირებელი ავტომობილის მძღოლს დასახლებულ პუნქტში, გზის ამ მონაკვეთზე?",
+    "answers": [
+      "50 კმ/სთ სიჩქარით",
+      "60 კმ/სთ სიჩქარით",
+      "70 კმ/სთ სიჩქარით",
+      "90 კმ/სთ სიჩქარით"
+    ]
+  },
+  {
+    "id": 369,
+    "correctAnswer": 3,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "ქვემოთ ჩამოთვლილი საგზაო პირობებიდან, რომელი უნდა გაითვალისწინოს მძღოლმა სატრანსპორტო საშუალების სიჩქარის შეცვლისას?",
+    "answers": [
+      "მხოლოდ ადგილის რელიეფი და მოძრაობის ინტენსიურობა",
+      "მხოლოდ ატმოსფერული პირობები, აგრეთვე არასაკმარისი ან შეზღუდული ხილვადობა",
+      "მხოლოდ გზისა და სატრანსპორტო საშუალების მდგომარეობა",
+      "ამ ბილეთში ჩამოთვლილი ყველა საგზაო პირობა"
+    ]
+  },
+  {
+    "id": 370,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "რა მაქსიმალური სიჩქარით შეუძლია იმოძრაოს ძარით მგზავრების გადამყვან „C“ კატეგორიის სატრანსპორტო საშუალებას მოცემული საგზაო ნიშნით აღნიშნულ გზაზე?",
+    "answers": [
+      "50 კმ/სთ სიჩქარით",
+      "60 კმ/სთ სიჩქარით",
+      "80 კმ/სთ სიჩქარით",
+      "90 კმ/სთ სიჩქარით"
+    ]
+  },
+  {
+    "id": 371,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემული საგზაო ნიშნის მოქმედების ზონაში „C“ და „CE“ კატეგორიის სატრანსპორტო საშუალებებით მოძრაობა ნებადართულია არაუმეტეს:",
+    "answers": [
+      "70 კმ/სთ სიჩქარით",
+      "80 კმ/სთ სიჩქარით",
+      "90 კმ/სთ სიჩქარით",
+      "110 კმ/სთ სიჩქარით"
+    ]
+  },
+  {
+    "id": 372,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "რა მაქსიმალური სიჩქარით მოძრაობის უფლება აქვს არაგაბარიტულ (მსხვილგაბარიტიანი) ან ზენორმატიულ (მძიმეწონიანი) სატრანსპორტო საშუალების მძღოლს დასახლებულ ან დაუსახლებელ პუნქტში?",
+    "answers": [
+      "40 კმ/სთ სიჩქარით",
+      "60 კმ/სთ სიჩქარით",
+      "არა უმეტეს იმ სიჩქარით, რომელიც მითითებულია საქართველოს კანონმდებლობით დადგენილი წესით უფლებამოსილი ორგანოს (უწყების) მიერ გაცემულ შეთანხმებაში"
+    ]
+  },
+  {
+    "id": 373,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "რა მაქსიმალური სიჩქარით შეუძლია მოძრაობის გაგრძელება სატვირთო ავტომობილის მძღოლს,თუ ბუქსირება ხდება ხისტი გადაბმით?",
+    "answers": [
+      "50 კმ/სთ სიჩქარით",
+      "60 კმ/სთ სიჩქარით",
+      "80 კმ/სთ სიჩქარით"
+    ]
+  },
+  {
+    "id": 374,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "ხიდის, ესტაკადის, მაღალი ძაბვის გადამცემი ხაზის ქვეშ, აგრეთვე გვირაბში გავლამდე, ავტობუსისა და სატვირთო ავტომობილის მძღოლი ვალდებულია:",
+    "answers": [
+      "გზა დაუთმოს მსუბუქი ავტომობილის მძღოლებს",
+      "ჩართოს საავარიო შუქსიგნალიზაცია",
+      "დარწმუნდეს სატრანსპორტო საშუალების გავლის უსაფრთხოებაში"
+    ]
+  },
+  {
+    "id": 375,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "საცნობი ნიშანი „ავტომატარებელი“ უნდა ჩაირთოს:",
+    "answers": [
+      "მხოლოდ დღე-ღამის ბნელ დროს ავტომატარებლის მოძრაობისას",
+      "ავტომატარებლის მოძრაობისას, ხოლო დღე-ღამის ბნელ დროს და არასაკმარისი ხილვადობის პირობებში – მისი გაჩერებისა და დგომის პერიოდშიც",
+      "მხოლოდ ავტომატარებლის მოძრაობისას არასაკმარისი ხილვადობის პერიოდში"
+    ]
+  },
+  {
+    "id": 376,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "დღის ნათელ დროს გზაზე მოძრავი სახიფათო ტვირთის გადამზიდავი მექანიკური სატრანსპორტო საშუალების აღნიშვნის მიზნით, სავალდებულოა:",
+    "answers": [
+      "მხოლოდ წინა საგაბარიტო სინათლეების ჩართვა",
+      "მხოლოდ უკანა საგაბარიტო სინათლეების ჩართვა",
+      "ახლო განათების ფარებისა და უკანა საგაბარიტო სინათლეების ჩართვა"
+    ]
+  },
+  {
+    "id": 377,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "დღის ნათელ დროს გზაზე მოძრავი არაგაბარიტულ (მსხვილგაბარიტიანი) ან ზენორმატიულ (მძიმეწონიანი) მექანიკური სატრანსპორტო საშუალების აღნიშვნის მიზნით სავალდებულოა ჩაირთოს:",
+    "answers": [
+      "ახლო განათების ფარები და უკანა საგაბარიტო სინათლეები",
+      "ნისლსაწინააღმდეგო ფარები",
+      "შორი განათების ფარები"
+    ]
+  }
+]

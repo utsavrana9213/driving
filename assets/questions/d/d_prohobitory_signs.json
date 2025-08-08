@@ -1,0 +1,489 @@
+[
+  {
+    "id": 970,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "კრძალავს მოძრაობას ნიშანზე მითითებულზე მეტი სიჩქარით",
+    "answers": [
+      "1\nაღნიშნავს მაქსიმალური სიჩქარის შემზღუდავი საგზაო ნიშნის მოქმედების ზონის დასასრულს",
+      "2\nმიუთითებს სიჩქარეს, რომლითაც რეკომენდირებულია მოძრაობა გზის მოცემულ მონაკვეთზე",
+      "3\nკრძალავს მოძრაობას ნიშანზე მითითებულზე მეტი სიჩქარით"
+    ]
+  },
+  {
+    "id": 971,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "აქვს თუ არა მსუბუქი ავტომობილის მძღოლს, სურათზე მითითებულ ადგილას, ავტომობილის სადგომზე დაყენების უფლება, თვის ლუწ რიცხვებში 19.00 საათიდან 21.00 საათამდე?",
+    "answers": [
+      "1\nაქვს უფლება",
+      "2\nარ აქვს უფლება"
+    ]
+  },
+  {
+    "id": 972,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემული საგზაო ნიშნებიდან რომლის მოქმედების ზონაში იკრძალება მისაბმელიანი ტრაქტორით მოძრაობა?",
+    "answers": [
+      "1\nმხოლოდ I და III",
+      "2\nმხოლოდ II და III",
+      "3\nყველა მოცემული ნიშნის მოქმედების ზონაში"
+    ]
+  },
+  {
+    "id": 973,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემული საგზაო ნიშნებიდან რომელი კრძალავს იმ სატრანსპორტო საშუალებით მოძრაობას, რომლის გაბარიტული სიმაღლე (ტვირთიანად ან უტვირთოდ) აღემატება ნიშანზე აღნიშნულს?",
+    "answers": [
+      "1\nIV",
+      "2\nIII",
+      "3\nII",
+      "4\nI"
+    ]
+  },
+  {
+    "id": 974,
+    "correctAnswer": 3,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემული საგზაო ნიშნებიდან რომელი კრძალავს სატრანსპორტო საშუალებით მოძრაობას, რომლის გაბარიტული სიგანე (ტვირთიანად ან უტვირთოდ) აღემატება ნიშანზე აღნიშნულს?",
+    "answers": [
+      "1\nII",
+      "2\nI",
+      "3\nIV",
+      "4\nIII"
+    ]
+  },
+  {
+    "id": 975,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემული საგზაო ნიშნებიდან რომელი კრძალავს საბაჟო გამშვებ პუნქტთან (საქართველოს საბაჟო საზღვართან მდებარე საბაჟო კონტროლის ზონა) გაუჩერებლად გავლას?",
+    "answers": [
+      "1\nIII",
+      "2\nIV",
+      "3\nI",
+      "4\nII"
+    ]
+  },
+  {
+    "id": 976,
+    "correctAnswer": 3,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემული საგზაო ნიშნებიდან რომელი კრძალავს ყველა სახის სატრანსპორტო საშუალებით შემდგომ მოძრაობას საგზაო-სატრანსპორტო შემთხვევის ან სხვა საფრთხის გამო?",
+    "answers": [
+      "1\nIII",
+      "2\nIV",
+      "3\nI",
+      "4\nII"
+    ]
+  },
+  {
+    "id": 977,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემული საგზაო ნიშნებიდან რომელი კრძალავს საკონტროლო პუნქტთან (პოლიციის ან საკარანტინო საგუშაგოსთან, სასაზღვრო ან დახურულ ზონაში შესასვლელებთან, ფასიან გზებზე გასასვლელებთან და ა.შ.) გაუჩერებლად გავლას?",
+    "answers": [
+      "1\nIV",
+      "2\nIII",
+      "3\nII",
+      "4\nI"
+    ]
+  },
+  {
+    "id": 978,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემული საგზაო ნიშნებიდან რომელი კრძალავს სავალი ნაწილების უახლოეს გადაკვეთაზე მარჯვნივ მოხვევას?",
+    "answers": [
+      "1\nII",
+      "2\nI",
+      "3\nIV",
+      "4\nIII"
+    ]
+  },
+  {
+    "id": 979,
+    "correctAnswer": 3,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემული საგზაო ნიშნებიდან რომელი კრძალავს სავალი ნაწილების უახლოეს გადაკვეთაზე მარცხნივ მოხვევას?",
+    "answers": [
+      "1\nII",
+      "2\nI",
+      "3\nIV",
+      "4\nIII"
+    ]
+  },
+  {
+    "id": 980,
+    "correctAnswer": 3,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემული საგზაო ნიშნებიდან რომელი კრძალავს სავალი ნაწილების უახლოეს გადაკვეთაზე მობრუნებას?",
+    "answers": [
+      "1\nIII",
+      "2\nIV",
+      "3\nI",
+      "4\nII"
+    ]
+  },
+  {
+    "id": 981,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემული საგზაო ნიშნებიდან რომელი კრძალავს ნებისმიერი სახის მექანიკური სატრანსპორტო საშუალების გასწრებას (გარდა 30 კმ/სთ-ზე ნაკლები სიჩქარით მოძრავი ტრანსპორტისა)?",
+    "answers": [
+      "1\nIII",
+      "2\nIV",
+      "3\nI",
+      "4\nII"
+    ]
+  },
+  {
+    "id": 982,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემული საგზაო ნიშნებიდან რომელი კრძალავს მოძრაობას ნიშანზე აღნიშნულზე მეტი სიჩქარით(კმ/სთ)?",
+    "answers": [
+      "1\nII",
+      "2\nI",
+      "3\nIV",
+      "4\nIII"
+    ]
+  },
+  {
+    "id": 983,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემული საგზაო ნიშნებიდან რომელი კრძალავს ხმოვანი სიგნალით სარგებლობას, გარდა იმ შემთხვევისა, როცა სიგნალი გამოიყენება საგზაო-სატრანსპორტო შემთხვევის თავიდან ასაცილებლად?",
+    "answers": [
+      "1\nIV",
+      "2\nIII",
+      "3\nII",
+      "4\nI"
+    ]
+  },
+  {
+    "id": 984,
+    "correctAnswer": 3,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემული საგზაო ნიშნებიდან რომელი აღნიშნავს 3.20 „გასწრება აკრძალულია” ნიშნის მოქმედების ზონის დასასრულს?",
+    "answers": [
+      "1\nII",
+      "2\nI",
+      "3\nIV",
+      "4\nIII"
+    ]
+  },
+  {
+    "id": 985,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემული საგზაო ნიშნებიდან რომელი კრძალავს სატრანსპორტო საშუალებების გაჩერებას და დგომას?",
+    "answers": [
+      "1\nI",
+      "2\nII",
+      "3\nIII",
+      "4\nIV"
+    ]
+  },
+  {
+    "id": 986,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემული საგზაო ნიშნებიდან რომელი კრძალავს სატრანსპორტო საშუალების დგომას თვის ლუწ რიცხვებში?",
+    "answers": [
+      "1\nII",
+      "2\nI",
+      "3\nIV",
+      "4\nIII"
+    ]
+  },
+  {
+    "id": 987,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემული საგზაო ნიშნებიდან რომელი კრძალავს იმ სახიფათო ტვირთის გადამზიდი სატრანსპორტო საშუალებით მოძრაობას, რომელიც კანონმდებლობის თანახმად აღნიშნული უნდა იყოს შესაბამისი საცნობი ნიშნით?",
+    "answers": [
+      "1\nII",
+      "2\nI",
+      "3\nIV",
+      "4\nIII"
+    ]
+  },
+  {
+    "id": 988,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემული საგზაო ნიშნებიდან რომელი კრძალავს ფეთქებადი და ადვილადაალებადი ტვირთის გადამზიდი სატრანსპორტო საშუალების მოძრაობას, რომელიც მოქმედი კანონმდებლობით აღნიშნული უნდა იყოს შესაბამისი საცნობი ნიშნით?",
+    "answers": [
+      "1\nIII",
+      "2\nIV",
+      "3\nI",
+      "4\nII"
+    ]
+  },
+  {
+    "id": 989,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემული საგზაო ნიშნებიდან რომლის მოქმედება არ ვრცელდება სამარშრუტო სატრანსპორტო საშუალებაზე?",
+    "answers": [
+      "1\nმხოლოდ II",
+      "2\nმხოლოდ I და III",
+      "3\nმხოლოდ I და IV",
+      "4\nმხოლოდ III"
+    ]
+  },
+  {
+    "id": 990,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემული საგზაო ნიშნებიდან რომლის მოქმედება არ ვრცელდება სამარშრუტო სატრანსპორტო საშუალებაზე?",
+    "answers": [
+      "1\nმხოლოდ II",
+      "2\nმხოლოდ I და III",
+      "3\nმხოლოდ II და IV",
+      "4\nმხოლოდ III"
+    ]
+  },
+  {
+    "id": 991,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემული საგზაო ნიშნებიდან რომლის მოქმედება არ ვრცელდება სამარშრუტო სატრანსპორტო საშუალებაზე?",
+    "answers": [
+      "1\nმხოლოდ I და III",
+      "2\nმხოლოდ II და IV",
+      "3\nმხოლოდ II და III",
+      "4\nმხოლოდ I და IV"
+    ]
+  },
+  {
+    "id": 992,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემული საგზაო ნიშნებიდან რომლის მოქმედება არ ვრცელდება სამარშრუტო სატრანსპორტო საშუალებაზე?",
+    "answers": [
+      "1\nმხოლოდ I, II და IV",
+      "2\nმხოლოდ I და IV",
+      "3\nმხოლოდ II და III",
+      "4\nმხოლოდ III და IV"
+    ]
+  },
+  {
+    "id": 993,
+    "correctAnswer": 3,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემული საგზაო ნიშნებიდან რომლის მოქმედება არ ვრცელდება სატრანსპორტო საშუალებაზე, რომელიც ემსახურება ნიშნის მოქმედების ზონაში მდებარე საწარმოს?",
+    "answers": [
+      "1\nმხოლოდ I და II",
+      "2\nმხოლოდ I და IV",
+      "3\nმხოლოდ II და III",
+      "4\nმხოლოდ II და IV"
+    ]
+  },
+  {
+    "id": 994,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემული საგზაო ნიშნებიდან რომლის მოქმედება არ ვრცელდება სატრანსპორტო საშუალებაზე, რომელიც ემსახურება ნიშნის მოქმედების ზონაში მდებარე საწარმოს?",
+    "answers": [
+      "1\nმხოლოდ I, II და III",
+      "2\nმხოლოდ I, II და IV",
+      "3\nმხოლოდ II, III და IV",
+      "4\nყველა"
+    ]
+  },
+  {
+    "id": 995,
+    "correctAnswer": 3,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემული საგზაო ნიშნებიდან რომლის მოქმედება არ ვრცელდება სატრანსპორტო საშუალებაზე, რომელიც ემსახურება ან ეკუთვნის ნიშნის მოქმედების ზონაში მცხოვრებ ან მომუშავე პირს?",
+    "answers": [
+      "1\nმხოლოდ I და II",
+      "2\nმხოლოდ I და III",
+      "3\nმხოლოდ III და IV",
+      "4\nყველა მოცემული საგზაო ნიშნის"
+    ]
+  },
+  {
+    "id": 996,
+    "correctAnswer": 3,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემული საგზაო ნიშნებიდან რომლის მოქმედება არ ვრცელდება სატრანსპორტო საშუალებაზე, რომელიც ემსახურება ან ეკუთვნის ნიშნის მოქმედების ზონაში მცხოვრებ ან მომუშავე პირს?",
+    "answers": [
+      "1\nმხოლოდ I და II",
+      "2\nმხოლოდ I და III",
+      "3\nმხოლოდ II და IV",
+      "4\nმხოლოდ III და IV"
+    ]
+  },
+  {
+    "id": 997,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემული საგზაო ნიშნებიდან რომლის მოქმედება არ ვრცელდება სატრანსპორტო საშუალებაზე, რომელსაც მართავს მნიშვნელოვნად გამოხატული, ან მკვეთრად გამოხატული შეზღუდული შესაძლებლობების სტატუსის მქონე პირი, ან ტრანსპორტზე, რომელსაც გადაჰყავს აღნიშნული პირები?",
+    "answers": [
+      "1\nმხოლოდ I, III და IV",
+      "2\nმხოლოდ I, II და III",
+      "3\nმხოლოდ I, II და IV",
+      "4\nმხოლოდ II, III და IV"
+    ]
+  },
+  {
+    "id": 998,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემული საგზაო ნიშნებიდან რომლის მოქმედება ვრცელდება სავალი ნაწილების იმ გადაკვეთაზე, რომლის წინაც დადგმულია ნიშანი?",
+    "answers": [
+      "1\nმხოლოდ I, III და IV",
+      "2\nმხოლოდ II",
+      "3\nმხოლოდ I და IV",
+      "4\nმხოლოდ III"
+    ]
+  },
+  {
+    "id": 999,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემული საგზაო ნიშნებიდან რომლის მოქმედება ვრცელდება სავალი ნაწილების იმ გადაკვეთაზე, რომლის წინაც დადგმულია ნიშანი?",
+    "answers": [
+      "1\nმხოლოდ I",
+      "2\nმხოლოდ I, III და IV",
+      "3\nმხოლოდ II",
+      "4\nყველას"
+    ]
+  },
+  {
+    "id": 1000,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემული საგზაო ნიშნების მოქმედება ვრცელდება:",
+    "answers": [
+      "1\nგზის იმ მხარეზე, რომელზედაც ისინია დადგმული",
+      "2\nსავალი ნაწილების იმ გადაკვეთაზე, რომლის წინაც დადგმულია ნიშანი"
+    ]
+  },
+  {
+    "id": 1001,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემული საგზაო ნიშნებიდან რომლის მოქმედება ვრცელდება ნიშნის დადგმის ადგილიდან მის შემდეგ მდებარე უახლოეს გზაჯვარედინამდე, ხოლო დასახლებულ პუნქტში, თუ არ არის გზაჯვარედინი - დასახლებული პუნქტის ბოლომდე.",
+    "answers": [
+      "1\nმხოლოდ I",
+      "2\nმხოლოდ II და III",
+      "3\nმხოლოდ I, II და IV",
+      "4\nყველა მოცემული საგზაო ნიშნის"
+    ]
+  },
+  {
+    "id": 1002,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემულ სიტუაციაში, ეკრძალება თუ არა მძღოლს ისრით მითითებულ ადგილას ავტომობილის გაჩერება?",
+    "answers": [
+      "1\nეკრძალება",
+      "2\nარ ეკრძალება"
+    ]
+  }
+]

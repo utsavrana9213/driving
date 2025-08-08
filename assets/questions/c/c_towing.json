@@ -1,0 +1,294 @@
+[
+  {
+    "id": 679,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct.mp4",
+    "wrongVideo": "assets/videos/wrong.mp4",
+    "previewVideo": "assets/videos/preview.mp4",
+    "question": "ავტომაგისტრალზე მწყობრიდან გამოსული ავტომობილის ბუქსირება ხდება თვითნაკეთი მოწყობილობით (თოკით). მობუქსირე სატრანსპორტო საშუალების მძღოლს უფლება აქვს იმოძრაოს:",
+    "answers": [
+      "მხოლოდ A მიმართულებით",
+      "მხოლოდ B მიმართულებით",
+      "როგორც A, ასევე B მიმართულებით"
+    ]
+  },
+  {
+    "id": 680,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct.mp4",
+    "wrongVideo": "assets/videos/wrong.mp4",
+    "previewVideo": "assets/videos/preview.mp4",
+    "question": "აქვს თუ არა უფლება მაბუქსირებელ ავტომობილის მძღოლს გააგრძელოს მოძრაობა ისრის მიმართულებით, თუ ბუქსირება ხდება თვითნაკეთი მოწყობილობით (თოკით)?",
+    "answers": [
+      "აქვს უფლება",
+      "არ აქვს უფლება"
+    ]
+  },
+  {
+    "id": 681,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct.mp4",
+    "wrongVideo": "assets/videos/wrong.mp4",
+    "previewVideo": "assets/videos/preview.mp4",
+    "question": "არღვევს თუ არა ისრის მიმართულებით მოძრავი მობუქსირე ავტომობილის მძღოლი მექანიკური სატრანსპორტო საშუალების ბუქსირებისათვის დადგენილ მოთხოვნებს?",
+    "answers": [
+      "არღვევს",
+      "არ არღვევს"
+    ]
+  },
+  {
+    "id": 682,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct.mp4",
+    "wrongVideo": "assets/videos/wrong.mp4",
+    "previewVideo": "assets/videos/preview.mp4",
+    "question": "რომელი ავტომობილის მძღოლი არღვევს საგზაო მოძრაობის წესებს, თუ ტრაქტორი მოძრაობს 50კმ/სთ სიჩქარით, ხოლო სატვირთო ავტომობილი ახორციელებს გასწრებას?",
+    "answers": [
+      "მხოლოდ ტრაქტორის მძღოლი",
+      "მხოლოდ სატვირთო ავტომობილის მძღოლი",
+      "როგორც ტრაქტორის, ასევე სატვირთო ავტომობილის მძღოლი"
+    ]
+  },
+  {
+    "id": 683,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct.mp4",
+    "wrongVideo": "assets/videos/wrong.mp4",
+    "previewVideo": "assets/videos/preview.mp4",
+    "question": "დასაშვებია თუ არა, გაუმართავი საჭის მართვის მექანიზმის მქონე მსუბუქი ავტომობილის მოცემული ხერხით ბუქსირება?",
+    "answers": [
+      "დასაშვებია",
+      "არ არის დასაშვები"
+    ]
+  },
+  {
+    "id": 684,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct.mp4",
+    "wrongVideo": "assets/videos/wrong.mp4",
+    "previewVideo": "assets/videos/preview.mp4",
+    "question": "რომელი ავტომობილის მძღოლი დაარღვევს საგზაო მოძრაობის წესებს ისრის მიმართულებით მოძრაობის შემთხვევაში?",
+    "answers": [
+      "მობუქსირე ნახევარმისაბმელიანი საწევარას მძღოლი",
+      "წითელი მსუბუქი ავტომობილის მძღოლი"
+    ]
+  },
+  {
+    "id": 685,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct.mp4",
+    "wrongVideo": "assets/videos/wrong.mp4",
+    "previewVideo": "assets/videos/preview.mp4",
+    "question": "მოცემულ სიტუაციაში საგზაო მოძრაობის წესების რამდენი მოთხოვნაა დარღვეული, თუ მოქნილი გადამბმით ბუქსირებული შემადგენლობა მოძრაობს 50 კმ/სთ სიჩქარით, ხოლო მათ შორის მანძილი 5 მეტრია?",
+    "answers": [
+      "ორი",
+      "სამი",
+      "ოთხი",
+      "ხუთი"
+    ]
+  },
+  {
+    "id": 686,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct.mp4",
+    "wrongVideo": "assets/videos/wrong.mp4",
+    "previewVideo": "assets/videos/preview.mp4",
+    "question": "მოცემულ სიტუაციაში, მობუქსირე ავტომობილის მძღოლს მოძრაობის გაგრძელების უფლება აქვს:",
+    "answers": [
+      "მხოლოდ A მიმართულებით",
+      "მხოლოდ B მიმართულებით",
+      "როგორც A, ასევე B მიმართულებით"
+    ]
+  },
+  {
+    "id": 687,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct.mp4",
+    "wrongVideo": "assets/videos/wrong.mp4",
+    "previewVideo": "assets/videos/preview.mp4",
+    "question": "მოცემულ სიტუაციაში, ეკრძალება თუ არა მობუქსირე ავტომობილის მძღოლს, ისრის მიმართულებით მოძრაობა, თუ გზა მოყინულია?",
+    "answers": [
+      "ეკრძალება",
+      "არა ეკრძალება"
+    ]
+  },
+  {
+    "id": 688,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct.mp4",
+    "wrongVideo": "assets/videos/wrong.mp4",
+    "previewVideo": "assets/videos/preview.mp4",
+    "question": "დასაშვებია თუ არა მისაბმელიანი მექანიკური სატრანსპორტო საშუალებით სხვა მექანიკური სატრანსპორტო საშუალების ბუქსირება?",
+    "answers": [
+      "დასაშვებია",
+      "არ არის დასაშვები",
+      "დასაშვებია, მხოლოდ იმ შემთხვევაში, თუ მობუქსირე მექანიკური სატრანსპორტო საშუალების მისაბმელის ნებადართული მაქსიმალური მასა 750 კგ-ზე ნაკლებია"
+    ]
+  },
+  {
+    "id": 689,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct.mp4",
+    "wrongVideo": "assets/videos/wrong.mp4",
+    "previewVideo": "assets/videos/preview.mp4",
+    "question": "სავალდებულოა თუ არა, მოქნილი გადაბმით ბუქსირებისას, საბუქსირო სატრანსპორტო საშუალებას მართავდეს მძღოლი?",
+    "answers": [
+      "სავალდებულოა",
+      "არ არი სავალდებულო"
+    ]
+  },
+  {
+    "id": 690,
+    "correctAnswer": 3,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct.mp4",
+    "wrongVideo": "assets/videos/wrong.mp4",
+    "previewVideo": "assets/videos/preview.mp4",
+    "question": "ხისტი ან მოქნილი გადაბმით ბუქსირებისას მგზავრთა გადაყვანა აკრძალულია:",
+    "answers": [
+      "მხოლოდ საბუქსირო ავტობუსით",
+      "მხოლოდ საბუქსირო ტროლეიბუსით",
+      "მხოლოდ საბუქსირო სატვირთო ავტომობილის ძარით",
+      "როგორც საბუქსირო ავტობუსითა და ტროლეიბუსით, ასევე საბუქსირო სატვირთო ავტომობილის ძარით"
+    ]
+  },
+  {
+    "id": 691,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct.mp4",
+    "wrongVideo": "assets/videos/wrong.mp4",
+    "previewVideo": "assets/videos/preview.mp4",
+    "question": "ნაწილობრივი დატვირთვით ბუქსირებისას აკრძალულია ხალხის ყოფნა:",
+    "answers": [
+      "მხოლოდ საბუქსირო მექანიკურ სატრანსპორტო საშუალებაში",
+      "მხოლოდ მობუქსირე მექანიკური სატრანსპორტო საშუალების ძარაზე",
+      "როგორც საბუქსირო მექანიკურ სატრანსპორტო საშუალებაში, ასევე მობუქსირე მექანიკური სატრანსპორტო საშუალების ძარაზე"
+    ]
+  },
+  {
+    "id": 692,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct.mp4",
+    "wrongVideo": "assets/videos/wrong.mp4",
+    "previewVideo": "assets/videos/preview.mp4",
+    "question": "ხისტი გადაბმით ბუქსირებისას მანძილი მობუქსირე და საბუქსირო სატრანსპორტო საშუალებებს შორის უნდა შეადგენდეს არა უმეტეს:",
+    "answers": [
+      "4 მეტრს",
+      "5 მეტრს",
+      "6 მეტრს"
+    ]
+  },
+  {
+    "id": 693,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct.mp4",
+    "wrongVideo": "assets/videos/wrong.mp4",
+    "previewVideo": "assets/videos/preview.mp4",
+    "question": "აკრძალულია ხისტი ან მოქნილი გადაბმით იმ მექანიკური სატრანსპორტო საშუალების ბუქსირება, რომლის:",
+    "answers": [
+      "კვების სისტემის ჰერმეტულობა დარღვეულია",
+      "საჭის მართვის მექანიზმი გაუმართავია",
+      "საავარიო შუქსიგნალიზაცია გაუმართავია"
+    ]
+  },
+  {
+    "id": 694,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct.mp4",
+    "wrongVideo": "assets/videos/wrong.mp4",
+    "previewVideo": "assets/videos/preview.mp4",
+    "question": "აკრძალულია თუ არა, იმ მექანიკური სატრანსპორტო საშუალების ბუქსირება, რომელსაც ორი მისაბმელი აქვს?",
+    "answers": [
+      "არ არის აკრძალული",
+      "აკრძალულია"
+    ]
+  },
+  {
+    "id": 695,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct.mp4",
+    "wrongVideo": "assets/videos/wrong.mp4",
+    "previewVideo": "assets/videos/preview.mp4",
+    "question": "ბუქსირება დასაშვებია:",
+    "answers": [
+      "მოტოციკლით, გვერდითი მისაბმელის გარეშე, აგრეთვე ასეთი მოტოციკლის ბუქსირება",
+      "მოქნილი გადაბმით, როცა გზები მოყინულია",
+      "ამ ბილეთში ჩამოთვლილი არცერთი პასუხი არ არის სწორი"
+    ]
+  },
+  {
+    "id": 696,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct.mp4",
+    "wrongVideo": "assets/videos/wrong.mp4",
+    "previewVideo": "assets/videos/preview.mp4",
+    "question": "სულ მცირე, რამდენი გამაფრთხილებელი მოწყობილობა (ალამი) უნდა დამაგრდეს დრეკად შემაერთებელ რგოლზე მექანიკური სატრანსპორტო საშუალების მოქნილი გადაბმით ბუქსირებისას?",
+    "answers": [
+      "ორი",
+      "სამი",
+      "ოთხი"
+    ]
+  },
+  {
+    "id": 697,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct.mp4",
+    "wrongVideo": "assets/videos/wrong.mp4",
+    "previewVideo": "assets/videos/preview.mp4",
+    "question": "მოცემული საგზაო ნიშნებიდან რომლის მოქმედება არ ვრცელდება სატრანსპორტო საშუალებაზე, რომელიც ემსახურება ნიშნის მოქმედების ზონაში მდებარე საწარმოს?",
+    "answers": [
+      "მხოლოდ I და II",
+      "მხოლოდ I და III",
+      "მხოლოდ II და IV",
+      "მხოლოდ III და IV"
+    ]
+  },
+  {
+    "id": 698,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct.mp4",
+    "wrongVideo": "assets/videos/wrong.mp4",
+    "previewVideo": "assets/videos/preview.mp4",
+    "question": "მოცემული საგზაო ნიშნებიდან რომლის მოქმედება არ ვრცელდება სატრანსპორტო საშუალებაზე, რომელიც ემსახურება ან ეკუთვნის ნიშნის მოქმედების ზონაში მცხოვრებ ან მომუშავე პირს?",
+    "answers": [
+      "მხოლოდ II და IV",
+      "მხოლოდ II",
+      "მხოლოდ I და IV",
+      "მხოლოდ III და IV"
+    ]
+  },
+  {
+    "id": 699,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct.mp4",
+    "wrongVideo": "assets/videos/wrong.mp4",
+    "previewVideo": "assets/videos/preview.mp4",
+    "question": "მოცემული საგზაო ნიშნებიდან რომლის მოქმედება არ ვრცელდება სატრანსპორტო საშუალებაზე, რომელსაც მართავს მნიშვნელოვნად გამოხატული, ან მკვეთრად გამოხატული შეზღუდული შესაძლებლობების სტატუსის მქონე პირი, ან ტრანსპორტზე, რომელსაც გადაჰყავს აღნიშნული პირები?",
+    "answers": [
+      "მხოლოდ I და II",
+      "მხოლოდ I და III",
+      "მხოლოდ II და IV",
+      "მხოლოდ III და IV"
+    ]
+  }
+]

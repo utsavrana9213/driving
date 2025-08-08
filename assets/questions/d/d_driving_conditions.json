@@ -1,0 +1,99 @@
+[
+  {
+    "id": 937,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "დღე-ღამის ბნელ დროს, მექანიკური სატრანსპორტო საშუალების ახლო და შორი განათების ფარების ერთდროულად მწყობრიდან გამოსვლის (ჩაქრობის) შემთხვევაში, მძღოლს ეკრძალება:",
+    "answers": [
+      "იმ გზაზე მოძრაობა, რომელზედაც არ არის ხელოვნური განათება",
+      "ნებისმიერ გზაზე მოძრაობა, მიუხედავად იმისა, არის თუ არა მასზე ხელოვნური განათება",
+      "მოძრაობა ხელოვნურად განათებულ ორმხრივმოძრაობიან გზაზე"
+    ]
+  },
+  {
+    "id": 938,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მსუბუქი ავტომობილის მძღოლი გაჩერებულია მკვრივი საფარის მქონე გვერდულზე. დაარღვევს თუ არა იგი საგზაო მოძრაობის წესებს, თუ არასაკმარისი ხილვადობის პირობებში არ ჩართავს საგაბარიტო სინათლეებს?",
+    "answers": [
+      "დაარღვევს",
+      "არ დაარღვევს"
+    ]
+  },
+  {
+    "id": 939,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "აქვს თუ არა უფლება ავტომობილის მძღოლს გააგრძელოს მოძრაობა ისრის მიმართულებით, თუ დღე-ღამის ბნელ დროს მოძრაობისას მწყობრიდან გამოვიდა უკანა საგაბარიტო სინათლეები?",
+    "answers": [
+      "აქვს უფლება",
+      "არ აქვს უფლება"
+    ]
+  },
+  {
+    "id": 940,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "არღვევს თუ არა მძღოლი საგზაო მოძრაობის წესებს, თუ არასაკმარისი ხილვადობის პირობებში სურათზე მითითებულ ადგილას ავტომანქანა გაჩერებულია გარე სანათი ხელსაწყოების ჩაურთველად?",
+    "answers": [
+      "არღვევს",
+      "არ არღვევს"
+    ]
+  },
+  {
+    "id": 941,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მძღოლს ეკრძალება სატრანსპორტო საშუალების შემდგომი მოძრაობა, თუ:",
+    "answers": [
+      "არ მუშაობს ხმოვანი სიგნალი",
+      "დღე-ღამის ბნელ დროს ერთდროულად ჩამქრალია ახლო და შორი განათების ფარები (ან მათ გარეშე) ან/და უკანა საგაბარიტო სინათლეები იმ გზაზე, რომელზედაც არ არის ხელოვნური განათება ან არასაკმარისი ხილვადობაა",
+      "მინის მწმენდები არ მუშაობენ დადგენილ რეჟიმში",
+      "დარღვეულია კვების სისტემის ჰერმეტულობა"
+    ]
+  },
+  {
+    "id": 942,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "რომელ ნახატზეა ნაჩვენები ხელების სწორი განლაგება საჭის თვალზე?",
+    "answers": [
+      "I",
+      "II",
+      "III"
+    ]
+  },
+  {
+    "id": 943,
+    "correctAnswer": 3,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "სატრანსპორტო საშუალების საბურავებში აირის დაბალმა წნევამ შეიძლება გამოიწვიოს:",
+    "answers": [
+      "მხოლოდ საწვავის ხარჯის მატება",
+      "მხოლოდ საჭით მართვის გაძნელება",
+      "მხოლოდ საბურავების გადახურება",
+      "როგორც საწვავის ხარჯის მატება, ასევე საჭით მართვის გაძნელება და საბურავების გადახურება"
+    ]
+  }
+]
