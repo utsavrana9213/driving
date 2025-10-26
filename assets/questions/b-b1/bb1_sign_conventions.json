@@ -1,199 +1,270 @@
 [
-  
   {
     "id": 561,
     "correctAnswer": 0,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q561.jpg",
     "correctVideo": "assets/videos/correct_video.mp4",
     "wrongVideo": "assets/videos/2.mp4",
     "previewVideo": "assets/videos/3.mp4",
     "question": "„გზაჯვარედინი“ არის:",
+    "questionEn": "\"Intersection\" is:",
     "answers": [
       "1\nერთ დონეზე გზების კვეთა, შეერთება ან განშტოება, ასეთი კვეთით, შეერთებით ან განშტოებით წარმოქმნილი ტერიტორიების ჩათვლით",
       "2\nმიმდებარე ტერიტორიებიდან გამოსასვლელებისა და გზების კვეთა",
       "3\nსხვადასხვა დონეზე არსებული სავალი ნაწილების კვეთა"
+    ],
+    "answersEn": [
+      "Intersection, junction or branching of roads at the same level, including the areas formed by such intersection, junction or branching",
+      "Intersection of exits from adjacent territories and roads",
+      "Crossing of carriageways at different levels"
     ]
   },
- 
-
-
   {
     "id": 562,
     "correctAnswer": 3,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q562.jpg",
     "correctVideo": "assets/videos/correct_video.mp4",
     "wrongVideo": "assets/videos/2.mp4",
     "previewVideo": "assets/videos/3.mp4",
     "question": " საგზაო-სატრანსპორტო შემთხვევის მონაწილე მძღოლი ვალდებულია:",
+    "questionEn": "The driver involved in a road traffic accident is obliged to:",
     "answers": [
       "1\nმხოლოდ მიიღოს საჭირო ზომები საგზაო-სატრანსპორტო შემთხვევის ადგილზე მოძრაობის უსაფრთხოების უზრუნველსაყოფად",
       "2\nმხოლოდ მოერიდოს შემთხვევის ადგილზე რაიმეს შეცვლას ან იმ ნაკვალევის განადგურებას, რომელიც შესაძლოა სასარგებლო იყოს პასუხისმგებლობის დასადგენად",
       "3\n მხოლოდ ჩაიწეროს თვითმხილველთა გვარები",
       "4\nშეასრულოს ამ ბილეთში ჩამოთვლილი ყველა ქმედება"
+    ],
+    "answersEn": [
+      "Only take necessary measures to ensure traffic safety at the scene of the road traffic accident",
+      "Only avoid changing anything at the scene or destroying traces that may be useful for determining responsibility",
+      "Only record the surnames of witnesses",
+      "Perform all actions listed in this ticket"
     ]
   },
-   {
+  {
     "id": 563,
     "correctAnswer": 3,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q563.jpg",
     "correctVideo": "assets/videos/correct_video.mp4",
     "wrongVideo": "assets/videos/2.mp4",
     "previewVideo": "assets/videos/3.mp4",
     "question": " რამდენი სავალი ნაწილი აქვს მოცემულ გზას?",
+    "questionEn": "How many carriageways does the given road have?",
     "answers": [
       "1\nოთხი",
       "2\nსამი",
       "3\nორი",
       "4\nერთი"
-     
+    ],
+    "answersEn": [
+      "Four",
+      "Three",
+      "Two",
+      "One"
     ]
-  }, {
+  },
+  {
     "id": 564,
-    "correctAnswer":2,
-    "imageUrl": "assets/images/image.png",
+    "correctAnswer": 2,
+    "imageUrl": "assets/Qimages/B/q564.jpg",
     "correctVideo": "assets/videos/correct_video.mp4",
     "wrongVideo": "assets/videos/2.mp4",
     "previewVideo": "assets/videos/3.mp4",
     "question": " რამდენი სავალი ნაწილი აქვს მოცემულ გზას?",
+    "questionEn": "How many carriageways does the given road have?",
     "answers": [
       "1\nსამი",
       "2\nერთი",
       "3\nორი"
-    
-     
+    ],
+    "answersEn": [
+      "Three",
+      "One",
+      "Two"
     ]
-  }, {
+  },
+  {
     "id": 565,
     "correctAnswer": 2,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q565.jpg",
     "correctVideo": "assets/videos/correct_video.mp4",
     "wrongVideo": "assets/videos/2.mp4",
     "previewVideo": "assets/videos/3.mp4",
     "question": " ქვეითთა გადასასვლელზე შესვლამდე მძღოლი ვალდებულია დარწმუნდეს, რომ:",
+    "questionEn": "Before entering a pedestrian crossing, the driver is obliged to make sure that:",
     "answers": [
       "1\nგადასასვლელის ზედპირი არ არის მოყინული",
       "2\nგადასასვლელზე საპირისპირო მიმართულებიდან არ მოძრაობს სხვა სატრანსპორტო საშუალება",
       "3\nიძულებული არ გახდება გაჩერდეს მასზე"
-    
+    ],
+    "answersEn": [
+      "The surface of the crossing is not icy",
+      "No other vehicle is moving from the opposite direction on the crossing",
+      "Will not be forced to stop on it"
     ]
   },
-
   {
     "id": 562,
     "correctAnswer": 1,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q562.jpg",
     "correctVideo": "assets/videos/correct_video.mp4",
     "wrongVideo": "assets/videos/2.mp4",
     "previewVideo": "assets/videos/3.mp4",
-    "question": "„გზის დათმობა (დაბრკოლების არშექმნა)“ არის:",
+    "question": "„გზის დათმობა (დაბრკოლების არშექმნა) არის:",
+    "questionEn": "\"Giving way (not creating obstacles)\" is:",
     "answers": [
       "1\nსაგზაო მოძრაობის მონაწილის უფლება საგზაო მოძრაობის სხვა მონაწილეებთან შედარებით, პირველმა იმოძრაოს დასახული მიმართულებით",
       "2\nსაგზაო მოძრაობის მონაწილის ვალდებულება არ განაგრძოს ან არ განაახლოს მოძრაობა, ან არ განახორციელოს მანევრი, თუ ეს უპირატესობის (პრიორიტეტის) მქონე მოძრაობის მონაწილეს იძულებულს გახდის, უეცრად შეცვალოს მოძრაობის მიმართულება ან სიჩქარე"
+    ],
+    "answersEn": [
+      "The right of a road user to move first in the intended direction compared to other road users",
+      "The obligation of a road user not to continue or resume movement, or not to perform a maneuver, if it would force the priority (priority) road user to suddenly change direction or speed"
     ]
   },
-   {
+  {
     "id": 571,
     "correctAnswer": 0,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q571.jpg",
     "correctVideo": "assets/videos/correct_923.mp4",
     "wrongVideo": "assets/videos/wrong_923.mp4",
     "previewVideo": "assets/videos/preview_923.mp4",
     "question": "„არასაკმარის ხილვადობად“ ითვლება გვირაბში გავლისას, დღე-ღამის ბნელ დროს, ნისლის, წვიმის, თოვის და სხვა ბუნებრივი მოვლენების დროს, გზის ხილვადობის შემცირება:",
+    "questionEn": "\"Insufficient visibility\" is considered to be the reduction of road visibility during tunnel passage, at night, during fog, rain, snow and other natural phenomena:",
     "answers": [
- 
       "1\n300 მეტრზე ნაკლებ მანძილზე",
       "2\n500 მეტრზე ნაკლებ მანძილზე",
-      "3\n500 მეტრზე ნაკლებ მანძილზე"      
+      "3\n500 მეტრზე ნაკლებ მანძილზე"
+    ],
+    "answersEn": [
+      "To less than 300 meters",
+      "To less than 500 meters",
+      "To less than 500 meters"
     ]
   },
   {
     "id": 563,
     "correctAnswer": 2,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q563.jpg",
     "correctVideo": "assets/videos/correct_915.mp4",
     "wrongVideo": "assets/videos/wrong_915.mp4",
     "previewVideo": "assets/videos/preview_915.mp4",
     "question": "„დასახლებული პუნქტი“ არის:",
+    "questionEn": "\"Populated area\" is:",
     "answers": [
       "1\nნებისმიერი ტერიტორია, რომელზეც დასახლებულია ხალხი",
       "2\nნებისმიერი გზა, რომელიც განკუთვნილია ქვეითთა ინტენსიური მოძრაობისათვის",
       "3\nგანაშენიანებული ტერიტორია, სადაც შესასვლელი და გამოსასვლელი აღნიშნულია შესაბამისი საგზაო ნიშნებით"
+    ],
+    "answersEn": [
+      "Any territory where people are settled",
+      "Any road intended for intensive pedestrian traffic",
+      "Built-up territory where entry and exit are marked with appropriate road signs"
     ]
   },
   {
     "id": 564,
     "correctAnswer": 2,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q564.jpg",
     "correctVideo": "assets/videos/correct_916.mp4",
     "wrongVideo": "assets/videos/wrong_916.mp4",
     "previewVideo": "assets/videos/preview_916.mp4",
-    "question": "„დატვირთული მასა“ არის:",
+    "question": "„დატვირთული მასა არის:",
+    "questionEn": "\"Loaded mass\" is:",
     "answers": [
       "1\nსატრანსპორტო საშუალების მასა მძღოლის, მგზავრებისა და ტვირთის გარეშე, მაგრამ საწვავის სრული მარაგითა და ხელსაწყოების აუცილებელი კომპლექტით",
       "2\nქარხანა-დამამზადებელის მიერ განსაზღვრული სატრანსპორტო საშუალების მასა მძღოლის, მგზავრებისა და ტვირთის გარეშე",
       "3\nმოცემულ დროის მონაკვეთში დატვირთული სატრანსპორტო საშუალების ფაქტობრივი მასა, მძღოლისა და მგზავრების ჩათვლით"
+    ],
+    "answersEn": [
+      "Vehicle mass without driver, passengers and cargo, but with full fuel supply and necessary tool kit",
+      "Vehicle mass specified by the manufacturer without driver, passengers and cargo",
+      "Actual mass of loaded vehicle at given time, including driver and passengers"
     ]
   },
   {
     "id": 565,
     "correctAnswer": 0,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q565.jpg",
     "correctVideo": "assets/videos/correct_917.mp4",
     "wrongVideo": "assets/videos/wrong_917.mp4",
     "previewVideo": "assets/videos/preview_917.mp4",
-    "question": "„დაუტვირთავი მასა“ არის:",
+    "question": "„დაუტვირთავი მასა არის:",
+    "questionEn": "\"Unloaded mass\" is:",
     "answers": [
       "1\nქარხანა-დამამზადებელის მიერ განსაზღვრული სატრანსპორტო საშუალების მასა მძღოლის, მგზავრებისა და ტვირთის გარეშე, მაგრამ საწვავის სრული მარაგისა და ხელსაწყოების აუცილებელი კომპლექტის ჩათვლით",
       "2\nმოცემულ დროის მონაკვეთში დაუტვირთავი სატრანსპორტო საშუალების ფაქტობრივი მასა, მძღოლისა და მგზავრების ჩათვლით",
       "3\nსარეგისტრაციო სამსახურის მიერ განსაზღვრული სატრანსპორტო საშუალების მასა მძღოლის, მგზავრებისა და ტვირთის გარეშე"
+    ],
+    "answersEn": [
+      "Vehicle mass specified by the manufacturer without driver, passengers and cargo, but including full fuel supply and necessary tool kit",
+      "Actual mass of unloaded vehicle at given time, including driver and passengers",
+      "Vehicle mass specified by the registration service without driver, passengers and cargo"
     ]
   },
   {
     "id": 566,
     "correctAnswer": 0,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q566.jpg",
     "correctVideo": "assets/videos/correct_918.mp4",
     "wrongVideo": "assets/videos/wrong_918.mp4",
     "previewVideo": "assets/videos/preview_918.mp4",
-    "question": "„მიმდებარე ტერიტორია“ არის:",
+    "question": "„მიმდებარე ტერიტორია არის:",
+    "questionEn": "\"Adjacent territory\" is:",
     "answers": [
       "1\nტერიტორია, რომელიც უშუალოდ გზას ეკვრის და არ არის განკუთვნილი სატრანსპორტო საშუალების გამჭოლი მოძრაობისათვის (ეზო, საცხოვრებელი მასივი, ავტოსადგომი, ბენზინგასამართი სადგური, დაწესებულება და სხვა)",
       "2\nგზის ელემენტი, რომელიც განკუთვნილია ურელსო სატრანსპორტო საშუალების მოძრაობისათვის (გარდა ტროტუარისა, გვერდულისა, ველობილიკისა და ქვეითთა ბილიკისა)",
       "3\nერთ დონეზე გზების კვეთა, შეერთება ან განშტოება, ასეთი კვეთით, შეერთებით ან განშტოებით წარმოქმნილი ტერიტორიების ჩათვლით"
+    ],
+    "answersEn": [
+      "Territory that directly adjoins the road and is not intended for through movement of vehicles (yard, residential area, parking lot, gas station, institution, etc.)",
+      "Road element intended for movement of trackless vehicles (except sidewalk, curb, cycle path and pedestrian path)",
+      "Intersection, junction or branching of roads at the same level, including the areas formed by such intersection, junction or branching"
     ]
   },
   {
     "id": 567,
     "correctAnswer": 2,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q567.jpg",
     "correctVideo": "assets/videos/correct_919.mp4",
     "wrongVideo": "assets/videos/wrong_919.mp4",
     "previewVideo": "assets/videos/preview_919.mp4",
-    "question": "„მოძრაობის ზოლი“ არის:",
+    "question": "„მოძრაობის ზოლი არის:",
+    "questionEn": "\"Traffic lane\" is:",
     "answers": [
       "1\nკონსტრუქციულად გამოყოფილი გზის ელემენტი, რომელიც ყოფს მომიჯნავე სავალ ნაწილებს",
       "2\nმოძრაობისთვის გახსნილი გზის ან ქუჩის მთელი ზედაპირი",
       "3\nგრძივი საგზაო მონიშვნის საშუალებით მონიშნული ან მოუნიშნავი ნებისმიერი ზოლი იმ გრძივი ზოლებიდან, რომლებადაც შეიძლება დაიყოს სავალი ნაწილი, მაგრამ რომელსაც აქვს მოტოციკლისაგან განსხვავებული საავტომობილო ტრანსპორტის ერთ რიგში მოძრაობისათვის საკმარისი სიგანე"
+    ],
+    "answersEn": [
+      "Structurally separated road element that divides adjacent carriageways",
+      "Entire surface of a road or street open for movement",
+      "Any longitudinal strip marked or unmarked by longitudinal road markings from the longitudinal strips into which the carriageway can be divided, but which has sufficient width for movement of motor vehicles in one row, different from motorcycles"
     ]
   },
   {
     "id": 568,
     "correctAnswer": 2,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q568.jpg",
     "correctVideo": "assets/videos/correct_920.mp4",
     "wrongVideo": "assets/videos/wrong_920.mp4",
     "previewVideo": "assets/videos/preview_920.mp4",
-    "question": "„ნებადართული მაქსიმალური მასა“ არის:",
+    "question": "„ნებადართული მაქსიმალური მასა არის:",
+    "questionEn": "\"Maximum permitted mass\" is:",
     "answers": [
       "1\nმოცემულ დროის მონაკვეთში დატვირთული სატრანსპორტო საშუალების ფაქტობრივი მასა, მძღოლისა და მგზავრების ჩათვლით",
       "2\nტვირთით და მგზავრებით შევსებული, აღჭურვილ მდგომარეობაში მყოფი სატრანსპორტო საშუალების მასა, რომლის ზღვარს ადგენს სატრანსპორტო საშუალების ქარხანა-დამამზადებელი",
       "3\nდატვირთული სატრანსპორტო საშუალების მაქსიმალური მასა, რომელიც დასაშვებად არის გამოცხადებული იმ სახელმწიფოს კომპეტენტური ორგანოს მიერ, რომელშიც დარეგისტრირებულია სატრანსპორტო საშუალება"
+    ],
+    "answersEn": [
+      "Actual mass of loaded vehicle at given time, including driver and passengers",
+      "Mass of vehicle filled with cargo and passengers, in equipped condition, the limit of which is set by the vehicle manufacturer",
+      "Maximum mass of loaded vehicle that is declared permissible by the competent authority of the state in which the vehicle is registered"
     ]
   },
   {
     "id": 569,
     "correctAnswer": 1,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q569.jpg",
     "correctVideo": "assets/videos/correct_921.mp4",
     "wrongVideo": "assets/videos/wrong_921.mp4",
     "previewVideo": "assets/videos/preview_921.mp4",
@@ -207,7 +278,7 @@
   {
     "id": 570,
     "correctAnswer": 1,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q570.jpg",
     "correctVideo": "assets/videos/correct_922.mp4",
     "wrongVideo": "assets/videos/wrong_922.mp4",
     "previewVideo": "assets/videos/preview_922.mp4",
@@ -220,7 +291,7 @@
   {
     "id": 571,
     "correctAnswer": 1,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q571.jpg",
     "correctVideo": "assets/videos/correct_923.mp4",
     "wrongVideo": "assets/videos/wrong_923.mp4",
     "previewVideo": "assets/videos/preview_923.mp4",
@@ -234,7 +305,7 @@
   {
     "id": 572,
     "correctAnswer": 0,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q572.jpg",
     "correctVideo": "assets/videos/correct_924.mp4",
     "wrongVideo": "assets/videos/wrong_924.mp4",
     "previewVideo": "assets/videos/preview_924.mp4",
@@ -248,7 +319,7 @@
   {
     "id": 573,
     "correctAnswer": 2,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q573.jpg",
     "correctVideo": "assets/videos/correct_925.mp4",
     "wrongVideo": "assets/videos/wrong_925.mp4",
     "previewVideo": "assets/videos/preview_925.mp4",
@@ -263,273 +334,387 @@
   {
     "id": 574,
     "correctAnswer": 0,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q574.jpg",
     "correctVideo": "assets/videos/correct_926.mp4",
     "wrongVideo": "assets/videos/wrong_926.mp4",
     "previewVideo": "assets/videos/preview_926.mp4",
     "question": "იმ ორმხრივმოძრაობიან გზაზე, რომელსაც აქვს გამყოფი ზოლი, საპირისპირო მიმართულების მოძრაობის მხარედ ითვლება:",
+    "questionEn": "On a two-way road with a separating strip, the side of oncoming traffic is considered to be:",
     "answers": [
       "1\nგამყოფი ზოლის მარცხნივ არსებული სავალი ნაწილი",
       "2\nგამყოფი ზოლის მარჯვნივ არსებული სავალი ნაწილი",
       "3\nამ ბილეთში ჩამოთვლილი არცერთი"
+    ],
+    "answersEn": [
+      "The carriageway to the left of the separating strip",
+      "The carriageway to the right of the separating strip",
+      "None of those listed in this ticket"
     ]
   },
   {
     "id": 575,
     "correctAnswer": 0,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q575.jpg",
     "correctVideo": "assets/videos/correct_927.mp4",
     "wrongVideo": "assets/videos/wrong_927.mp4",
     "previewVideo": "assets/videos/preview_927.mp4",
     "question": "თუ მძღოლი ვერ განსაზღვრავს გზაზე საფარის არსებობას (სიბნელის, თოვლის, ტალახის გამო ან სხვა მიზეზით) და არც პრიორიტეტის ნიშნებია, ითვლება, რომ ის იმყოფება:",
+    "questionEn": "If the driver cannot determine the presence of road surface (due to darkness, snow, mud or other reasons) and there are no priority signs, it is considered that they are on:",
     "answers": [
       "1\nმეორეხარისხოვან გზაზე",
       "2\nმთავარ გზაზე",
       "3\nავტომაგისტრალთან გათანაბრებულ გზაზე"
+    ],
+    "answersEn": [
+      "A secondary road",
+      "The main road",
+      "A road equivalent to a highway"
     ]
   },
   {
     "id": 576,
     "correctAnswer": 1,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q576.jpg",
     "correctVideo": "assets/videos/correct_928.mp4",
     "wrongVideo": "assets/videos/wrong_928.mp4",
     "previewVideo": "assets/videos/preview_928.mp4",
     "question": "თუ გზაზე საგზაო სამუშაოების მწარმოებელი ორგანიზაციის ავტომობილზე დაყენებული დროებითი საგზაო ნიშნის მოთხოვნები ეწინააღმდეგება იმავე გზის მონაკვეთზე სტაციონარულად დაყენებულ საგზაო ნიშნის მოთხოვნებს მძღოლი ვალდებულია შეასრულოს:",
+    "questionEn": "If the requirements of a temporary road sign installed on a road works vehicle contradict the requirements of a permanently installed road sign on the same road section, the driver is obliged to comply with:",
     "answers": [
       "1\nსტაციონარულად დაყენებული საგზაო ნიშნის მოთხოვნები",
       "2\nსაგზაო სამუშაოების მწარმოებელი ორგანიზაციის ავტომობილზე დაყენებული დროებითი საგზაო ნიშნის მოთხოვნები"
+    ],
+    "answersEn": [
+      "The requirements of the permanently installed road sign",
+      "The requirements of the temporary road sign installed on the road works vehicle"
     ]
   },
   {
     "id": 577,
     "correctAnswer": 2,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q577.jpg",
     "correctVideo": "assets/videos/correct_929.mp4",
     "wrongVideo": "assets/videos/wrong_929.mp4",
     "previewVideo": "assets/videos/preview_929.mp4",
     "question": "მოტოციკლის, ავტობუსის, მსუბუქი და სატვირთო ავტომობილების მართვა შეუძლია მხოლოდ იმ პირს:",
+    "questionEn": "Only a person can drive motorcycles, buses, light and cargo vehicles:",
     "answers": [
       "1\nრომლის ჯანმრთელობის მდგომარეობაც შეესაბამება საქართველოს კანონმდებლობით განსაზღვრულ სატრანსპორტო საშუალებათა მართვისთვის საჭირო ჯანმრთელობის მდგომარეობისადმი მოთხოვნებს",
       "2\nრომელსაც საქართველოს კანონმდებლობით დადგენილი წესით მიენიჭა შესაბამისი კატეგორიის ან/და ქვეკატეგორიის სატრანსპორტო საშუალების მართვის უფლება და ეს უფლება არ არის შეჩერებული ან შეწყვეტილი",
       "3\nრომელიც აკმაყოფილებს ამ ბილეთში ჩამოთვლილ ყველა პირობას"
+    ],
+    "answersEn": [
+      "Whose health condition meets the requirements for the health condition necessary for driving vehicles as defined by Georgian legislation",
+      "Who has been granted the right to drive the appropriate category and/or subcategory of vehicle according to the procedure established by Georgian legislation and this right is not suspended or terminated",
+      "Who meets all the conditions listed in this ticket"
     ]
   },
   {
     "id": 578,
     "correctAnswer": 2,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q578.jpg",
     "correctVideo": "assets/videos/correct_930.mp4",
     "wrongVideo": "assets/videos/wrong_930.mp4",
     "previewVideo": "assets/videos/preview_930.mp4",
-    "question": "„B“ კატეგორიის სატრანსპორტო საშუალების მართვის უფლების მქონე პირს უფლება აქვს მართოს ავტომობილი, რომლის დასასხდომი ადგილების რაოდენობა, გარდა მძღოლის ადგილისა, 8-ს არ აღემატება და რომლის ნებადართული მაქსიმალური მასა:",
+    "question": "\"B\" კატეგორიის სატრანსპორტო საშუალების მართვის უფლების მქონე პირს უფლება აქვს მართოს ავტომობილი, რომლის დასასხდომი ადგილების რაოდენობა, გარდა მძღოლის ადგილისა, 8-ს არ აღემატება და რომლის ნებადართული მაქსიმალური მასა:",
+    "questionEn": "A person with the right to drive category \"B\" vehicles has the right to drive a vehicle with a number of seats, excluding the driver's seat, not exceeding 8 and whose maximum permitted mass:",
     "answers": [
       "1\nაღემატება 4 500კგ-ს",
       "2\nაღემატება 3 500კგ-ს, მაგრამ არ აღემატება 4 500კგ-ს",
       "3\nარ აღემატება 3 500 კგ-ს"
+    ],
+    "answersEn": [
+      "Exceeds 4,500 kg",
+      "Exceeds 3,500 kg but does not exceed 4,500 kg",
+      "Does not exceed 3,500 kg"
     ]
   },
   {
     "id": 579,
     "correctAnswer": 0,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q579.jpg",
     "correctVideo": "assets/videos/correct_931.mp4",
     "wrongVideo": "assets/videos/wrong_931.mp4",
     "previewVideo": "assets/videos/preview_931.mp4",
-    "question": "„B“ კატეგორიის სატრანსპორტო საშუალების მართვის უფლების მქონე პირს, უფლება აქვს მართოს არა უმეტეს 3 500 კგ-ს ნებადართული მაქსიმალური მასის მქონე მსუბუქი ავტომობილი, რომლის დასასხდომი ადგილების რაოდენობა, გარდა მძღოლის ადგილისა:",
+    "question": "\"B\" კატეგორიის სატრანსპორტო საშუალების მართვის უფლების მქონე პირს, უფლება აქვს მართოს არა უმეტეს 3 500 კგ-ს ნებადართული მაქსიმალური მასის მქონე მსუბუქი ავტომობილი, რომლის დასასხდომი ადგილების რაოდენობა, გარდა მძღოლის ადგილისა:",
+    "questionEn": "A person with the right to drive category \"B\" vehicles has the right to drive a light vehicle with a maximum permitted mass not exceeding 3,500 kg, with a number of seats, excluding the driver's seat:",
     "answers": [
       "1\nარ აღემატება 8-ს",
       "2\nაღემატება 16-ს",
       "3\nაღემატება 8-ს, მაგრამ არ აღემატება 16-ს"
+    ],
+    "answersEn": [
+      "Does not exceed 8",
+      "Exceeds 16",
+      "Exceeds 8 but does not exceed 16"
     ]
   },
   {
     "id": 580,
     "correctAnswer": 1,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q580.jpg",
     "correctVideo": "assets/videos/correct_932.mp4",
     "wrongVideo": "assets/videos/wrong_932.mp4",
     "previewVideo": "assets/videos/preview_932.mp4",
-    "question": "აქვს თუ არა უფლება „B“ კატეგორიის სატრანსპორტო საშუალების მართვის უფლების მქონე მძღოლს მართოს „B“ კატეგორიის ავტომობილი მისაბმელით, რომლის ნებადართული მაქსიმალური მასა აღემატება 750 კგ-ს, მაგრამ არ აღემატება ავტომობილის დაუტვირთავ მასას, თუ ასეთი შემადგენლობის საერთო ნებადართული მაქსიმალური მასა არ აღემატება 3 500 კგ-ს?",
+    "question": "აქვს თუ არა უფლება \"B\"კატეგორიის სატრანსპორტო საშუალების მართვის უფლების მქონე მძღოლს მართოს \"B\" კატეგორიის ავტომობილი მისაბმელით, რომლის ნებადართული მაქსიმალური მასა აღემატება 750 კგ-ს, მაგრამ არ აღემატება ავტომობილის დაუტვირთავ მასას, თუ ასეთი შემადგენლობის საერთო ნებადართული მაქსიმალური მასა არ აღემატება 3 500 კგ-ს?",
+    "questionEn": "Does a driver with the right to drive category \"B\" vehicles have the right to drive a category \"B\" vehicle with a trailer whose maximum permitted mass exceeds 750 kg but does not exceed the vehicle's unloaded mass, if the total maximum permitted mass of such a combination does not exceed 3,500 kg?",
     "answers": [
       "1\nარ აქვს უფლება",
       "2\nაქვს უფლება"
+    ],
+    "answersEn": [
+      "Does not have the right",
+      "Has the right"
     ]
   },
   {
     "id": 581,
     "correctAnswer": 0,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q581.jpg",
     "correctVideo": "assets/videos/correct_933.mp4",
     "wrongVideo": "assets/videos/wrong_933.mp4",
     "previewVideo": "assets/videos/preview_933.mp4",
-    "question": "აქვს თუ არა უფლება „BE“ კატეგორიის სატრანსპორტო საშუალების მართვის უფლების მქონე მძღოლს, მართოს „B“ კატეგორიის ავტომობილი გადაბმული მისაბმელით, რომლის ნებადართული მაქსიმალური მასა აღემატება 750 კგ-ს, თუ ასეთი შემადგენლობის საერთო ნებადართული მაქსიმალური მასა აღემატება 3500 კგ-ს?",
+    "question": "აქვს თუ არა უფლება \"BE\" კატეგორიის სატრანსპორტო საშუალების მართვის უფლების მქონე მძღოლს, მართოს \"B\" კატეგორიის ავტომობილი გადაბმული მისაბმელით, რომლის ნებადართული მაქსიმალური მასა აღემატება 750 კგ-ს, თუ ასეთი შემადგენლობის საერთო ნებადართული მაქსიმალური მასა აღემატება 3500 კგ-ს?",
+    "questionEn": "Does a driver with the right to drive category \"BE\" vehicles have the right to drive a category \"B\" vehicle coupled with a trailer whose maximum permitted mass exceeds 750 kg, if the total maximum permitted mass of such a combination exceeds 3,500 kg?",
     "answers": [
       "1\nაქვს უფლება",
       "2\nარ აქვს უფლება"
+    ],
+    "answersEn": [
+      "Has the right",
+      "Does not have the right"
     ]
   },
   {
     "id": 582,
     "correctAnswer": 2,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q582.jpg",
     "correctVideo": "assets/videos/correct_934.mp4",
     "wrongVideo": "assets/videos/wrong_934.mp4",
     "previewVideo": "assets/videos/preview_934.mp4",
     "question": "„B“ კატეგორიის სატრანსპორტო საშუალების მართვის უფლების მქონე პირს, აგრეთვე რომელი ქვეკატეგორიის სატრანსპორტო საშუალების მართვის უფლება აქვს?",
+    "questionEn": "A person with the right to drive category \"B\" vehicles also has the right to drive which subcategory of vehicles?",
     "answers": [
-      "1\n„A1“",
-      "2\n„C1“",
-      "3\n„B1“",
-      "4\n„A1“ და „B1“"
+      "1\n„A1",
+      "2\n„C1",
+      "3\n„B1",
+      "4\n„A1 და \"B\""
+    ],
+    "answersEn": [
+      "\"A1\"",
+      "\"C1\"",
+      "\"B1\"",
+      "\"A1\" and \"B1\""
     ]
   },
   {
     "id": 583,
     "correctAnswer": 2,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q583.jpg",
     "correctVideo": "assets/videos/correct_935.mp4",
     "wrongVideo": "assets/videos/wrong_935.mp4",
     "previewVideo": "assets/videos/preview_935.mp4",
-    "question": "„B“ კატეგორიის სატრანსპორტო საშუალების მართვის უფლების მქონე პირს უფლება აქვს მართოს თვლიანი სასოფლო-სამეურნეო ტრაქტორი, რომლის ნებადართული მაქსიმალური მასა:",
+    "question": "\"B\" კატეგორიის სატრანსპორტო საშუალების მართვის უფლების მქონე პირს უფლება აქვს მართოს თვლიანი სასოფლო-სამეურნეო ტრაქტორი, რომლის ნებადართული მაქსიმალური მასა:",
+    "questionEn": "A person with the right to drive category \"B\" vehicles has the right to drive a wheeled agricultural tractor whose maximum permitted mass:",
     "answers": [
       "1\nაღემატება 4250 კგ-ს, მაგრამ არ აღემატება 8250 კგ-ს",
       "2\nაღემატება 4250 კგ-ს, მაგრამ არ აღემატება 12000 კგ-ს",
       "3\nარ აღემატება 4250 კგ-ს"
+    ],
+    "answersEn": [
+      "Exceeds 4,250 kg but does not exceed 8,250 kg",
+      "Exceeds 4,250 kg but does not exceed 12,000 kg",
+      "Does not exceed 4,250 kg"
     ]
   },
   {
     "id": 584,
     "correctAnswer": 0,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q584.jpg",
     "correctVideo": "assets/videos/correct_936.mp4",
     "wrongVideo": "assets/videos/wrong_936.mp4",
     "previewVideo": "assets/videos/preview_936.mp4",
-    "question": "„B“ კატეგორიის სატრანსპორტო საშუალების მართვის უფლების მქონე პირს, აგრეთვე უფლება აქვს მართოს თვლიანი სასოფლო-სამეურნეო ტრაქტორი გადაბმული მისაბმელით, თუ ასეთი შემადგენლობის საერთო ნებადართული მაქსიმალური მასა:",
+    "question": "\"B\"კატეგორიის სატრანსპორტო საშუალების მართვის უფლების მქონე პირს, აგრეთვე უფლება აქვს მართოს თვლიანი სასოფლო-სამეურნეო ტრაქტორი გადაბმული მისაბმელით, თუ ასეთი შემადგენლობის საერთო ნებადართული მაქსიმალური მასა:",
+    "questionEn": "A person with the right to drive category \"B\" vehicles also has the right to drive a wheeled agricultural tractor coupled with a trailer if the total maximum permitted mass of such a combination:",
     "answers": [
       "1\nარ აღემატება 4250 კგ-ს",
       "2\nაღემატება 4250 კგ-ს, მაგრამ არ აღემატება 5500 კგ-ს",
       "3\nაღემატება 4250 კგ-ს, მაგრამ არ აღემატება 75000 კგ-ს"
+    ],
+    "answersEn": [
+      "Does not exceed 4,250 kg",
+      "Exceeds 4,250 kg but does not exceed 5,500 kg",
+      "Exceeds 4,250 kg but does not exceed 75,000 kg"
     ]
   },
   {
     "id": 585,
     "correctAnswer": 2,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q585.jpg",
     "correctVideo": "assets/videos/correct_937.mp4",
     "wrongVideo": "assets/videos/wrong_937.mp4",
     "previewVideo": "assets/videos/preview_937.mp4",
     "question": "რომელი საცნობი ნიშანი მაგრდება იმ მექანიკური სატრანსპორტო საშუალების უკანა მხარეს, რომელზედაც დამაგრებულია კოტებიანი სალტეები?",
+    "questionEn": "Which identification sign is attached to the rear of a mechanical vehicle equipped with spiked wheels?",
     "answers": [
       "1\nმხოლოდ III",
       "2\nმხოლოდ I",
       "3\nმხოლოდ II",
       "4\nსამივე"
+    ],
+    "answersEn": [
+      "Only III",
+      "Only I",
+      "Only II",
+      "All three"
     ]
   },
   {
     "id": 586,
     "correctAnswer": 1,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q586.jpg",
     "correctVideo": "assets/videos/correct_938.mp4",
     "wrongVideo": "assets/videos/wrong_938.mp4",
     "previewVideo": "assets/videos/preview_938.mp4",
     "question": "რომელი საცნობი ნიშანი მაგრდება სახიფათო ტვირთის გადამზიდი სატრანსპორტო საშუალების წინა და უკანა მხარეს?",
+    "questionEn": "Which identification sign is attached to the front and rear of a vehicle transporting hazardous cargo?",
     "answers": [
       "1\nმხოლოდ I",
       "2\nმხოლოდ II",
       "3\nმხოლოდ III",
       "4\nმხოლოდ I და II"
+    ],
+    "answersEn": [
+      "Only I",
+      "Only II",
+      "Only III",
+      "Only I and II"
     ]
   },
   {
     "id": 587,
     "correctAnswer": 2,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q587.jpg",
     "correctVideo": "assets/videos/correct_939.mp4",
     "wrongVideo": "assets/videos/wrong_939.mp4",
     "previewVideo": "assets/videos/preview_939.mp4",
     "question": "რომელი საცნობი ნიშანი მაგრდება იმ მექანიკური სატრანსპორტო საშუალების წინა და უკანა მხარეს, რომელსაც სმენადაქვეითებული მძღოლი მართავს?",
+    "questionEn": "Which identification sign is attached to the front and rear of a mechanical vehicle driven by a hearing-impaired driver?",
     "answers": [
       "1\nმხოლოდ III",
       "2\nმხოლოდ II",
       "3\nმხოლოდ I"
+    ],
+    "answersEn": [
+      "Only III",
+      "Only II",
+      "Only I"
     ]
   },
   {
     "id": 588,
     "correctAnswer": 0,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q588.jpg",
     "correctVideo": "assets/videos/correct_940.mp4",
     "wrongVideo": "assets/videos/wrong_940.mp4",
     "previewVideo": "assets/videos/preview_940.mp4",
     "question": "რომელი საცნობი ნიშანი მაგრდება მართვის სწავლებისათვის განკუთვნილი მექანიკური სატრანსპორტო საშუალების წინა და უკანა მხარეს?",
+    "questionEn": "Which identification sign is attached to the front and rear of a mechanical vehicle intended for driving instruction?",
     "answers": [
       "1\nმხოლოდ III",
       "2\nმხოლოდ II",
       "3\nმხოლოდ I"
+    ],
+    "answersEn": [
+      "Only III",
+      "Only II",
+      "Only I"
     ]
   },
   {
     "id": 589,
     "correctAnswer": 1,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q589.jpg",
     "correctVideo": "assets/videos/correct_941.mp4",
     "wrongVideo": "assets/videos/wrong_941.mp4",
     "previewVideo": "assets/videos/preview_941.mp4",
     "question": "რომელი საცნობი ნიშანი მაგრდება იმ სატრანსპორტო საშუალებაზე, რომლის სიჩქარე ტვირთის გათვალისწინებით და ტექნიკური მახასიათებლებით კანონმდებლობით დადგენილზე ნაკლებია?",
+    "questionEn": "Which identification sign is attached to a vehicle whose speed, considering the cargo and technical characteristics, is less than that established by legislation?",
     "answers": [
       "1\nმხოლოდ III",
       "2\nმხოლოდ II",
       "3\nმხოლოდ I"
+    ],
+    "answersEn": [
+      "Only III",
+      "Only II",
+      "Only I"
     ]
   },
   {
     "id": 590,
     "correctAnswer": 1,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q590.jpg",
     "correctVideo": "assets/videos/correct_942.mp4",
     "wrongVideo": "assets/videos/wrong_942.mp4",
     "previewVideo": "assets/videos/preview_942.mp4",
     "question": "მძღოლის სურვილისამებრ რომელი საცნობი ნიშანი შეიძლება დამაგრდეს იმ მექანიკური სატრანსპორტო საშუალების წინა და უკანა მხარეს, რომელსაც შეზღუდული შესაძლებლობების მქონე პირები მართავენ, ან ტრანსპორტზე, რომელსაც გადაჰყავს ასეთი პირები?",
+    "questionEn": "At the driver's discretion, which identification sign can be attached to the front and rear of a mechanical vehicle driven by persons with disabilities, or on transport carrying such persons?",
     "answers": [
       "1\nმხოლოდ III",
       "2\nმხოლოდ II",
       "3\nმხოლოდ I"
+    ],
+    "answersEn": [
+      "Only III",
+      "Only II",
+      "Only I"
     ]
   },
   {
     "id": 591,
     "correctAnswer": 1,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q591.jpg",
     "correctVideo": "assets/videos/correct_943.mp4",
     "wrongVideo": "assets/videos/wrong_943.mp4",
     "previewVideo": "assets/videos/preview_943.mp4",
     "question": "მძღოლის სურვილისამებრ რომელი საცნობი ნიშანი შეიძლება დამაგრდეს იმ სატრანსპორტო საშუალებაზე, რომელსაც ექიმი მძღოლი მართავს?",
+    "questionEn": "At the driver's discretion, which identification sign can be attached to a vehicle driven by a doctor?",
     "answers": [
       "1\nმხოლოდ III",
       "2\nმხოლოდ II",
       "3\nმხოლოდ I"
+    ],
+    "answersEn": [
+      "Only III",
+      "Only II",
+      "Only I"
     ]
   },
   {
     "id": 592,
     "correctAnswer": 1,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q592.jpg",
     "correctVideo": "assets/videos/correct_944.mp4",
     "wrongVideo": "assets/videos/wrong_944.mp4",
     "previewVideo": "assets/videos/preview_944.mp4",
     "question": "მოცემული საგზაო ნიშანი იდგმება:",
+    "questionEn": "The given road sign is placed:",
     "answers": [
-      "1\nსაპატრულო პოლიციის საგუშაგოებთან",
-      "2\nსაქართველოს ტერიტორიაზე, შემოსასვლელებში, საკონტროლო გამშვებ პუნქტებთან",
-      "3\nავტომაგისტრალის დასაწყისში"
+      "1\nსაგზაო სამუშაოების ზონის დასაწყისში",
+      "2\nსაგზაო სამუშაოების ზონის დასასრულში",
+      "3\nსაგზაო სამუშაოების ზონაში"
+    ],
+    "answersEn": [
+      "At the beginning of the road works zone",
+      "At the end of the road works zone",
+      "In the road works zone"
     ]
   },
   {
     "id": 593,
     "correctAnswer": 0,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q593.jpg",
     "correctVideo": "assets/videos/correct_945.mp4",
     "wrongVideo": "assets/videos/wrong_945.mp4",
     "previewVideo": "assets/videos/preview_945.mp4",
@@ -542,7 +727,7 @@
   {
     "id": 594,
     "correctAnswer": 2,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q594.jpg",
     "correctVideo": "assets/videos/correct_946.mp4",
     "wrongVideo": "assets/videos/wrong_946.mp4",
     "previewVideo": "assets/videos/preview_946.mp4",
@@ -556,7 +741,7 @@
   {
     "id": 595,
     "correctAnswer": 2,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q595.jpg",
     "correctVideo": "assets/videos/correct_947.mp4",
     "wrongVideo": "assets/videos/wrong_947.mp4",
     "previewVideo": "assets/videos/preview_947.mp4",
@@ -570,7 +755,7 @@
   {
     "id": 596,
     "correctAnswer": 2,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q596.jpg",
     "correctVideo": "assets/videos/correct_948.mp4",
     "wrongVideo": "assets/videos/wrong_948.mp4",
     "previewVideo": "assets/videos/preview_948.mp4",
@@ -584,7 +769,7 @@
   {
     "id": 597,
     "correctAnswer": 0,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q597.jpg",
     "correctVideo": "assets/videos/correct_949.mp4",
     "wrongVideo": "assets/videos/wrong_949.mp4",
     "previewVideo": "assets/videos/preview_949.mp4",
@@ -596,11 +781,10 @@
       "4\nამ ბილეთში ჩამოთვლილი არცერთი გარემოება გასათვალისწინებელი არ არის"
     ]
   },
-
-   {
+  {
     "id": 570,
     "correctAnswer": 1,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q570.jpg",
     "correctVideo": "assets/videos/correct_922.mp4",
     "wrongVideo": "assets/videos/wrong_922.mp4",
     "previewVideo": "assets/videos/preview_922.mp4",
@@ -613,7 +797,7 @@
   {
     "id": 571,
     "correctAnswer": 1,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q571.jpg",
     "correctVideo": "assets/videos/correct_923.mp4",
     "wrongVideo": "assets/videos/wrong_923.mp4",
     "previewVideo": "assets/videos/preview_923.mp4",
@@ -624,10 +808,10 @@
       "3\n2500 კგ–მდე სრული მასის მქონე მოტოციკლი"
     ]
   },
-   {
+  {
     "id": 570,
     "correctAnswer": 1,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q570.jpg",
     "correctVideo": "assets/videos/correct_922.mp4",
     "wrongVideo": "assets/videos/wrong_922.mp4",
     "previewVideo": "assets/videos/preview_922.mp4",
@@ -637,6 +821,4 @@
       "2\nგარემოება, რომლის დროსაც მოკლე მოსახვევი, აღმართის დასასრული, გამწვანება, გზისპირა ნაგებობა ან გზაზე არსებული დაბრკოლება მოძრაობის მიმართულებით გზის ხილვადობას ისე ამცირებს, რომ აღნიშნულ გზის მონაკვეთზე ნებადართული მაქსიმალური სიჩქარით მოძრაობამ შეიძლება საფრთხე წარმოშვას"
     ]
   }
- 
-
 ]

@@ -2,345 +2,497 @@
   {
     "id": 679,
     "correctAnswer": 3,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q679.jpg",
     "correctVideo": "assets/videos/correct_1.mp4",
     "wrongVideo": "assets/videos/wrong_1.mp4",
     "previewVideo": "assets/videos/preview_1.mp4",
     "question": "თუ შუქნიშანის წინ დგანან ბავშვები, შუქნიშანთან მიახლოებული სატრანსპორტო საშუალების მძღოლმა უნდა გაითვალისწინოს:",
+    "questionEn": "If there are children standing in front of the traffic light, the driver of an approaching vehicle should consider:",
     "answers": [
       "1\nმხოლოდ, ის გარემოება რომ ბავშვები შეიძლება სავალ ნაწილზე გადმოვიდნენ შუქნიშნის მწვანე მაშუქი სიგნალის ყვითელი სიგნალით შეცვლისთანავე",
       "2\nმხოლოდ, ის გარემოება რომ ჯგუფიდან ხელის კვრით რომელიმე ბავშვს შეიძლება აიძულონ სავალ ნაწილზე გადმოსვლა",
       "3\nმხოლოდ, ის გარემოება რომ შეიძლება ბავშვები სავალ ნაწილზე გადმოვიდნენ მათთვის მოძრაობის ნებადამრთველი შუქნიშნის სიგნალის ჩართვამდე",
       "4\nამ ბილეთში ჩამოთვლილი ყველა გარემოება"
+    ],
+    "answersEn": [
+      "1\nOnly the circumstance that children may cross into the roadway immediately after the green traffic light signal changes to yellow",
+      "2\nOnly the circumstance that a child from the group may be forced to cross into the roadway by hand gestures",
+      "3\nOnly the circumstance that children may cross into the roadway before the traffic light signal permitting movement turns on for them",
+      "4\nAll circumstances listed in this ticket"
     ]
   },
   {
     "id": 680,
     "correctAnswer": 3,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q680.jpg",
     "correctVideo": "assets/videos/correct_2.mp4",
     "wrongVideo": "assets/videos/wrong_2.mp4",
     "previewVideo": "assets/videos/preview_2.mp4",
     "question": "მსუბუქი ავტომობილის შიდა უკუხედვის სარკის გამოყენებისას მძღოლმა უნდა გაითვალისწინოს:",
+    "questionEn": "When using the interior rearview mirror of a light vehicle, the driver should consider:",
     "answers": [
       "1\nმხოლოდ ის გარემოება, რომ სარკე დარეგულირებული უნდა იყოს მძღოლის სიმაღლის შესაბამისად",
       "2\nმხოლოდ ის გარემოება, რომ ამობურცულ სარკეში საგნები უფრო შორს ჩანს ვიდრე სინამდვილეშია",
       "3\nმხოლოდ ის გარემოება, რომ სარკეს გააჩნია „უხილავი უბნები“, რის გამოც იგი ყოველთვის ვერ უზრუნველყოფს სრულყოფილ მხედველობის არეს და გამსწრები სატრანსპორტო საშუალების თვალის მიდევნას",
       "4\nამ ბილეთში ჩამოთვლილი ყველა გარემოება"
+    ],
+    "answersEn": [
+      "1\nOnly the circumstance that the mirror should be adjusted according to the driver's height",
+      "2\nOnly the circumstance that objects appear farther in a convex mirror than they actually are",
+      "3\nOnly the circumstance that the mirror has 'blind spots', so it does not always provide a complete field of vision and tracking of overtaking vehicles",
+      "4\nAll circumstances listed in this ticket"
     ]
   },
   {
     "id": 681,
     "correctAnswer": 3,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q681.jpg",
     "correctVideo": "assets/videos/correct_3.mp4",
     "wrongVideo": "assets/videos/wrong_3.mp4",
     "previewVideo": "assets/videos/preview_3.mp4",
     "question": "გარდა კანონით განსაზღვრული მაქსიმალური სიჩქარის შეზღუდვისა, მძღოლს ეკრძალება გადააჭარბოს:",
+    "questionEn": "In addition to the maximum speed limit established by law, the driver is prohibited from exceeding:",
     "answers": [
       "1\nმხოლოდ სატრანსპორტო საშუალებისათვის დადგენილი მაქსიმალური კონსტრუქციული სიჩქარეს",
       "2\nმხოლოდ სატრანსპორტო საშუალებაზე დამაგრებულ საცნობ ნიშანზე „სიჩქარის შეზღუდვა“ მითითებული სიჩქარეს",
       "3\nმხოლოდ საგზაო ნიშნით დადგენილი მაქსიმალური სიჩქარეს",
       "4\nროგორც სატრანსპორტო საშუალებისათვის დადგენილი მაქსიმალური კონსტრუქციულ, ასევე სატრანსპორტო საშუალებაზე დამაგრებულ საცნობ ნიშანზე „სიჩქარის შეზღუდვა“ მითითებულ და საგზაო ნიშნით დადგენილ მაქსიმალურ სიჩქარეს"
+    ],
+    "answersEn": [
+      "1\nOnly the maximum constructive speed established for the vehicle",
+      "2\nOnly the speed indicated on the 'speed limit' identification mark attached to the vehicle",
+      "3\nOnly the maximum speed established by road signs",
+      "4\nBoth the maximum constructive speed established for the vehicle, the speed indicated on the 'speed limit' identification mark attached to the vehicle, and the maximum speed established by road signs"
     ]
   },
   {
     "id": 682,
     "correctAnswer": 3,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q682.jpg",
     "correctVideo": "assets/videos/correct_4.mp4",
     "wrongVideo": "assets/videos/wrong_4.mp4",
     "previewVideo": "assets/videos/preview_4.mp4",
     "question": "გზაზე მოძრაობისას, ქვემოთ ჩამოთვლილ რომელ შემთხვევაში არ არის ვალდებული მექანიკური სატრანსპორტო საშუალების მძღოლი ისარგებლობს უსაფრთხოების ღვედით?",
+    "questionEn": "While driving on the road, in which of the following cases is the driver of a mechanical vehicle not required to use a seat belt?",
     "answers": [
       "1\nთუ იგი მოძრაობს დასახლებულ პუნქტში",
       "2\nთუ იგი მოძრაობს ოპერატიული სამსახურის ავტომობილით",
       "3\nთუ იგი შეზღუდული შესაძლებლობის მქონე პირია",
       "4\nთუ მექანიკური სატრანსპორტო საშუალების კონსტრუქცია არ ითვალისწინებს უსაფრთხოების ღვედებს"
+    ],
+    "answersEn": [
+      "1\nIf driving in a populated area",
+      "2\nIf driving an emergency service vehicle",
+      "3\nIf the person has limited abilities",
+      "4\nIf the mechanical vehicle's construction does not provide for seat belts"
     ]
   },
   {
     "id": 683,
     "correctAnswer": 3,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q683.jpg",
     "correctVideo": "assets/videos/correct_5.mp4",
     "wrongVideo": "assets/videos/wrong_5.mp4",
     "previewVideo": "assets/videos/preview_5.mp4",
     "question": "ქვემოთ ჩამოთვლილი რომელი ფაქტორი არ ახდენს ზეგავლენას მძღოლის მოქმედებაზე?",
+    "questionEn": "Which of the following factors does not affect driver behavior?",
     "answers": [
       "1\nუძილობა",
       "2\nდაღლილობა",
       "3\nალკოჰოლის მიღება",
       "4\nამ ბილეთში ჩამოთვლილი არც ერთი პასუხი არ არის სწორი"
+    ],
+    "answersEn": [
+      "1\nInsomnia",
+      "2\nFatigue",
+      "3\nAlcohol consumption",
+      "4\nNone of the answers listed in this ticket are correct"
     ]
   },
   {
     "id": 684,
     "correctAnswer": 1,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q684.jpg",
     "correctVideo": "assets/videos/correct_6.mp4",
     "wrongVideo": "assets/videos/wrong_6.mp4",
     "previewVideo": "assets/videos/preview_6.mp4",
     "question": "დასაშვებია თუ არა სატრანსპორტო საშუალების მართვისას მძღოლის მიერ მობილური კომუნიკაციის საშუალებით სარგებლობა?",
+    "questionEn": "Is it permissible for a driver to use mobile communication devices while driving a vehicle?",
     "answers": [
       "1\nდაუშვებელია ნებისმიერ შემთხვევაში",
       "2\nდასაშვებია, თუ იგი სარგებლობს მობილური კომუნიკაციის ხმამაღალი საუბრის ფუნქციით და ორივე ხელი თავისუფალი აქვს სატრანსპორტო საშუალების სამართავად",
       "3\nდასაშვებია, თუ ერთი ხელი თავისუფალი აქვს სატრანსპორტო საშუალების სამართავად"
+    ],
+    "answersEn": [
+      "1\nNot permitted in any case",
+      "2\nPermitted if using the hands-free function of mobile communication and both hands are free for vehicle control",
+      "3\nPermitted if one hand is free for vehicle control"
     ]
   },
   {
     "id": 685,
     "correctAnswer": 1,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q685.jpg",
     "correctVideo": "assets/videos/correct_7.mp4",
     "wrongVideo": "assets/videos/wrong_7.mp4",
     "previewVideo": "assets/videos/preview_7.mp4",
     "question": "ქვემოდ ჩამოთვლილი რომელი უწესრიგობის დროს ეკრძალება მძღოლს სატრანსპორტო საშუალებით მოძრაობა?",
+    "questionEn": "During which of the following malfunctions is the driver prohibited from driving a vehicle?",
     "answers": [
       "1\nმხოლოდ ხმოვანი სიგნალის გაუმართაობის დროს",
       "2\nმხოლოდ საჭის მექანიზმის გაუმართაობის დროს",
       "3\nმხოლოდ ნისლსაწინააღმდეგო ფარნების გაუმართაობის დროს",
       "4\nამ ბილეთში ჩამოთვლილ ნებისმიერ შემთხვევაში"
+    ],
+    "answersEn": [
+      "1\nOnly during horn malfunction",
+      "2\nOnly during steering mechanism malfunction",
+      "3\nOnly during fog light malfunction",
+      "4\nIn any of the cases listed in this ticket"
     ]
   },
   {
     "id": 686,
     "correctAnswer": 2,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q686.jpg",
     "correctVideo": "assets/videos/correct_8.mp4",
     "wrongVideo": "assets/videos/wrong_8.mp4",
     "previewVideo": "assets/videos/preview_8.mp4",
     "question": "ნისლის, წვიმის, ან თოვის დროს, მექანიკური სატრანსპორტო საშუალების მართვა აკრძალულია:",
+    "questionEn": "Driving a mechanical vehicle is prohibited during fog, rain, or snow:",
     "answers": [
       "1\nნისლსაწინააღმდეგო ფარების არ არსებობის შემთხვევაში",
       "2\nსაავარიო გაჩერების ნიშანის არ არსებობის შემთხვევაში",
       "3\nმძღოლის მხარეს არსებული მინასაწმენდის უმოქმედობის შემთხვევაში",
       "4\nამ ბილეთში ჩამოთვლილ ნებისმიერ შემთხვევაში"
+    ],
+    "answersEn": [
+      "1\nIn the absence of fog lights",
+      "2\nIn the absence of an emergency stop sign",
+      "3\nIn case of malfunction of the windshield wiper on the driver's side",
+      "4\nIn any of the cases listed in this ticket"
     ]
   },
   {
     "id": 687,
     "correctAnswer": 1,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q687.jpg",
     "correctVideo": "assets/videos/correct_9.mp4",
     "wrongVideo": "assets/videos/wrong_9.mp4",
     "previewVideo": "assets/videos/preview_9.mp4",
     "question": "მძღოლმა უნდა გაითვალისწინოს, რომ ყველაზე უფრო ხშირად გზა მოყინულია:",
+    "questionEn": "The driver should consider that the road is most often icy:",
     "answers": [
       "1\nგვირაბებში, რომლებშიც არ არის ხელოვნური განათება",
       "2\nხიდზე, გზაგამტარსა და ესტაკადაზე",
       "3\nდასახლებული პუნქტების ცენტრალურ ქუჩებზე"
+    ],
+    "answersEn": [
+      "1\nIn tunnels without artificial lighting",
+      "2\nOn bridges, overpasses, and viaducts",
+      "3\nOn central streets of populated areas"
     ]
   },
   {
     "id": 688,
     "correctAnswer": 2,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q688.jpg",
     "correctVideo": "assets/videos/correct_10.mp4",
     "wrongVideo": "assets/videos/wrong_10.mp4",
     "previewVideo": "assets/videos/preview_10.mp4",
     "question": "გზის ნათელი მონაკვეთიდან ბნელ მონაკვეთზე გასვლისას, მძღოლმა უნდა გაითვალისწინოს, რომ:",
+    "questionEn": "When exiting from a bright section of road to a dark section, the driver should consider that:",
     "answers": [
       "1\nსავალდებულოა ნისლსაწინააღმდეგო ფარების ჩართვა",
       "2\nიზრდება სატრანსპორტო საშუალების დამუხრუჭებისათვის საჭირო დრო და მანძილი",
       "3\nთვალი ნელა ეჩვევა სიბნელეს, რის გამოც მძღოლის წინ არსებული შესაძლო დაბრკოლებები რთული შესამჩნევია"
+    ],
+    "answersEn": [
+      "1\nIt is mandatory to turn on fog lights",
+      "2\nThe time and distance required for braking the vehicle increases",
+      "3\nThe eye adapts slowly to darkness, making it difficult to notice possible obstacles ahead"
     ]
   },
   {
     "id": 689,
     "correctAnswer": 0,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q689.jpg",
     "correctVideo": "assets/videos/correct_11.mp4",
     "wrongVideo": "assets/videos/wrong_11.mp4",
     "previewVideo": "assets/videos/preview_11.mp4",
     "question": "ღამე ცუდად ან არათანაბრად განათებულ გზის მონაკვეთებზე მოძრაობისას, მძღოლმა უნდა გაითვალისწინოს, რომ:",
+    "questionEn": "When driving at night on poorly or unevenly lit road sections, the driver should consider that:",
     "answers": [
       "1\nგართულებულია საგზაო მოძრაობის მონაწილეთა მიერ ერთმანეთის შემჩნევა",
       "2\nიზრდება სატრანსპორტო საშუალების დამუხრუჭებისათვის საჭირო დრო და მანძილი",
       "3\nსავალდებულოა საავარიო შუქსიგნალიზაციის ჩართვა"
+    ],
+    "answersEn": [
+      "1\nIt becomes difficult for road traffic participants to notice each other",
+      "2\nThe time and distance required for braking the vehicle increases",
+      "3\nIt is mandatory to turn on the emergency light signaling"
     ]
   },
   {
     "id": 690,
     "correctAnswer": 0,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q690.jpg",
     "correctVideo": "assets/videos/correct.mp4",
     "wrongVideo": "assets/videos/wrong.mp4",
     "previewVideo": "assets/videos/preview.mp4",
     "question": "მოყინულ გზის მონაკვეთზე მძღოლმა:",
+    "questionEn": "On an icy road section, the driver should:",
     "answers": [
       "შეძლებისდაგვარად თავი უნდა აარიდოს დამუხრუჭებას, სიჩქარის ცვლილებასა და მიმართულების მკვეთრ შეცვლას",
       "დამუხრუჭებისათვის დამატებით უნდა გამოიყენოს ხელის მუხრუჭი",
       "მიმართულების შეცვლა უნდა განახორციელოს საჭის მკვეთრი მობრუნებითა და სიჩქარის მომატებით"
+    ],
+    "answersEn": [
+      "1\nAs much as possible, avoid braking, speed changes, and sharp direction changes",
+      "2\nAdditionally use the hand brake for braking",
+      "3\nChange direction with sharp steering wheel turns and speed increases"
     ]
   },
   {
     "id": 691,
     "correctAnswer": 1,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q691.jpg",
     "correctVideo": "assets/videos/correct.mp4",
     "wrongVideo": "assets/videos/wrong.mp4",
     "previewVideo": "assets/videos/preview.mp4",
     "question": "წვიმისა და თოვის დროს მოძრაობისას, მძღოლმა უნდა:",
+    "questionEn": "When driving in rain and snow, the driver should:",
     "answers": [
       "შეამციროს დისტანცია მასსა და მის წინ მიმავალ სატრანსპორტო საშუალებას შორის",
       "შეამციროს სიჩქარე და გაზარდოს დისტანცია მასსა და მის წინ მიმავალ სატრანსპორტო საშუალებას შორის",
       "ჩართოს საავარიო შუქსიგნალიზაცია"
+    ],
+    "answersEn": [
+      "1\nReduce the distance between himself and the vehicle in front",
+      "2\nReduce speed and increase the distance between himself and the vehicle in front",
+      "3\nTurn on the emergency light signaling"
     ]
   },
   {
     "id": 692,
     "correctAnswer": 2,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q692.jpg",
     "correctVideo": "assets/videos/correct.mp4",
     "wrongVideo": "assets/videos/wrong.mp4",
     "previewVideo": "assets/videos/preview.mp4",
     "question": "წვიმისა და თოვის დროს მოძრაობისას მძღოლმა უნდა გაითვალისწინოს, რომ:",
+    "questionEn": "When driving in rain and snow, the driver should consider that:",
     "answers": [
       "აკრძალულია უკუსვლით მოძრაობა",
       "მიზანშეწონილია მასსა და მის წინ მიმავალ სატრანსპორტო საშუალებას შორის დისტანციის შემცირება",
       "იზრდება სატრანსპორტო საშუალების დამუხრუჭებისათვის საჭირო დრო და მანძილი, ამასთან, ნალექი აუარესებს ხილვადობას"
+    ],
+    "answersEn": [
+      "1\nReversing is prohibited",
+      "2\nIt is advisable to reduce the distance between himself and the vehicle in front",
+      "3\nThe time and distance required for braking the vehicle increases, and precipitation worsens visibility"
     ]
   },
   {
     "id": 693,
     "correctAnswer": 0,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q693.jpg",
     "correctVideo": "assets/videos/correct.mp4",
     "wrongVideo": "assets/videos/wrong.mp4",
     "previewVideo": "assets/videos/preview.mp4",
     "question": "წვიმის დაწყებისას გზის ზედაპირი ტალახიანდება და ქმნის მოცურების საშიშროებას, რის გამოც მძღოლმა უნდა:",
+    "questionEn": "When rain starts, the road surface becomes muddy and creates a slipping hazard, therefore the driver should:",
     "answers": [
       "შეამციროს სიჩქარე მდორე დამუხრუჭებით",
       "შეამციროს სიჩქარე მკვეთრი დამუხრუჭებით",
       "გაზარდოს სიჩქარე"
+    ],
+    "answersEn": [
+      "1\nReduce speed with smooth braking",
+      "2\nReduce speed with sharp braking",
+      "3\nIncrease speed"
     ]
   },
   {
     "id": 694,
     "correctAnswer": 0,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q694.jpg",
     "correctVideo": "assets/videos/correct.mp4",
     "wrongVideo": "assets/videos/wrong.mp4",
     "previewVideo": "assets/videos/preview.mp4",
     "question": "მძღოლმა უნდა გაითვალისწინოს, რომ:",
+    "questionEn": "The driver should consider that:",
     "answers": [
       "მოსახვევში მუხრუჭის მკვეთრად გამოყენებამ ან/და მაღალი სიჩქარით შესვლამ შესაძლოა გამოიწვიოს სატრანსპორტო საშუალების მართვაზე კონტროლის დაკარგვა",
       "მოსახვევში შესასვლელად სიჩქარის შემცირება უნდა განხორციელდეს მკვეთრი დამუხრუჭებით",
       "მიზანშეწონილია მოხვევა განხორციელდეს მაღალი სიჩქარით"
+    ],
+    "answersEn": [
+      "1\nSharp use of brakes in a curve and/or entering at high speed may cause loss of control over the vehicle",
+      "2\nSpeed reduction for entering a curve should be done with sharp braking",
+      "3\nIt is advisable to negotiate a curve at high speed"
     ]
   },
   {
     "id": 695,
     "correctAnswer": 1,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q695.jpg",
     "correctVideo": "assets/videos/correct.mp4",
     "wrongVideo": "assets/videos/wrong.mp4",
     "previewVideo": "assets/videos/preview.mp4",
     "question": "გზაზე წყლის გუბეების არსებობისას მძღოლმა უნდა გაითვალისწინოს, რომ:",
+    "questionEn": "When there are puddles on the road, the driver should consider that:",
     "answers": [
       "მიზანშეწონილია გუბეში გავლისას სიჩქარის გაზრდა",
       "გართულებულია სატრანსპორტო საშუალების მართვა და დამუხრუჭება, ამასთან, დიდია სატრანსპორტო საშუალების მოცურების ალბათობა",
       "მიზანშეწონილია მასსა და მის წინ მიმავალ სატრანსპორტო საშუალებას შორის დისტანციის შემცირება"
+    ],
+    "answersEn": [
+      "1\nIt is advisable to increase speed when passing through a puddle",
+      "2\nVehicle control and braking become difficult, and there is a high probability of vehicle skidding",
+      "3\nIt is advisable to reduce the distance between himself and the vehicle in front"
     ]
   },
   {
     "id": 696,
     "correctAnswer": 2,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q696.jpg",
     "correctVideo": "assets/videos/correct.mp4",
     "wrongVideo": "assets/videos/wrong.mp4",
     "previewVideo": "assets/videos/preview.mp4",
     "question": "თუ სატრანსპორტო საშუალების მძღოლი სწორ გზაზე მოძრაობისას მოულოდნელად მოხვდა მოლიპულ მოკლე მონაკვეთზე, მან უნდა:",
+    "questionEn": "If the driver of a vehicle suddenly encounters a short slippery section while driving on a straight road, he should:",
     "answers": [
       "ერთჯერადი მკვეთრი დამუხრუჭებით შეანელოს მოძრაობის სიჩქარე",
       "მრავალჯერადი მდორე დამუხრუჭებით შეანელოს მოძრაობის სიჩქარე",
       "მოძრაობის სიჩქარის შეუცვლელად გააგრძელოს მოძრაობა იმავე ტრაექტორიით"
+    ],
+    "answersEn": [
+      "1\nReduce speed with a single sharp braking",
+      "2\nReduce speed with multiple smooth brakings",
+      "3\nContinue movement at the same speed in the same trajectory"
     ]
   },
   {
     "id": 697,
     "correctAnswer": 0,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q697.jpg",
     "correctVideo": "assets/videos/correct.mp4",
     "wrongVideo": "assets/videos/wrong.mp4",
     "previewVideo": "assets/videos/preview.mp4",
-    "question": "წყლის დაბრკოლების გადალახვის შემდეგ სამუხრუჭო ხუნდების დასველების შემთხვევაში, სატრანსპორტო საშუალების მძღოლმა მუხრუჭის ეფექტურობის აღსადგენად უნდა:",
+    "question": "წყლის დაბრკოლების გადალახვის შემდეგ სამუხრუჭო ხუნდების დასველების შემთხვევაში, სატრანსპორტო საშუალების მძღოლი მუხრუჭის ეფექტურობის აღსადგენად უნდა:",
+    "questionEn": "After crossing a water obstacle, if the brake shoes get wet, the driver of the vehicle should restore brake efficiency by:",
     "answers": [
       "გააგრძელოს მოძრაობა და გააშროს სამუხრუჭე ხუნდები სატერფულზე ფეხის მრავალჯერადი ხანმოკლე დაჭერით",
       "იმოძრაოს სადგომი მუხრუჭის ნახევრად ამოწეული ბერკეტით",
       "გააგრძელოს მოძრაობა სიფრთხილით, სარემონტო ადგილამდე"
+    ],
+    "answersEn": [
+      "1\nContinue movement and dry the brake shoes by repeatedly pressing the pedal briefly",
+      "2\nDrive with the parking brake lever half-engaged",
+      "3\nContinue movement carefully to the repair site"
     ]
   },
   {
     "id": 698,
     "correctAnswer": 1,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q698.jpg",
     "correctVideo": "assets/videos/correct.mp4",
     "wrongVideo": "assets/videos/wrong.mp4",
     "previewVideo": "assets/videos/preview.mp4",
     "question": "დღე-ღამის ბნელ დროს საპირისპირო მიმართულებიდან მომავალი სატრანსპორტო საშუალების ფარების შუქით თვალის მოჭრის სიძლიერის შემცირების მიზნით, მძღოლისათვის მიზანშეწონილია:",
+    "questionEn": "To reduce the intensity of eye strain from the headlights of an oncoming vehicle at night, it is advisable for the driver to:",
     "answers": [
-      "1\nჩართოს ავტომობილის სალონის განათება",
-      "2\nგანახორციელოს მკვეთრი დამუხრუჭება და გაიკეთოს მსუბუქად ტონირებული მზის სათვალე",
-      "3\nშეძლებისდაგვარად მიმართოს მზერა სავალი ნაწილის მარჯვენა ნაპირის მხარეს"
+      "ჩართოს ავტომობილის სალონის განათება",
+      "განახორციელოს მკვეთრი დამუხრუჭება და გაიკეთოს მსუბუქად ტონირებული მზის სათვალე",
+      "შეძლებისდაგვარად მიმართოს მზერა სავალი ნაწილის მარჯვენა ნაპირის მხარეს"
+    ],
+    "answersEn": [
+      "1\nTurn on the vehicle interior lighting",
+      "2\nPerform sharp braking and put on lightly tinted sunglasses",
+      "3\nDirect gaze to the right side of the roadway as much as possible"
     ]
   },
   {
     "id": 699,
     "correctAnswer": 2,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q699.jpg",
     "correctVideo": "assets/videos/correct.mp4",
     "wrongVideo": "assets/videos/wrong.mp4",
     "previewVideo": "assets/videos/preview.mp4",
     "question": "რა იგულისხმება, მძღოლის რეაქციის დროში?",
+    "questionEn": "What is meant by driver reaction time?",
     "answers": [
       "1\nდრო საფრთხის აღმოჩენიდან სატრანსპორტო საშუალების სრულ გაჩერებამდე",
       "2\nდრო საფრთხის აღმოჩენიდან მისი თავიდან აცილებისათვის საჭირო ზომების მიღებამდე",
       "3\nაუცილებელი დრო აქსელერატორის სატერფულიდან მუხრუჭის სატერფულზე ფეხის გადატანისთვის"
+    ],
+    "answersEn": [
+      "1\nTime from hazard detection to complete vehicle stop",
+      "2\nTime from hazard detection to taking necessary measures to avoid it",
+      "3\nNecessary time to move foot from accelerator pedal to brake pedal"
     ]
   },
   {
     "id": 700,
     "correctAnswer": 0,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q700.jpg",
     "correctVideo": "assets/videos/correct.mp4",
     "wrongVideo": "assets/videos/wrong.mp4",
     "previewVideo": "assets/videos/preview.mp4",
     "question": "ნისლიან ამინდში სატრანსპორტო საშუალებით მოძრაობისას მანძილს საგნებამდე აღვიქვამთ:",
+    "questionEn": "When driving a vehicle in foggy weather, distances to objects are perceived as:",
     "answers": [
       "1\nუფრო მეტად, ვიდრე რეალურადაა",
       "2\nუფრო ნაკლებად, ვიდრე რეალურადაა",
       "3\nისე, როგორც რეალურადაა"
+    ],
+    "answersEn": [
+      "1\nGreater than they actually are",
+      "2\nLess than they actually are",
+      "3\nAs they actually are"
     ]
   },
   {
     "id": 701,
     "correctAnswer": 2,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q701.jpg",
     "correctVideo": "assets/videos/correct.mp4",
     "wrongVideo": "assets/videos/wrong.mp4",
     "previewVideo": "assets/videos/preview.mp4",
     "question": "ავტომობილის დამუხრუჭებისას გამოცემული ლითონის ხმა და დამახასიათებელი ჭრიალი მიუთითებს:",
+    "questionEn": "A metallic sound and characteristic squeaking when braking a car indicates:",
     "answers": [
       "1\nპნევმატური სამუხრუჭო სისტემიდან ჰაერის გაჟონვაზე",
       "2\nმუხრუჭების არასათანადო რეგულირებაზე",
       "3\nსამუხრუჭე ხუნდების გაცვეთაზე",
       "4\nპნევმატური სამუხრუჭო სისტემაში მომატებულ კონდესატის დონეზე"
+    ],
+    "answersEn": [
+      "1\nAir leakage from the pneumatic brake system",
+      "2\nImproper brake adjustment",
+      "3\nWear of brake shoes",
+      "4\nIncreased condensate level in the pneumatic brake system"
     ]
   },
   {
     "id": 702,
     "correctAnswer": 2,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q702.jpg",
     "correctVideo": "assets/videos/correct.mp4",
     "wrongVideo": "assets/videos/wrong.mp4",
     "previewVideo": "assets/videos/preview.mp4",
     "question": "საავტომობილო ზეთი ნიადაგში მოხვედრისას:",
+    "questionEn": "When automotive oil enters the soil:",
     "answers": [
       "1\nმალევე ორთქლდება და არ აბინძურებს გარემოს",
       "2\nიშლება წვრილ ნაწილაკებად, რის გამოც გავლენას არ ახდენს ეკოლოგიაზე",
       "3\nიწვევს ნიადაგისა და გრუნტის წყლების ხანგრძლივ დაბინძურებას"
+    ],
+    "answersEn": [
+      "1\nEvaporates quickly and does not pollute the environment",
+      "2\nBreaks down into fine particles, so it does not affect ecology",
+      "3\nCauses long-term pollution of soil and groundwater"
     ]
   }
 ]

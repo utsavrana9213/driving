@@ -1,0 +1,170 @@
+{
+  "appTitle": "Driving School Varketilshi",
+  "@appTitle": {
+    "description": "The title of the application"
+  },
+  "splashTitle": "DRIVING SCHOOL VARKETILSHI",
+  "@splashTitle": {
+    "description": "Title shown on splash screen"
+  },
+  "homeTitle": "Driving School Varketilshi",
+  "@homeTitle": {
+    "description": "Title on home screen"
+  },
+  "homeSubtitle": "Take practical training with us, Call us now",
+  "@homeSubtitle": {
+    "description": "Subtitle on home screen"
+  },
+  "bySubject": "By Subject",
+  "@bySubject": {
+    "description": "Button text for by subject navigation"
+  },
+  "allTickets": "All Tickets",
+  "@allTickets": {
+    "description": "Button text for all tickets navigation"
+  },
+  "exam": "Exam",
+  "@exam": {
+    "description": "Button text for exam navigation"
+  },
+  "language": "Language",
+  "@language": {
+    "description": "Language selection label"
+  },
+  "english": "English",
+  "@english": {
+    "description": "English language option"
+  },
+  "georgian": "Georgian",
+  "@georgian": {
+    "description": "Georgian language option"
+  },
+  "selectLanguage": "Select Language",
+  "@selectLanguage": {
+    "description": "Language selection dialog title"
+  },
+  "error": "Error",
+  "@error": {
+    "description": "Error message title"
+  },
+  "couldNotOpenDialer": "Could not open dialer",
+  "@couldNotOpenDialer": {
+    "description": "Error message when dialer cannot be opened"
+  },
+  "subjects": "Subjects",
+  "@subjects": {
+    "description": "Subjects screen title"
+  },
+  "tickets": "Tickets",
+  "@tickets": {
+    "description": "Tickets screen title"
+  },
+  "loading": "Loading...",
+  "@loading": {
+    "description": "Loading indicator text"
+  },
+  "question": "Question",
+  "@question": {
+    "description": "Question label"
+  },
+  "next": "Next",
+  "@next": {
+    "description": "Next button text"
+  },
+  "previous": "Previous",
+  "@previous": {
+    "description": "Previous button text"
+  },
+  "submit": "Submit",
+  "@submit": {
+    "description": "Submit button text"
+  },
+  "finish": "Finish",
+  "@finish": {
+    "description": "Finish button text"
+  },
+  "score": "Score",
+  "@score": {
+    "description": "Score label"
+  },
+  "correct": "Correct",
+  "@correct": {
+    "description": "Correct answer label"
+  },
+  "incorrect": "Incorrect",
+  "@incorrect": {
+    "description": "Incorrect answer label"
+  },
+  "passed": "Passed",
+  "@passed": {
+    "description": "Test passed status"
+  },
+  "failed": "Failed",
+  "@failed": {
+    "description": "Test failed status"
+  },
+  "tryAgain": "Try Again",
+  "@tryAgain": {
+    "description": "Try again button text"
+  },
+  "congratulations": "Congratulations!",
+  "@congratulations": {
+    "description": "Congratulations message"
+  },
+  "testCompleted": "Test Completed",
+  "@testCompleted": {
+    "description": "Test completed message"
+  },
+  "skip": "Skip",
+  "@skip": {
+    "description": "Skip button text"
+  },
+  "timeUp": "Time's Up",
+  "@timeUp": {
+    "description": "Time expired message"
+  },
+  "reviewIncorrectAnswers": "Review Incorrect Answers",
+  "@reviewIncorrectAnswers": {
+    "description": "Review incorrect answers title"
+  },
+  "yourAnswer": "Your Answer",
+  "@yourAnswer": {
+    "description": "Your answer label"
+  },
+  "correctAnswer": "Correct Answer",
+  "@correctAnswer": {
+    "description": "Correct answer label"
+  },
+  "newExam": "New Exam",
+  "@newExam": {
+    "description": "New exam button text"
+  },
+  "home": "Home",
+  "@home": {
+    "description": "Home button text"
+  },
+  "exitExam": "Exit Exam?",
+  "@exitExam": {
+    "description": "Exit exam confirmation title"
+  },
+  "exitExamMessage": "Are you sure you want to exit the exam?",
+  "@exitExamMessage": {
+    "description": "Exit exam confirmation message"
+  },
+  "yes": "Yes",
+  "@yes": {
+    "description": "Yes button text"
+  },
+  "no": "No",
+  "@no": {
+    "description": "No button text"
+  },
+  "total": "Total",
+  "@total": {
+    "description": "Total label"
+  },
+  "time": "Time",
+  "@time": {
+    "description": "Time label"
+  }
+}

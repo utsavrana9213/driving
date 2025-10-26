@@ -2,7 +2,7 @@
   {
     "id": 53,
     "correctAnswer": 0,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/C/q53.jpg",
     "correctVideo": "assets/videos/correct_8001.mp4",
     "wrongVideo": "assets/videos/wrong_8001.mp4",
     "previewVideo": "assets/videos/preview_8001.mp4",
@@ -16,7 +16,7 @@
   {
     "id": 54,
     "correctAnswer": 0,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/C/q54.jpg",
     "correctVideo": "assets/videos/correct_8002.mp4",
     "wrongVideo": "assets/videos/wrong_8002.mp4",
     "previewVideo": "assets/videos/preview_8002.mp4",
@@ -29,7 +29,7 @@
   {
     "id": 55,
     "correctAnswer": 1,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/C/q55.jpg",
     "correctVideo": "assets/videos/correct_8003.mp4",
     "wrongVideo": "assets/videos/wrong_8003.mp4",
     "previewVideo": "assets/videos/preview_8003.mp4",
@@ -42,7 +42,7 @@
   {
     "id": 56,
     "correctAnswer": 1,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/C/q56.jpg",
     "correctVideo": "assets/videos/correct_8004.mp4",
     "wrongVideo": "assets/videos/wrong_8004.mp4",
     "previewVideo": "assets/videos/preview_8004.mp4",
@@ -55,7 +55,7 @@
   {
     "id": 57,
     "correctAnswer": 1,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/C/q57.jpg",
     "correctVideo": "assets/videos/correct_8005.mp4",
     "wrongVideo": "assets/videos/wrong_8005.mp4",
     "previewVideo": "assets/videos/preview_8005.mp4",
@@ -70,7 +70,7 @@
   {
     "id": 58,
     "correctAnswer": 1,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/C/q58.jpg",
     "correctVideo": "assets/videos/correct_8006.mp4",
     "wrongVideo": "assets/videos/wrong_8006.mp4",
     "previewVideo": "assets/videos/preview_8006.mp4",
@@ -84,7 +84,7 @@
   {
     "id": 59,
     "correctAnswer": 3,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/C/q59.jpg",
     "correctVideo": "assets/videos/correct_8007.mp4",
     "wrongVideo": "assets/videos/wrong_8007.mp4",
     "previewVideo": "assets/videos/preview_8007.mp4",

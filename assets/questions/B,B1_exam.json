@@ -7,22 +7,32 @@
     "wrongVideo": "assets/videos/2.mp4",
     "previewVideo": "assets/videos/3.mp4",
     "question": "რომელი ავტომობილის მძღოლს წარმოექმნება გზის დათმობის ვალდებულება ისრის მიმართულებით მოძრაობის შემთხვევაში?",
+    "questionEn": "Which car driver has the obligation to yield the right of way when moving in the direction of the arrow?",
     "answers": [
       "1\nსატვირთო ავტომობილის მძღოლს",
       "2\nმსუბუქი ავტომობილის მძღოლს"
+    ],
+    "answersEn": [
+      "1\nTruck driver",
+      "2\nLight vehicle driver"
     ]
   },
   {
     "id": 801,
     "correctAnswer": 0,
-  "imageUrl": "assets/Qimages/B/q2.png",
+    "imageUrl": "assets/Qimages/B/q2.png",
     "correctVideo": "assets/videos/correct_video.mp4",
     "wrongVideo": "assets/videos/2.mp4",
     "previewVideo": "assets/videos/3.mp4",
     "question": "ვალდებულია თუ არა წითელი ავტომობილის მძღოლი, მიმდებარე ტერიტორიიდან გზაზე გასვლისას გზა დაუთმოს ქვეითებს?",
+    "questionEn": "Is the red car driver obligated to yield the way to pedestrians when exiting from adjacent territory to the road?",
     "answers": [
       "1\nვალდებულია",
       "2\nარ არის ვალდებული"
+    ],
+    "answersEn": [
+      "1\nObligated",
+      "2\nNot obligated"
     ]
   },
   {

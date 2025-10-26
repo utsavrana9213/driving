@@ -1,13 +1,17 @@
 import 'package:avtoskola_varketilshi/App%20Screens/Ticket%20Screens/TikcetsScreen.dart';
 import 'package:avtoskola_varketilshi/Controllers/Subject%20Controllers/subject_controller.dart';
+import 'package:avtoskola_varketilshi/Controllers/language_controller.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:url_launcher/url_launcher.dart';
+import 'package:avtoskola_varketilshi/l10n/app_localizations.dart';
 
 import '../../App Widegts/CommonButton.dart';
 import '../../Controllers/category_controller.dart';
 import '../Exams Screens/exam_screen.dart';
+import '../Exams Screens/enhanced_exam_screen.dart';
 import '../Subjects screens/subject_list_screen.dart';
+import '../SubCategory Screens/subcategory_list_screen.dart';
 
 class HomeScreen extends StatelessWidget {
   HomeScreen({Key? key}) : super(key: key);
@@ -24,7 +28,10 @@ class HomeScreen extends StatelessWidget {
     if (await canLaunchUrl(phoneUri)) {
       await launchUrl(phoneUri, mode: LaunchMode.externalApplication);
     } else {
-      Get.snackbar('Error', 'Could not open dialer');
+      Get.snackbar(
+        AppLocalizations.of(Get.context!)!.error, 
+        AppLocalizations.of(Get.context!)!.couldNotOpenDialer
+      );
     }
   }
 
@@ -32,6 +39,7 @@ class HomeScreen extends StatelessWidget {
   Widget build(BuildContext context) {
     final categoryCtrl = Get.put(CategoryController());
     final subjectCtrl = Get.put(SubjectController());
+    final languageController = Get.find<LanguageController>();
 
     return Scaffold(
       body: Obx(() {
@@ -52,18 +60,39 @@ class HomeScreen extends StatelessWidget {
             child: Column(
               crossAxisAlignment: CrossAxisAlignment.center,
               children: [
-                const SizedBox(height: 50),
-                const Text(
-                  'Avtoskola Varketilshi',
-                  style: TextStyle(
+                /// Language switching button at top
+                Align(
+                  alignment: Alignment.topRight,
+                  child: Padding(
+                    padding: const EdgeInsets.only(top: 10.0),
+                    child: ElevatedButton.icon(
+                      onPressed: () => _showLanguageDialog(context),
+                      icon: const Icon(Icons.language, size: 18),
+                      label: Text(
+                        languageController.isEnglish ? 'EN' : 'KA',
+                        style: const TextStyle(fontSize: 12),
+                      ),
+                      style: ElevatedButton.styleFrom(
+                        backgroundColor: Colors.red.shade100,
+                        foregroundColor: Colors.red,
+                        padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 8),
+                        minimumSize: const Size(70, 35),
+                      ),
+                    ),
+                  ),
+                ),
+                const SizedBox(height: 30),
+                Text(
+                  AppLocalizations.of(context)!.homeTitle,
+                  style: const TextStyle(
                     fontSize: 22,
                     fontWeight: FontWeight.bold,
                     color: Colors.black,
                   ),
                 ),
-                const Text(
-                  'Take practical training with us, Call us now',
-                  style: TextStyle(fontSize: 13, color: Colors.black54),
+                Text(
+                  AppLocalizations.of(context)!.homeSubtitle,
+                  style: const TextStyle(fontSize: 13, color: Colors.black54),
                   textAlign: TextAlign.center,
                 ),
                 const SizedBox(height: 30),
@@ -132,17 +161,21 @@ class HomeScreen extends StatelessWidget {
 
                 /// Buttons
                 CommonRedButton(
-                  label: 'By Subject',
+                  label: AppLocalizations.of(context)!.bySubject,
                   onPressed: () {
+                    final categoryCtrl = Get.find<CategoryController>();
+                    final selectedCategory = categoryCtrl.currentLabel;
+                    
+                    // Navigate to sub-category list for practice mode
                     Get.to(
-                      () => SubjectListScreen(),
-                      arguments: {'category': idx},
+                      () => const SubCategoryListScreen(),
+                      arguments: selectedCategory,
                     );
                   },
                 ),
                 const SizedBox(height: 16),
                 CommonRedButton(
-                  label: 'All Tickets',
+                  label: AppLocalizations.of(context)!.allTickets,
                   onPressed: () {
                     final categoryCtrl = Get.find<CategoryController>();
                     final selectedCategory = categoryCtrl.currentLabel;
@@ -153,13 +186,13 @@ class HomeScreen extends StatelessWidget {
                 ),
                 const SizedBox(height: 16),
                 CommonRedButton(
-                  label: 'Exam',
+                  label: AppLocalizations.of(context)!.exam,
                   onPressed: () {
                     final categoryCtrl = Get.find<CategoryController>();
                     final selectedCategory = categoryCtrl.currentLabel;
 
-                    // Register controller and pass argument only after Get.to
-                    Get.to(() => ExamScreen(), arguments: selectedCategory);
+                    // Use the enhanced exam screen with all new features
+                    Get.to(() => const EnhancedExamScreen(), arguments: selectedCategory);
                   },
                 ),
               ],
@@ -167,6 +200,40 @@ class HomeScreen extends StatelessWidget {
           ),
         );
       }),
+    );
+  }
+  
+  void _showLanguageDialog(BuildContext context) {
+    final languageController = Get.find<LanguageController>();
+    
+    showDialog(
+      context: context,
+      builder: (BuildContext context) {
+        return AlertDialog(
+          title: Text(AppLocalizations.of(context)!.selectLanguage),
+          content: Column(
+            mainAxisSize: MainAxisSize.min,
+            children: [
+              ListTile(
+                leading: const Text('🇺🇸'),
+                title: Text(AppLocalizations.of(context)!.english),
+                onTap: () {
+                  languageController.changeLanguage('en');
+                  Navigator.of(context).pop();
+                },
+              ),
+              ListTile(
+                leading: const Text('🇬🇪'),
+                title: Text(AppLocalizations.of(context)!.georgian),
+                onTap: () {
+                  languageController.changeLanguage('ka');
+                  Navigator.of(context).pop();
+                },
+              ),
+            ],
+          ),
+        );
+      },
     );
   }
 }

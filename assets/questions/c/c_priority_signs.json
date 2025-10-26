@@ -2,7 +2,7 @@
   {
     "id": 406,
     "correctAnswer": 0,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/C/q406.jpg",
     "question": "აღნიშნავს გზას, რომელზედაც მოძრავ მძღოლს ენიჭება არარეგულირებული გზაჯვარედინის გავლის უპირატესობა",
     "answers": [
       "1\nაღნიშნავს გზას, რომელზედაც მოძრავ მძღოლს ენიჭება არარეგულირებული გზაჯვარედინის გავლის უპირატესობა",
@@ -13,7 +13,7 @@
   {
     "id": 407,
     "correctAnswer": 2,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/C/q407.jpg",
     "question": "მოცემული საგზაო ნიშნებიდან რომელი აღნიშნავს გზის იმ მონაკვეთის ბოლოს, საიდანაც ის კარგავს მთავარი გზის სტატუსს?",
     "answers": [
       "1\nIII",
@@ -25,7 +25,7 @@
   {
     "id": 408,
     "correctAnswer": 0,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/C/q408.jpg",
     "question": "მოცემული საგზაო ნიშანი აღნიშნავს:",
     "answers": [
       "1\nგზას, რომელზედაც მოძრავ მძღოლს ენიჭება არარეგულირებული გზაჯვარედინის გავლის უპირატესობა",
@@ -36,7 +36,7 @@
   {
     "id": 409,
     "correctAnswer": 1,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/C/q409.jpg",
     "question": "მოცემული საგზაო ნიშნებიდან რომელი აღნიშნავს ისეთ გზასთან გადაკვეთას, რომელზე მოძრავ მძღოლსაც აქვს გზის დათმობის ვალდებულება?",
     "answers": [
       "1\nIV",
@@ -48,7 +48,7 @@
   {
     "id": 410,
     "correctAnswer": 1,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/C/q410.jpg",
     "question": "მოცემული საგზაო ნიშნებიდან რომელი აღნიშნავს ისეთ გზასთან შეერთებას, რომელზე მოძრავ მძღოლსაც აქვს გზის დათმობის ვალდებულება?",
     "answers": [
       "1\nმხოლოდ II და IV",
@@ -60,7 +60,7 @@
   {
     "id": 411,
     "correctAnswer": 0,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/C/q411.jpg",
     "question": "მოცემული საგზაო ნიშნებიდან რომელი აღნიშნავს ისეთ გზასთან შეერთებას, რომელზე მოძრავ მძღოლსაც აქვს გზის დათმობის ვალდებულება?",
     "answers": [
       "1\nმხოლოდ II და III",
@@ -72,7 +72,7 @@
   {
     "id": 412,
     "correctAnswer": 3,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/C/q412.jpg",
     "question": "მოცემული საგზაო ნიშნებიდან რომელი ავალდებულებს მძღოლს გზა დაუთმოს გადასაკვეთ გზაზე მოძრავ სატრანსპორტო საშუალების მძღოლს?",
     "answers": [
       "1\nII",
@@ -84,7 +84,7 @@
   {
     "id": 413,
     "correctAnswer": 2,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/C/q413.jpg",
     "question": "მოცემული საგზაო ნიშანი:",
     "answers": [
       "1\nუკრძლავს მძღოლს გზის ვიწრო მონაკვეთზე შესვლას",
@@ -95,7 +95,7 @@
   {
     "id": 414,
     "correctAnswer": 3,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/C/q414.jpg",
     "question": "მოცემული საგზაო ნიშნებიდან რომელი უკრძალავს მძღოლს „სდექ“ ხაზის წინ გაუჩერებალად მოძრაობის გაგრძელებას?",
     "answers": [
       "1\nIII",
@@ -107,7 +107,7 @@
   {
     "id": 415,
     "correctAnswer": 2,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/C/q415.jpg",
     "question": "მოცემული საგზაო ნიშანი:",
     "answers": [
       "1\nკრძალავს ყველა სატრანსპორტო საშუალებით შესვლას მოცემული მიმართულებით",
@@ -118,7 +118,7 @@
   {
     "id": 416,
     "correctAnswer": 1,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/C/q416.jpg",
     "question": "მოცემული საგზაო ნიშნებიდან რომელი უკრძალავს მძღოლს გზის ვიწრო მონაკვეთზე შესვლას, თუ ეს აძნელებს საპირისპირო მიმართულებით მოძრაობას?",
     "answers": [
       "1\nIV",
@@ -130,7 +130,7 @@
   {
     "id": 417,
     "correctAnswer": 2,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/C/q417.jpg",
     "question": "მოცემული საგზაო ნიშანი:",
     "answers": [
       "1\nაღნიშნავს გზის მონაკვეთის დასაწყისს, სადაც ერთ ან რამდენიმე ზოლზე მოძრაობის მიმართულება შეიძლება შეიცვალოს საპირისპიროდ",
@@ -141,7 +141,7 @@
   {
     "id": 418,
     "correctAnswer": 3,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/C/q418.jpg",
     "question": "მოცემული საგზაო ნიშნებიდან რომელი ანიჭებს მძღოლს უპირატესობას საპირისპირო მიმართულებით მოძრავ სატრანსპორტო საშუალებასთან შედარებით, გზის ვიწრო მონაკვეთზე მოძრაობისას?",
     "answers": [
       "1\nII",
@@ -153,7 +153,7 @@
   {
     "id": 419,
     "correctAnswer": 0,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/C/q419.jpg",
     "question": "მოცემული საგზაო ნიშანი:",
     "answers": [
       "1\nანიჭებს მძღოლს უპირატესობას საპირისპირო მიმართულებით მოძრავ სატრანსპორტო საშუალებასთან შედარებით, გზის ვიწრო მონაკვეთზე მოძრაობისას",
@@ -164,7 +164,7 @@
   {
     "id": 420,
     "correctAnswer": 1,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/C/q420.jpg",
     "question": "მოცემული საგზაო ნიშნებიდან რომლის მოქმედების ზონაში ენიჭება მძღოლს არარეგულირებული გზაჯვარედინის გავლის უპირატესობა?",
     "answers": [
       "1\nმხოლოდ II და IV",
@@ -176,7 +176,7 @@
   {
     "id": 421,
     "correctAnswer": 1,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/C/q421.jpg",
     "question": "მოცემული საგზაო ნიშნებიდან რომელი იდგმება უშუალოდ გზის ვიწრო უბნის წინ?",
     "answers": [
       "1\nII და III",
@@ -188,7 +188,7 @@
   {
     "id": 422,
     "correctAnswer": 2,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/C/q422.jpg",
     "question": "თუ სხვა აუცილებლობა არ არსებობს, მოცემული საგზაო ნიშნები დაუსახლებელ პუნქტში იდგმება სახიფათო მონაკვეთის დასაწყისამდე:",
     "answers": [
       "1\n50-100 მეტრის მანძილზე",
@@ -200,7 +200,7 @@
   {
     "id": 423,
     "correctAnswer": 0,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/C/q423.jpg",
     "question": "თუ სხვა აუცილებლობა არ არსებობს, მოცემული საგზაო ნიშნები დასახლებულ პუნქტში იდგმება სახიფათო მონაკვეთის დასაწყისამდე:",
     "answers": [
       "1\n50-100 მეტრის მანძილზე",
@@ -211,7 +211,7 @@
   {
     "id": 424,
     "correctAnswer": 1,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/C/q424.jpg",
     "question": "საერთაშორისო ნორმებისა და წესების შესაბამისად სახიფათო ტვირთი საშიშროების ტიპის მიხედვით იყოფა:",
     "answers": [
       "1\n7 კლასად",
@@ -222,7 +222,7 @@
   {
     "id": 425,
     "correctAnswer": 2,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/C/q425.jpg",
     "question": "ავტოსატრანსპორტო საშუალებაზე, რომლითაც გადაიზიდება სახიფათო ტვირთი, სამართავად დაიშვებიან მძღოლები მუშაობის არანაკლებ:",
     "answers": [
       "1\n1 წლის სტაჟით",
@@ -233,7 +233,7 @@
   {
     "id": 426,
     "correctAnswer": 3,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/C/q426.jpg",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
@@ -248,7 +248,7 @@
   {
     "id": 427,
     "correctAnswer": 3,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/C/q427.jpg",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
@@ -263,7 +263,7 @@
   {
     "id": 428,
     "correctAnswer": 1,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/C/q428.jpg",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
@@ -276,7 +276,7 @@
   {
     "id": 429,
     "correctAnswer": 0,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/C/q429.jpg",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",

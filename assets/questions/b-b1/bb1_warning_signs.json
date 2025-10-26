@@ -2,12 +2,19 @@
   {
     "id": 752,
     "correctAnswer": 3,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q752.jpg",
     "correctVideo": "assets/videos/correct_1.mp4",
     "wrongVideo": "assets/videos/wrong_1.mp4",
     "previewVideo": "assets/videos/preview_1.mp4",
     "question": "მოცემული საგზაო ნიშნების კომბინაციიდან რომელი იდგმება დაუსახლებელ პუნქტში, რკინიგზის უშლაგბაუმო გადასასვლელამდე 150-300 მეტრის მანძილზე, გზის მარცხენა მხარეს?",
+    "questionEn": "Which of the given road sign combinations is placed in an uninhabited area, 150-300 meters before an unbarriered railway crossing, on the left side of the road?",
     "answers": [
+      "1\nIV",
+      "2\nIII",
+      "3\nII",
+      "4\nI"
+    ],
+    "answersEn": [
       "1\nIV",
       "2\nIII",
       "3\nII",
@@ -17,12 +24,18 @@
   {
     "id": 753,
     "correctAnswer": 2,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q753.jpg",
     "correctVideo": "assets/videos/correct_2.mp4",
     "wrongVideo": "assets/videos/wrong_2.mp4",
     "previewVideo": "assets/videos/preview_2.mp4",
-    "question": "მოცემული საცნობი ნიშნებიდან რომელია „საავარიო გაჩერების ნიშანი“?",
+    "question": "მოცემული საცნობი ნიშნებიდან რომელია საავარიო გაჩერების ნიშანი?",
+    "questionEn": "Which of the given reference signs is the 'Emergency Stop Sign'?",
     "answers": [
+      "1\nIII",
+      "2\nI",
+      "3\nII"
+    ],
+    "answersEn": [
       "1\nIII",
       "2\nI",
       "3\nII"
@@ -31,12 +44,19 @@
   {
     "id": 754,
     "correctAnswer": 3,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q754.jpg",
     "correctVideo": "assets/videos/correct_3.mp4",
     "wrongVideo": "assets/videos/wrong_3.mp4",
     "previewVideo": "assets/videos/preview_3.mp4",
     "question": "მოცემული საგზაო ნიშნებიდან რომელი აფრთხილებს შლაგბაუმიან რკინიგზის გადასასვლელთან მიახლოების თაობაზე?",
+    "questionEn": "Which of the given road signs warns about approaching a barriered railway crossing?",
     "answers": [
+      "1\nIII",
+      "2\nIV",
+      "3\nI",
+      "4\nII"
+    ],
+    "answersEn": [
       "1\nIII",
       "2\nIV",
       "3\nI",
@@ -46,113 +66,165 @@
   {
     "id": 755,
     "correctAnswer": 1,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q755.jpg",
     "correctVideo": "assets/videos/correct_4.mp4",
     "wrongVideo": "assets/videos/wrong_4.mp4",
     "previewVideo": "assets/videos/preview_4.mp4",
     "question": "მოცემული საგზაო ნიშნებიდან რომელი იდგმება განმეორებით დაუსახლებელ პუნქტში?",
+    "questionEn": "Which of the given road signs is placed repeatedly in uninhabited areas?",
     "answers": [
       "1\nმხოლოდ I და II",
       "2\nმხოლოდ I და III",
       "3\nყველა",
       "4\nმხოლოდ II და IV"
+    ],
+    "answersEn": [
+      "1\nOnly I and II",
+      "2\nOnly I and III",
+      "3\nAll",
+      "4\nOnly II and IV"
     ]
   },
   {
     "id": 756,
     "correctAnswer": 1,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q756.jpg",
     "correctVideo": "assets/videos/correct_5.mp4",
     "wrongVideo": "assets/videos/wrong_5.mp4",
     "previewVideo": "assets/videos/preview_5.mp4",
     "question": "მოცემული საგზაო ნიშნებიდან რომელი იდგმება განმეორებით დაუსახლებელ პუნქტში?",
+    "questionEn": "Which of the given road signs is placed repeatedly in uninhabited areas?",
     "answers": [
       "1\nმხოლოდ I და II",
       "2\nმხოლოდ II და III",
       "3\nყველა",
       "4\nმხოლოდ II და IV"
+    ],
+    "answersEn": [
+      "1\nOnly I and II",
+      "2\nOnly II and III",
+      "3\nAll",
+      "4\nOnly II and IV"
     ]
   },
   {
     "id": 757,
     "correctAnswer": 2,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q757.jpg",
     "correctVideo": "assets/videos/correct_6.mp4",
     "wrongVideo": "assets/videos/wrong_6.mp4",
     "previewVideo": "assets/videos/preview_6.mp4",
     "question": "რომელი საგზაო ნიშანი აფრთხილებს უშლაგბაუმო რკინიგზის გადასასვლელთან მიახლოების თაობაზე?",
+    "questionEn": "Which road sign warns about approaching an unbarriered railway crossing?",
     "answers": [
       "1\nმხოლოდ I",
       "2\nმხოლოდ II",
       "3\nმხოლოდ III",
       "4\nმხოლოდ III და IV"
+    ],
+    "answersEn": [
+      "1\nOnly I",
+      "2\nOnly II",
+      "3\nOnly III",
+      "4\nOnly III and IV"
     ]
   },
   {
     "id": 758,
     "correctAnswer": 3,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q758.jpg",
     "correctVideo": "assets/videos/correct_7.mp4",
     "wrongVideo": "assets/videos/wrong_7.mp4",
     "previewVideo": "assets/videos/preview_7.mp4",
     "question": "მოცემული საგზაო ნიშნებიდან რომელი აფრთხილებს ორი ან მეტი ლიანდაგიანი რკინიგზის უშლაგბაუმო გადასასვლელთან მიახლოების შესახებ?",
+    "questionEn": "Which of the given road signs warns about approaching an unbarriered railway crossing with two or more tracks?",
     "answers": [
       "1\nმხოლოდ I და II",
       "2\nყველა",
       "3\nმხოლოდ II და II",
       "4\nმხოლოდ IV"
+    ],
+    "answersEn": [
+      "1\nOnly I and II",
+      "2\nAll",
+      "3\nOnly II and II",
+      "4\nOnly IV"
     ]
   },
   {
     "id": 759,
     "correctAnswer": 2,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q759.jpg",
     "correctVideo": "assets/videos/correct_8.mp4",
     "wrongVideo": "assets/videos/wrong_8.mp4",
     "previewVideo": "assets/videos/preview_8.mp4",
     "question": "მოცემული საგზაო ნიშნები, 8.1.1 (მანძილი ობიექტამდე) დაფის გარეშე დაუსახლებელი პუნქტში სახიფათო მონაკვეთის დასაწყისამდე იდგმება:",
+    "questionEn": "The given road signs, 8.1.1 (distance to object) without a plate, are placed in uninhabited areas before the beginning of a dangerous section:",
     "answers": [
       "1\n50-100 მეტრის მანძილზე",
       "2\n100-150 მეტრის მანძილზე",
       "3\n150-300 მეტრის მანძილზე"
+    ],
+    "answersEn": [
+      "1\n50-100 meters distance",
+      "2\n100-150 meters distance",
+      "3\n150-300 meters distance"
     ]
   },
   {
     "id": 760,
     "correctAnswer": 2,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q760.jpg",
     "correctVideo": "assets/videos/correct_9.mp4",
     "wrongVideo": "assets/videos/wrong_9.mp4",
     "previewVideo": "assets/videos/preview_9.mp4",
     "question": "მოცემული საგზაო ნიშნები დაუსახლებელ პუნქტში განმეორებით იდგმება სახიფათო მონაკვეთის დასაწყისამდე, არანაკლებ:",
+    "questionEn": "The given road signs are placed repeatedly in uninhabited areas before the beginning of a dangerous section, at least:",
     "answers": [
       "1\n150 მეტრის მანძილზე",
       "2\n100 მეტრის მანძილზე",
       "3\n50 მეტრის მანძილზე"
+    ],
+    "answersEn": [
+      "1\n150 meters distance",
+      "2\n100 meters distance",
+      "3\n50 meters distance"
     ]
   },
   {
     "id": 761,
     "correctAnswer": 1,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q761.jpg",
     "correctVideo": "assets/videos/correct_10.mp4",
     "wrongVideo": "assets/videos/wrong_10.mp4",
     "previewVideo": "assets/videos/preview_10.mp4",
     "question": "შეიძლება თუ არა, მოცემული საგზაო ნიშნები, 8.1.1 „მანძილი ობიექტამდე“ დაფის გარეშე, დაიდგას უშუალოდ აღმართის ან დაღმართის (ან დაღმართის და აღმართის) წინ, თუ ისინი ერთმანეთს მიჰყვება?",
+    "questionEn": "Is it possible for the given road signs, 8.1.1 'Distance to Object' without a plate, to be placed directly before an uphill or downhill (or downhill and uphill) if they follow each other?",
     "answers": [
       "1\nარ შეიძლება",
       "2\nშეიძლება"
+    ],
+    "answersEn": [
+      "1\nNot possible",
+      "2\nPossible"
     ]
   },
   {
     "id": 762,
     "correctAnswer": 2,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q762.jpg",
     "correctVideo": "assets/videos/correct_11.mp4",
     "wrongVideo": "assets/videos/wrong_11.mp4",
     "previewVideo": "assets/videos/preview_11.mp4",
     "question": "მოცემული საგზაო ნიშნების კომბინაციიდან რომელი იდგმება დაუსახლებელ პუნქტში რკინიგზის შლაგბაუმიან გადასასვლელამდე 150-300 მეტრის მანძილზე, გზის მარჯვენა მხარეს?",
+    "questionEn": "Which of the given road sign combinations is placed in an uninhabited area, 150-300 meters before a barriered railway crossing, on the right side of the road?",
     "answers": [
+      "1\nII",
+      "2\nIII",
+      "3\nIV",
+      "4\nI"
+    ],
+    "answersEn": [
       "1\nII",
       "2\nIII",
       "3\nIV",
@@ -162,12 +234,19 @@
   {
     "id": 763,
     "correctAnswer": 0,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q763.jpg",
     "correctVideo": "assets/videos/correct_12.mp4",
     "wrongVideo": "assets/videos/wrong_12.mp4",
     "previewVideo": "assets/videos/preview_12.mp4",
     "question": "მოცემული საგზაო ნიშნებიდან რომელი აღნიშნავს გზაჯვარედინს თანაბარმნიშვნელოვანი გზების გადაკვეთით?",
+    "questionEn": "Which of the given road signs indicates an intersection with crossing of equivalent roads?",
     "answers": [
+      "1\nII",
+      "2\nI",
+      "3\nIV",
+      "4\nIII"
+    ],
+    "answersEn": [
       "1\nII",
       "2\nI",
       "3\nIV",
@@ -177,27 +256,41 @@
   {
     "id": 764,
     "correctAnswer": 2,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q764.jpg",
     "correctVideo": "assets/videos/correct_13.mp4",
     "wrongVideo": "assets/videos/wrong_13.mp4",
     "previewVideo": "assets/videos/preview_13.mp4",
     "question": "მოცემული საგზაო ნიშნებიდან რომელი აფრთხილებს მძღოლს გასახსნელ ხიდთან ან საბორნე გადასასვლელთან მიახლოების თაობაზე?",
+    "questionEn": "Which of the given road signs warns the driver about approaching a drawbridge or ferry crossing?",
     "answers": [
       "1\nმხოლოდ I და II",
       "2\nმხოლოდ II და III",
       "3\nმხოლოდ III",
       "4\nმხოლოდ IV"
+    ],
+    "answersEn": [
+      "1\nOnly I and II",
+      "2\nOnly II and III",
+      "3\nOnly III",
+      "4\nOnly IV"
     ]
   },
   {
     "id": 765,
     "correctAnswer": 1,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q765.jpg",
     "correctVideo": "assets/videos/correct_14.mp4",
     "wrongVideo": "assets/videos/wrong_14.mp4",
     "previewVideo": "assets/videos/preview_14.mp4",
     "question": "მოცემული საგზაო ნიშნებიდან რომელი აღნიშნავს მცირერადიუსიან ან შეზღუდულ ხილვადობის მქონე გზის სახიფათო მოსახვევს?",
+    "questionEn": "Which of the given road signs indicates a dangerous curve on a road with small radius or limited visibility?",
     "answers": [
+      "1\nIV",
+      "2\nIII",
+      "3\nII",
+      "4\nI"
+    ],
+    "answersEn": [
       "1\nIV",
       "2\nIII",
       "3\nII",
@@ -207,12 +300,19 @@
   {
     "id": 766,
     "correctAnswer": 1,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q766.jpg",
     "correctVideo": "assets/videos/correct_15.mp4",
     "wrongVideo": "assets/videos/wrong_15.mp4",
     "previewVideo": "assets/videos/preview_15.mp4",
     "question": "მოცემული საგზაო ნიშნებიდან რომელი აფრთხილებს ციცაბოდაღმართიან გზის მონაკვეთთან მიახლოების თაობაზე?",
+    "questionEn": "Which of the given road signs warns about approaching a steep uphill road section?",
     "answers": [
+      "1\nIV",
+      "2\nIII",
+      "3\nII",
+      "4\nI"
+    ],
+    "answersEn": [
       "1\nIV",
       "2\nIII",
       "3\nII",
@@ -222,12 +322,19 @@
   {
     "id": 767,
     "correctAnswer": 0,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q767.jpg",
     "correctVideo": "assets/videos/correct_16.mp4",
     "wrongVideo": "assets/videos/wrong_16.mp4",
     "previewVideo": "assets/videos/preview_16.mp4",
     "question": "მოცემული საგზაო ნიშნებიდან რომელი აღნიშნავს გზის მოლიპულ მონაკვეთს, რომლზედაც საბურავის გზის საფართან ჩაჭიდების კოეფიციენტი 0,4-ზე ნაკლებია?",
+    "questionEn": "Which of the given road signs indicates a slippery road section where the tire-to-road adhesion coefficient is less than 0.4?",
     "answers": [
+      "1\nIII",
+      "2\nIV",
+      "3\nI",
+      "4\nII"
+    ],
+    "answersEn": [
       "1\nIII",
       "2\nIV",
       "3\nI",
@@ -237,42 +344,63 @@
   {
     "id": 768,
     "correctAnswer": 1,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q768.jpg",
     "correctVideo": "assets/videos/correct_17.mp4",
     "wrongVideo": "assets/videos/wrong_17.mp4",
     "previewVideo": "assets/videos/preview_17.mp4",
     "question": "მოცემული საგზაო ნიშნებიდან რომელი აღნიშნავს გზის მონაკვეთს, რომელზედაც შესაძლებელია სატრანსპორტო საშუალების თვლებიდან ღორღის, ხრეშისა და ა. შ. ასხლეტა?",
+    "questionEn": "Which of the given road signs indicates a road section where gravel, debris, etc. may be thrown up from vehicle tires?",
     "answers": [
       "1\nმხოლოდ I და III",
       "2\nმხოლოდ IV",
       "3\nმხოლოდ II",
       "4\nმხოლოდ II და IV"
+    ],
+    "answersEn": [
+      "1\nOnly I and III",
+      "2\nOnly IV",
+      "3\nOnly II",
+      "4\nOnly II and IV"
     ]
   },
   {
     "id": 769,
     "correctAnswer": 3,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q769.jpg",
     "correctVideo": "assets/videos/correct_18.mp4",
     "wrongVideo": "assets/videos/wrong_18.mp4",
     "previewVideo": "assets/videos/preview_18.mp4",
     "question": "მოცემული საგზაო ნიშნებიდან რომელი აღნიშნავს გზის მონაკვეთს, რომელზედაც შესაძლებელია სატრანსპორტო საშუალების თვლებიდან ღორღის, ხრეშისა და ა. შ. ასხლეტა?",
+    "questionEn": "Which of the given road signs indicates a road section where gravel, debris, etc. may be thrown up from vehicle tires?",
     "answers": [
       "1\nმხოლოდ I და III",
       "2\nმხოლოდ IV",
       "3\nმხოლოდ II",
       "4\nმხოლოდ II და IV"
+    ],
+    "answersEn": [
+      "1\nOnly I and III",
+      "2\nOnly IV",
+      "3\nOnly II",
+      "4\nOnly II and IV"
     ]
   },
   {
     "id": 770,
     "correctAnswer": 3,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q770.jpg",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
     "question": "მოცემული საგზაო ნიშნებიდან რომელი აღნიშნავს გზის მონაკვეთს, რომლის სავალი ნაწილის სიგანე ვიწროვდება ორივე მხრიდან?",
+    "questionEn": "Which of the given road signs indicates a road section where the roadway width narrows on both sides?",
     "answers": [
+      "1\nII",
+      "2\nI",
+      "3\nIV",
+      "4\nIII"
+    ],
+    "answersEn": [
       "1\nII",
       "2\nI",
       "3\nIV",
@@ -282,12 +410,19 @@
   {
     "id": 771,
     "correctAnswer": 1,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q771.jpg",
     "correctVideo": "assets/videos/correct_20.mp4",
     "wrongVideo": "assets/videos/wrong_20.mp4",
     "previewVideo": "assets/videos/preview_20.mp4",
     "question": "მოცემული საგზაო ნიშნებიდან რომელი აღნიშნავს გზის მონაკვეთს, რომლის სავალი ნაწილის სიგანე ვიწროვდება მარჯვენა მხრიდან?",
+    "questionEn": "Which of the given road signs indicates a road section where the roadway width narrows on the right side?",
     "answers": [
+      "1\nII",
+      "2\nI",
+      "3\nIV",
+      "4\nIII"
+    ],
+    "answersEn": [
       "1\nII",
       "2\nI",
       "3\nIV",
@@ -297,12 +432,19 @@
   {
     "id": 772,
     "correctAnswer": 3,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q772.jpg",
     "correctVideo": "assets/videos/correct_2021.mp4",
     "wrongVideo": "assets/videos/wrong_2021.mp4",
     "previewVideo": "assets/videos/preview_2021.mp4",
     "question": "მოცემული საგზაო ნიშნებიდან რომელი აღნიშნავს გზის (სავალი ნაწილის) მონაკვეთის დასაწყისს ორმხრივი მოძრაობით, რომელსაც წინ უსწრებდა უბანი ცალმხრივი მოძრაობით?",
+    "questionEn": "Which of the given road signs indicates the beginning of a two-way traffic section that was preceded by a one-way traffic zone?",
     "answers": [
+      "1\nII",
+      "2\nI",
+      "3\nIV",
+      "4\nIII"
+    ],
+    "answersEn": [
       "1\nII",
       "2\nI",
       "3\nIV",
@@ -312,12 +454,19 @@
   {
     "id": 773,
     "correctAnswer": 3,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q773.jpg",
     "correctVideo": "assets/videos/correct_2022.mp4",
     "wrongVideo": "assets/videos/wrong_2022.mp4",
     "previewVideo": "assets/videos/preview_2022.mp4",
     "question": "მოცემული საგზაო ნიშნებიდან რომელი აფრთხილებს საგზაო ნიშნით (5.19.1 ან 5.19.2) აღნიშნულ ქვეითთა გადასასვლელთან მიახლოების თაობაზე?",
+    "questionEn": "Which of the given road signs warns about approaching a pedestrian crossing marked with signs (5.19.1 or 5.19.2)?",
     "answers": [
+      "1\nIII",
+      "2\nI",
+      "3\nIV",
+      "4\nII"
+    ],
+    "answersEn": [
       "1\nIII",
       "2\nI",
       "3\nIV",
@@ -327,12 +476,19 @@
   {
     "id": 774,
     "correctAnswer": 2,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q774.jpg",
     "correctVideo": "assets/videos/correct_2023.mp4",
     "wrongVideo": "assets/videos/wrong_2023.mp4",
     "previewVideo": "assets/videos/preview_2023.mp4",
     "question": "მოცემული საგზაო ნიშნებიდან რომელი აფრთხილებს გზის მონაკვეთთან საბავშვო დაწესებულებების არსებობის თაობაზე, საიდანაც დიდია სავალ ნაწილზე ბავშვების გამოჩენის ალბათობა?",
+    "questionEn": "Which of the given road signs warns about a road section with children's institutions where there is a high probability of children appearing on the roadway?",
     "answers": [
+      "1\nII",
+      "2\nIII",
+      "3\nIV",
+      "4\nI"
+    ],
+    "answersEn": [
       "1\nII",
       "2\nIII",
       "3\nIV",
@@ -342,12 +498,19 @@
   {
     "id": 775,
     "correctAnswer": 2,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q775.jpg",
     "correctVideo": "assets/videos/correct_2024.mp4",
     "wrongVideo": "assets/videos/wrong_2024.mp4",
     "previewVideo": "assets/videos/preview_2024.mp4",
     "question": "მოცემული საგზაო ნიშნებიდან რომელი აფრთხილებს საგზაო ნიშნით (4.4) აღნიშნული ველობილიკის სავალი ნაწილის გადაკვეთის ადგილთან მიახლოების თაობაზე?",
+    "questionEn": "Which of the given road signs warns about approaching the crossing point of a bicycle path marked with sign (4.4) on the roadway?",
     "answers": [
+      "1\nIII",
+      "2\nIV",
+      "3\nI",
+      "4\nII"
+    ],
+    "answersEn": [
       "1\nIII",
       "2\nIV",
       "3\nI",
@@ -357,12 +520,19 @@
   {
     "id": 776,
     "correctAnswer": 3,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q776.jpg",
     "correctVideo": "assets/videos/correct_2025.mp4",
     "wrongVideo": "assets/videos/wrong_2025.mp4",
     "previewVideo": "assets/videos/preview_2025.mp4",
     "question": "მოცემული საგზაო ნიშნებიდან რომელი აღნიშნავს გზის მონაკვეთს, რომლის სავალი ნაწილი არ არის დაცული ზვავისაგან, მეწყერისაგან და ქვების ცვენისგან?",
+    "questionEn": "Which of the given road signs indicates a road section where the roadway is not protected from avalanches, landslides, and falling rocks?",
     "answers": [
+      "1\nIII",
+      "2\nIV",
+      "3\nI",
+      "4\nII"
+    ],
+    "answersEn": [
       "1\nIII",
       "2\nIV",
       "3\nI",
@@ -372,12 +542,19 @@
   {
     "id": 777,
     "correctAnswer": 0,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q777.jpg",
     "correctVideo": "assets/videos/correct_2026.mp4",
     "wrongVideo": "assets/videos/wrong_2026.mp4",
     "previewVideo": "assets/videos/preview_2026.mp4",
     "question": "მოცემული საგზაო ნიშნებიდან რომელი აღნიშნავს გზის მონაკვეთს, რომელზედაც შეიძლება ამოვარდეს ძლიერი გვერდითი ქარი?",
+    "questionEn": "Which of the given road signs indicates a road section where strong crosswinds may occur?",
     "answers": [
+      "1\nIV",
+      "2\nIII",
+      "3\nII",
+      "4\nI"
+    ],
+    "answersEn": [
       "1\nIV",
       "2\nIII",
       "3\nII",
@@ -387,12 +564,19 @@
   {
     "id": 778,
     "correctAnswer": 1,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q778.jpg",
     "correctVideo": "assets/videos/correct_2027.mp4",
     "wrongVideo": "assets/videos/wrong_2027.mp4",
     "previewVideo": "assets/videos/preview_2027.mp4",
     "question": "მოცემული საგზაო ნიშნებიდან რომელი აღნიშნავს აეროდრომებთან ახლოს გამავალ გზის მონაკვეთს, რომლებზედაც თვითმფრინავები ან ვერტმფრენები დაბალ სიმაღლეზე დაფრინავენ?",
+    "questionEn": "Which of the given road signs indicates a road section near airports where airplanes or helicopters fly at low altitude?",
     "answers": [
+      "1\nII",
+      "2\nI",
+      "3\nIV",
+      "4\nIII"
+    ],
+    "answersEn": [
       "1\nII",
       "2\nI",
       "3\nIV",
@@ -402,12 +586,19 @@
   {
     "id": 779,
     "correctAnswer": 3,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q779.jpg",
     "correctVideo": "assets/videos/correct_2028.mp4",
     "wrongVideo": "assets/videos/wrong_2028.mp4",
     "previewVideo": "assets/videos/preview_2028.mp4",
     "question": "მოცემული საგზაო ნიშნებიდან რომელი აღნიშნავს გზის მონაკვეთს, რომელიც დროებით ჩახერგილია?",
+    "questionEn": "Which of the given road signs indicates a road section that is temporarily closed?",
     "answers": [
+      "1\nIV",
+      "2\nII",
+      "3\nI",
+      "4\nIII"
+    ],
+    "answersEn": [
       "1\nIV",
       "2\nII",
       "3\nI",
@@ -417,12 +608,19 @@
   {
     "id": 780,
     "correctAnswer": 1,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q780.jpg",
     "correctVideo": "assets/videos/correct_2029.mp4",
     "wrongVideo": "assets/videos/wrong_2029.mp4",
     "previewVideo": "assets/videos/preview_2029.mp4",
     "question": "მოცემული საგზაო ნიშნებიდან რომელი აღნიშნავს გზის მონაკვეთს, რომელზედაც შეიძლება წარმოიშვას ისეთი სახის საფრთხე, რომელიც არ არის განსაზღვრული სხვა მაფრთხილებელი ნიშნებით?",
+    "questionEn": "Which of the given road signs indicates a road section where a type of danger may occur that is not defined by other warning signs?",
     "answers": [
+      "1\nIV",
+      "2\nIII",
+      "3\nII",
+      "4\nI"
+    ],
+    "answersEn": [
       "1\nIV",
       "2\nIII",
       "3\nII",
@@ -432,12 +630,19 @@
   {
     "id": 781,
     "correctAnswer": 1,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q781.jpg",
     "correctVideo": "assets/videos/correct_2030.mp4",
     "wrongVideo": "assets/videos/wrong_2030.mp4",
     "previewVideo": "assets/videos/preview_2030.mp4",
     "question": "მოცემული საგზაო ნიშნებიდან რომელი აღნიშნავს მოძრაობის მიმართულებას შეზღუდული ხილვადობის მქონე მცირერადიუსიანი გზის მრუდეებზე, აგრეთვე საგზაო სამუშაოების მიმდინარეობის ადგილებში - შემოვლის მიმართულებას?",
+    "questionEn": "Which of the given road signs indicates the direction of movement on small-radius road curves with limited visibility, as well as the bypass direction in road construction areas?",
     "answers": [
+      "1\nIII",
+      "2\nIV",
+      "3\nI",
+      "4\nII"
+    ],
+    "answersEn": [
       "1\nIII",
       "2\nIV",
       "3\nI",
@@ -447,12 +652,19 @@
   {
     "id": 782,
     "correctAnswer": 2,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q782.jpg",
     "correctVideo": "assets/videos/correct_2031.mp4",
     "wrongVideo": "assets/videos/wrong_2031.mp4",
     "previewVideo": "assets/videos/preview_2031.mp4",
     "question": "მოცემული საგზაო ნიშნებიდან რომელი აღნიშნავს \"T\"-სებურ გზაჯვარედინზე ან გზების განშტოებაზე მოძრაობის მიმართულებას, ან საგზაო სამუშაოების მიმდინარეობის ადგილებში - შემოვლის მიმართულებას?",
+    "questionEn": "Which of the given road signs indicates the direction of movement at a T-junction or road branching, or the bypass direction in road construction areas?",
     "answers": [
+      "1\nII",
+      "2\nI",
+      "3\nIV",
+      "4\nIII"
+    ],
+    "answersEn": [
       "1\nII",
       "2\nI",
       "3\nIV",
@@ -462,12 +674,19 @@
   {
     "id": 783,
     "correctAnswer": 1,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q783.jpg",
     "correctVideo": "assets/videos/correct_2032.mp4",
     "wrongVideo": "assets/videos/wrong_2032.mp4",
     "previewVideo": "assets/videos/preview_2032.mp4",
     "question": "მოცემული საგზაო ნიშნებიდან რომელი აღნიშნავს გზას, რომელზედაც მოძრავ მძღოლს ენიჭება არარეგულირებული გზაჯვარედინის გავლის უპირატესობა?",
+    "questionEn": "Which of the given road signs indicates a road where the moving driver is granted priority to pass through an unregulated intersection?",
     "answers": [
+      "1\nII",
+      "2\nI",
+      "3\nIV",
+      "4\nIII"
+    ],
+    "answersEn": [
       "1\nII",
       "2\nI",
       "3\nIV",

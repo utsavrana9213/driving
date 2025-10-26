@@ -2,162 +2,229 @@
   {
     "id": 619,
     "correctAnswer": 0,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q619.jpg",
     "correctVideo": "assets/videos/correct_619.mp4",
     "wrongVideo": "assets/videos/wrong_619.mp4",
     "previewVideo": "assets/videos/preview_619.mp4",
     "question": "ეკრძალება თუ არა მძღოლს ისრით მითითებულ ადგილზე ავტომობილით დგომა?",
+    "questionEn": "Is the driver prohibited from stopping the vehicle at the location indicated by the arrow?",
     "answers": [
       "1\nეკრძალება",
       "2\nარ ეკრძალება"
+    ],
+    "answersEn": [
+      "Prohibited",
+      "Not prohibited"
     ]
   },
   {
     "id": 620,
     "correctAnswer": 1,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q620.jpg",
     "correctVideo": "assets/videos/correct_620.mp4",
     "wrongVideo": "assets/videos/wrong_620.mp4",
     "previewVideo": "assets/videos/preview_620.mp4",
     "question": "მოცემულ სიტუაციაში მხოლოდ სამარშუტო ყვითელი ავტობუსის მძღოლი აწარმოებს მგზავრთა ჩასხდომა-გადმოსხდომას. რომელი ავტომობილის მძღოლი არ არღვევს გაჩერების წესებს?",
+    "questionEn": "In this situation, only the driver of the yellow route bus is conducting passenger boarding and alighting. Which vehicle driver does not violate stopping rules?",
     "answers": [
       "1\nმხოლოდ მსუბუქი ავტომობილის მძღოლი",
       "2\nმხოლოდ სამარშუტო ყვითელი ავტობუსის მძღოლი",
       "3\nმხოლოდ სატვირთო ავტომობილის მძღოლი",
       "4\nარცერთი ავტომობილის მძღოლი"
+    ],
+    "answersEn": [
+      "Only the light vehicle driver",
+      "Only the yellow route bus driver",
+      "Only the truck driver",
+      "None of the vehicle drivers"
     ]
   },
   {
     "id": 621,
     "correctAnswer": 1,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q621.jpg",
     "correctVideo": "assets/videos/correct_621.mp4",
     "wrongVideo": "assets/videos/wrong_621.mp4",
     "previewVideo": "assets/videos/preview_621.mp4",
     "question": "თუ ქვეითთა არარეგულირებული გადასასვლელის წინ გაჩერდა ან მოძრაობა შეანელა სამარშრუტო სატრანსპორტო საშუალებამ, მეზობელ ზოლებზე მოძრავ სხვა სატრანსპორტო საშუალებათა მძღოლებმა მოძრაობა უნდა განაგრძონ:",
+    "questionEn": "If a route vehicle has stopped or slowed down in front of an unregulated pedestrian crossing, drivers of other vehicles in adjacent lanes should continue movement:",
     "answers": [
       "1\nსიჩქარის შეუცვლელად, რადგან ქვეითი ვალდებულია არ გამოვიდეს გაჩერებული სატრანსპორტო საშუალების წინა მხრიდან, ვიდრე არ დარწმუნდება მოახლოებული სატრანსპორტო საშუალების არარსებობაში",
       "2\nმხოლოდ მას შემდეგ, რაც დარწმუნდებიან, რომ გაჩერებული სამარშუტო სატრანსპორტო საშუალების წინ არ არის ქვეითი"
+    ],
+    "answersEn": [
+      "At the same speed, because pedestrians are required not to come out from in front of the stopped vehicle until they are sure there are no approaching vehicles",
+      "Only after making sure that there are no pedestrians in front of the stopped route vehicle"
     ]
   },
   {
     "id": 622,
     "correctAnswer": 1,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q622.jpg",
     "correctVideo": "assets/videos/correct_622.mp4",
     "wrongVideo": "assets/videos/wrong_622.mp4",
     "previewVideo": "assets/videos/preview_622.mp4",
-    "question": "აქვს თუ არა უფლება მსუბუქი ავტომობილის მძღოლს მგზავრთა ჩასხდომის მიზნით გაჩერდეს ისრით მითითებულ ადგილას?",
+    "question": "აქვს თუ არა უფლება მსუბუქი ავტომობილის მძღოლს გაჩერდეს ისრით მითითებულ ადგილას მგზავრთა ჩასხდომის მიზნით?",
+    "questionEn": "Does the light vehicle driver have the right to stop at the location indicated by the arrow for passenger boarding?",
     "answers": [
       "1\nაქვს უფლება",
       "2\nარ აქვს უფლება"
+    ],
+    "answersEn": [
+      "Has the right",
+      "Does not have the right"
     ]
   },
   {
     "id": 623,
     "correctAnswer": 2,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q623.jpg",
     "correctVideo": "assets/videos/correct_623.mp4",
     "wrongVideo": "assets/videos/wrong_623.mp4",
     "previewVideo": "assets/videos/preview_623.mp4",
     "question": "რომელი სატრანსპორტო საშუალებაა დაყენებული დგომის წესების დარღვევით, თუ ჯერ დადგა თეთრი მსუბუქი ავტომობილი, მერე - უეტლო მოტოციკლი და ბოლოს - ეტლიანი მოტოციკლი?",
+    "questionEn": "Which vehicle is parked in violation of stopping rules if first the white light vehicle stopped, then the motorcycle without sidecar, and finally the motorcycle with sidecar?",
     "answers": [
       "1\nთეთრი მსუბუქი ავტომობილი",
       "2\nუეტლო მოტოციკლი",
       "3\nეტლიანი მოტოციკლი",
       "4\nარცერთი სატრანსპორტო საშუალება"
+    ],
+    "answersEn": [
+      "White light vehicle",
+      "Motorcycle without sidecar",
+      "Motorcycle with sidecar",
+      "None of the vehicles"
     ]
   },
   {
     "id": 624,
     "correctAnswer": 1,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q624.jpg",
     "correctVideo": "assets/videos/correct_624.mp4",
     "wrongVideo": "assets/videos/wrong_624.mp4",
     "previewVideo": "assets/videos/preview_624.mp4",
     "question": "რომელი სატრანსპორტო საშუალებაა დაყენებული დგომის წესების დარღვევით, თუ მხოლოდ წითელი ავტომობილის მძღოლი დადგა ხანგრძლივი დასვენების მიზნით?",
+    "questionEn": "Which vehicle is parked in violation of stopping rules if only the driver of the red vehicle stopped for a long rest?",
     "answers": [
       "1\nშავი ავტომობილი",
       "2\nწითელი ავტომობილი",
       "3\nორივე ავტომობილი",
       "4\nარცერთი ავტომობილი"
+    ],
+    "answersEn": [
+      "Black vehicle",
+      "Red vehicle",
+      "Both vehicles",
+      "Neither vehicle"
     ]
   },
   {
     "id": 625,
     "correctAnswer": 1,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q625.jpg",
     "correctVideo": "assets/videos/correct_625.mp4",
     "wrongVideo": "assets/videos/wrong_625.mp4",
     "previewVideo": "assets/videos/preview_625.mp4",
     "question": "აქვს თუ არა უფლება მსუბუქი ავტომობილის მძღოლს გაჩერდეს ისრით მითითებულ ადგილას მგზავრთა ჩასხდომის მიზნით?",
+    "questionEn": "Does the light vehicle driver have the right to stop at the location indicated by the arrow for passenger boarding?",
     "answers": [
       "1\nაქვს უფლება",
       "2\nარ აქვს უფლება"
+    ],
+    "answersEn": [
+      "Has the right",
+      "Does not have the right"
     ]
   },
   {
     "id": 626,
     "correctAnswer": 1,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q626.jpg",
     "correctVideo": "assets/videos/correct_626.mp4",
     "wrongVideo": "assets/videos/wrong_626.mp4",
     "previewVideo": "assets/videos/preview_626.mp4",
     "question": "რომელი ავტომობილის მძღოლი დაარღვევს საგზაო მოძრაობის წესებს ხიდზე ისრით მითითებულ ადგილას გაჩერების შემთხვევაში?",
+    "questionEn": "Which vehicle driver will violate traffic rules by stopping at the location indicated by the arrow on the bridge?",
     "answers": [
       "1\nმხოლოდ თეთრი ავტომობილის მძღოლი",
       "2\nმხოლოდ წითელი ავტომობილის მძღოლი",
       "3\nორივე ავტომობილის მძღოლი",
       "4\nარცერთი ავტომობილის მძღოლი"
+    ],
+    "answersEn": [
+      "Only the white vehicle driver",
+      "Only the red vehicle driver",
+      "Both vehicle drivers",
+      "Neither vehicle driver"
     ]
   },
   {
     "id": 627,
     "correctAnswer": 3,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q627.jpg",
     "correctVideo": "assets/videos/correct_627.mp4",
     "wrongVideo": "assets/videos/wrong_627.mp4",
     "previewVideo": "assets/videos/preview_627.mp4",
     "question": "რომელი ავტომობილის მძღოლი არღვევს საგზაო მოძრაობის წესებს სურათზე მითითებულ ადგილას გაჩერების შემთხვევაში?",
+    "questionEn": "Which vehicle driver violates traffic rules by stopping at the location indicated in the picture?",
     "answers": [
       "1\nორივე ავტომობილის მძღოლი",
       "2\nარცერთი ავტომობილის მძღოლი",
       "3\nმხოლოდ წითელი ავტომობილის მძღოლი",
       "4\nმხოლოდ თეთრი ავტომობილის მძღოლი"
+    ],
+    "answersEn": [
+      "Both vehicle drivers",
+      "Neither vehicle driver",
+      "Only the red vehicle driver",
+      "Only the white vehicle driver"
     ]
   },
   {
     "id": 628,
     "correctAnswer": 0,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q628.jpg",
     "correctVideo": "assets/videos/correct_628.mp4",
     "wrongVideo": "assets/videos/wrong_628.mp4",
     "previewVideo": "assets/videos/preview_628.mp4",
     "question": "დაარღვეს თუ არა მსუბუქი ავტომობილის მძღოლი საგზაო მოძრაობის წესებს მითითებულ ადგილას ავტომობილის სადგომზე დაყენების შემთხვევაში, თუ ამით დაბრკოლებას უქმნის ქვეითებს?",
+    "questionEn": "Does the light vehicle driver violate traffic rules by parking the vehicle at the indicated location if it creates an obstacle for pedestrians?",
     "answers": [
       "1\nდაარღვევს",
       "2\nარ დაარღვევს"
+    ],
+    "answersEn": [
+      "Violates",
+      "Does not violate"
     ]
   },
   {
     "id": 629,
     "correctAnswer": 1,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q629.jpg",
     "correctVideo": "assets/videos/correct_629.mp4",
     "wrongVideo": "assets/videos/wrong_629.mp4",
     "previewVideo": "assets/videos/preview_629.mp4",
     "question": "რომელი ავტომობილია დაყენებული დგომის წესების დარღვევით?",
+    "questionEn": "Which vehicle is parked in violation of stopping rules?",
     "answers": [
       "1\nმსუბუქი ავტომობილი",
       "2\nსატვირთო ავტომობილი",
       "3\nორივე ავტომობილი",
       "4\nარცერთი ავტომობილი"
+    ],
+    "answersEn": [
+      "Light vehicle",
+      "Truck",
+      "Both vehicles",
+      "Neither vehicle"
     ]
   },
   {
     "id": 630,
     "correctAnswer": 0,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q630.jpg",
     "correctVideo": "assets/videos/correct_630.mp4",
     "wrongVideo": "assets/videos/wrong_630.mp4",
     "previewVideo": "assets/videos/preview_630.mp4",
@@ -170,408 +237,583 @@
   {
     "id": 631,
     "correctAnswer": 0,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q631.jpg",
     "correctVideo": "assets/videos/correct_631.mp4",
     "wrongVideo": "assets/videos/wrong_631.mp4",
     "previewVideo": "assets/videos/preview_631.mp4",
-    "question": "მოცემულ სიტუაციაში, ეკრძალება თუ არა მძღოლს სატვირთო ავტომობილის მონიშნულ ადგილზე დაყენება?",
+    "question": "მოცემულ სიტუაციაში, ეკრძალება თუ არა მძღოლი სატვირთო ავტომობილის მონიშნულ ადგილზე დაყენება?",
+    "questionEn": "In this situation, is the driver prohibited from parking the truck at the marked location?",
     "answers": [
       "1\nეკრძალება",
       "2\nარ ეკრძალება"
+    ],
+    "answersEn": [
+      "Prohibited",
+      "Not prohibited"
     ]
   },
   {
     "id": 632,
     "correctAnswer": 1,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q632.jpg",
     "correctVideo": "assets/videos/correct_632.mp4",
     "wrongVideo": "assets/videos/wrong_632.mp4",
     "previewVideo": "assets/videos/preview_632.mp4",
     "question": "დაარღვეს თუ არა მსუბუქი ავტომობილის მძღოლი საგზაო მოძრაობის წესებს ისრით მითითებულ ადგილას ავტომობილის სადგომზე დაყენების შემთხვევაში?",
+    "questionEn": "Does the light vehicle driver violate traffic rules by parking the vehicle at the location indicated by the arrow?",
     "answers": [
       "1\nდაარღვევს",
       "2\nარ დაარღვევს"
+    ],
+    "answersEn": [
+      "Violates",
+      "Does not violate"
     ]
   },
   {
     "id": 633,
     "correctAnswer": 2,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q633.jpg",
     "correctVideo": "assets/videos/correct_633.mp4",
     "wrongVideo": "assets/videos/wrong_633.mp4",
     "previewVideo": "assets/videos/preview_633.mp4",
     "question": "რომელი სატრანსპორტო საშუალებაა დაყენებული დგომის წესების დარღვევით?",
+    "questionEn": "Which vehicle is parked in violation of stopping rules?",
     "answers": [
       "1\nმხოლოდ მოტოციკლი",
       "2\nმხოლოდ მსუბუქი ავტომობილი",
       "3\nორივე სატრანსპორტო საშუალება",
       "4\nარცერთი სატრანსპორტო საშუალება"
+    ],
+    "answersEn": [
+      "Only the motorcycle",
+      "Only the light vehicle",
+      "Both vehicles",
+      "Neither vehicle"
     ]
   },
   {
     "id": 634,
     "correctAnswer": 3,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q634.jpg",
     "correctVideo": "assets/videos/correct_634.mp4",
     "wrongVideo": "assets/videos/wrong_634.mp4",
     "previewVideo": "assets/videos/preview_634.mp4",
     "question": "დასახლებულ პუნქტში, მოცემულ გზას თითოეული მიმართულებისათვის ერთი სამოძრაო ზოლი გააჩნია. მსუბუქი ავტომობილის მძღოლს უფლება აქვს გაჩერდეს:",
+    "questionEn": "In a populated area, the given road has one lane for each direction. The light vehicle driver has the right to stop:",
     "answers": [
       "1\nმხოლოდ A და B ადგილას",
       "2\nმხოლოდ B და C ადგილას",
       "3\nმხოლოდ C ადგილას",
       "4\nმხოლოდ A და C ადგილას"
+    ],
+    "answersEn": [
+      "Only at locations A and B",
+      "Only at locations B and C",
+      "Only at location C",
+      "Only at locations A and C"
     ]
   },
   {
     "id": 635,
     "correctAnswer": 0,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q635.jpg",
     "correctVideo": "assets/videos/correct_635.mp4",
     "wrongVideo": "assets/videos/wrong_635.mp4",
     "previewVideo": "assets/videos/preview_635.mp4",
     "question": "რომელი ავტომობილის მძღოლი არ არღვევს საგზაო მოძრაობის წესებს სურათზე მითითებულ ადგილას გაჩერების შემთხვევაში?",
+    "questionEn": "Which vehicle driver does not violate traffic rules when stopping at the location indicated in the picture?",
     "answers": [
       "1\nმხოლოდ მსუბუქი ავტომობილის მძღოლი",
       "2\nმხოლოდ სატვირთო ავტომობილის მძღოლი",
       "3\nორივე ავტომობილის მძღოლი",
       "4\nარცერთი ავტომობილის მძღოლი"
+    ],
+    "answersEn": [
+      "Only the light vehicle driver",
+      "Only the truck driver",
+      "Both vehicle drivers",
+      "Neither vehicle driver"
     ]
   },
   {
     "id": 636,
     "correctAnswer": 2,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q636.jpg",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
     "question": "რომელი ავტომობილია დაყენებული დგომის წესების დარღვევით დაუსახლებელ პუნქტში?",
+    "questionEn": "Which vehicle is parked in violation of stopping rules in an unpopulated area?",
     "answers": [
       "ორივე ავტომობილი",
       "არცერთი ავტომობილი",
       "წითელი ავტომობილი",
       "მწვანე ავტომობილი"
+    ],
+    "answersEn": [
+      "Both vehicles",
+      "Neither vehicle",
+      "Red vehicle",
+      "Green vehicle"
     ]
   },
   {
     "id": 637,
     "correctAnswer": 0,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q637.jpg",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
     "question": "დაარღვეს თუ არა თეთრი ავტომობილის მძღოლი საგზაო მოძრაობის წესებს, სურათზე მითითებულ ადგილას გაჩერების შემთხვევაში?",
+    "questionEn": "Does the white vehicle driver violate traffic rules by stopping at the location indicated in the picture?",
     "answers": [
       "დაარღვევს",
       "არ დაარღვევს"
+    ],
+    "answersEn": [
+      "Violates",
+      "Does not violate"
     ]
   },
   {
     "id": 638,
     "correctAnswer": 0,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q638.jpg",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
     "question": "სატრანსპორტო საშუალება სადგომზე მდგომად ითვლება, თუ:",
+    "questionEn": "A vehicle is considered to be parked if:",
     "answers": [
       "მოძრაობა გამიზნულად შეწყვეტილია 5 წუთზე მეტი ხნით, თუ ეს არ არის აუცილებელი მგზავრთა ჩასხდომა-გადმოსხდომისთვის, ან სატრანსპორტო საშუალების დატვირთვა-გადმოტვირთვისთვის",
       "მოძრაობა წინასწარ განზრახულად შეწყვეტილია 5 წუთამდე",
       "მოძრაობა შეწყვეტილია ტექნიკური გაუმართაობის გამო"
+    ],
+    "answersEn": [
+      "Movement is intentionally stopped for more than 5 minutes, if it is not necessary for passenger boarding-alighting or vehicle loading-unloading",
+      "Movement is intentionally stopped for up to 5 minutes",
+      "Movement is stopped due to technical malfunction"
     ]
   },
   {
     "id": 69,
     "correctAnswer": 3,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q69.jpg",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
     "question": "გზის სავალ ნაწილზე სატრანსპორტო საშუალებების გაჩერება აკრძალულია:",
+    "questionEn": "Stopping vehicles on the roadway is prohibited:",
     "answers": [
       "მხოლოდ გზაზე გამავალი ტრამვაის და რკინიგზის ლიანდაგებზე, ან მათ ახლოს, თუ ამას შეუძლია გააძნელოს ტრამვაის ან მატარებლების მოძრაობა",
       "მხოლოდ იმ ადგილებზე, სადაც სატრანსპორტო საშუალება საგზაო მოძრაობის სხვა მონაწილეებს უფარავს შუქნიშნის სიგნალებს ან საგზაო ნიშნებს",
       "მხოლოდ ნელმავალი სატრანსპორტო საშუალებების მოძრაობისათვის განკუთვნილ, შესაბამის საგზაო ნიშნით აღნიშნულ დამატებით მოძრაობის ზოლზე",
       "ამ ბილეთში ჩამოთვლილ ნებისმიერ შემთხვევაში"
+    ],
+    "answersEn": [
+      "Only on tram and railway tracks passing through the road, or near them, if this can complicate the movement of trams or trains",
+      "Only in places where the vehicle blocks traffic light signals or road signs from other road users",
+      "Only on the additional traffic lane designated for slow-moving vehicles, marked with the appropriate road sign",
+      "In any case listed in this ticket"
     ]
   },
   {
     "id": 70,
     "correctAnswer": 3,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q70.jpg",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
     "question": "რომელი ავტომობილის მძღოლი დაარღვევს საგზაო მოძრაობის წესებს, ხიდზე მგზავრთა ჩასხდომის მიზნით ისრით მითითებულ ადგილზე გაჩერების შემთხვევაში?",
+    "questionEn": "Which vehicle driver will violate traffic rules by stopping at the location indicated by the arrow on the bridge for passenger boarding?",
     "answers": [
       "ორივე ავტომობილის მძღოლი",
       "მხოლოდ თეთრი ავტომობილის მძღოლი",
       "მხოლოდ მწვანე ავტომობილის მძღოლი",
       "არცერთი ავტომობილის მძღოლი"
+    ],
+    "answersEn": [
+      "Both vehicle drivers",
+      "Only the white vehicle driver",
+      "Only the green vehicle driver",
+      "Neither vehicle driver"
     ]
   },
   {
     "id": 71,
     "correctAnswer": 3,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q71.jpg",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
     "question": "მოცემულ სიტუაციაში, რომელი სატრანსპორტო საშუალების მძღოლი არღვევს საგზაო მოძრაობის წესებს, თუ ხიდზე მგზავრთა ჩასხდომის მიზნით მსუბუქი ავტომობილი ისრის მიმართულებით მოძრაობს უკუსვლით, ხოლო - მოტოციკლი ახორციელებს ისრის მიმართულებით მობრუნებას?",
+    "questionEn": "In this situation, which vehicle driver violates traffic rules if the light vehicle moves in reverse in the direction of the arrow for passenger boarding on the bridge, while the motorcycle makes a turn in the direction of the arrow?",
     "answers": [
       "მხოლოდ მოტოციკლის მძღოლი",
       "მხოლოდ ავტომობილის მძღოლი",
       "არცერთი სატრანსპორტო საშუალების მძღოლი",
       "ორივე სატრანსპორტო საშუალების მძღოლები"
+    ],
+    "answersEn": [
+      "Only the motorcycle driver",
+      "Only the vehicle driver",
+      "Neither vehicle driver",
+      "Both vehicle drivers"
     ]
   },
   {
     "id": 72,
     "correctAnswer": 2,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q72.jpg",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
     "question": "რომელი სატრანსპორტო საშუალებაა დაყენებული დგომის წესების დარღვევით?",
+    "questionEn": "Which vehicle is parked in violation of stopping rules?",
     "answers": [
       "მხოლოდ სატვირთო ავტომობილი",
       "მხოლოდ მსუბუქი ავტომობილი",
       "ორივე ავტომობილი",
       "არცერთი ავტომობილი"
+    ],
+    "answersEn": [
+      "Only the truck",
+      "Only the light vehicle",
+      "Both vehicles",
+      "Neither vehicle"
     ]
   },
   {
     "id": 73,
     "correctAnswer": 0,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q73.jpg",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
     "question": "აქვს თუ არა უფლება მსუბუქი ავტომობილის მძღოლს, გაჩერდეს დასახლებული პუნქტის ორმხრივმოძრაობიან გზაზე, სურათზე მითითებულ ადგილას მგზავრთა ჩასხდომის მიზნით?",
+    "questionEn": "Does the light vehicle driver have the right to stop on a two-way road in a populated area at the location indicated in the picture for passenger boarding?",
     "answers": [
       "არ აქვს უფლება",
       "აქვს უფლება"
+    ],
+    "answersEn": [
+      "Does not have the right",
+      "Has the right"
     ]
   },
   {
     "id": 74,
     "correctAnswer": 0,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q74.jpg",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
     "question": "აქვს თუ არა უფლება მსუბუქი ავტომობილის მძღოლს გააგრძელოს მოძრაობა ისრის მიმართულებით, თუ მონიშნულ გაჩერებაზე მყოფ ტრამვაიში მგზავრების ჩასხდომა-გადმოსხდომა არ წარმოებს?",
+    "questionEn": "Does the light vehicle driver have the right to continue movement in the direction of the arrow if passenger boarding and alighting is not taking place in the tram at the designated stop?",
     "answers": [
       "აქვს უფლება",
       "არ აქვს უფლება"
+    ],
+    "answersEn": [
+      "Has the right",
+      "Does not have the right"
     ]
   },
   {
     "id": 75,
     "correctAnswer": 2,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q75.jpg",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
     "question": "მსუბუქი ავტომობილის მძღოლს განზრახული აქვს გზაჯვარედინზე მარჯვნივ მოხვევა, ის არ დაარღვევს საგზაო მოძრაობის წესებს, თუ:",
+    "questionEn": "The light vehicle driver intends to turn right at the intersection. He will not violate traffic rules if:",
     "answers": [
       "გაუსწრებს ავტობუსს, გადავა მარჯვენა ზოლში და იქედან მოუხვევს მარჯვნივ",
       "გაუსწრებს ავტობუსს და მარჯვნივ მოუხვევს მეორე ზოლიდან",
       "გაატარებს ავტობუსს, გადავა მარჯვენა ზოლში და იქედან მოუხვევს მარჯვნივ",
       "გაატარებს ავტობუსს და მარჯვნივ მოუხვევს მეორე ზოლიდან"
+    ],
+    "answersEn": [
+      "Overtakes the bus, moves to the right lane and turns right from there",
+      "Overtakes the bus and turns right from the second lane",
+      "Lets the bus pass, moves to the right lane and turns right from there",
+      "Lets the bus pass and turns right from the second lane"
     ]
   },
   {
     "id": 76,
     "correctAnswer": 0,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q76.jpg",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
     "question": "აქვს თუ არა უფლება მსუბუქი ავტომობილის მძღოლს გაჩერდეს დასახლებულ პუნქტში, სურათზე მითითებულ ადგილას მგზავრთა ჩასხდომის მიზნით?",
+    "questionEn": "Does the light vehicle driver have the right to stop in a populated area at the location indicated in the picture for passenger boarding?",
     "answers": [
       "არ აქვს უფლება",
       "აქვს უფლება"
+    ],
+    "answersEn": [
+      "Does not have the right",
+      "Has the right"
     ]
   },
   {
     "id": 77,
     "correctAnswer": 1,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q77.jpg",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
     "question": "აქვს თუ არა უფლება მძღოლს, საფრთხის შემთხვევაში, გააჩეროს ან დააყენოს სატრანსპორტო საშუალება საგზაო ნიშნით აღნიშნულ იმ გვირაბში, რომელშიც არარსებობს სპეციალურად გაჩერებისთვის მონიშნული ადგილები?",
+    "questionEn": "Does the driver have the right, in case of danger, to stop or park a vehicle in a tunnel marked by a road sign where there are no specially designated places for stopping?",
     "answers": [
       "არ აქვს უფლება",
       "აქვს უფლება"
+    ],
+    "answersEn": [
+      "Does not have the right",
+      "Has the right"
     ]
   },
   {
     "id": 78,
     "correctAnswer": 1,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q78.jpg",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
     "question": "დასაშვებია თუ არა საგზაო ნიშნით აღნიშნულ გვირაბში მექანიკური სატრანსპორტო საშუალების ხანგრძლივი გაჩერების შემთხვევაში ჩართული ძრავით დგომა?",
+    "questionEn": "Is it permissible to park with the engine running in a tunnel marked by a road sign in case of prolonged stopping of a mechanical vehicle?",
     "answers": [
       "დასაშვებია",
       "არ არის დასაშვები"
+    ],
+    "answersEn": [
+      "Permissible",
+      "Not permissible"
     ]
   },
   {
     "id": 79,
     "correctAnswer": 0,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q79.jpg",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
     "question": "სამარშუტო სატრანსპორტო საშუალების ან ტაქსის კონსტრუქციულად გამოყოფილი გაჩერების ადგილებიდან, ხოლო მათი არარსებობის შემთხვევაში – სამარშრუტო სატრანსპორტო საშუალების ან ტაქსის გაჩერების მაჩვენებლიდან, თუ ეს აბრკოლებს სამარშუტო სატრანსპორტო საშუალებების მოძრაობას, სატრანსპორტო საშუალებების გაჩერება აკრძალულია:",
+    "questionEn": "From structurally designated stopping places for route vehicles or taxis, and in their absence - from the route vehicle or taxi stop indicator, if this obstructs the movement of route vehicles, stopping of vehicles is prohibited:",
     "answers": [
       "15 მეტრზე ახლოს",
       "25 მეტრზე ახლოს",
       "30 მეტრზე ახლოს"
+    ],
+    "answersEn": [
+      "Within 15 meters",
+      "Within 25 meters",
+      "Within 30 meters"
     ]
   },
   {
     "id": 80,
     "correctAnswer": 1,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q80.jpg",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
     "question": "აკრძალულია თუ არა სატრანსპორტო საშუალებების გაჩერება იმ ესტაკადების, ხიდებისა და გზაგამტარების ქვეშ, სადაც არარსებობს გაჩერებისათვის სპეციალურად გამოყოფილი ადგილები?",
+    "questionEn": "Is stopping vehicles prohibited under overpasses, bridges and underpasses where there are no specially designated places for stopping?",
     "answers": [
       "აკრძალული, მხოლოდ იმ სატრანსპორტო საშუალებების გაჩერება, რომელთა ნებადართული მაქსიმალური მასა 3,5 ტონაზე მეტია",
       "აკრძალულია",
       "არ არის აკრძალული"
+    ],
+    "answersEn": [
+      "Prohibited only for vehicles whose maximum permitted mass exceeds 3.5 tons",
+      "Prohibited",
+      "Not prohibited"
     ]
   },
   {
     "id": 81,
     "correctAnswer": 1,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q81.jpg",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
     "question": "დასაშვებია თუ არა მგზავრის სატრანსპორტო საშუალებაში ჩაჯდომა სავალი ნაწილის მხრიდან?",
+    "questionEn": "Is it permissible for a passenger to board a vehicle from the roadway side?",
     "answers": [
       "დაუშვებელია",
       "დასაშვებია, თუ ტროტუარის ან გვერდულის მხრიდან ჩაჯდომა შეუძლებელია და იგი არ შეუქმნის დაბრკოლებას საგზაო მოძრაობის სხვა მონაწილეებს",
       "დასაშვებია მხოლოდ დაუსახლებულ პუნქტებში"
+    ],
+    "answersEn": [
+      "Inadmissible",
+      "Permissible if boarding from the sidewalk or curb side is impossible and it does not create obstacles for other road users",
+      "Permissible only in unpopulated areas"
     ]
   },
   {
     "id": 82,
     "correctAnswer": 2,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q82.jpg",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
-    "question": "„გაჩერება“ ნიშნავს:",
+    "question": "„გაჩერება ნიშნავს:",
+    "questionEn": "\"Stopping\" means:",
     "answers": [
       "სატრანსპორტო საშუალების მოძრაობის წინასწარგანზრახულ შეწყვეტას სატრანსპორტო ნაკადში",
       "სატრანსპორტო საშუალების მოძრაობის წინასწარგანზრახულ შეწყვეტას საგზაო მოძრაობის ორგანიზების ტექნიკური საშუალებების ან მარეგულირებელის მოთხოვნათა გამო",
       "სატრანსპორტო საშუალების მოძრაობის წინასწარგანზრახულ შეწყვეტას 5 წუთამდე, ან უფრო მეტი ხნით, თუ ეს აუცილებელია მგზავრთა ჩასხდომა-გადმოსხდომისათვის ან სატრანსპორტო საშუალების დატვირთვა-გადმოტვირთვისათვის"
+    ],
+    "answersEn": [
+      "Intentional cessation of vehicle movement in traffic flow",
+      "Intentional cessation of vehicle movement due to requirements of traffic organization technical means or traffic controller",
+      "Intentional cessation of vehicle movement for up to 5 minutes, or longer if necessary for passenger boarding-alighting or vehicle loading-unloading"
     ]
   },
   {
     "id": 83,
     "correctAnswer": 1,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q83.jpg",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
-    "question": "„დგომა“ ნიშნავს:",
+    "question": "„დგომ ნიშნავს:",
+    "questionEn": "\"Parking\" means:",
     "answers": [
       "სატრანსპორტო საშუალების მოძრაობის წინასწარგანზრახულ შეწყვეტას 5 წუთამდე, ან უფრო მეტი ხნით, თუ ეს აუცილებელია მგზავრთა ჩასხდომა-გადმოსხდომისათვის ან სატრანსპორტო საშუალების დატვირთვა-გადმოტვირთვისათვის",
       "სატრანსპორტო საშუალების მოძრაობის გამიზნულად შეწყვეტას 5 წუთზე მეტი ხნით, თუ ეს აუცილებელი არ არის მგზავრთა ჩასხდომა-გადმოსხდომისათვის ან სატრანსპორტო საშუალების დატვირთვა-გადმოტვირთვისათვის"
+    ],
+    "answersEn": [
+      "Intentional cessation of vehicle movement for up to 5 minutes, or longer if necessary for passenger boarding-alighting or vehicle loading-unloading",
+      "Intentional cessation of vehicle movement for more than 5 minutes if it is not necessary for passenger boarding-alighting or vehicle loading-unloading"
     ]
   },
   {
     "id": 84,
     "correctAnswer": 1,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q84.jpg",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
     "question": "ნებადართულია თუ არა სატრანსპორტო საშუალების დგომა სავალი ნაწილის მარცხენა მხარეს?",
+    "questionEn": "Is parking a vehicle on the left side of the roadway permitted?",
     "answers": [
       "ნებადართულია მხოლოდ დაუსახლებელ პუნქტებში",
       "ნებადართულია მხოლოდ დასახლებულ პუნქტში იმ გზაზე, სადაც თითოეული მიმართულებისათვის ერთი სამოძრაო ზოლია, შუაში ტრამვაის ლიანდაგების გარეშე",
       "ნებადართულია ნებისმიერ გზაზე, რომლის შუაში არ არის ტრამვაის ლიანდაგი",
       "არ არის ნებადართული"
+    ],
+    "answersEn": [
+      "Permitted only in unpopulated areas",
+      "Permitted only in populated areas on roads where there is one lane for each direction, without tram tracks in the middle",
+      "Permitted on any road that does not have tram tracks in the middle",
+      "Not permitted"
     ]
   },
   {
     "id": 85,
     "correctAnswer": 3,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q85.jpg",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
     "question": "სატრანსპორტო საშუალების დგომა არ არის აკრძალული:",
+    "questionEn": "Vehicle parking is not prohibited:",
     "answers": [
       "გაჩერების ამკრძალავი საგზაო ნიშნის მოქმედების ზონაში",
       "გზის სავალ ნაწილზე რკინიგზის გადასასვლელთან 50 მეტრზე ახლოს",
       "ეზოდან ავტომობილის გამოსასვლელთან",
       "ამ ბილეთში ჩამოთვლილ ყველა ადგილას აკრძალულია"
+    ],
+    "answersEn": [
+      "In the zone of action of the stopping prohibition road sign",
+      "On the roadway within 50 meters of a railway crossing",
+      "At the exit from a yard",
+      "Prohibited in all places listed in this ticket"
     ]
   },
   {
     "id": 86,
     "correctAnswer": 0,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q86.jpg",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
     "question": "მსუბუქი ავტომობილის მძღოლს უფლება აქვს გაჩერდეს:",
+    "questionEn": "The light vehicle driver has the right to stop:",
     "answers": [
       "მხოლოდ A ადგილას",
       "მხოლოდ B ადგილას",
       "როგორც A, ასევე B ადგილას"
+    ],
+    "answersEn": [
+      "Only at location A",
+      "Only at location B",
+      "At both locations A and B"
     ]
   },
   {
     "id": 87,
     "correctAnswer": 1,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q87.jpg",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
     "question": "აქვს თუ არა უფლება მსუბუქი ავტომობილის მძღოლს მგზავრის ჩამოსმის მიზნით გაჩერდეს ისრით მითითებულ ადგილას?",
+    "questionEn": "Does the light vehicle driver have the right to stop at the location indicated by the arrow for passenger drop-off?",
     "answers": [
       "აქვს უფლება",
       "არ აქვს უფლება"
+    ],
+    "answersEn": [
+      "Has the right",
+      "Does not have the right"
     ]
   },
   {
     "id": 88,
     "correctAnswer": 0,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q88.jpg",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
     "question": "მსუბუქი ავტომობილის მძღოლს უფლება აქვს გაჩერდეს:",
+    "questionEn": "The light vehicle driver has the right to stop:",
     "answers": [
       "მხოლოდ A ადგილას",
       "მხოლოდ B ადგილას",
       "არც A და ასევე არც B ადგილას"
+    ],
+    "answersEn": [
+      "Only at location A",
+      "Only at location B",
+      "Neither at location A nor at location B"
     ]
   },
   {
     "id": 89,
     "correctAnswer": 1,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q89.jpg",
     "correctVideo": "assets/videos/correct_51.mp4",
     "wrongVideo": "assets/videos/wrong_51.mp4",
     "previewVideo": "assets/videos/preview_51.mp4",
     "question": "მსუბუქი ავტომობილის მძღოლს უფლება აქვს გაჩერდეს:",
+    "questionEn": "The light vehicle driver has the right to stop:",
     "answers": [
       "1\nმხოლოდ A ადგილას",
       "2\nმხოლოდ B ადგილას",
       "3\nროგორც A ადგილას, B ასევე ადგილას"
+    ],
+    "answersEn": [
+      "Only at location A",
+      "Only at location B",
+      "At both locations A and B"
     ]
   }
 ]

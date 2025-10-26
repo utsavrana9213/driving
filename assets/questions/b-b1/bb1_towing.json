@@ -2,261 +2,369 @@
   {
     "id": 660,
     "correctAnswer": 1,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q660.jpg",
     "correctVideo": "assets/videos/correct.mp4",
     "wrongVideo": "assets/videos/wrong.mp4",
     "previewVideo": "assets/videos/preview.mp4",
-    "question": "ავტომაგისტრალზე მწყობრიდან გამოსული ავტომობილის ბუქსირება ხდება თვითნაკეთი მოწყობილობით (თოკით). მობუქსირე სატრანსპორტო საშუალების მძღოლს უფლება აქვს იმოძრაოს:",
+    "question": "ავტომაგისტრალზე მწყობრიდან გამოსული ავტომობილის ბუქსირება ხდება თვითნაკეთი მოწყობილობით (თოკით). მობუქსირე სატრანსპორტო საშუალების მძღოლი უფლება აქვს იმოძრაოს:",
+    "questionEn": "On a highway, a vehicle that has broken down is being towed with a makeshift device (rope). The driver of the towing vehicle has the right to move:",
     "answers": [
       "მხოლოდ A მიმართულებით",
       "მხოლოდ B მიმართულებით",
       "როგორც A, ასევე B მიმართულებით"
+    ],
+    "answersEn": [
+      "Only in direction A",
+      "Only in direction B",
+      "In both directions A and B"
     ]
   },
   {
     "id": 661,
     "correctAnswer": 1,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q661.jpg",
     "correctVideo": "assets/videos/correct.mp4",
     "wrongVideo": "assets/videos/wrong.mp4",
     "previewVideo": "assets/videos/preview.mp4",
-    "question": "აქვს თუ არა უფლება მაბუქსირებელ ავტომობილის მძღოლს გააგრძელოს მოძრაობა ისრის მიმართულებით, თუ ბუქსირება ხდება თვითნაკეთი მოწყობილობით (თოკით)?",
+    "question": "აქვს თუ არა უფლება მაბუქსირებელ ავტომობილის მძღოლი გააგრძელოს მოძრაობა ისრის მიმართულებით, თუ ბუქსირება ხდება თვითნაკეთი მოწყობილობით (თოკით)?",
+    "questionEn": "Does the driver of the towing vehicle have the right to continue movement in the direction of the arrow if towing is done with a makeshift device (rope)?",
     "answers": [
       "აქვს უფლება",
       "არ აქვს უფლება"
+    ],
+    "answersEn": [
+      "Has the right",
+      "Does not have the right"
     ]
   },
   {
     "id": 662,
     "correctAnswer": 0,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q662.jpg",
     "correctVideo": "assets/videos/correct.mp4",
     "wrongVideo": "assets/videos/wrong.mp4",
     "previewVideo": "assets/videos/preview.mp4",
     "question": "არღვევს თუ არა ისრის მიმართულებით მოძრავი მობუქსირე ავტომობილის მძღოლი მექანიკური სატრანსპორტო საშუალების ბუქსირებისათვის დადგენილ მოთხოვნებს?",
+    "questionEn": "Does the driver of the towing vehicle moving in the direction of the arrow violate the requirements established for towing mechanical vehicles?",
     "answers": [
       "არღვევს",
       "არ არღვევს"
+    ],
+    "answersEn": [
+      "Violates",
+      "Does not violate"
     ]
   },
   {
     "id": 663,
     "correctAnswer": 2,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q663.jpg",
     "correctVideo": "assets/videos/correct.mp4",
     "wrongVideo": "assets/videos/wrong.mp4",
     "previewVideo": "assets/videos/preview.mp4",
     "question": "რომელი ავტომობილის მძღოლი არღვევს საგზაო მოძრაობის წესებს, თუ ტრაქტორი მოძრაობს 50კმ/სთ სიჩქარით, ხოლო სატვირთო ავტომობილი ახორციელებს გასწრებას?",
+    "questionEn": "Which vehicle driver violates traffic rules if the tractor is moving at 50 km/h and the truck is overtaking?",
     "answers": [
       "მხოლოდ ტრაქტორის მძღოლი",
       "მხოლოდ სატვირთო ავტომობილის მძღოლი",
       "როგორც ტრაქტორის, ასევე სატვირთო ავტომობილის მძღოლი"
+    ],
+    "answersEn": [
+      "Only the tractor driver",
+      "Only the truck driver",
+      "Both the tractor and truck drivers"
     ]
   },
   {
     "id": 664,
     "correctAnswer": 1,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q664.jpg",
     "correctVideo": "assets/videos/correct.mp4",
     "wrongVideo": "assets/videos/wrong.mp4",
     "previewVideo": "assets/videos/preview.mp4",
     "question": "დასაშვებია თუ არა, გაუმართავი საჭის მართვის მექანიზმის მქონე მსუბუქი ავტომობილის მოცემული ხერხით ბუქსირება?",
+    "questionEn": "Is it permissible to tow a light vehicle with a faulty steering mechanism using the shown method?",
     "answers": [
       "დასაშვებია",
       "არ არის დასაშვები"
+    ],
+    "answersEn": [
+      "Permitted",
+      "Not permitted"
     ]
   },
   {
     "id": 665,
     "correctAnswer": 0,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q665.jpg",
     "correctVideo": "assets/videos/correct.mp4",
     "wrongVideo": "assets/videos/wrong.mp4",
     "previewVideo": "assets/videos/preview.mp4",
     "question": "რომელი ავტომობილის მძღოლი დაარღვევს საგზაო მოძრაობის წესებს ისრის მიმართულებით მოძრაობის შემთხვევაში?",
+    "questionEn": "Which vehicle driver will violate traffic rules when moving in the direction of the arrow?",
     "answers": [
       "მობუქსირე ნახევარმისაბმელიანი საწევარას მძღოლი",
       "წითელი მსუბუქი ავტომობილის მძღოლი"
+    ],
+    "answersEn": [
+      "Driver of the towing semi-trailer truck",
+      "Driver of the red light vehicle"
     ]
   },
   {
     "id": 666,
     "correctAnswer": 2,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q666.jpg",
     "correctVideo": "assets/videos/correct.mp4",
     "wrongVideo": "assets/videos/wrong.mp4",
     "previewVideo": "assets/videos/preview.mp4",
     "question": "მოცემულ სიტუაციაში საგზაო მოძრაობის წესების რამდენი მოთხოვნაა დარღვეული, თუ მოქნილი გადამბმით ბუქსირებული შემადგენლობა მოძრაობს 50 კმ/სთ სიჩქარით, ხოლო მათ შორის მანძილი 5 მეტრია?",
+    "questionEn": "In this situation, how many traffic rule requirements are violated if the composition towed with flexible coupling is moving at 50 km/h with a distance of 5 meters between them?",
     "answers": [
       "ორი",
       "სამი",
       "ოთხი",
       "ხუთი"
+    ],
+    "answersEn": [
+      "Two",
+      "Three",
+      "Four",
+      "Five"
     ]
   },
   {
     "id": 667,
     "correctAnswer": 2,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q667.jpg",
     "correctVideo": "assets/videos/correct.mp4",
     "wrongVideo": "assets/videos/wrong.mp4",
     "previewVideo": "assets/videos/preview.mp4",
-    "question": "მოცემულ სიტუაციაში, მობუქსირე ავტომობილის მძღოლს მოძრაობის გაგრძელების უფლება აქვს:",
+    "question": "მოცემულ სიტუაციაში, მობუქსირე ავტომობილის მძღოლი მოძრაობის გაგრძელების უფლება აქვს:",
+    "questionEn": "In this situation, the driver of the towing vehicle has the right to continue movement:",
     "answers": [
       "მხოლოდ A მიმართულებით",
       "მხოლოდ B მიმართულებით",
       "როგორც A, ასევე B მიმართულებით"
+    ],
+    "answersEn": [
+      "Only in direction A",
+      "Only in direction B",
+      "In both directions A and B"
     ]
   },
   {
     "id": 668,
     "correctAnswer": 0,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q668.jpg",
     "correctVideo": "assets/videos/correct.mp4",
     "wrongVideo": "assets/videos/wrong.mp4",
     "previewVideo": "assets/videos/preview.mp4",
-    "question": "მოცემულ სიტუაციაში, ეკრძალება თუ არა მობუქსირე ავტომობილის მძღოლს, ისრის მიმართულებით მოძრაობა, თუ გზა მოყინულია?",
+    "question": "მოცემულ სიტუაციაში, ეკრძალება თუ არა მობუქსირე ავტომობილის მძღოლი, ისრის მიმართულებით მოძრაობა, თუ გზა მოყინულია?",
+    "questionEn": "In this situation, is the driver of the towing vehicle prohibited from moving in the direction of the arrow if the road is icy?",
     "answers": [
       "ეკრძალება",
       "არ ეკრძალება"
+    ],
+    "answersEn": [
+      "Prohibited",
+      "Not prohibited"
     ]
   },
   {
     "id": 669,
     "correctAnswer": 1,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q669.jpg",
     "correctVideo": "assets/videos/correct.mp4",
     "wrongVideo": "assets/videos/wrong.mp4",
     "previewVideo": "assets/videos/preview.mp4",
     "question": "დასაშვებია თუ არა მისაბმელიანი მექანიკური სატრანსპორტო საშუალებით სხვა მექანიკური სატრანსპორტო საშუალების ბუქსირება?",
+    "questionEn": "Is it permissible to tow another mechanical vehicle with a mechanical vehicle that has a trailer?",
     "answers": [
       "დასაშვებია",
       "არ არის დასაშვები",
       "დასაშვებია, მხოლოდ იმ შემთხვევაში, თუ მობუქსირე მექანიკური სატრანსპორტო საშუალების მისაბმელის ნებადართული მაქსიმალური მასა 750 კგ-ზე ნაკლებია"
+    ],
+    "answersEn": [
+      "Permitted",
+      "Not permitted",
+      "Permitted only if the maximum permitted mass of the towing vehicle's trailer is less than 750 kg"
     ]
   },
   {
     "id": 670,
     "correctAnswer": 1,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q670.jpg",
     "correctVideo": "assets/videos/correct.mp4",
     "wrongVideo": "assets/videos/wrong.mp4",
     "previewVideo": "assets/videos/preview.mp4",
     "question": "სავალდებულოა თუ არა, ხისტი გადაბმით ბუქსირებისას, საბუქსირო სატრანსპორტო საშუალებას მართავდეს მძღოლი, როცა გადაბმის კონსტრუქცია უზრუნველყოფს საბუქსირო სატრანსპორტო საშუალების მობუქსირე ტრანსპორტის ტრაექტორიით მიყოლას?",
+    "questionEn": "Is it mandatory for the towed vehicle to be driven by a driver during rigid coupling towing when the coupling construction ensures that the towed vehicle follows the trajectory of the towing vehicle?",
     "answers": [
       "სავალდებულოა",
       "არ არის სავალდებულო"
+    ],
+    "answersEn": [
+      "Mandatory",
+      "Not mandatory"
     ]
   },
   {
     "id": 671,
     "correctAnswer": 0,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q671.jpg",
     "correctVideo": "assets/videos/correct.mp4",
     "wrongVideo": "assets/videos/wrong.mp4",
     "previewVideo": "assets/videos/preview.mp4",
     "question": "სავალდებულოა თუ არა, მოქნილი გადაბმით ბუქსირებისას, საბუქსირო სატრანსპორტო საშუალებას მართავდეს მძღოლი?",
+    "questionEn": "Is it mandatory for the towed vehicle to be driven by a driver during flexible coupling towing?",
     "answers": [
       "სავალდებულოა",
       "არ არის სავალდებულო"
+    ],
+    "answersEn": [
+      "Mandatory",
+      "Not mandatory"
     ]
   },
   {
     "id": 672,
     "correctAnswer": 2,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q672.jpg",
     "correctVideo": "assets/videos/correct.mp4",
     "wrongVideo": "assets/videos/wrong.mp4",
     "previewVideo": "assets/videos/preview.mp4",
     "question": "ნაწილობრივი დატვირთვით ბუქსირებისას აკრძალულია ხალხის ყოფნა:",
+    "questionEn": "During partial load towing, the presence of people is prohibited:",
     "answers": [
       "მხოლოდ საბუქსირო მექანიკურ სატრანსპორტო საშუალებაში",
       "მხოლოდ მობუქსირე მექანიკური სატრანსპორტო საშუალების ძარაზე",
       "როგორც საბუქსირო მექანიკურ სატრანსპორტო საშუალებაში, ასევე მობუქსირე მექანიკური სატრანსპორტო საშუალების ძარაზე"
+    ],
+    "answersEn": [
+      "Only in the towed mechanical vehicle",
+      "Only on the body of the towing mechanical vehicle",
+      "Both in the towed mechanical vehicle and on the body of the towing mechanical vehicle"
     ]
   },
   {
     "id": 673,
     "correctAnswer": 1,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q673.jpg",
     "correctVideo": "assets/videos/correct.mp4",
     "wrongVideo": "assets/videos/wrong.mp4",
     "previewVideo": "assets/videos/preview.mp4",
     "question": "მოქნილი გადაბმით ბუქსირებისას მანძილი მობუქსირე და საბუქსირო სატრანსპორტო საშუალებებს შორის უნდა შეადგენდეს:",
+    "questionEn": "During flexible coupling towing, the distance between the towing and towed vehicles should be:",
     "answers": [
       "2-4 მეტრს",
       "4-6 მეტრს",
       "6-8 მეტრს"
+    ],
+    "answersEn": [
+      "2-4 meters",
+      "4-6 meters",
+      "6-8 meters"
     ]
   },
   {
     "id": 674,
     "correctAnswer": 1,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q674.jpg",
     "correctVideo": "assets/videos/correct.mp4",
     "wrongVideo": "assets/videos/wrong.mp4",
     "previewVideo": "assets/videos/preview.mp4",
     "question": "აკრძალულია თუ არა, იმ მექანიკური სატრანსპორტო საშუალების ბუქსირება, რომელსაც ორი მისაბმელი აქვს?",
+    "questionEn": "Is towing prohibited for a mechanical vehicle that has two trailers?",
     "answers": [
       "არ არის აკრძალული",
       "აკრძალულია"
+    ],
+    "answersEn": [
+      "Not prohibited",
+      "Prohibited"
     ]
   },
   {
     "id": 675,
     "correctAnswer": 2,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q675.jpg",
     "correctVideo": "assets/videos/correct.mp4",
     "wrongVideo": "assets/videos/wrong.mp4",
     "previewVideo": "assets/videos/preview.mp4",
     "question": "ბუქსირება დასაშვებია:",
+    "questionEn": "Towing is permitted:",
     "answers": [
       "მოტოციკლით, გვერდითი მისაბმელის გარეშე, აგრეთვე ასეთი მოტოციკლის ბუქსირება",
       "მოქნილი გადაბმით, როცა გზები მოყინულია",
       "ამ ბილეთში ჩამოთვლილი არცერთი პასუხი არ არის სწორი"
+    ],
+    "answersEn": [
+      "With a motorcycle without a side trailer, as well as towing such a motorcycle",
+      "With flexible coupling when roads are icy",
+      "None of the answers listed in this ticket are correct"
     ]
   },
   {
     "id": 676,
     "correctAnswer": 1,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q676.jpg",
     "correctVideo": "assets/videos/correct.mp4",
     "wrongVideo": "assets/videos/wrong.mp4",
     "previewVideo": "assets/videos/preview.mp4",
     "question": "დღე-ღამის ნებისმიერ პერიოდში მობუქსირე მექანიკურ სატრანსპორტო საშუალებას ჩართული უნდა ჰქონდეს:",
+    "questionEn": "At any time of day or night, the towing mechanical vehicle must have turned on:",
     "answers": [
       "საგაბარიტო სინათლეები",
       "ახლო განათების ფარები",
       "ნისლსაწინააღმდეგო ფარები"
+    ],
+    "answersEn": [
+      "Outline marker lights",
+      "Low beam headlights",
+      "Fog lights"
     ]
   },
   {
     "id": 677,
     "correctAnswer": 0,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q677.jpg",
     "correctVideo": "assets/videos/correct.mp4",
     "wrongVideo": "assets/videos/wrong.mp4",
     "previewVideo": "assets/videos/preview.mp4",
     "question": "სულ მცირე, რამდენი გამაფრთხილებელი მოწყობილობა (ალამი) უნდა დამაგრდეს დრეკად შემაერთებელ რგოლზე მექანიკური სატრანსპორტო საშუალების მოქნილი გადაბმით ბუქსირებისას?",
+    "questionEn": "At least how many warning devices (flags) should be attached to the flexible connecting link during flexible coupling towing of a mechanical vehicle?",
     "answers": [
       "ორი",
       "სამი",
       "ოთხი"
+    ],
+    "answersEn": [
+      "Two",
+      "Three",
+      "Four"
     ]
   },
   {
     "id": 678,
     "correctAnswer": 2,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q678.jpg",
     "correctVideo": "assets/videos/correct_130.mp4",
     "wrongVideo": "assets/videos/wrong_130.mp4",
     "previewVideo": "assets/videos/preview_130.mp4",
     "question": "მოცემულ სიტუაციაში, რამდენ საგზაო მოძრაობის წესს არღვევს ისრის მიმართულებით მოძრავი მობუქსირე სატვირთო ავტომობილის მძღოლი, თუ იგი მოძრაობს 60 კმ/სთ სიჩქარით?",
+    "questionEn": "In this situation, how many traffic rules does the driver of the towing truck violate when moving in the direction of the arrow if it is moving at 60 km/h?",
     "answers": [
       "1\nარც ერთს",
       "2\nერთს",
       "3\nორს",
       "4\nსამს"
+    ],
+    "answersEn": [
+      "None",
+      "One",
+      "Two",
+      "Three"
     ]
   }
 ]

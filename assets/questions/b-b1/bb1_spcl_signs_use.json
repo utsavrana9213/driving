@@ -2,289 +2,409 @@
   {
     "id": 598,
     "correctAnswer": 2,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q598.jpg",
     "correctVideo": "assets/videos/correct_598.mp4",
     "wrongVideo": "assets/videos/wrong_598.mp4",
     "previewVideo": "assets/videos/preview_598.mp4",
     "question": "რა თანამიმდევრობით უნდა გაიარონ გზაჯვარედინი ისრის მიმართულებით მოძრავმა ავტომობილებმა, თუ სასწრაფო სამედიცინო დახმარების ავტომობილს ჩართული აქვს ლურჯი მოელვარე სპეციალური ციმციმა და ხმოვანი სიგნალები?",
+    "questionEn": "In what order should vehicles moving in the direction of the arrow pass through the intersection if the emergency medical vehicle has blue flashing special signals and sound signals turned on?",
     "answers": [
       "1\nჯერ უნდა გაიაროს სასწრაფო სამედიცინო დახმარების ავტომობილმა, შემდეგ - ავტობუსმა და ბოლოს - მსუბუქმა ავტომობილმა",
       "2\nჯერ უნდა გაიაროს მსუბუქმა ავტომობილმა, შემდეგ - სასწრაფო სამედიცინო დახმარების ავტომობილმა და ბოლოს - ავტობუსმა",
       "3\nჯერ უნდა გაიაროს სასწრაფო სამედიცინო დახმარების ავტომობილმა, შემდეგ - მსუბუქმა ავტომობილმა და ბოლოს - ავტობუსმა"
+    ],
+    "answersEn": [
+      "First the emergency medical vehicle should pass, then the bus and finally the light vehicle",
+      "First the light vehicle should pass, then the emergency medical vehicle and finally the bus",
+      "First the emergency medical vehicle should pass, then the light vehicle and finally the bus"
     ]
   },
   {
     "id": 599,
     "correctAnswer": 0,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q599.jpg",
     "correctVideo": "assets/videos/correct_599.mp4",
     "wrongVideo": "assets/videos/wrong_599.mp4",
     "previewVideo": "assets/videos/preview_599.mp4",
     "question": "ერთობლივად ჩართული შუქნიშნის წითელი და ყვითელი მაშუქი სიგნალები:",
+    "questionEn": "The red and yellow light signals of the traffic light turned on together:",
     "answers": [
       "1\nკრძალავს მოძრაობას და იტყობინება მწვანე მაშუქი სიგნალის მოსალოდნელი ჩართვის შესახებ",
       "2\nრთავს მოძრაობის ნებას და იძლევა ინფორმაციას გზის მონაკვეთზე საფრთხის არსებობის შესახებ"
+    ],
+    "answersEn": [
+      "Prohibit movement and announce the expected activation of the green light signal",
+      "Allow movement and provide information about the existence of danger on the road section"
     ]
   },
   {
     "id": 600,
     "correctAnswer": 1,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q600.jpg",
     "correctVideo": "assets/videos/correct_600.mp4",
     "wrongVideo": "assets/videos/wrong_600.mp4",
     "previewVideo": "assets/videos/preview_600.mp4",
     "question": "მოცემულ სიტუაციაში არღვევს თუ არა მძღოლი იძულებით გაჩერებისათვის დადგენილ მოთხოვნებს, თუ გაუმართავი ავტომობილის დაუყოვნებლივ გაყვანა გზიდან შეუძლებელია?",
+    "questionEn": "In this situation, does the driver violate the requirements for forced stopping if immediate removal of the broken vehicle from the road is impossible?",
     "answers": [
       "1\nარ არღვევს",
       "2\nარღვევს"
+    ],
+    "answersEn": [
+      "Does not violate",
+      "Violates"
     ]
   },
   {
     "id": 601,
     "correctAnswer": 2,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q601.jpg",
     "correctVideo": "assets/videos/correct_601.mp4",
     "wrongVideo": "assets/videos/wrong_601.mp4",
     "previewVideo": "assets/videos/preview_601.mp4",
     "question": "ოპერატიული სამსახურის ავტომობილის მძღოლი, მიუხედავად საგზაო ნიშნებისა და მონიშვნების მოთხოვნებისა, სხვა საგზაო მოძრაობის მონაწილეების მიმართ სარგებლობს პრიორიტეტით, თუ ჩართული აქვს:",
+    "questionEn": "The driver of an operational service vehicle, regardless of road signs and markings requirements, has priority over other road users if they have turned on:",
     "answers": [
       "1\nლურჯი მოელვარე სპეციალური ციმციმა სიგნალი",
       "2\nლურჯი და წითელი მოელვარე სპეციალური ციმციმა სიგნალები",
       "3\nლურჯი მოელვარე სპეციალური ციმციმა და ხმოვანი სიგნალები"
+    ],
+    "answersEn": [
+      "Blue flashing special signal",
+      "Blue and red flashing special signals",
+      "Blue flashing special signal and sound signals"
     ]
   },
   {
     "id": 602,
     "correctAnswer": 0,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q602.jpg",
     "correctVideo": "assets/videos/correct_602.mp4",
     "wrongVideo": "assets/videos/wrong_602.mp4",
     "previewVideo": "assets/videos/preview_602.mp4",
     "question": "ვალდებულია თუ არა, საგზაო მოძრაობის მონაწილე გზა დაუთმოს ჩართული ახლო ნათების ფარებით მოძრავ იმ სატრანსპორტო საშუალებას, რომელსაც მიაცილებს ოპერატიული სამსახურის სატრანსპორტო საშუალება ჩართული ლურჯი მოელვარე სპეციალური ციმციმა და ხმოვანი სიგნალებით?",
+    "questionEn": "Is a road user obliged to give way to a vehicle moving with low beam headlights on that is being escorted by an operational service vehicle with blue flashing special signals and sound signals turned on?",
     "answers": [
       "1\nვალდებულია",
       "2\nარ არის ვალდებული"
+    ],
+    "answersEn": [
+      "Obliged",
+      "Not obliged"
     ]
   },
   {
     "id": 603,
     "correctAnswer": 1,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q603.jpg",
     "correctVideo": "assets/videos/correct_603.mp4",
     "wrongVideo": "assets/videos/wrong_603.mp4",
     "previewVideo": "assets/videos/preview_603.mp4",
     "question": "ოპერატიული ან სპეციალური სამსახურის სატრანსპორტო საშუალების მოახლოებისას, რომელსაც ჩართული აქვს ლურჯი მოელვარე სპეციალური ციმციმა და ხმოვანი სიგნალები ან/და ხმამაღლამოლაპარაკე ხელსაწყოთი იძლევა სიგნალს, საგზაო მოძრაობის მონაწილეები ვალდებულნი არიან:",
+    "questionEn": "When an operational or special service vehicle approaches with blue flashing special signals and sound signals turned on and/or giving signals with a loudspeaker, road users are obliged to:",
     "answers": [
       "1\nდაუყოვნებლივ გაჩერდნენ ყოფნის ადგილას",
       "2\nგაანთავისუფლონ სავალ ნაწილზე ადგილი, ხოლო აუცილებლობის შემთხვევაში გაჩერდნენ",
       "3\nგადაჯგუფდნენ თანმხვედრი მიმართულების უკიდურეს მარცხენა ზოლზე"
+    ],
+    "answersEn": [
+      "Immediately stop at their current location",
+      "Clear space on the roadway and stop if necessary",
+      "Regroup to the far left lane of the same direction"
     ]
   },
   {
     "id": 604,
     "correctAnswer": 1,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q604.jpg",
     "correctVideo": "assets/videos/correct_604.mp4",
     "wrongVideo": "assets/videos/wrong_604.mp4",
     "previewVideo": "assets/videos/preview_604.mp4",
     "question": "ჩართული ლურჯი მოელვარე სპეციალური ციმციმა სიგნალით მდგომ სპეციალური სამსახურის სატრანსპორტო საშუალებასთან მიახლოებისას, მძღოლმა უნდა:",
+    "questionEn": "When approaching a special service vehicle parked with blue flashing special signals turned on, the driver should:",
     "answers": [
       "1\nგანაგრძოს გზა სიჩქარის შეუცვლელად",
       "2\nშეანელოს სიჩქარე, რათა აუცილებლობის შემთხვევაში ჰქონდეს ტრანსპორტის დაუყოვნებლივ გაჩერების შესაძლებლობა",
       "3\nგაზარდოს სიჩქარე, რათა დროულად გაიაროს აღნიშნული ადგილი"
+    ],
+    "answersEn": [
+      "Continue the journey without changing speed",
+      "Reduce speed so that if necessary they have the possibility to stop the vehicle immediately",
+      "Increase speed to pass the designated place in time"
     ]
   },
   {
     "id": 605,
     "correctAnswer": 1,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q605.jpg",
     "correctVideo": "assets/videos/correct_605.mp4",
     "wrongVideo": "assets/videos/wrong_605.mp4",
     "previewVideo": "assets/videos/preview_605.mp4",
     "question": "მძღოლს, რომელსაც სპეციალური სამსახურის სატრანსპორტო საშუალებაზე ჩართული აქვს ნარინჯისფერი მოელვარე სპეციალური ციმციმა სიგნალი, სამსახურებრივი მოვალეობის შესრულებისას შეუძლია გადაუხვიოს საგზაო ნიშნებისა და მონიშვნების მოთხოვნებს, თუ:",
+    "questionEn": "A driver who has an orange flashing special signal turned on on a special service vehicle can deviate from road signs and markings requirements when performing official duties if:",
     "answers": [
       "1\nჩართული აქვს ახლო განათების ფარები",
       "2\nუზრუნველყოფს საგზაო მოძრაობის უსაფრთხოებას",
       "3\nავტომობილზე დამაგრებულია დროებითი საგზაო ნიშნები"
+    ],
+    "answersEn": [
+      "Low beam headlights are turned on",
+      "Ensures road traffic safety",
+      "Temporary road signs are mounted on the vehicle"
     ]
   },
   {
     "id": 606,
     "correctAnswer": 1,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q606.jpg",
     "correctVideo": "assets/videos/correct_606.mp4",
     "wrongVideo": "assets/videos/wrong_606.mp4",
     "previewVideo": "assets/videos/preview_606.mp4",
     "question": "სპეციალური სამსახურის სატრანსპორტო საშუალებაზე ჩართული ყვითელი მოელვარე სპეციალური ციმციმა სიგნალი გამოიყენება:",
+    "questionEn": "The yellow flashing special signal turned on on a special service vehicle is used:",
     "answers": [
       "1\nსაგზაო მოძრაობის სხვა მონაწილეების მიმართ უპირატესობის მოსაპოვებლად",
       "2\nყურადღების მისაპყრობად, მოსალოდნელი საშიშროების თავიდან აცილებისათვის"
+    ],
+    "answersEn": [
+      "To gain priority over other road users",
+      "To attract attention and avoid expected dangers"
     ]
   },
   {
     "id": 607,
     "correctAnswer": 1,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q607.jpg",
     "correctVideo": "assets/videos/correct_607.mp4",
     "wrongVideo": "assets/videos/wrong_607.mp4",
     "previewVideo": "assets/videos/preview_607.mp4",
     "question": "სატრანსპორტო საშუალებებზე სპეციალური ციმციმა და ხმოვანი სიგნალების დაყენება, ასევე ავტომანქანებისთვის სპეციალური შეფერილობის მიცემა, ხორციელდება:",
+    "questionEn": "The installation of special flashing and sound signals on vehicles, as well as giving special coloring to cars, is carried out:",
     "answers": [
       "1\nსაქართველოს ფინანსთა მინისტრის მიერ განსაზღვრული წესის შესაბამისად",
       "2\nსაქართველოს შინაგან საქმეთა მინისტრის მიერ განსაზღვრული წესის შესაბამისად",
       "3\nსაქართველოს იუსტიციის მინისტრის მიერ განსაზღვრული წესის შესაბამისად"
+    ],
+    "answersEn": [
+      "According to the procedure established by the Minister of Finance of Georgia",
+      "According to the procedure established by the Minister of Internal Affairs of Georgia",
+      "According to the procedure established by the Minister of Justice of Georgia"
     ]
   },
   {
     "id": 608,
     "correctAnswer": 2,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q608.jpg",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
     "question": "ჩართული ახლო განათების ფარებით სატვირთო ავტომობილს მიაცილებს ოპერატიული სამსახურის ავტომობილი, ჩართული ლურჯი მოელვარე სპეციალური ციმციმა და ხმოვანი სიგნალებით. რომელი ავტომობილის მიმართ წარმოექმნება გზის დათმობის ვალდებულება ავტობუსის მძღოლს ისრის მიმართულებით მოძრაობის შემთხვევაში შუქნიშნის ამ სიგნალზე?",
+    "questionEn": "A truck with low beam headlights on is being escorted by an operational service vehicle with blue flashing special signals and sound signals turned on. Which vehicle must the bus driver give way to when moving in the direction of the arrow at this traffic light signal?",
     "answers": [
       "1\nარცერთი ავტომობილის მძღოლის მიმართ",
       "2\nმხოლოდ ოპერატიული ავტომობილის მძღოლის მიმართ",
       "3\nროგორც ოპერატიული სამსახურის, ასევე სატვირთო ავტომობილების მძღოლების მიმართ"
+    ],
+    "answersEn": [
+      "To neither vehicle driver",
+      "Only to the operational vehicle driver",
+      "To both the operational service and truck drivers"
     ]
   },
   {
     "id": 609,
     "correctAnswer": 2,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q609.jpg",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
     "question": "რომელი მიმართულებით მოძრაობის გაგრძელების უფლება აქვს ოპერატიული სამსახურის ავტომობილის მძღოლს შუქნიშნის ამ სიგნალზე, თუ ავტომობილს ჩართული აქვს ლურჯი მოელვარე სპეციალური ციმციმა სიგნალი?",
+    "questionEn": "In which direction does the operational service vehicle driver have the right to continue movement at this traffic light signal if the vehicle has blue flashing special signals turned on?",
     "answers": [
       "1\nმხოლოდ პირდაპირ და მარჯვნივ",
       "2\nმხოლოდ მარჯვნივ",
       "3\nყველა მიმართულებით",
       "4\nმხოლოდ მარცხნივ და უკუმიმართულებით (მობრუნება)"
+    ],
+    "answersEn": [
+      "Only straight and right",
+      "Only right",
+      "In all directions",
+      "Only left and reverse direction (U-turn)"
     ]
   },
   {
     "id": 610,
     "correctAnswer": 1,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q610.jpg",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
     "question": "ვალდებულია თუ არა წითელი ავტომობილის მძღოლი გზა დაუთმოს ოპერატიული სამსახურის ავტომობილის მძღოლს, თუ ავტომობილზე ჩართული არ არის ლურჯი მოელვარე სპეციალური ციმციმა და ხმოვანი სიგნალები?",
+    "questionEn": "Is the red vehicle driver obliged to give way to the operational service vehicle driver if the vehicle does not have blue flashing special signals and sound signals turned on?",
     "answers": [
       "1\nვალდებულია",
       "2\nარ არის ვალდებული"
+    ],
+    "answersEn": [
+      "Obliged",
+      "Not obliged"
     ]
   },
   {
     "id": 611,
     "correctAnswer": 0,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q611.jpg",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
     "question": "ოპერატიული სამსახურის ავტომობილს ჩართული აქვს ლურჯი მოელვარე სპეციალური ციმციმა და ხმოვანი სიგნალები. წითელი ავტომობილის მძღოლი არ დაარღვევს საგზაო მოძრაობის წესებს, თუ:",
+    "questionEn": "The operational service vehicle has blue flashing special signals and sound signals turned on. The red vehicle driver will not violate traffic rules if:",
     "answers": [
       "1\nგაატარებს ყვითელ ავტომობილს და გადავა მარჯვნივ მდებარე ზოლში",
       "2\nარ დაუთმობს გზას ყვითელ ავტომობილს და გადავა მარჯვნივ მდებარე ზოლში",
       "3\nგააგრძელებს მოძრაობას დაკავებულ ზოლში"
+    ],
+    "answersEn": [
+      "Lets the yellow vehicle pass and moves to the right lane",
+      "Does not give way to the yellow vehicle and moves to the right lane",
+      "Continues movement in the occupied lane"
     ]
   },
   {
     "id": 612,
     "correctAnswer": 2,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q612.jpg",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
     "question": "ოპერატიული სამსახურის ავტომობილი გაჩერებულია ჩართული ლურჯი მოელვარე სპეციალური ციმციმა სიგნალით. მსუბუქი ავტომობილის მძღოლმა უნდა იმოძრაოს არა უმეტეს:",
+    "questionEn": "An operational service vehicle is stopped with blue flashing special signals turned on. The light vehicle driver should move at no more than:",
     "answers": [
       "1\n90 კმ/სთ სიჩქარით",
       "2\n70 კმ/სთ სიჩქარით",
       "3\nიმ სიჩქარით, რომლითაც აუცილებლობის შემთხვევაში ავტომობილის დაუყონებლივ გაჩერების შესაძლებლობა ექნება"
+    ],
+    "answersEn": [
+      "90 km/h speed",
+      "70 km/h speed",
+      "The speed at which they will have the possibility to stop the vehicle immediately if necessary"
     ]
   },
   {
     "id": 613,
     "correctAnswer": 2,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q613.jpg",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
     "question": "რა თანამიმდევრობით უნდა გაიარონ გზაჯვარედინი სატრანსპორტო საშუალებებმა ისრის მიმართულებით მოძრაობის შემთხვევაში, თუ ოპერატიული სამსახურის ავტომობილს ჩართული აქვს ლურჯი მოელვარე სპეციალური ციმციმა და ხმოვანი სიგნალები?",
+    "questionEn": "In what order should vehicles pass through the intersection when moving in the direction of the arrow if the operational service vehicle has blue flashing special signals and sound signals turned on?",
     "answers": [
       "1\nჯერ უნდა გაიაროს რუხმა მსუბუქმა ავტომობილმა, შემდეგ - მოტოციკლმა, ბოლოს - ოპერატიული სამსახურის ავტომობილმა",
       "2\nჯერ უნდა გაიაროს მოტოციკლმა, შემდეგ - ოპერატიული სამსახურის ავტომობილმა, ბოლოს - რუხმა მსუბუქმა ავტომობილმა",
       "3\nჯერ უნდა გაიაროს ოპერატიული სამსახურის ავტომობილმა, შემდეგ - რუხმა მსუბუქმა ავტომობილმა, ბოლოს - მოტოციკლმა"
+    ],
+    "answersEn": [
+      "First the gray light vehicle should pass, then the motorcycle, finally the operational service vehicle",
+      "First the motorcycle should pass, then the operational service vehicle, finally the gray light vehicle",
+      "First the operational service vehicle should pass, then the gray light vehicle, finally the motorcycle"
     ]
   },
   {
     "id": 614,
     "correctAnswer": 3,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q614.jpg",
     "correctVideo": "assets/videos/correct_614.mp4",
     "wrongVideo": "assets/videos/wrong_614.mp4",
     "previewVideo": "assets/videos/preview_614.mp4",
     "question": "რომელი მიმართულებით მოძრაობის გაგრძელების უფლება აქვს ოპერატიული სამსახურის ავტომობილის მძღოლს შუქნიშნის ამ სიგნალზე, თუ ავტომობილს ჩართული არა აქვს ლურჯი მოელვარე სპეციალური ციმციმა სიგნალი?",
+    "questionEn": "In which direction does the operational service vehicle driver have the right to continue movement at this traffic light signal if the vehicle does not have blue flashing special signals turned on?",
     "answers": [
       "1\nმხოლოდ პირდაპირ და მარჯვნივ",
       "2\nმხოლოდ პირდაპირ მარცხნივ",
       "3\nყველა მიმართულებით",
       "4\nმხოლოდ პირდაპირ"
+    ],
+    "answersEn": [
+      "Only straight and right",
+      "Only straight left",
+      "In all directions",
+      "Only straight"
     ]
   },
   {
     "id": 615,
     "correctAnswer": 0,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q615.jpg",
     "correctVideo": "assets/videos/correct_615.mp4",
     "wrongVideo": "assets/videos/wrong_615.mp4",
     "previewVideo": "assets/videos/preview_615.mp4",
     "question": "რომელი ავტომობილის მძღოლს წარმოექმნება გზის დათმობის ვალდებულება ისრის მიმართულებით მოძრაობის შემთხვევაში, თუ ოპერატიული სამსახურის ავტომობილს ჩართული აქვს ლურჯი მოელვარე სპეციალური ციმციმა სიგნალი?",
+    "questionEn": "Which vehicle driver will have the obligation to give way when moving in the direction of the arrow if the operational service vehicle has blue flashing special signals turned on?",
     "answers": [
       "1\nოპერატიული სამსახურის ავტომობილის მძღოლს",
       "2\nავტობუსის მძღოლს"
+    ],
+    "answersEn": [
+      "The operational service vehicle driver",
+      "The bus driver"
     ]
   },
   {
     "id": 616,
     "correctAnswer": 0,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q616.jpg",
     "correctVideo": "assets/videos/correct_616.mp4",
     "wrongVideo": "assets/videos/wrong_616.mp4",
     "previewVideo": "assets/videos/preview_616.mp4",
     "question": "სატვირთო ავტომობილი ავტომაგისტრალზე ასრულებს დასასუფთავებელ სამუშაოებს. აქვს თუ არა უფლება სატვირთო ავტომობილის მძღოლს გააგრძელოს მოძრაობა ისრის მიმართულებით, თუ ავტომობილს ჩართული აქვს ყვითელი მოელვარე სპეციალური ციმციმა სიგნალი?",
+    "questionEn": "A truck is performing cleaning work on the highway. Does the truck driver have the right to continue movement in the direction of the arrow if the vehicle has yellow flashing special signals turned on?",
     "answers": [
       "1\nაქვს უფლება",
       "2\nარ აქვს უფლება"
+    ],
+    "answersEn": [
+      "Has the right",
+      "Does not have the right"
     ]
   },
   {
     "id": 617,
     "correctAnswer": 1,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q617.jpg",
     "correctVideo": "assets/videos/correct_617.mp4",
     "wrongVideo": "assets/videos/wrong_617.mp4",
     "previewVideo": "assets/videos/preview_617.mp4",
     "question": "რა თანამიმდევრობით უნდა გაიარონ გზაჯვარედინი სატრანსპორტო საშუალებებმა ისრის მიმართულებით მოძრაობის შემთხვევაში, თუ ოპერატიული სამსახურის ავტომობილს ჩართული აქვს ლურჯი მოელვარე სპეციალური ციმციმა და ხმოვანი სიგნალები?",
+    "questionEn": "In what order should vehicles pass through the intersection when moving in the direction of the arrow if the operational service vehicle has blue flashing special signals and sound signals turned on?",
     "answers": [
       "1\nჯერ უნდა გაიაროს მსუბუქმა ავტომობილმა, შემდეგ - მოტოციკლმა, ბოლოს - ოპერატიული სამსახურის ავტომობილმა",
       "2\nჯერ უნდა გაიაროს ოპერატიული სამსახურის ავტომობილმა, შემდეგ - მსუბუქმა ავტომობილმა, ბოლოს - მოტოციკლმა",
       "3\nჯერ უნდა გაიაროს მოტოციკლმა, შემდეგ - ოპერატიული სამსახურის ავტომობილმა, ბოლოს - მსუბუქი ავტომობილი"
+    ],
+    "answersEn": [
+      "First the light vehicle should pass, then the motorcycle, finally the operational service vehicle",
+      "First the operational service vehicle should pass, then the light vehicle, finally the motorcycle",
+      "First the motorcycle should pass, then the operational service vehicle, finally the light vehicle"
     ]
   },
   {
     "id": 618,
     "correctAnswer": 0,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q618.jpg",
     "correctVideo": "assets/videos/correct_618.mp4",
     "wrongVideo": "assets/videos/wrong_618.mp4",
     "previewVideo": "assets/videos/preview_618.mp4",
     "question": "რომელი ავტომობილის მძღოლს წარმოექმნება გზის დათმობის ვალდებულება ისრის მიმართულებით მოძრაობის შემთხვევაში, თუ ოპერატიული სამსახურის ავტომობილს ჩართული აქვს ლურჯი მოელვარე სპეციალური ციმციმა სიგნალები?",
+    "questionEn": "Which vehicle driver will have the obligation to give way when moving in the direction of the arrow if the operational service vehicle has blue flashing special signals turned on?",
     "answers": [
       "1\nმსუბუქი ავტომობილის მძღოლს",
       "2\nოპერატიული სამსახურის ავტომობილის მძღოლს"
+    ],
+    "answersEn": [
+      "The light vehicle driver",
+      "The operational service vehicle driver"
     ]
   }
 ]

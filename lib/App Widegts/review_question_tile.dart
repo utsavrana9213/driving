@@ -83,14 +83,14 @@ class ReviewQuestionTile extends StatelessWidget {
                   Color backgroundColor = Colors.transparent;
                   Color borderColor = Colors.white;
 
-                  if (isAnswered) {
-                    if (isCorrect) {
-                      backgroundColor = Colors.green.withOpacity(0.3);
-                      borderColor = Colors.green;
-                    } else if (isSelected) {
-                      backgroundColor = Colors.red.withOpacity(0.3);
-                      borderColor = Colors.red;
-                    }
+                  // Always show correct answer in green
+                  if (isCorrect) {
+                    backgroundColor = Colors.green.withOpacity(0.3);
+                    borderColor = Colors.green;
+                  } else if (isAnswered && isSelected) {
+                    // Show user's wrong selection in red only if they answered
+                    backgroundColor = Colors.red.withOpacity(0.3);
+                    borderColor = Colors.red;
                   }
 
                   return GestureDetector(
@@ -125,7 +125,7 @@ class ReviewQuestionTile extends StatelessWidget {
                             height: 26,
                             alignment: Alignment.center,
                             decoration: BoxDecoration(
-                              color: isAnswered && isCorrect
+                              color: isCorrect
                                   ? Colors.green
                                   : isAnswered && isSelected
                                       ? Colors.red
@@ -144,7 +144,7 @@ class ReviewQuestionTile extends StatelessWidget {
                               style: const TextStyle(color: Colors.white),
                             ),
                           ),
-                          if (isAnswered && isCorrect)
+                          if (isCorrect)
                             const Icon(Icons.check_circle,
                                 color: Colors.green, size: 20),
                           if (isAnswered && isSelected && !isCorrect)

@@ -26,13 +26,16 @@ class ExamQuestionModelAdapter extends TypeAdapter<ExamQuestionModel> {
       wrongVideo: fields[6] as String?,
       isExpanded: fields[7] as bool?,
       selectedIndex: fields[8] as int?,
+      imageUrl: fields[9] as String?,
+      questionEn: fields[10] as String?,
+      optionsEn: (fields[11] as List?)?.cast<String>(),
     );
   }
 
   @override
   void write(BinaryWriter writer, ExamQuestionModel obj) {
     writer
-      ..writeByte(9)
+      ..writeByte(12)
       ..writeByte(0)
       ..write(obj.id)
       ..writeByte(1)
@@ -50,7 +53,13 @@ class ExamQuestionModelAdapter extends TypeAdapter<ExamQuestionModel> {
       ..writeByte(7)
       ..write(obj.isExpanded)
       ..writeByte(8)
-      ..write(obj.selectedIndex);
+      ..write(obj.selectedIndex)
+      ..writeByte(9)
+      ..write(obj.imageUrl)
+      ..writeByte(10)
+      ..write(obj.questionEn)
+      ..writeByte(11)
+      ..write(obj.optionsEn);
   }
 
   @override

@@ -2,673 +2,953 @@
   {
     "id": 703,
     "correctAnswer": 1,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q703.jpg",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
     "question": "რომელი ავტომობილის მძოლს ენიჭება უპირატესობა ისრის მიმართულებით მოძრაობის შემთხვევაში?",
+    "questionEn": "Which car driver is granted priority when moving in the direction of the arrow?",
     "answers": [
       "1\nლურჯი ავტომობილის მძღოლს",
       "2\nთეთრი ავტომობილის მძღოლს"
+    ],
+    "answersEn": [
+      "1\nBlue car driver",
+      "2\nWhite car driver"
     ]
   },
   {
     "id": 704,
     "correctAnswer": 0,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q704.jpg",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
     "question": "აქვს თუ არა წითელი ავტომობილის მძღოლს ისრის მიმართულებით მოძრაობის გაგრძელების უფლება, თუ შუქნიშნის მწვანე მაშუქი სიგნალის შემდეგ, ყვითელი მაშუქი სიგნალის ჩართვისას მას არ შეეძლო „სდექ“ ხაზთან გაჩერება მკვეთრი დამუხრუჭების გარეშე?",
+    "questionEn": "Does the red car driver have the right to continue moving in the direction of the arrow if after the green traffic light signal, when the yellow traffic light signal turns on, he cannot stop at the 'stop' line without sharp braking?",
     "answers": [
       "1\nაქვს უფლება",
       "2\nარ აქვს უფლება"
+    ],
+    "answersEn": [
+      "1\nHas the right",
+      "2\nDoes not have the right"
     ]
   },
   {
     "id": 705,
     "correctAnswer": 0,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q705.jpg",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
     "question": "რომელი საგზაო მოძრაობის მონაწილეს მიმართ წარმოექმნება გზის დათმობის ვალდებულება წითელი ავტომობილის მძღოლს ისრის მიმართულებით მოძრაობის შემთხვევაში, თუ ოპერატიული სამსახურის ავტომობილს ჩართული აქვს ლურჯი მოელვარე სპეციალური ციმციმა და ხმოვანი სიგნალები?",
+    "questionEn": "Which road traffic participant is required to yield the right of way to the red car driver when moving in the direction of the arrow, if the emergency service vehicle has a blue flashing special light and sound signals turned on?",
     "answers": [
       "1\nქვეითისა და ოპერატიული სამსახურის ავტომობილის მძღოლის მიმართ",
       "2\nმხოლოდ ოპერატიული სამსახურის ავტომობილის მძღოლის მიმართ",
       "3\nმხოლოდ ქვეითის მიმართ"
+    ],
+    "answersEn": [
+      "1\nTowards pedestrians and emergency service vehicle drivers",
+      "2\nOnly towards emergency service vehicle drivers",
+      "3\nOnly towards pedestrians"
     ]
   },
   {
     "id": 706,
     "correctAnswer": 0,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q706.jpg",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
     "question": "ვალდებულია თუ არა მსუბუქი ავტომობილის მძღოლი გზა დაუთმოს ავტობუსის მძღოლს, რომელიც ამთავრებს გზაჯვარედინზე გადასვლას?",
+    "questionEn": "Is the light vehicle driver required to yield the right of way to the bus driver who is completing the intersection crossing?",
     "answers": [
       "1\nვალდებულია",
       "2\nარ არის ვალდებული"
+    ],
+    "answersEn": [
+      "1\nRequired",
+      "2\nNot required"
     ]
   },
   {
     "id": 707,
     "correctAnswer": 0,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q707.jpg",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
     "question": "რომელი ავტომობილის მძღოლს ეკრძალება ისრის მიმართულებით მოძრაობა შუქნიშნის ამ სიგნალზე, თუ გზაჯვარედინის შემდეგ სატრანსპორტო საშუალებებით ჩახერგილია სავალი ნაწილი?",
+    "questionEn": "Which car driver is prohibited from moving in the direction of the arrow on this traffic light signal if the roadway is blocked by vehicles after the intersection?",
     "answers": [
       "1\nმხოლოდ რუხი ავტომობილის მძღოლს",
       "2\nმხოლოდ ყვითელი ავტომობილის მძღოლს",
       "3\nარცერთი ავტომობილის მძღოლს",
       "4\nორივე ავტომობილის მძღოლს"
+    ],
+    "answersEn": [
+      "1\nOnly gray car driver",
+      "2\nOnly yellow car driver",
+      "3\nNeither car driver",
+      "4\nBoth car drivers"
     ]
   },
   {
     "id": 708,
     "correctAnswer": 1,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q708.jpg",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
     "question": "რა თანამიმდევრობით უნდა გაიარონ გზაჯვარედინი სატრანსპორტო საშუალებებმა ისრის მიმართულებით მოძრაობის შემთხვევაში, თუ შუქნიშანი გამორთულია?",
+    "questionEn": "In what order should vehicles pass through the intersection when moving in the direction of the arrow if the traffic light is off?",
     "answers": [
       "1\nჯერ უნდა გაიაროს ავტობუსმა, შემდეგ - მსუბუქმა ავტომობილმა, შემდეგ - მოტოციკლმა, ბოლოს - ტრამვაიმ",
       "2\nჯერ უნდა გაიაროს ტრამვაიმ, შემდეგ - მსუბუქმა ავტომობილმა, ბოლოს - ავტობუსმა და მოტოციკლმა",
       "3\nჯერ უნდა გაიაროს მსუბუქმა ავტომობილმა, შემდეგ - ავტობუსმა, შემდეგ - ტრამვაიმ, ბოლოს - სატვირთო ავტომობილმა",
       "4\nჯერ უნდა გაიაროს მსუბუქმა ავტომობილმა, შემდეგ - ტრამვაიმ, ბოლოს - ავტობუსმა და მოტოციკლმა"
+    ],
+    "answersEn": [
+      "1\nBus should pass first, then light vehicle, then motorcycle, finally tram",
+      "2\nTram should pass first, then light vehicle, finally bus and motorcycle",
+      "3\nLight vehicle should pass first, then bus, then tram, finally truck",
+      "4\nLight vehicle should pass first, then tram, finally bus and motorcycle"
     ]
   },
   {
     "id": 709,
     "correctAnswer": 1,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q709.jpg",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
     "question": "რა თანამიმდევრობით უნდა გაიარონ გზაჯვარედინი სატრანსპორტო საშუალებებმა ისრის მიმართულებით მოძრაობის შემთხვევაში?",
+    "questionEn": "In what order should vehicles pass through the intersection when moving in the direction of the arrow?",
     "answers": [
       "1\nჯერ უნდა გაიაროს მსუბუქმა ავტომობილმა, შემდეგ - სატვირთო ავტომობილმა, ბოლოს - მოტოციკლმა",
       "2\nჯერ უნდა გაიაროს სატვირთო ავტომობილმა, შემდეგ - მოტოციკლმა, ბოლოს - მსუბუქმა ავტომობილმა",
       "3\nჯერ უნდა გაიაროს მოტოციკლმა, შემდეგ - მსუბუქმა ავტომობილმა, ბოლოს - სატვირთო ავტომობილმა"
+    ],
+    "answersEn": [
+      "1\nLight vehicle should pass first, then truck, finally motorcycle",
+      "2\nTruck should pass first, then motorcycle, finally light vehicle",
+      "3\nMotorcycle should pass first, then light vehicle, finally truck"
     ]
   },
   {
     "id": 710,
     "correctAnswer": 1,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q710.jpg",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
     "question": "რომელი სატრანსპორტო საშუალების მძღოლს წარმოექმნება გზის დათმობის ვალდებულება ისრის მიმართულებით მოძრაობის შემთხვევაში?",
+    "questionEn": "Which vehicle driver is required to yield the right of way when moving in the direction of the arrow?",
     "answers": [
       "1\nმსუბუქი ავტომობილის მძღოლს",
       "2\nტრამვაის მძღოლს"
+    ],
+    "answersEn": [
+      "1\nLight vehicle driver",
+      "2\nTram driver"
     ]
   },
   {
     "id": 711,
     "correctAnswer": 0,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q711.jpg",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
     "question": "რომელი სატრანსპორტო საშუალების მძღოლს წარმოექმნება გზის დათმობის ვალდებულება ისრის მიმართულებით მოძრაობის შემთხვევაში?",
+    "questionEn": "Which vehicle driver is required to yield the right of way when moving in the direction of the arrow?",
     "answers": [
       "1\nმსუბუქი ავტომობილის მძღოლს",
       "2\nტრამვაის მძღოლს"
+    ],
+    "answersEn": [
+      "1\nLight vehicle driver",
+      "2\nTram driver"
     ]
   },
   {
     "id": 712,
     "correctAnswer": 1,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q712.jpg",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
     "question": "რომელი სატრანსპორტო საშუალების მძღოლს წარმოექმნება გზის დათმობის ვალდებულება ისრის მიმართულებით მოძრაობის შემთხვევაში?",
+    "questionEn": "Which vehicle driver is required to yield the right of way when moving in the direction of the arrow?",
     "answers": [
       "1\nმსუბუქი ავტომობილის მძღოლს",
       "2\nტრამვაის მძღოლს"
+    ],
+    "answersEn": [
+      "1\nLight vehicle driver",
+      "2\nTram driver"
     ]
   },
   {
     "id": 713,
     "correctAnswer": 0,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q713.jpg",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
     "question": "რომელი სატრანსპორტო საშუალების მძღოლს წარმოექმნება გზის დათმობის ვალდებულება ისრის მიმართულებით მოძრაობის შემთხვევაში?",
+    "questionEn": "Which vehicle driver is required to yield the right of way when moving in the direction of the arrow?",
     "answers": [
       "1\nმსუბუქი ავტომობილის მძღოლს",
       "2\nტრამვაის მძღოლს"
+    ],
+    "answersEn": [
+      "1\nLight vehicle driver",
+      "2\nTram driver"
     ]
   },
   {
     "id": 714,
     "correctAnswer": 0,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q714.jpg",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
     "question": "რომელი სატრანსპორტო საშუალების მძღოლს წარმოექმნება გზის დათმობის ვალდებულება ისრის მიმართულებით მოძრაობის შემთხვევაში?",
+    "questionEn": "Which vehicle driver is required to yield the right of way when moving in the direction of the arrow?",
     "answers": [
       "1\nმსუბუქი ავტომობილის მძღოლს",
       "2\nტრამვაის მძღოლს"
+    ],
+    "answersEn": [
+      "1\nLight vehicle driver",
+      "2\nTram driver"
     ]
   },
   {
     "id": 715,
     "correctAnswer": 1,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q715.jpg",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
     "question": "რომელი სატრანსპორტო საშუალების მძღოლის მიმართ წარმოექმნება გზის დათმობის ვალდებულება თეთრი ავტომობილის მძღოლს ისრის მიმართულებით მოძრაობის შემთხვევაში, თუ შუქნიშანში ჩართულია ყვითელი მოციმციმე მაშუქი სიგნალი?",
+    "questionEn": "Which vehicle driver is required to yield the right of way to the white car driver when moving in the direction of the arrow if the traffic light has a yellow flashing signal?",
     "answers": [
       "1\nმხოლოდ ტრამვაის მძღოლის მიმართ",
       "2\nმხოლოდ წითელი ავტომობილის მძღოლის მიმართ",
       "3\nროგორც ტრამვაის მძღოლის, ასევე წითელი ავტომობილის მძღოლის მიმართ"
+    ],
+    "answersEn": [
+      "1\nOnly towards tram driver",
+      "2\nOnly towards red car driver",
+      "3\nTowards both tram driver and red car driver"
     ]
   },
   {
     "id": 716,
     "correctAnswer": 1,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q716.jpg",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
     "question": "რომელი ავტომობილის მძღოლს წარმოექმნება გზის დათმობის ვალდებულება ისრის მიმართულებით მოძრაობის შემთხვევაში?",
+    "questionEn": "Which car driver is required to yield the right of way when moving in the direction of the arrow?",
     "answers": [
       "1\nწითელი ავტომობილის მძღოლს",
       "2\nთეთრი ავტომობილის მძღოლს"
+    ],
+    "answersEn": [
+      "1\nRed car driver",
+      "2\nWhite car driver"
     ]
   },
   {
     "id": 717,
     "correctAnswer": 1,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q717.jpg",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
     "question": "რომელი ავტომობილის მძღოლს წარმოიქმნება გზის დათმობის ვალდებულება ისრის მიმართულებით მოძრაობის შემთხვევაში?",
+    "questionEn": "Which car driver is required to yield the right of way when moving in the direction of the arrow?",
     "answers": [
       "1\nმსუბუქი ავტომობილის მძღოლს",
       "2\nავტობუსის მძღოლს"
+    ],
+    "answersEn": [
+      "1\nLight vehicle driver",
+      "2\nBus driver"
     ]
   },
   {
     "id": 718,
     "correctAnswer": 1,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q718.jpg",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
     "question": "მსუბუქი ავტომობილის მძღოლს უფლება აქვს გააგრძელოს მოძრაობა:",
+    "questionEn": "The light vehicle driver has the right to continue movement:",
     "answers": [
       "1\nA მიმართულებით",
       "2\nB მიმართულებით",
       "3\nროგორც A, ასევე B მიმართულებით"
+    ],
+    "answersEn": [
+      "1\nIn direction A",
+      "2\nIn direction B",
+      "3\nIn both directions A and B"
     ]
   },
   {
     "id": 719,
     "correctAnswer": 2,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q719.jpg",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
     "question": "მსუბუქი ავტომობილის მძღოლს უფლება აქვს გააგრძელოს მოძრაობა:",
+    "questionEn": "The light vehicle driver has the right to continue movement:",
     "answers": [
       "1\nმხოლოდ A მიმართულებით",
       "2\nმხოლოდ B მიმართულებით",
       "3\nროგორც A, ასევე B მიმართულებით"
+    ],
+    "answersEn": [
+      "1\nOnly in direction A",
+      "2\nOnly in direction B",
+      "3\nIn both directions A and B"
     ]
   },
   {
     "id": 720,
     "correctAnswer": 2,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q720.jpg",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
     "question": "რევერსული შუქნიშნის ამ სიგნალზე ლურჯი ავტომობილის მძღოლი უნდა:",
+    "questionEn": "On this reversible traffic light signal, the blue car driver should:",
     "answers": [
       "1\nგადავიდეს მარცხენა ზოლში",
       "2\nგააგრძელოს მოძრაობა პირდაპირ",
       "3\nგადავიდეს მარჯვენა ზოლში"
+    ],
+    "answersEn": [
+      "1\nMove to the left lane",
+      "2\nContinue straight ahead",
+      "3\nMove to the right lane"
     ]
   },
   {
     "id": 721,
     "correctAnswer": 1,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q721.jpg",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
     "question": "აქვს თუ არა უფლება მსუბუქი ავტომობილის მძღოლს შევიდეს რევერსული მოძრაობის ზოლში, რევერსული შუქნიშნის ამ სიგნაზე?",
+    "questionEn": "Does the light vehicle driver have the right to enter the reversible traffic lane on this reversible traffic light signal?",
     "answers": [
       "1\nაქვს უფლება",
       "2\nარ აქვს უფლება"
+    ],
+    "answersEn": [
+      "1\nHas the right",
+      "2\nDoes not have the right"
     ]
   },
   {
     "id": 722,
     "correctAnswer": 2,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q722.jpg",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
     "question": "რომელი მიმართულებით შეუძლია წითელი ავტომობილის მძღოლს გააგრძელოს მოძრაობა შუქნიშნის ამ სიგნალზე?",
+    "questionEn": "In which direction can the red car driver continue movement on this traffic light signal?",
     "answers": [
       "1\nმხოლოდ პირდაპირ და მარცხნივ",
       "2\nმხოლოდ მარჯვნივ",
       "3\nმხოლოდ პირდაპირ და მარჯვნივ",
       "4\nნებისმიერი მიმართულებით"
+    ],
+    "answersEn": [
+      "1\nOnly straight and left",
+      "2\nOnly right",
+      "3\nOnly straight and right",
+      "4\nIn any direction"
     ]
   },
   {
     "id": 723,
     "correctAnswer": 0,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q723.jpg",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
     "question": "ვალდებულია თუ არა მსუბუქი ავტომობილის მძღოლი გზა დაუთმოს ქვეითებს ისრის მიმართულებით მოძრაობის შემთხვევაში?",
+    "questionEn": "Is the light vehicle driver required to yield the right of way to pedestrians when moving in the direction of the arrow?",
     "answers": [
       "1\nვალდებულია",
       "2\nარ არის ვალდებული"
+    ],
+    "answersEn": [
+      "1\nRequired",
+      "2\nNot required"
     ]
   },
   {
     "id": 724,
     "correctAnswer": 0,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q724.jpg",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
     "question": "აქვს თუ არა უფლება მსუბუქი ავტომობილის მძღოლს გააგრძელოს მოძრაობა ისრის მიმართულებით, თუ ყველა შუქნიშანში ჩართულია ყვითელი მოციმციმე მაშუქი სიგნალი?",
+    "questionEn": "Does the light vehicle driver have the right to continue movement in the direction of the arrow if all traffic lights have yellow flashing signals?",
     "answers": [
       "1\nაქვს უფლება",
       "2\nარ აქვს უფლება"
+    ],
+    "answersEn": [
+      "1\nHas the right",
+      "2\nDoes not have the right"
     ]
   },
   {
     "id": 725,
     "correctAnswer": 1,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q725.jpg",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
     "question": "აქვს თუ არა უფლება მსუბუქი ავტომობილის მძღოლს გააგრძელოს მოძრაობა ისრის მიმართულებით, შუქნიშნის ამ სიგნალზე?",
+    "questionEn": "Does the light vehicle driver have the right to continue movement in the direction of the arrow on this traffic light signal?",
     "answers": [
       "1\nაქვს უფლება",
       "2\nარ აქვს უფლება"
+    ],
+    "answersEn": [
+      "1\nHas the right",
+      "2\nDoes not have the right"
     ]
   },
   {
     "id": 726,
     "correctAnswer": 3,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q726.jpg",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
     "question": "რომელი მიმართულებით შეუძლია გააგრძელოს მოძრაობა წითელი ავტომობილის მძღოლმა შუქნიშნების ამ სიგნალზე?",
+    "questionEn": "In which direction can the red car driver continue movement on these traffic light signals?",
     "answers": [
       "1\nმხოლოდ პირდაპირ და მარცხნივ",
       "2\nმხოლოდ პირდაპირ და მარჯვნივ",
       "3\nმხოლოდ მარცხნივ",
       "4\nმხოლოდ მარცხნივ და უკუმიმართულებით (მობრუნება)"
+    ],
+    "answersEn": [
+      "1\nOnly straight and left",
+      "2\nOnly straight and right",
+      "3\nOnly left",
+      "4\nOnly left and in reverse direction (U-turn)"
     ]
   },
   {
     "id": 727,
     "correctAnswer": 1,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q727.jpg",
     "correctVideo": "assets/videos/correct_37.mp4",
     "wrongVideo": "assets/videos/wrong_37.mp4",
     "previewVideo": "assets/videos/preview_37.mp4",
     "question": "აქვს თუ არა უფლება მსუბუქი ავტომობილის მძღოლს გააგრძელოს მოძრაობა ისრის მიმართულებით?",
+    "questionEn": "Does the light vehicle driver have the right to continue movement in the direction of the arrow?",
     "answers": [
       "1\nარ აქვს უფლება",
       "2\nაქვს უფლება"
+    ],
+    "answersEn": [
+      "1\nDoes not have the right",
+      "2\nHas the right"
     ]
   },
   {
     "id": 728,
     "correctAnswer": 1,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q728.jpg",
     "correctVideo": "assets/videos/correct_38.mp4",
     "wrongVideo": "assets/videos/wrong_38.mp4",
     "previewVideo": "assets/videos/preview_38.mp4",
     "question": "რომელი ავტომობილის მძღოლს ეკრძალება ისრის მიმართულებით მოძრაობა?",
+    "questionEn": "Which car driver is prohibited from moving in the direction of the arrow?",
     "answers": [
       "1\nმხოლოდ ლურჯი ავტომობილის მძღოლს",
       "2\nმხოლოდ ყვითელი ავტომობილის მძღოლს",
       "3\nორივე ავტომობილის მძღოლს",
       "4\nარცერთი ავტომობილის მძღოლს"
+    ],
+    "answersEn": [
+      "1\nOnly blue car driver",
+      "2\nOnly yellow car driver",
+      "3\nBoth car drivers",
+      "4\nNeither car driver"
     ]
   },
   {
     "id": 729,
     "correctAnswer": 3,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q729.jpg",
     "correctVideo": "assets/videos/correct_39.mp4",
     "wrongVideo": "assets/videos/wrong_39.mp4",
     "previewVideo": "assets/videos/preview_39.mp4",
     "question": "მოცემულ სიტუაციაში ავტომობილის მძღოლს მოძრაობის გაგრძელების უფლება აქვს:",
+    "questionEn": "In this situation, the car driver has the right to continue movement:",
     "answers": [
       "1\nA მიმართულებით",
       "2\nB მიმართულებით",
       "3\nC მიმართულებით",
       "4\nარცერთი მიმართულებით"
+    ],
+    "answersEn": [
+      "1\nIn direction A",
+      "2\nIn direction B",
+      "3\nIn direction C",
+      "4\nIn no direction"
     ]
   },
   {
     "id": 730,
     "correctAnswer": 0,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q730.jpg",
     "correctVideo": "assets/videos/correct_40.mp4",
     "wrongVideo": "assets/videos/wrong_40.mp4",
     "previewVideo": "assets/videos/preview_40.mp4",
     "question": "აქვს თუ არა უფლება მსუბუქი ავტომობილის მძღოლს გააგრძელოს მოძრაობა ისრის მიმართულებით, შუქნიშნის ამ სიგნალზე?",
+    "questionEn": "Does the light vehicle driver have the right to continue movement in the direction of the arrow on this traffic light signal?",
     "answers": [
       "1\nაქვს უფლება",
       "2\nარ აქვს უფლება"
+    ],
+    "answersEn": [
+      "1\nHas the right",
+      "2\nDoes not have the right"
     ]
   },
   {
     "id": 731,
     "correctAnswer": 0,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q731.jpg",
     "correctVideo": "assets/videos/correct_41.mp4",
     "wrongVideo": "assets/videos/wrong_41.mp4",
     "previewVideo": "assets/videos/preview_41.mp4",
     "question": "მოცემულ სიტუაციაში, ვალდებულია თუ არა ლურჯი ავტომობილის მძღოლი ისრის მიმართულებით მობრუნების მანევრის შესრულებისას გაჩერდეს გამყოფ ზოლებს შორის არსებულ მოძრაობის ამკრძალავ შუქნიშნის მაშუქ სიგნალზე?",
+    "questionEn": "In this situation, is the blue car driver required to stop when performing a U-turn maneuver in the direction of the arrow, at the traffic light signal prohibiting movement between the dividing strips?",
     "answers": [
       "1\nვალდებულია",
       "2\nარ არის ვალდებული",
       "3\nარ არის ვალდებული თუ არ შეაფერხებს საპირისპირო მიმართულებიდან მოძრავ სატრანსპორტო საშუალებებს"
+    ],
+    "answersEn": [
+      "1\nRequired",
+      "2\nNot required",
+      "3\nNot required if it does not obstruct vehicles moving in the opposite direction"
     ]
   },
   {
     "id": 732,
     "correctAnswer": 1,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q732.jpg",
     "correctVideo": "assets/videos/correct_42.mp4",
     "wrongVideo": "assets/videos/wrong_42.mp4",
     "previewVideo": "assets/videos/preview_42.mp4",
     "question": "მოცემულ სიტუაციაში, ვალდებულია თუ არა ლურჯი ავტომობილის მძღოლი ისრის მიმართულებით მობრუნების მანევრის შესრულებისას გაჩერდეს გამყოფ ზოლებს შორის არსებულ მოძრაობის ამკრძალავ შუქნიშნის მაშუქ სიგნალზე?",
+    "questionEn": "In this situation, is the blue car driver required to stop when performing a U-turn maneuver in the direction of the arrow, at the traffic light signal prohibiting movement between the dividing strips?",
     "answers": [
       "1\nვალდებულია",
       "2\nარ არის ვალდებული"
+    ],
+    "answersEn": [
+      "1\nRequired",
+      "2\nNot required"
     ]
   },
   {
     "id": 733,
     "correctAnswer": 3,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q733.jpg",
     "correctVideo": "assets/videos/correct_43.mp4",
     "wrongVideo": "assets/videos/wrong_43.mp4",
     "previewVideo": "assets/videos/preview_43.mp4",
     "question": "რა მიმართულებით შეუძლია გააგრძელოს მოძრაობა მსუბუქი ავტომობილის მძღოლს, შუქნიშნის ამ სიგნალზე?",
+    "questionEn": "In which direction can the light vehicle driver continue movement on this traffic light signal?",
     "answers": [
       "1\nმხოლოდ პირდაპირ და მარცხნივ",
       "2\nმხოლოდ პირდაპირ და მარჯვნივ",
       "3\nყველა მიმართულებით",
       "4\nმხოლოდ პირდაპირ, მარცხნივ და უკუმიმართულებით (მობრუნება)"
+    ],
+    "answersEn": [
+      "1\nOnly straight and left",
+      "2\nOnly straight and right",
+      "3\nIn all directions",
+      "4\nOnly straight, left and in reverse direction (U-turn)"
     ]
   },
   {
     "id": 734,
     "correctAnswer": 1,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q734.jpg",
     "correctVideo": "assets/videos/correct_44.mp4",
     "wrongVideo": "assets/videos/wrong_44.mp4",
     "previewVideo": "assets/videos/preview_44.mp4",
     "question": "რომელი ავტომობილის მძღოლს ენიჭება უპირატესობა ისრის მიმართულებით მოძრაობის შემთხვევაში?",
+    "questionEn": "Which car driver is granted priority when moving in the direction of the arrow?",
     "answers": [
       "1\nწითელი ავტომობილის მძღოლს",
       "2\nღია ლურჯი ფერის ავტომობილის მძღოლს"
+    ],
+    "answersEn": [
+      "1\nRed car driver",
+      "2\nLight blue car driver"
     ]
   },
   {
     "id": 735,
     "correctAnswer": 0,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q735.jpg",
     "correctVideo": "assets/videos/correct_45.mp4",
     "wrongVideo": "assets/videos/wrong_45.mp4",
     "previewVideo": "assets/videos/preview_45.mp4",
     "question": "თუ შუქნიშნის მაშუქი სიგნალების მოთხოვნები ეწინააღმდეგება გავლის უპირატესობის განმსაზღვრელი საგზაო ნიშნების მოთხოვნებს, საგზაო მოძრაობის მონაწილეებმა უნდა იხელმძღვანელონ:",
+    "questionEn": "If the requirements of traffic light signals contradict the requirements of priority-determining road signs, road traffic participants should follow:",
     "answers": [
       "1\nშუქნიშნის მაშუქი სიგნალების მოთხოვნებით",
       "2\nგავლის უპირატესობის განმსაზღვრელი საგზაო ნიშნების მოთხოვნებით"
+    ],
+    "answersEn": [
+      "1\nTraffic light signal requirements",
+      "2\nPriority-determining road sign requirements"
     ]
   },
   {
     "id": 736,
     "correctAnswer": 1,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q736.jpg",
     "correctVideo": "assets/videos/correct_46.mp4",
     "wrongVideo": "assets/videos/wrong_46.mp4",
     "previewVideo": "assets/videos/preview_46.mp4",
     "question": "თუ შუქნიშნის მაშუქი სიგნალების მოთხოვნები ეწინააღმდეგება გავლის უპირატესობის განმსაზღვრელი საგზაო მონიშვნების მოთხოვნებს, საგზაო მოძრაობის მონაწილეებმა უნდა იხელმძღვანელონ:",
+    "questionEn": "If the requirements of traffic light signals contradict the requirements of priority-determining road markings, road traffic participants should follow:",
     "answers": [
       "1\nგავლის უპირატესობის განმსაზღვრელი საგზაო მონიშვნების მოთხოვნებით",
       "2\nშუქნიშნის მაშუქი სიგნალების მოთხოვნებით"
+    ],
+    "answersEn": [
+      "1\nPriority-determining road marking requirements",
+      "2\nTraffic light signal requirements"
     ]
   },
   {
     "id": 737,
     "correctAnswer": 0,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q737.jpg",
     "correctVideo": "assets/videos/correct_47.mp4",
     "wrongVideo": "assets/videos/wrong_47.mp4",
     "previewVideo": "assets/videos/preview_47.mp4",
     "question": "ერთ სადგარზე, ერთი და იმავე სიმაღლეზე განლაგებული, ერთ მხარეს მიმართული ორი მორიგეობით მოციმციმე ან ერთი მოციმციმე წითელი ან ყვითელი მაშუქი სიგნალის მქონე შუქნიშანი გამოიყენება:",
+    "questionEn": "A traffic light with two alternately flashing or one flashing red or yellow signal located at the same post at the same height and directed towards one side is used:",
     "answers": [
       "1\nრკინიგზის გადასასვლელებზე, გასახსნელი ხიდის მისასვლელებთან, გემის ან ბორნის მისადგომებთან, ასევე გზაზე სახანძრო ავტომობილის გამოსასვლელებთან და ადგილებში, სადაც გზას დაბალ სიმაღლეზე კვეთს საფრენი აპარატის ტრაექტორია",
       "2\nიმ სავალი ნაწილის ზოლებზე, სადაც მოძრაობის მიმართულება საპირისპიროდ იცვლება",
       "3\nსამარშრუტო სატრანსპორტო საშუალების მოძრაობისათვის სპეციალურად გამოყოფილ ზოლებზე"
+    ],
+    "answersEn": [
+      "1\nAt railway crossings, at approaches to drawbridges, at ship or ferry approaches, also at fire truck exits on roads and places where aircraft trajectory crosses the road at low altitude",
+      "2\nOn roadway lanes where the direction of movement changes to the opposite",
+      "3\nOn lanes specially designated for route public transport movement"
     ]
   },
   {
     "id": 738,
     "correctAnswer": 1,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q738.jpg",
     "correctVideo": "assets/videos/correct_48.mp4",
     "wrongVideo": "assets/videos/wrong_48.mp4",
     "previewVideo": "assets/videos/preview_48.mp4",
     "question": "რევერსული შუქნიშანი, წითელი ფერის X ნიშნის სიგნალითა და ქვემოთ მიმართული მწვანე ისრით გამოიყენება:",
+    "questionEn": "A reversible traffic light with a red X signal and a downward-pointing green arrow is used:",
     "answers": [
       "1\nმხოლოდ სამარშრუტო სატრანსპორტო საშუალებების სპეციალურ ზოლზე მოძრაობის რეგულირებისთვის",
       "2\nმხოლოდ სატრანსპორტო საშუალების მოძრაობის რეგულირებისათვის სავალი ნაწილის ზოლებზე, სადაც მოძრაობის მიმართულება საპირისპიროდ იცვლება",
-      "3\nამ ბილეთში ჩამოთვლილ ნებისმიერ შემთხვევაში"
+      "3\nამ ბილეთში ჩამოთვლილი ნებისმიერ შემთხვევაში"
+    ],
+    "answersEn": [
+      "1\nOnly for regulating movement in special lanes for route public transport vehicles",
+      "2\nOnly for regulating vehicle movement on roadway lanes where the direction of movement changes to the opposite",
+      "3\nIn any of the cases listed in this ticket"
     ]
   },
   {
     "id": 739,
     "correctAnswer": 1,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q739.jpg",
     "correctVideo": "assets/videos/correct_49.mp4",
     "wrongVideo": "assets/videos/wrong_49.mp4",
     "previewVideo": "assets/videos/preview_49.mp4",
     "question": "შუქნიშნის ძირითად მწვანე მაშუქ სიგნალზე გამოსახული კონტურის ისარი/ისრები:",
+    "questionEn": "The contour arrow/arrows depicted on the main green traffic light signal:",
     "answers": [
       "1\nმძღოლს აწვდის ინფორმაციას შუქნიშნზე დამატებითი სექციის არსებობის შესახებ და მიუთითებს ამ დამატებითი სექციის მაშუქი სიგნალით განსაზღვრული მიმართულებების შესახებ",
       "2\nმძღოლს ამცნობს შუქნიშანზე დამატებითი სექციის შესაძლო არსებობის შესახებ და მიუთითებს ამ სექციის ფერადი მაშუქი სიგნალისაგან განსხვავებული მოძრაობის სხვა ნებადართული მიმართულებების შესახებ",
       "3\nამ ბილეთში ჩამოთვლილი ყველა პასუხი სწორია"
+    ],
+    "answersEn": [
+      "1\nProvides the driver with information about the existence of an additional section on the traffic light and indicates the directions determined by the traffic light signal of this additional section",
+      "2\nInforms the driver about the possible existence of an additional section on the traffic light and indicates other permitted directions of movement different from the colored traffic light signal of this section",
+      "3\nAll answers listed in this ticket are correct"
     ]
   },
   {
     "id": 740,
     "correctAnswer": 1,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q740.jpg",
     "correctVideo": "assets/videos/correct_50.mp4",
     "wrongVideo": "assets/videos/wrong_50.mp4",
     "previewVideo": "assets/videos/preview_50.mp4",
-    "question": "„T“-სებურად განლაგებული მოყვითალო ოთხი მრგვალი მაშუქი სიგნალი შეიძლება გამოყენებული იქნეს:",
+    "question": "„T“-სებურად განლაგებული მოყვითალო ოთხი მრგვალი მაშუკ სიგნალი შეიძლება გამოყენებული იქნეს:",
+    "questionEn": "A T-shaped arrangement of four round yellowish traffic light signals can be used:",
     "answers": [
       "1\n„T“-სებურ გზაჯვარედინზე მოძრაობის რეგულირებისათვის",
-      "2\nსამარშრუტო სატრანსპორტო საშუალებების მოძრაობისათვის სპეციალურად გამოყოფილ ზოლზე მოძრაობის რეგულირებისათვის",
+      "2\nსამარშრუტო სატრანსპორტო საშუალებების სპეციალურ ზოლზე მოძრაობის რეგულირებისათვის",
       "3\nთვლიანი ტრაქტორების მოძრაობის რეგულირებისათვის"
+    ],
+    "answersEn": [
+      "1\nFor regulating movement at T-junctions",
+      "2\nFor regulating movement in special lanes for route public transport vehicles",
+      "3\nFor regulating movement of tracked tractors"
     ]
   },
   {
     "id": 741,
     "correctAnswer": 0,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q741.jpg",
     "correctVideo": "assets/videos/correct_51.mp4",
     "wrongVideo": "assets/videos/wrong_51.mp4",
     "previewVideo": "assets/videos/preview_51.mp4",
     "question": "„T“-სებური ფორმის შუქნიშნით მოძრაობის რეგულირებისას სამარშრუტო სატრანსპორტო საშუალებების მოძრაობა ნებადართულია:",
+    "questionEn": "When regulating movement with a T-shaped traffic light, movement of route public transport vehicles is permitted:",
     "answers": [
       "1\nთუ ერთდროულად ჩართულია ქვედა და ერთი, ან რამდენიმე ზედა მაშუქი სიგნალი",
       "2\nთუ ჩართულია მხოლოდ სამი ზედა მაშუქი სიგნალი",
       "3\nამ ბილეთში ჩამოთვლილ ნებისმიერ შემთხვევაში"
+    ],
+    "answersEn": [
+      "1\nIf the lower and one or more upper traffic light signals are on simultaneously",
+      "2\nIf only three upper traffic light signals are on",
+      "3\nIn any of the cases listed in this ticket"
     ]
   },
   {
     "id": 742,
     "correctAnswer": 1,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q742.jpg",
     "correctVideo": "assets/videos/correct_52.mp4",
     "wrongVideo": "assets/videos/wrong_52.mp4",
     "previewVideo": "assets/videos/preview_52.mp4",
     "question": "„T“-სებური ფორმის შუქნიშნით მოძრაობის რეგულირებისას სამარშრუტო სატრანსპორტო საშუალებების მოძრაობა აკრძალულია:",
+    "questionEn": "When regulating movement with a T-shaped traffic light, movement of route public transport vehicles is prohibited:",
     "answers": [
       "1\nთუ ერთდროულად ჩართულია ქვედა და ერთი, ან რამდენიმე ზედა მაშუქი სიგნალი",
       "2\nთუ ჩართულია მხოლოდ სამი ზედა მაშუქი სიგნალი",
       "3\nამ ბილეთში ჩამოთვლილი ნებისმიერ შემთხვევაში"
+    ],
+    "answersEn": [
+      "1\nIf the lower and one or more upper traffic light signals are on simultaneously",
+      "2\nIf only three upper traffic light signals are on",
+      "3\nIn any of the cases listed in this ticket"
     ]
   },
   {
     "id": 743,
     "correctAnswer": 0,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q743.jpg",
     "correctVideo": "assets/videos/correct_53.mp4",
     "wrongVideo": "assets/videos/wrong_53.mp4",
     "previewVideo": "assets/videos/preview_53.mp4",
-    "question": "აქვს თუ არა მძღოლს მოძრაობის გაგრძელების უფლება, თუ ყვითელი მაშუქი სიგნალის ჩართვის დროს მკვეთრად დამუხრუჭების გარეშე მას არ შეუძლია გაჩერდეს „სდექ“ ხაზთან?",
+    "question": "აქვს თუ არა მძღოლს მოძრაობის გაგრძელების უფლება, თუ ყვითელი მაშუკ სიგნალის ჩართვის დროს მკვეთრად დამუხრუჭების გარეშე მას არ შეუძლია გაჩერდეს „სდექ“ ხაზთან?",
+    "questionEn": "Does the driver have the right to continue movement if during the yellow traffic light signal activation, without sharp braking, he cannot stop at the 'stop' line?",
     "answers": [
       "1\nაქვს უფლება",
       "2\nარ აქვს უფლება"
+    ],
+    "answersEn": [
+      "1\nHas the right",
+      "2\nDoes not have the right"
     ]
   },
   {
     "id": 744,
     "correctAnswer": 1,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q744.jpg",
     "correctVideo": "assets/videos/correct_54.mp4",
     "wrongVideo": "assets/videos/wrong_54.mp4",
     "previewVideo": "assets/videos/preview_54.mp4",
     "question": "რომელმა მძღოლმა გააჩერა ავტომობილი საგზაო მოძრაობის წესების დაცვით შუქნიშნის ამკრძალავ სიგნალზე?",
+    "questionEn": "Which driver stopped the vehicle in accordance with traffic rules at the prohibiting traffic light signal?",
     "answers": [
       "1\nთეთრი ავტომობილის მძღოლმა",
       "2\nყვითელი ავტომობილის მძღოლმა",
       "3\nარცერთი ავტომობილის მძღოლმა"
+    ],
+    "answersEn": [
+      "1\nWhite car driver",
+      "2\nYellow car driver",
+      "3\nNeither car driver"
     ]
   },
   {
     "id": 745,
     "correctAnswer": 0,
-    "imageUrl": "assets/images/image.png",
-    "correctVideo": "assets/videos/correct_55.mp4",
-    "wrongVideo": "assets/videos/wrong_55.mp4",
-    "previewVideo": "assets/videos/preview_55.mp4",
+    "imageUrl": "assets/Qimages/B/q745.jpg",
+    "correctVideo": "assets/videos/correct_54.mp4",
+    "wrongVideo": "assets/videos/wrong_54.mp4",
+    "previewVideo": "assets/videos/preview_54.mp4",
     "question": "მსუბუქი ავტომობილის მძღოლს უფლება აქვს იმოძრაოს:",
+    "questionEn": "The light vehicle driver has the right to move:",
     "answers": [
       "1\nმხოლოდ A მიმართულებით",
       "2\nმხოლოდ B მიმართულებით",
       "3\nმხოლოდ C მიმართულებით",
       "4\nარცერთი მიმართულებით"
+    ],
+    "answersEn": [
+      "1\nOnly in direction A",
+      "2\nOnly in direction B",
+      "3\nOnly in direction C",
+      "4\nIn no direction"
     ]
   },
   {
     "id": 746,
     "correctAnswer": 2,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q746.jpg",
     "correctVideo": "assets/videos/correct_56.mp4",
     "wrongVideo": "assets/videos/wrong_56.mp4",
     "previewVideo": "assets/videos/preview_56.mp4",
     "question": "რომელი ტრამვაის მძღოლის მიმართ წარმოექმნება გზის დათმობის ვალდებულება მსუბუქი ავტომობილის მძღოლს ისრის მიმართულებით მოძრაობის შემთხვევაში?",
+    "questionEn": "Which tram driver is required to yield the right of way to the light vehicle driver when moving in the direction of the arrow?",
     "answers": [
       "1\nმხოლოდ პირველი ტრამვაის მძღოლის მიმართ",
       "2\nმხოლოდ მეორე ტრამვაის მძღოლის მიმართ",
       "3\nორივე ტრამვაის მძღოლის მიმართ",
       "4\nარცერთი ტრამვაის მძღოლის მიმართ"
+    ],
+    "answersEn": [
+      "1\nOnly towards the first tram driver",
+      "2\nOnly towards the second tram driver",
+      "3\nTowards both tram drivers",
+      "4\nTowards neither tram driver"
     ]
   },
   {
     "id": 747,
     "correctAnswer": 3,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q747.jpg",
     "correctVideo": "assets/videos/correct_57.mp4",
     "wrongVideo": "assets/videos/wrong_57.mp4",
     "previewVideo": "assets/videos/preview_57.mp4",
     "question": "რომელი სატრანსპორტო საშუალების მძღოლმა შეიძლება გააგრძელოს მოძრაობა ისრის მიმართულებით, შუქნიშნების ამ სიგნალებზე?",
+    "questionEn": "Which vehicle driver can continue movement in the direction of the arrow on these traffic light signals?",
     "answers": [
       "1\nორივე სატრანსპორტო საშუალების მძღოლმა",
       "2\nარცერთმა სატრანსპორტო საშუალების მძღოლმა",
       "3\nმხოლოდ ტრამვაის მძღოლმა",
       "4\nმხოლოდ მსუბუქი ავტომობილის მძღოლმა"
+    ],
+    "answersEn": [
+      "1\nBoth vehicle drivers",
+      "2\nNeither vehicle driver",
+      "3\nOnly tram driver",
+      "4\nOnly light vehicle driver"
     ]
   },
   {
     "id": 748,
     "correctAnswer": 0,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q748.jpg",
     "correctVideo": "assets/videos/correct_58.mp4",
     "wrongVideo": "assets/videos/wrong_58.mp4",
     "previewVideo": "assets/videos/preview_58.mp4",
     "question": "დაარღვეს თუ არა მსუბუქი ავტომობილის მძღოლი საგზაო მოძრაობის წესებს, ისრის მიმართულებით მოძრაობის შემთხვევაში?",
+    "questionEn": "Did the light vehicle driver violate traffic rules when moving in the direction of the arrow?",
     "answers": [
       "1\nდაარღვევს",
       "2\nარ დაარღვევს"
+    ],
+    "answersEn": [
+      "1\nViolated",
+      "2\nDid not violate"
     ]
   },
   {
     "id": 749,
     "correctAnswer": 1,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q749.jpg",
     "correctVideo": "assets/videos/correct_59.mp4",
     "wrongVideo": "assets/videos/wrong_59.mp4",
     "previewVideo": "assets/videos/preview_59.mp4",
     "question": "მოცემულ სიტუაციაში, ვალდებულია თუ არა მსუბუქი ავტომობილს მძღოლი ისრის მიმართულებით მოძრაობისას გაჩერდეს გზაჯვარედინიდან გასასვლელზე არსებული შუქნიშნის მოძრაობის ამკრძალავ მაშუქ სიგნალზე?",
+    "questionEn": "In this situation, is the light vehicle driver required to stop when moving in the direction of the arrow at the traffic light signal prohibiting movement at the intersection exit?",
     "answers": [
       "1\nვალდებულია",
       "2\nარ არის ვალდებული"
+    ],
+    "answersEn": [
+      "1\nRequired",
+      "2\nNot required"
     ]
   },
   {
     "id": 750,
     "correctAnswer": 1,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q750.jpg",
     "correctVideo": "assets/videos/correct_60.mp4",
     "wrongVideo": "assets/videos/wrong_60.mp4",
     "previewVideo": "assets/videos/preview_60.mp4",
     "question": "მოცემულ სიტუაციაში, ვალდებულია თუ არა მსუბუქი ავტომობილს მძღოლი ისრის მიმართულებით მოძრაობისას გაჩერდეს მოძრაობის ამკრძალავ შუქნიშნის მაშუქ სიგნალზე?",
+    "questionEn": "In this situation, is the light vehicle driver required to stop when moving in the direction of the arrow at the traffic light signal prohibiting movement?",
     "answers": [
       "1\nვალდებულია",
       "2\nარ არის ვალდებული"
+    ],
+    "answersEn": [
+      "1\nRequired",
+      "2\nNot required"
     ]
   },
   {
     "id": 751,
     "correctAnswer": 1,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/B/q751.jpg",
     "correctVideo": "assets/videos/correct_61.mp4",
     "wrongVideo": "assets/videos/wrong_61.mp4",
     "previewVideo": "assets/videos/preview_61.mp4",
     "question": "თუ მძღოლი უახლოვდება შუქნიშანს, რომელზეც მოძრაობის ნებადამრთველი მაშუქი სიგნალი უკვე დიდი ხნის განმავლობაშია ჩართული, მან უნდა:",
+    "questionEn": "If a driver approaches a traffic light where the movement-permitting signal has been on for a long time, he should:",
     "answers": [
       "1\nგაზარდოს სიჩქარე და თვალყური ადევნოს შუქნიშნის მაშუქ სიგნალებს",
       "2\nგააგრძელოს მოძრაობა ისე, რომ მზად იყოს სატრანსპორტო საშუალების ნებისმიერ მომენტში უსაფრთხოდ გასაჩერებლად",
       "3\nგაზარდოს სიჩქარე, თუნდაც იგი აჭარბებდეს ნებადართული სიჩქარის ზღვარს, რათა მოასწროს გზის აღნიშნული მონაკვეთის შუქნიშნის მოძრაობის ამკრძალავ მაშუქი სიგნალის ჩართვამდე გავლა"
+    ],
+    "answersEn": [
+      "1\nIncrease speed and monitor the traffic light signals",
+      "2\nContinue movement so as to be ready to safely stop the vehicle at any moment",
+      "3\nIncrease speed, even if it exceeds the permitted speed limit, to pass the designated road section before the traffic light's movement-prohibiting signal turns on"
     ]
   }
 ]
