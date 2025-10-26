@@ -9,7 +9,7 @@
       "A, B, C და D მიმართულებით"
     ],
     "correctAnswer": 3,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/TS/q260.jpg",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4"
@@ -23,7 +23,7 @@
       "მხოლოდ ოპერატიული სამსახურის ავტომობილის მძღოლს"
     ],
     "correctAnswer": 1,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/TS/q261.jpg",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4"
@@ -36,7 +36,7 @@
       "არ აქვს უფლება"
     ],
     "correctAnswer": 1,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/TS/q262.jpg",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4"
@@ -51,7 +51,7 @@
       "მხოლოდ პირდაპირ"
     ],
     "correctAnswer": 2,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/TS/q263.jpg",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4"
@@ -66,7 +66,7 @@
       "მხოლოდ პირდაპირ და მარჯვნივ"
     ],
     "correctAnswer": 2,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/TS/q264.jpg",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4"
@@ -81,7 +81,7 @@
       "არცერთი ავტომობილის მძღოლს"
     ],
     "correctAnswer": 2,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/TS/q265.jpg",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4"
@@ -94,7 +94,7 @@
       "ტრამვაის მძღოლს"
     ],
     "correctAnswer": 0,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/TS/q266.jpg",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4"
@@ -109,7 +109,7 @@
       "ორივე ავტომობილის მძღოლს"
     ],
     "correctAnswer": 0,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/TS/q267.jpg",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4"
@@ -123,7 +123,7 @@
       "მხოლოდ პირდაპირ"
     ],
     "correctAnswer": 2,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/TS/q268.jpg",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4"
@@ -138,7 +138,7 @@
       "ნებისმიერი მიმართულებით"
     ],
     "correctAnswer": 1,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/TS/q269.jpg",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4"
@@ -146,7 +146,7 @@
   {
     "id": 270,
     "correctAnswer": 0,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/TS/q270.jpg",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
@@ -160,7 +160,7 @@
   {
     "id": 271,
     "correctAnswer": 1,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/TS/q271.jpg",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
@@ -174,7 +174,7 @@
   {
     "id": 272,
     "correctAnswer": 0,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/TS/q272.jpg",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
@@ -189,7 +189,7 @@
   {
     "id": 273,
     "correctAnswer": 2,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/TS/q273.jpg",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
@@ -203,7 +203,7 @@
   {
     "id": 274,
     "correctAnswer": 1,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/TS/q274.jpg",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
@@ -218,7 +218,7 @@
   {
     "id": 275,
     "correctAnswer": 0,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/TS/q275.jpg",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
@@ -231,7 +231,7 @@
   {
     "id": 276,
     "correctAnswer": 2,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/TS/q276.jpg",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
@@ -246,7 +246,7 @@
   {
     "id": 277,
     "correctAnswer": 1,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/TS/q277.jpg",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
@@ -261,7 +261,7 @@
   {
     "id": 278,
     "correctAnswer": 0,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/TS/q278.jpg",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
@@ -274,7 +274,7 @@
   {
     "id": 279,
     "correctAnswer": 1,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/TS/q279.jpg",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
@@ -288,7 +288,7 @@
   {
     "id": 280,
     "correctAnswer": 1,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/TS/q280.jpg",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
@@ -301,7 +301,7 @@
   {
     "id": 281,
     "correctAnswer": 1,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/TS/q281.jpg",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
@@ -316,7 +316,7 @@
   {
     "id": 282,
     "correctAnswer": 2,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/TS/q282.jpg",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
@@ -331,7 +331,7 @@
   {
     "id": 283,
     "correctAnswer": 1,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/TS/q283.jpg",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
@@ -345,7 +345,7 @@
   {
     "id": 284,
     "correctAnswer": 2,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/TS/q284.jpg",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
@@ -359,7 +359,7 @@
   {
     "id": 285,
     "correctAnswer": 1,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/TS/q285.jpg",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
@@ -373,7 +373,7 @@
   {
     "id": 286,
     "correctAnswer": 0,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/TS/q286.jpg",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
@@ -387,7 +387,7 @@
   {
     "id": 287,
     "correctAnswer": 0,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/TS/q287.jpg",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
@@ -401,7 +401,7 @@
   {
     "id": 288,
     "correctAnswer": 1,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/TS/q288.jpg",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
@@ -415,7 +415,7 @@
   {
     "id": 289,
     "correctAnswer": 1,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/TS/q289.jpg",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
