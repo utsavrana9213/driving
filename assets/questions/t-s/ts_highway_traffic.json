@@ -2,7 +2,7 @@
   {
     "id": 574,
     "correctAnswer": 2,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/TS/q574.jpg",
     "question": "სურათზე მითითებულ ადგილას ავტომობილის იძულებით გაჩერების შემთხვევაში მძღოლმა:",
     "answers": [
       "1\nმხოლოდ უნდა ჩართოს საავარიო შუქსიგნალიზაცია",
@@ -16,7 +16,7 @@
   {
     "id": 575,
     "correctAnswer": 1,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/TS/q575.jpg",
     "question": "გზაზე გასასვლელ ადგილზე გაქანების ზოლის არსებობის შემთხვევაში, მსუბუქი ავტომობილის მძღოლს უფლება აქვს იმოძრაოს:",
     "answers": [
       "1\nმხოლოდ A მიმართულებით",
@@ -30,7 +30,7 @@
   {
     "id": 576,
     "correctAnswer": 0,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/TS/q576.jpg",
     "question": "წითელი ავტომობილის მძღოლი გასცდა მარჯვნივ მოსახვევს. ეკრძალება თუ არა მას მოსახვევში შესასვლელად ისრის მიმართულებით უკუსვლით მოძრაობა?",
     "answers": [
       "1\nეკრძალება",
@@ -43,7 +43,7 @@
   {
     "id": 577,
     "correctAnswer": 0,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/TS/q577.jpg",
     "question": "მსუბუქი ავტომობილის მძღოლი გასცდა სავალი ნაწილების განივი შეერთების ადგილს. ეკრძალება თუ არა მას ისრის მიმართულებით უკუსვლით მოძრაობა?",
     "answers": [
       "1\nეკრძალება",
@@ -56,7 +56,7 @@
   {
     "id": 578,
     "correctAnswer": 3,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/TS/q578.jpg",
     "question": "ქვემოთ ჩამოთვლილი, რომელი საგზაო მოძრაობის მონაწილეებს არ ეკრძალებათ ავტომაგისტრალებზე, აგრეთვე ავტომაგისტრალების შესასვლელებზე და გამოსასვლელებზე მოძრაობა?",
     "answers": [
       "1\nმოპედის მძღოლებს",
@@ -71,7 +71,7 @@
   {
     "id": 579,
     "correctAnswer": 1,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/TS/q579.jpg",
     "question": "ავტომაგისტრალზე შესასვლელად მსუბუქი ავტომობილის მძღოლს უფლება აქვს იმოძრაოს:",
     "answers": [
       "1\nმხოლოდ A მიმართულებით",
@@ -85,7 +85,7 @@
   {
     "id": 580,
     "correctAnswer": 1,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/TS/q580.jpg",
     "question": "არღვევს თუ არა საგზაო მოძრაობის წესებს მსუბუქი ავტომობილის მძღოლი ავტომაგისტრალზე მითითებულ ადგილას იძულებით გაჩერების შემთხვევაში?",
     "answers": [
       "1\nარ არღვევს",
@@ -98,7 +98,7 @@
   {
     "id": 581,
     "correctAnswer": 3,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/TS/q581.jpg",
     "correctVideo": "assets/videos/correct_580.mp4",
     "wrongVideo": "assets/videos/wrong_580.mp4",
     "previewVideo": "assets/videos/preview_580.mp4",
@@ -113,7 +113,7 @@
   {
     "id": 582,
     "correctAnswer": 0,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/TS/q582.jpg",
     "correctVideo": "assets/videos/correct_581.mp4",
     "wrongVideo": "assets/videos/wrong_581.mp4",
     "previewVideo": "assets/videos/preview_581.mp4",
@@ -126,7 +126,7 @@
   {
     "id": 583,
     "correctAnswer": 1,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/TS/q583.jpg",
     "correctVideo": "assets/videos/correct_582.mp4",
     "wrongVideo": "assets/videos/wrong_582.mp4",
     "previewVideo": "assets/videos/preview_582.mp4",
@@ -141,7 +141,7 @@
   {
     "id": 584,
     "correctAnswer": 0,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/TS/q584.jpg",
     "correctVideo": "assets/videos/correct_583.mp4",
     "wrongVideo": "assets/videos/wrong_583.mp4",
     "previewVideo": "assets/videos/preview_583.mp4",
@@ -156,7 +156,7 @@
   {
     "id": 585,
     "correctAnswer": 2,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/TS/q585.jpg",
     "correctVideo": "assets/videos/correct_584.mp4",
     "wrongVideo": "assets/videos/wrong_584.mp4",
     "previewVideo": "assets/videos/preview_584.mp4",
@@ -171,7 +171,7 @@
   {
     "id": 586,
     "correctAnswer": 0,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/TS/q586.jpg",
     "correctVideo": "assets/videos/correct_585.mp4",
     "wrongVideo": "assets/videos/wrong_585.mp4",
     "previewVideo": "assets/videos/preview_585.mp4",
@@ -186,7 +186,7 @@
   {
     "id": 587,
     "correctAnswer": 0,
-    "imageUrl": "assets/images/image.png",
+    "imageUrl": "assets/Qimages/TS/q587.jpg",
     "correctVideo": "assets/videos/correct_586.mp4",
     "wrongVideo": "assets/videos/wrong_586.mp4",
     "previewVideo": "assets/videos/preview_586.mp4",
